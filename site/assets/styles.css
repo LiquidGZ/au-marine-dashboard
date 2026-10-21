@@ -269,3 +269,5 @@ table.heat th { cursor: default; }
 @media (max-width: 600px) { .kpi-row { grid-template-columns: 1fr 1fr; } .kpi .v { font-size: 1.3rem; } main { padding: 1rem max(16px, env(safe-area-inset-left, 0px)); } .topbar, .tabs { padding-left: 16px; padding-right: 16px; } }
 .tall-scroll2 { max-height: 560px; overflow: auto; }
 .filter-grid > label { min-width: 0; } .filter-grid select { width: 100%; }
+
+.chip, .stage-badge { white-space: nowrap; }

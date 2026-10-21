@@ -13,6 +13,7 @@ Behaviour
   * optional filter_keywords per source (any keyword, case-insensitive, matched on title+summary)
   * tags each item with resource categories / sub-categories (NewsRules sheet), states, operators and projects
   * a headline that matches no rule falls back to its source's default_category
+  * headlines from broad Google queries that match no NewsRules keyword, or that hit the EXCLUDE list, are dropped
   * never fails the build: a feed that errors is logged and skipped; the existing archive is preserved
 """
 import datetime as dt
@@ -138,12 +139,22 @@ def norm_title(t):
 
 def split_publisher(title, feed_publisher, feed_url):
     """Google News appends ' - Publisher' to the headline; move it into its own field."""
-    if feed_publisher:
-        return title, feed_publisher
     m = re.search(r"\s+[-–]\s+([^-–]{2,60})$", title or "")
-    if m and "news.google" in feed_url:
-        return title[: m.start()].strip(), m.group(1).strip()
-    return title, ""
+    if m and feed_publisher and m.group(1).strip().lower() != feed_publisher.strip().lower():
+        return title, feed_publisher
+    if m and (feed_publisher or "news.google" in feed_url):
+        return title[: m.start()].strip(), feed_publisher or m.group(1).strip()
+    return title, feed_publisher or ""
+
+
+# Headlines matching these are dropped whatever the feed (sport, recipes and other false hits on "prawn", "salmon"…)
+EXCLUDE = ["cricket", "afl ", "nrl", "a-league", "rugby", "tennis", "olympic", "recipe", "restaurant", "menu", "cooking",
+           "fire ant", "horoscope", "celebrity", "football", "soccer", "golf", "netball", "masterchef"]
+
+
+def relevant(title, summary):
+    low = f"{title} {summary}".lower()
+    return not any(w in low for w in EXCLUDE)
 
 
 def tag_item(title, summary, operator_names, rules, projects, default_cat):
@@ -226,7 +237,13 @@ def main():
                 continue
             title, publisher = split_publisher(it["title"], it["publisher"], s["url"])
             pub = it["published"] or now
-            ops, states, cats, subs, projs = tag_item(title, it["summary"], op_keys, rules, projects, s.get("default_category"))
+            if not relevant(title, it["summary"]):
+                continue
+            ops, states, cats, subs, projs = tag_item(title, it["summary"], op_keys, rules, projects, None)
+            if not cats:
+                if str(s.get("source_id", "")).startswith("gn-"):
+                    continue          # broad Google query and no keyword rule matched: treat as noise
+                cats = [s.get("default_category")] if s.get("default_category") else []
             items[it["link"]] = {
                 "title": title,
                 "link": it["link"],
@@ -251,6 +268,10 @@ def main():
     # The archive only ever grows — no pruning, no cap.
     out = sorted(items.values(), key=lambda i: i["published"], reverse=True)
     # re-tag the archive with the current rules so edits to NewsRules apply backwards
+    for i in out:   # clean titles collected before the publisher fix
+        i["title"], i["publisher"] = split_publisher(i.get("title", ""), i.get("publisher", ""), "news.google" if str(i.get("source_id", "")).startswith("gn-") else "")
+    out = [i for i in out if relevant(i.get("title", ""), i.get("summary", "")) and
+           (not str(i.get("source_id", "")).startswith("gn-") or tag_item(i.get("title", ""), i.get("summary", ""), op_keys, rules, projects, None)[2])]
     for i in out:
         o2, s2, c2, sb2, p2 = tag_item(i.get("title", ""), i.get("summary", ""), op_keys, rules, projects, None)
         i["operators"], i["states"], i["subcategories"], i["projects"] = o2, s2, sb2, p2
