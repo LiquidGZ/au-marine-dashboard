@@ -1,0 +1,92 @@
+name: Monthly data review
+
+# Opens a GitHub issue on the 1st of each month listing what last month's headlines suggest needs
+# changing in the workbook, plus rows going stale and regulatory dates that have passed.
+# It reads data and writes a brief. It never edits the database.
+
+on:
+  schedule:
+    - cron: "0 22 1 * *"      # 22:00 UTC on the 1st = 09:00 AEDT / 08:00 AEST
+  workflow_dispatch:
+    inputs:
+      since:
+        description: "Start date (YYYY-MM-DD). Blank = start of last month."
+        required: false
+      until:
+        description: "End date, exclusive (YYYY-MM-DD). Blank = start of this month."
+        required: false
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Locate project root
+        id: root
+        run: |
+          DIR=""
+          if [ -f scripts/monthly_review.py ]; then
+            DIR="."
+          else
+            for d in */; do
+              if [ -f "${d}scripts/monthly_review.py" ]; then DIR="${d%/}"; break; fi
+            done
+          fi
+          if [ -z "$DIR" ]; then
+            echo "::error::Could not find scripts/monthly_review.py anywhere in the repository."
+            ls -la; exit 1
+          fi
+          echo "dir=$DIR" >> "$GITHUB_OUTPUT"
+
+      - name: Install dependencies
+        working-directory: ${{ steps.root.outputs.dir }}
+        run: pip install -r scripts/requirements.txt
+
+      - name: Rebuild data so the review sees the current database
+        working-directory: ${{ steps.root.outputs.dir }}
+        run: python scripts/build_data.py
+
+      - name: Generate the review brief
+        id: brief
+        working-directory: ${{ steps.root.outputs.dir }}
+        run: |
+          MONTH=$(date -u -d "last month" +%Y-%m)
+          ARGS=""
+          [ -n "${{ inputs.since }}" ] && ARGS="$ARGS --since ${{ inputs.since }}"
+          [ -n "${{ inputs.until }}" ] && ARGS="$ARGS --until ${{ inputs.until }}"
+          mkdir -p review
+          python scripts/monthly_review.py $ARGS --out "review/${MONTH}.md" --json "review/${MONTH}.json"
+          cp "review/${MONTH}.md" review/latest.md
+          echo "month=$MONTH" >> "$GITHUB_OUTPUT"
+          echo "path=${{ steps.root.outputs.dir }}/review/${MONTH}.md" >> "$GITHUB_OUTPUT"
+
+      - name: Keep the brief in the repository
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add "${{ steps.root.outputs.dir }}/review" || true
+          if git diff --cached --quiet; then
+            echo "No review changes"
+          else
+            git commit -m "chore(review): monthly brief ${{ steps.brief.outputs.month }} [skip ci]"
+            git push
+          fi
+
+      - name: Open the review issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh label create data-review --color 0E8A16 --description "Monthly workbook review queue" 2>/dev/null || true
+          gh issue create \
+            --title "Monthly data review — ${{ steps.brief.outputs.month }}" \
+            --body-file "${{ steps.brief.outputs.path }}" \
+            --label data-review
