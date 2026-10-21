@@ -1,12 +1,12 @@
 {
- "fetched_at": "2026-10-21T05:14:07Z",
+ "fetched_at": "2026-10-21T05:17:00Z",
  "added_this_run": 0,
  "total_items": 190,
  "earliest": "2026-09-30",
  "errors": [],
  "per_source": {
   "gn-lng": {
-   "in_feed": 27,
+   "in_feed": 53,
    "new": 0
   },
   "gn-gas-policy": {
@@ -14,7 +14,7 @@
    "new": 0
   },
   "gn-decom": {
-   "in_feed": 8,
+   "in_feed": 7,
    "new": 0
   },
   "gn-wind": {
@@ -46,15 +46,15 @@
    "new": 0
   },
   "gn-ports": {
-   "in_feed": 17,
+   "in_feed": 38,
    "new": 0
   },
   "gn-minerals": {
-   "in_feed": 9,
+   "in_feed": 6,
    "new": 0
   },
   "gn-zh-energy": {
-   "in_feed": 32,
+   "in_feed": 31,
    "new": 0
   },
   "gn-zh-wind": {
@@ -62,11 +62,11 @@
    "new": 0
   },
   "gn-zh-fish": {
-   "in_feed": 51,
+   "in_feed": 53,
    "new": 0
   },
   "gn-zh-other": {
-   "in_feed": 4,
+   "in_feed": 3,
    "new": 0
   },
   "offshore-energy": {
