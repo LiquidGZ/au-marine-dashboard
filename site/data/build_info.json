@@ -1,0 +1,15 @@
+{
+ "workbook": "AMR_Master_20261021.xlsx",
+ "built_at_utc": "2026-10-21T02:04:21Z",
+ "counts": {
+  "projects": 189,
+  "operators": 98,
+  "zones": 6,
+  "kpis": 37,
+  "series": 17,
+  "policy_instruments": 115,
+  "policy_changes": 30,
+  "news_sources": 19
+ },
+ "warnings": []
+}

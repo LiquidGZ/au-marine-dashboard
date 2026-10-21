@@ -1,0 +1,707 @@
+[
+ {
+  "series_id": "lng_export_value",
+  "category": "fossil",
+  "label_en": "LNG export earnings",
+  "label_zh": "LNG出口收入",
+  "unit": "A$bn",
+  "period": "FY",
+  "forecast_from": "2026-27",
+  "chart_group": "lng",
+  "source_short": "DISR Resources and Energy Quarterly (historical years via Geoscience Australia AECR; 2025-26 and 2026-27 from REQ Sept 2026)",
+  "source": "DISR/OCE Resources and Energy Quarterly (REQ): 2017-18 from REQ Dec 2018 (via Petroleum Australia); 2018-19 from GA AECR 2021 Overview Table 5; 2019-20 from GA AECR 2022 Overview text; 2020-21 from GA AECR 2023 Overview text; 2021-22 from GA AECR 2024 Overview Table 1.5; 2022-23 from GA AECR 2025 Production and trade Table 2.2 (AEP Key Statistics 2024 shows A$92.3bn); 2023-24 from REQ Sept 2025 Table 2(2) cited in GA AECR 2026 Table 2.2; 2024-25 from REQ Sept 2025 (via Global LNG Hub summary); 2025-26 and 2026-27 forecast from REQ Sept 2026 (via IMA summary, 5 Oct 2026)",
+  "source_url": "https://www.industry.gov.au/publications/resources-and-energy-quarterly-september-2026",
+  "note_en": "Primary REQ PDF/Excel tables could not be machine-read from this environment (industry.gov.au blocks automated fetch); values were taken from secondary/derivative publications quoting REQ. 2014-15 to 2016-17 not found. GA AECR overview chapters source these FY values to DISR REQ / DCCEEW Australian Energy Update. REQ Mar 2025 had 2023-24 at A$70bn (rounded); later REQ Sept 2025 figure of A$68.6bn used. 2025-26 is the Sept 2026 REQ estimate for the completed year; 2026-27 is a forecast lifted by higher oil-linked contract prices after the 2026 Middle East conflict.",
+  "note_zh": "REQ原始PDF及Excel表格在本环境无法直接读取，数据取自引用REQ的二手发布。2014-15至2016-17财年数据缺失。GA AECR各版概览章节数据源为DISR REQ及DCCEEW《澳大利亚能源统计更新》。2023-24财年：REQ 2025年3月版为700亿澳元（取整），采用2025年9月版686亿澳元。2025-26财年为2026年9月版对已结束财年的估计值；2026-27财年为预测值，2026年中东冲突推高油价挂钩长协价格。",
+  "points": [
+   {
+    "period": "2017-18",
+    "value": 31.0
+   },
+   {
+    "period": "2018-19",
+    "value": 49.7
+   },
+   {
+    "period": "2019-20",
+    "value": 47.5
+   },
+   {
+    "period": "2020-21",
+    "value": 30.5
+   },
+   {
+    "period": "2021-22",
+    "value": 70.6
+   },
+   {
+    "period": "2022-23",
+    "value": 92.2
+   },
+   {
+    "period": "2023-24",
+    "value": 68.6
+   },
+   {
+    "period": "2024-25",
+    "value": 65.0
+   },
+   {
+    "period": "2025-26",
+    "value": 57.0
+   },
+   {
+    "period": "2026-27",
+    "value": 70.0
+   }
+  ]
+ },
+ {
+  "series_id": "lng_export_volume",
+  "category": "fossil",
+  "label_en": "LNG export volume",
+  "label_zh": "LNG出口量",
+  "unit": "Mt",
+  "period": "FY",
+  "forecast_from": null,
+  "chart_group": null,
+  "source_short": "DISR Resources and Energy Quarterly",
+  "source": "GA AECR 2021 Gas chapter (2017-18 to 2019-20, citing DISR REQ); GA AECR 2023 Gas chapter (2021-22, record 83.2 Mt); REQ March 2025 LNG table via Argus (2023-24)",
+  "source_url": "https://www.ga.gov.au/digital-publication/aecr2021/gas",
+  "note_en": "2024-25 and 2025-26 FY volumes and current REQ volume forecasts not retrievable. Calendar-year volumes are in lng_export_volume_cy.",
+  "note_zh": "2024-25、2025-26财年出口量及REQ最新出口量预测未能获取。自然年数据见lng_export_volume_cy。",
+  "points": [
+   {
+    "period": "2017-18",
+    "value": 62.0
+   },
+   {
+    "period": "2018-19",
+    "value": 75.0
+   },
+   {
+    "period": "2019-20",
+    "value": 79.0
+   },
+   {
+    "period": "2021-22",
+    "value": 83.2
+   },
+   {
+    "period": "2023-24",
+    "value": 81.0
+   }
+  ]
+ },
+ {
+  "series_id": "lng_export_volume_pj",
+  "category": "fossil",
+  "label_en": "LNG export volume (energy content)",
+  "label_zh": "LNG出口量（能量口径）",
+  "unit": "PJ",
+  "period": "FY",
+  "forecast_from": null,
+  "chart_group": "energy_volume",
+  "source_short": "Geoscience Australia AECR (from Australian Energy Update)",
+  "source": "GA AECR Overview / Production and trade chapters: 2021 ed. Table 3 (2018-19), 2022 ed. (2019-20), 2023 ed. (2020-21), 2024 ed. (2021-22), 2025 ed. Table 2.1 (2022-23), 2026 ed. Table 2.1 (2023-24); based on DCCEEW Australian Energy Update",
+  "source_url": "https://www.ga.gov.au/aecr2026/australias-energy-production-and-trade",
+  "note_en": "Complete FY run 2018-19 to 2023-24 in PJ; Mt not published for 2020-21, 2022-23. AECR 2023 gave 2021-22 as 4,528 PJ; later edition value 4,637 PJ used.",
+  "note_zh": "2018-19至2023-24财年能量口径连续序列；2020-21、2022-23财年未公布吨数。AECR 2023版2021-22财年为4,528 PJ，采用后续版本4,637 PJ。",
+  "points": [
+   {
+    "period": "2018-19",
+    "value": 4094.0
+   },
+   {
+    "period": "2019-20",
+    "value": 4393.0
+   },
+   {
+    "period": "2020-21",
+    "value": 4314.0
+   },
+   {
+    "period": "2021-22",
+    "value": 4637.0
+   },
+   {
+    "period": "2022-23",
+    "value": 4541.0
+   },
+   {
+    "period": "2023-24",
+    "value": 4509.0
+   }
+  ]
+ },
+ {
+  "series_id": "oil_export_volume_pj",
+  "category": "fossil",
+  "label_en": "Crude oil & condensate export volume (energy content)",
+  "label_zh": "原油及凝析油出口量（能量口径）",
+  "unit": "PJ",
+  "period": "FY",
+  "forecast_from": null,
+  "chart_group": "energy_volume",
+  "source_short": "Geoscience Australia AECR (from Australian Energy Update)",
+  "source": "GA AECR 2021 Oil (2017-18, 2018-19); AECR 2022 Oil/Overview (2019-20); AECR 2023 Overview (2020-21); AECR 2024 Overview Table 1.3 (2021-22); AECR 2025 Table 2.1 (2022-23); AECR 2026 Table 2.1 (2023-24)",
+  "source_url": "https://www.ga.gov.au/aecr2026/australias-energy-production-and-trade",
+  "note_en": null,
+  "note_zh": null,
+  "points": [
+   {
+    "period": "2017-18",
+    "value": 482.0
+   },
+   {
+    "period": "2018-19",
+    "value": 545.0
+   },
+   {
+    "period": "2019-20",
+    "value": 626.0
+   },
+   {
+    "period": "2020-21",
+    "value": 593.0
+   },
+   {
+    "period": "2021-22",
+    "value": 623.0
+   },
+   {
+    "period": "2022-23",
+    "value": 604.0
+   },
+   {
+    "period": "2023-24",
+    "value": 566.0
+   }
+  ]
+ },
+ {
+  "series_id": "lng_export_volume_cy",
+  "category": "fossil",
+  "label_en": "LNG export volume (calendar year)",
+  "label_zh": "LNG出口量（自然年）",
+  "unit": "Mt",
+  "period": "CY",
+  "forecast_from": null,
+  "chart_group": "lng_volume",
+  "source_short": "Geoscience Australia AECR 2026",
+  "source": "GA AECR 2022 Gas (2020, 2021 text); AECR 2024 Gas (2022); AECR 2025 Gas (2023); AECR 2026 Gas (2024: 4,420 PJ / 81.2 Mt)",
+  "source_url": "https://www.ga.gov.au/aecr2026/gas",
+  "note_en": "Calendar-year basis, not comparable with FY REQ series.",
+  "note_zh": "自然年口径，与REQ财年口径不可直接比较。",
+  "points": [
+   {
+    "period": "2020",
+    "value": 78.1
+   },
+   {
+    "period": "2021",
+    "value": 81.2
+   },
+   {
+    "period": "2022",
+    "value": 81.4
+   },
+   {
+    "period": "2023",
+    "value": 80.7
+   },
+   {
+    "period": "2024",
+    "value": 81.2
+   }
+  ]
+ },
+ {
+  "series_id": "lng_export_value_cy",
+  "category": "fossil",
+  "label_en": "LNG export earnings (calendar year)",
+  "label_zh": "LNG出口收入（自然年）",
+  "unit": "A$bn",
+  "period": "CY",
+  "forecast_from": null,
+  "chart_group": null,
+  "source_short": "Geoscience Australia AECR",
+  "source": "GA AECR 2024 Gas (2022), AECR 2025 Gas (2023), AECR 2026 Gas and Table 2.3 (2024)",
+  "source_url": "https://www.ga.gov.au/aecr2026/gas",
+  "note_en": null,
+  "note_zh": null,
+  "points": [
+   {
+    "period": "2022",
+    "value": 90.3
+   },
+   {
+    "period": "2023",
+    "value": 74.3
+   },
+   {
+    "period": "2024",
+    "value": 67.4
+   }
+  ]
+ },
+ {
+  "series_id": "oil_export_value",
+  "category": "fossil",
+  "label_en": "Crude oil & condensate export earnings",
+  "label_zh": "原油及凝析油出口收入",
+  "unit": "A$bn",
+  "period": "FY",
+  "forecast_from": "2026-27",
+  "chart_group": "oil",
+  "source_short": "DISR Resources and Energy Quarterly (via Geoscience Australia AECR and REQ Sept 2026)",
+  "source": "REQ Dec 2018 via Petroleum Australia (2017-18); GA AECR 2021 Overview Table 5 (2018-19, crude oil and ORF); AECR 2022 Oil Table 6 (2019-20); AECR 2023 Oil (2020-21); AECR 2024 Overview Table 1.5 (2021-22, A$14.0bn); AECR 2025 Oil (2022-23); AECR 2026 Oil citing REQ Sept 2025 (2023-24); REQ Sept 2026 via Market Index (2025-26 estimate; 2026-27 and 2030-31 forecasts)",
+  "source_url": "https://www.industry.gov.au/publications/resources-and-energy-quarterly-september-2026",
+  "note_en": "2024-25 not found. GA chapters label the series crude oil and condensate exports, sourced to DISR REQ. 2030-31 is a REQ projection.",
+  "note_zh": "2024-25财年数据缺失。GA口径为原油及凝析油出口，数据源为DISR REQ。2030-31财年为REQ远期预测。",
+  "points": [
+   {
+    "period": "2017-18",
+    "value": 7.0
+   },
+   {
+    "period": "2018-19",
+    "value": 9.1
+   },
+   {
+    "period": "2019-20",
+    "value": 9.0
+   },
+   {
+    "period": "2020-21",
+    "value": 7.4
+   },
+   {
+    "period": "2021-22",
+    "value": 14.0
+   },
+   {
+    "period": "2022-23",
+    "value": 13.2
+   },
+   {
+    "period": "2023-24",
+    "value": 12.6
+   },
+   {
+    "period": "2025-26",
+    "value": 10.5
+   },
+   {
+    "period": "2026-27",
+    "value": 10.4
+   },
+   {
+    "period": "2030-31",
+    "value": 6.2
+   }
+  ]
+ },
+ {
+  "series_id": "oil_export_volume",
+  "category": "fossil",
+  "label_en": "Oil export volume",
+  "label_zh": "石油出口量",
+  "unit": "kb/d",
+  "period": "FY",
+  "forecast_from": "2030-31",
+  "chart_group": null,
+  "source_short": "DISR Resources and Energy Quarterly Sept 2026",
+  "source": "REQ Dec 2018 via Petroleum Australia (2017-18); REQ Sept 2026 via Market Index (2025-26, 2030-31 projection)",
+  "source_url": "https://www.marketindex.com.au/news/2026-27-commodities-outlook-iron-ore-copper-uranium-lithium-and-more",
+  "note_en": "Sparse series; intermediate years not retrievable.",
+  "note_zh": "数据点稀疏，其间年份未能获取。",
+  "points": [
+   {
+    "period": "2017-18",
+    "value": 226.0
+   },
+   {
+    "period": "2025-26",
+    "value": 247.0
+   },
+   {
+    "period": "2030-31",
+    "value": 182.0
+   }
+  ]
+ },
+ {
+  "series_id": "oil_condensate_production",
+  "category": "fossil",
+  "label_en": "Crude oil + condensate production",
+  "label_zh": "原油＋凝析油产量",
+  "unit": "MMbbl",
+  "period": "CY",
+  "forecast_from": null,
+  "chart_group": "oil_prod",
+  "source_short": "Geoscience Australia AECR 2022-2026",
+  "source": "GA AECR 2021 Oil Table 5 (2019: crude 44 + condensate 76); AECR 2022 Oil Tables 1-2 (2020: 51 + 74.6); AECR 2023 Oil (2021: 44 + 74); AECR 2024 Oil Tables 3.1-3.2 (2022: 40 + 69); AECR 2025 Oil Tables 4.1-4.2 (2023: 31 + 67); AECR 2026 Oil Tables 4.1-4.2 (2024: 27.6 + 68)",
+  "source_url": "https://www.ga.gov.au/aecr2026/oil",
+  "note_en": "Sum of crude and condensate computed from GA tables (excludes LPG). Energy terms 2024: crude 162 PJ + condensate 397 PJ. 2024 crude fell about 11% y/y. 82% of all oil production in 2024 came from North West Shelf basins (GA).",
+  "note_zh": "原油与凝析油之和，按GA表格加总（不含LPG）。2024年能量口径：原油162 PJ，凝析油397 PJ。2024年原油产量同比下降约11%。2024年82%的石油产量来自西北大陆架盆地（GA）。",
+  "points": [
+   {
+    "period": "2019",
+    "value": 120.0
+   },
+   {
+    "period": "2020",
+    "value": 125.6
+   },
+   {
+    "period": "2021",
+    "value": 118.0
+   },
+   {
+    "period": "2022",
+    "value": 109.0
+   },
+   {
+    "period": "2023",
+    "value": 98.0
+   },
+   {
+    "period": "2024",
+    "value": 95.6
+   }
+  ]
+ },
+ {
+  "series_id": "gas_production_total",
+  "category": "fossil",
+  "label_en": "Natural gas production (conventional + CSG)",
+  "label_zh": "天然气产量（常规气＋煤层气）",
+  "unit": "PJ",
+  "period": "CY",
+  "forecast_from": null,
+  "chart_group": null,
+  "source_short": "Geoscience Australia AECR 2022-2026, gas tables",
+  "source": "Geoscience Australia, Australia's Energy Commodity Resources (AECR) 2022/2023/2024/2025/2026 editions, Gas chapter, Tables 3.1 (conventional) and 3.2 (CSG), production by basin for calendar years 2020-2024",
+  "source_url": "https://www.ga.gov.au/aecr2026/gas",
+  "note_en": "2020 total computed as conventional 4,594 + CSG 1,585.",
+  "note_zh": "2020年总量按常规气4,594 PJ与煤层气1,585 PJ加总。",
+  "points": [
+   {
+    "period": "2020",
+    "value": 6179.0
+   },
+   {
+    "period": "2021",
+    "value": 6154.0
+   },
+   {
+    "period": "2022",
+    "value": 6362.0
+   },
+   {
+    "period": "2023",
+    "value": 6264.0
+   },
+   {
+    "period": "2024",
+    "value": 6353.0
+   }
+  ]
+ },
+ {
+  "series_id": "gas_production_offshore",
+  "category": "fossil",
+  "label_en": "Offshore-basin gas production",
+  "label_zh": "海上盆地天然气产量",
+  "unit": "PJ",
+  "period": "CY",
+  "forecast_from": null,
+  "chart_group": "gas_split",
+  "source_short": "Geoscience Australia AECR 2022-2026, gas production by basin",
+  "source": "Geoscience Australia, Australia's Energy Commodity Resources (AECR) 2022/2023/2024/2025/2026 editions, Gas chapter, Tables 3.1 (conventional) and 3.2 (CSG), production by basin for calendar years 2020-2024",
+  "source_url": "https://www.ga.gov.au/aecr2026/gas",
+  "note_en": "Derived: sum of Northern Carnarvon/Roebuck, Bonaparte/Browse, Gippsland and Bass/Otway basins. Basin grouping is ours: GA does not publish an offshore/onshore split. Perth Basin (mostly onshore) is counted onshore; Otway includes minor onshore output.",
+  "note_zh": "推算值：北卡那封/Roebuck、Bonaparte/Browse、Gippsland、Bass/Otway四个盆地加总。GA未公布海上与陆上拆分，盆地归类为本表自定。珀斯盆地以陆上为主，计入陆上；Otway含少量陆上产量。",
+  "points": [
+   {
+    "period": "2020",
+    "value": 4458.0
+   },
+   {
+    "period": "2021",
+    "value": 4407.0
+   },
+   {
+    "period": "2022",
+    "value": 4664.0
+   },
+   {
+    "period": "2023",
+    "value": 4529.0
+   },
+   {
+    "period": "2024",
+    "value": 4547.0
+   }
+  ]
+ },
+ {
+  "series_id": "gas_production_onshore",
+  "category": "fossil",
+  "label_en": "Onshore-basin gas production",
+  "label_zh": "陆上盆地天然气产量",
+  "unit": "PJ",
+  "period": "CY",
+  "forecast_from": null,
+  "chart_group": "gas_split",
+  "source_short": "Geoscience Australia AECR 2022-2026, gas production by basin",
+  "source": "Geoscience Australia, Australia's Energy Commodity Resources (AECR) 2022/2023/2024/2025/2026 editions, Gas chapter, Tables 3.1 (conventional) and 3.2 (CSG), production by basin for calendar years 2020-2024",
+  "source_url": "https://www.ga.gov.au/aecr2026/gas",
+  "note_en": "Derived: total minus offshore basins (Bowen/Surat incl. CSG, Cooper/Eromanga, Perth, Amadeus, Gunnedah, Sydney).",
+  "note_zh": "推算值：总产量减海上盆地（含Bowen/Surat煤层气、Cooper/Eromanga、珀斯、Amadeus、Gunnedah、Sydney）。",
+  "points": [
+   {
+    "period": "2020",
+    "value": 1721.0
+   },
+   {
+    "period": "2021",
+    "value": 1747.0
+   },
+   {
+    "period": "2022",
+    "value": 1698.0
+   },
+   {
+    "period": "2023",
+    "value": 1735.0
+   },
+   {
+    "period": "2024",
+    "value": 1806.0
+   }
+  ]
+ },
+ {
+  "series_id": "gas_offshore_share",
+  "category": "fossil",
+  "label_en": "Offshore share of gas production",
+  "label_zh": "海上天然气产量占比",
+  "unit": "%",
+  "period": "CY",
+  "forecast_from": null,
+  "chart_group": "gas_share",
+  "source_short": "Derived from Geoscience Australia AECR basin tables",
+  "source": "Geoscience Australia, Australia's Energy Commodity Resources (AECR) 2022/2023/2024/2025/2026 editions, Gas chapter, Tables 3.1 (conventional) and 3.2 (CSG), production by basin for calendar years 2020-2024",
+  "source_url": "https://www.ga.gov.au/aecr2026/gas",
+  "note_en": "Derived from basin tables (see gas_production_offshore). GA AECR 2026 states North West Shelf basins supplied about 90% of 2024 conventional production and about 70% of gas production was exported as LNG.",
+  "note_zh": "由盆地表推算（口径见gas_production_offshore）。GA AECR 2026：2024年西北大陆架盆地约占常规气产量90%，约70%的天然气以LNG形式出口。",
+  "points": [
+   {
+    "period": "2020",
+    "value": 72.1
+   },
+   {
+    "period": "2021",
+    "value": 71.6
+   },
+   {
+    "period": "2022",
+    "value": 73.3
+   },
+   {
+    "period": "2023",
+    "value": 72.3
+   },
+   {
+    "period": "2024",
+    "value": 71.6
+   }
+  ]
+ },
+ {
+  "series_id": "fish_gvp_total",
+  "category": "agri",
+  "label_en": "Fisheries & aquaculture gross value of production",
+  "label_zh": "渔业及水产养殖总产值",
+  "unit": "A$m",
+  "period": "FY",
+  "forecast_from": "2023-24",
+  "chart_group": "fish",
+  "source_short": "ABARES Australian fisheries and aquaculture statistics and outlook (2014-15 to 2023-24)",
+  "source": "ABARES Australian fisheries and aquaculture statistics 2015 (2014-15, rounded, via SeafoodSource), 2016 Table 2 (2015-16), 2017 Table 1 (2016-17), 2021 (2020-21, via Baird Maritime), 2022 (2021-22, ABARES production page); ABARES Australian fisheries and aquaculture outlook 2024 (2023-24 forecast)",
+  "source_url": "https://www.agriculture.gov.au/abares/research-topics/fisheries/fisheries-and-aquaculture-statistics",
+  "note_en": "ABARES has released statistics with data to 2023-24 (and Commonwealth/trade to 2024-25) but the report files could not be retrieved here; 2023-24 shown is the March 2024 outlook forecast. 2017-18 to 2019-20 and 2022-23 actuals not retrieved (Outlook 2023 forecast 2022-23 at A$3.63bn). Totals net out southern bluefin tuna double counting.",
+  "note_zh": "ABARES已发布数据截至2023-24财年的统计报告（联邦渔业及贸易数据截至2024-25财年），本次未能获取原文；2023-24财年为2024年3月展望报告预测值。2017-18至2019-20、2022-23财年实际值缺失（2023年展望报告预测2022-23财年为36.3亿澳元）。总值已扣除南方蓝鳍金枪鱼重复计算。",
+  "points": [
+   {
+    "period": "2014-15",
+    "value": 2800.0
+   },
+   {
+    "period": "2015-16",
+    "value": 3025.7
+   },
+   {
+    "period": "2016-17",
+    "value": 3057.8
+   },
+   {
+    "period": "2020-21",
+    "value": 3090.0
+   },
+   {
+    "period": "2021-22",
+    "value": 3420.0
+   },
+   {
+    "period": "2023-24",
+    "value": 3560.0
+   }
+  ]
+ },
+ {
+  "series_id": "fish_gvp_wild",
+  "category": "agri",
+  "label_en": "Wild-catch fisheries GVP",
+  "label_zh": "野生捕捞产值",
+  "unit": "A$m",
+  "period": "FY",
+  "forecast_from": null,
+  "chart_group": "fish",
+  "source_short": "ABARES Australian fisheries and aquaculture statistics; Fishery status reports",
+  "source": "ABARES fisheries and aquaculture statistics 2015/2016/2017/2021/2022 editions; 2022-23 from ABARES Fishery status reports 2024 web page (wild-catch GVP A$1.42bn; Commonwealth A$412m, 29%)",
+  "source_url": "https://www.agriculture.gov.au/abares/research-topics/fisheries/fisheries-and-aquaculture-statistics/production",
+  "note_en": "2014-15 and 2020-21 values are rounded media figures.",
+  "note_zh": "2014-15、2020-21财年为媒体取整数据。",
+  "points": [
+   {
+    "period": "2014-15",
+    "value": 1600.0
+   },
+   {
+    "period": "2015-16",
+    "value": 1749.6
+   },
+   {
+    "period": "2016-17",
+    "value": 1742.4
+   },
+   {
+    "period": "2020-21",
+    "value": 1400.0
+   },
+   {
+    "period": "2021-22",
+    "value": 1510.0
+   },
+   {
+    "period": "2022-23",
+    "value": 1420.0
+   }
+  ]
+ },
+ {
+  "series_id": "fish_gvp_aquaculture",
+  "category": "agri",
+  "label_en": "Aquaculture GVP",
+  "label_zh": "水产养殖产值",
+  "unit": "A$m",
+  "period": "FY",
+  "forecast_from": "2024-25",
+  "chart_group": "fish",
+  "source_short": "ABARES Australian fisheries and aquaculture statistics and outlook",
+  "source": "ABARES fisheries and aquaculture statistics 2015/2016/2017/2021/2022 editions; 2024-25 nominal forecast from ABARES Australian fisheries and aquaculture outlook 2024",
+  "source_url": "https://www.agriculture.gov.au/abares/research-topics/fisheries/fisheries-and-aquaculture-statistics/production",
+  "note_en": "Aquaculture overtook wild-catch in value from 2019-20 onward; ABARES put aquaculture at 60% of 2023-24 GVP and 64% by 2028-29.",
+  "note_zh": "水产养殖产值已高于野生捕捞；ABARES估计2023-24财年养殖占总产值60%，2028-29财年升至64%。",
+  "points": [
+   {
+    "period": "2014-15",
+    "value": 1200.0
+   },
+   {
+    "period": "2015-16",
+    "value": 1306.7
+   },
+   {
+    "period": "2016-17",
+    "value": 1346.8
+   },
+   {
+    "period": "2020-21",
+    "value": 1700.0
+   },
+   {
+    "period": "2021-22",
+    "value": 1940.0
+   },
+   {
+    "period": "2024-25",
+    "value": 2170.0
+   }
+  ]
+ },
+ {
+  "series_id": "prrt_receipts",
+  "category": "fossil",
+  "label_en": "Petroleum Resource Rent Tax cash receipts",
+  "label_zh": "石油资源租赁税（PRRT）现金收入",
+  "unit": "A$bn",
+  "period": "FY",
+  "forecast_from": "2025-26",
+  "chart_group": "prrt",
+  "source_short": "Commonwealth Budget papers, BP1 Statement 5 (actuals and estimates)",
+  "source": "Commonwealth Budget Paper No. 1, general government (cash) receipts tables: 2019-20 BP1 St.4 (2017-18 actual); 2021-22 BP1 St.5 Table 5.7 (2019-20 actual); Oct 2022-23 BP1 St.5 Table 5.8 (2021-22 actual); 2024-25 BP1 St.5 Table 5.7 (2022-23 actual); 2025-26 BP1 St.4 Table 4.7 (2023-24 actual); 2026-27 BP1 St.5 Table 5.7 (2024-25 actual; 2025-26 to 2029-30 estimates)",
+  "source_url": "https://budget.gov.au/content/bp1/download/bp1_bs-5.pdf",
+  "note_en": "2019-20 includes an undisclosed amount of MRRT receipts. 2026-27 Budget revised PRRT up A$400m in 2026-27 (A$1.6bn over 5 years) on higher near-term oil prices from the Middle East conflict. 2014-15 to 2016-17, 2018-19 and 2020-21 not retrieved.",
+  "note_zh": "2019-20财年含未单独披露的矿产资源租赁税（MRRT）收入。2026-27年度预算因中东冲突推高近期油价，上调2026-27财年PRRT 4亿澳元（5年累计上调16亿澳元）。2014-15至2016-17、2018-19、2020-21财年未能获取。",
+  "points": [
+   {
+    "period": "2017-18",
+    "value": 1.116
+   },
+   {
+    "period": "2019-20",
+    "value": 1.052
+   },
+   {
+    "period": "2021-22",
+    "value": 1.638
+   },
+   {
+    "period": "2022-23",
+    "value": 2.287
+   },
+   {
+    "period": "2023-24",
+    "value": 1.144
+   },
+   {
+    "period": "2024-25",
+    "value": 1.42
+   },
+   {
+    "period": "2025-26",
+    "value": 1.4
+   },
+   {
+    "period": "2026-27",
+    "value": 1.9
+   },
+   {
+    "period": "2027-28",
+    "value": 1.75
+   },
+   {
+    "period": "2028-29",
+    "value": 1.55
+   },
+   {
+    "period": "2029-30",
+    "value": 1.25
+   }
+  ]
+ }
+]

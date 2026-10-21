@@ -1,0 +1,350 @@
+[
+ {
+  "breakdown_id": "gas_production_by_basin",
+  "category": "fossil",
+  "label_en": "Gas production by basin",
+  "label_zh": "分盆地天然气产量",
+  "unit": "PJ",
+  "year": "2024 (CY)",
+  "source_short": "Geoscience Australia AECR 2026, gas tables 3.1-3.2",
+  "source": "Geoscience Australia, AECR 2026, Gas chapter, Tables 3.1 and 3.2 (calendar 2024)",
+  "source_url": "https://www.ga.gov.au/aecr2026/gas",
+  "items": [
+   {
+    "breakdown_id": "gas_production_by_basin",
+    "key": "Northern Carnarvon/Roebuck (offshore)",
+    "label_zh": "北卡那封/Roebuck盆地（海上）",
+    "value": 3392.0
+   },
+   {
+    "breakdown_id": "gas_production_by_basin",
+    "key": "Bonaparte/Browse (offshore)",
+    "label_zh": "Bonaparte/Browse盆地（海上）",
+    "value": 819.0
+   },
+   {
+    "breakdown_id": "gas_production_by_basin",
+    "key": "Gippsland (offshore)",
+    "label_zh": "Gippsland盆地（海上）",
+    "value": 260.0
+   },
+   {
+    "breakdown_id": "gas_production_by_basin",
+    "key": "Bass/Otway (offshore)",
+    "label_zh": "Bass/Otway盆地（海上）",
+    "value": 76.0
+   },
+   {
+    "breakdown_id": "gas_production_by_basin",
+    "key": "Bowen/Surat (onshore, incl. CSG 1,663)",
+    "label_zh": "Bowen/Surat盆地（陆上，含煤层气1,663）",
+    "value": 1676.0
+   },
+   {
+    "breakdown_id": "gas_production_by_basin",
+    "key": "Cooper/Eromanga (onshore)",
+    "label_zh": "Cooper/Eromanga盆地（陆上）",
+    "value": 89.0
+   },
+   {
+    "breakdown_id": "gas_production_by_basin",
+    "key": "Perth (mainly onshore)",
+    "label_zh": "珀斯盆地（以陆上为主）",
+    "value": 28.0
+   },
+   {
+    "breakdown_id": "gas_production_by_basin",
+    "key": "Amadeus (onshore)",
+    "label_zh": "Amadeus盆地（陆上）",
+    "value": 13.0
+   },
+   {
+    "breakdown_id": "gas_production_by_basin",
+    "key": "Gunnedah (onshore CSG)",
+    "label_zh": "Gunnedah盆地（陆上煤层气）",
+    "value": 2.0
+   }
+  ]
+ },
+ {
+  "breakdown_id": "oil_condensate_production_by_basin",
+  "category": "fossil",
+  "label_en": "Crude oil + condensate production by basin",
+  "label_zh": "分盆地原油＋凝析油产量",
+  "unit": "PJ",
+  "year": "2024 (CY)",
+  "source_short": "Geoscience Australia AECR 2026, oil chapter",
+  "source": "Geoscience Australia, AECR 2026, Oil chapter, Tables 4.1 (crude) and 4.2 (condensate), summed",
+  "source_url": "https://www.ga.gov.au/aecr2026/oil",
+  "items": [
+   {
+    "breakdown_id": "oil_condensate_production_by_basin",
+    "key": "Northern Carnarvon/Roebuck",
+    "label_zh": "北卡那封/Roebuck盆地",
+    "value": 316.0
+   },
+   {
+    "breakdown_id": "oil_condensate_production_by_basin",
+    "key": "Bonaparte/Browse",
+    "label_zh": "Bonaparte/Browse盆地",
+    "value": 174.0
+   },
+   {
+    "breakdown_id": "oil_condensate_production_by_basin",
+    "key": "Cooper/Eromanga",
+    "label_zh": "Cooper/Eromanga盆地",
+    "value": 39.0
+   },
+   {
+    "breakdown_id": "oil_condensate_production_by_basin",
+    "key": "Gippsland",
+    "label_zh": "Gippsland盆地",
+    "value": 16.0
+   },
+   {
+    "breakdown_id": "oil_condensate_production_by_basin",
+    "key": "Bass/Otway",
+    "label_zh": "Bass/Otway盆地",
+    "value": 6.0
+   },
+   {
+    "breakdown_id": "oil_condensate_production_by_basin",
+    "key": "Bowen/Surat",
+    "label_zh": "Bowen/Surat盆地",
+    "value": 5.0
+   },
+   {
+    "breakdown_id": "oil_condensate_production_by_basin",
+    "key": "Amadeus",
+    "label_zh": "Amadeus盆地",
+    "value": 0.6
+   }
+  ]
+ },
+ {
+  "breakdown_id": "fish_gvp_by_species_2023_24",
+  "category": "agri",
+  "label_en": "Fisheries GVP by key species (ABARES forecast)",
+  "label_zh": "主要品种渔业产值（ABARES预测）",
+  "unit": "A$m",
+  "year": "2023-24",
+  "source_short": "ABARES fisheries and aquaculture outlook (March 2024, forecast)",
+  "source": "ABARES Australian fisheries and aquaculture outlook 2024 (March 2024), nominal 2023-24 forecasts",
+  "source_url": "https://www.agriculture.gov.au/abares/research-topics/fisheries/fisheries-economics/fisheries-forecasts",
+  "items": [
+   {
+    "breakdown_id": "fish_gvp_by_species_2023_24",
+    "key": "Salmonids",
+    "label_zh": "鲑鳟鱼",
+    "value": 1320.0
+   },
+   {
+    "breakdown_id": "fish_gvp_by_species_2023_24",
+    "key": "Prawns",
+    "label_zh": "对虾",
+    "value": 484.0
+   },
+   {
+    "breakdown_id": "fish_gvp_by_species_2023_24",
+    "key": "Rock lobster",
+    "label_zh": "岩龙虾",
+    "value": 403.0
+   },
+   {
+    "breakdown_id": "fish_gvp_by_species_2023_24",
+    "key": "Tuna",
+    "label_zh": "金枪鱼",
+    "value": 165.0
+   },
+   {
+    "breakdown_id": "fish_gvp_by_species_2023_24",
+    "key": "Abalone",
+    "label_zh": "鲍鱼",
+    "value": 152.0
+   }
+  ]
+ },
+ {
+  "breakdown_id": "fish_gvp_by_species_2016_17",
+  "category": "agri",
+  "label_en": "Fisheries GVP by species group",
+  "label_zh": "分品种渔业产值",
+  "unit": "A$m",
+  "year": "2016-17",
+  "source_short": "ABARES Australian fisheries and aquaculture statistics 2017",
+  "source": "ABARES Australian fisheries and aquaculture statistics 2017 (v1.2.0), Chapter 2 text and Table 9",
+  "source_url": "https://www.agriculture.gov.au/sites/default/files/sitecollectiondocuments/abares/publications/AustFishAquacStats_2017_v1.2.0.pdf",
+  "items": [
+   {
+    "breakdown_id": "fish_gvp_by_species_2016_17",
+    "key": "Salmonids (aquaculture)",
+    "label_zh": "鲑鳟鱼（养殖）",
+    "value": 756.0
+   },
+   {
+    "breakdown_id": "fish_gvp_by_species_2016_17",
+    "key": "Rock lobster (wild)",
+    "label_zh": "岩龙虾（野生）",
+    "value": 673.0
+   },
+   {
+    "breakdown_id": "fish_gvp_by_species_2016_17",
+    "key": "Prawns (wild)",
+    "label_zh": "对虾（野生）",
+    "value": 310.0
+   },
+   {
+    "breakdown_id": "fish_gvp_by_species_2016_17",
+    "key": "Prawns (aquaculture)",
+    "label_zh": "对虾（养殖）",
+    "value": 86.0
+   },
+   {
+    "breakdown_id": "fish_gvp_by_species_2016_17",
+    "key": "Southern bluefin tuna (aquaculture, SA)",
+    "label_zh": "南方蓝鳍金枪鱼（养殖，南澳）",
+    "value": 115.0
+   },
+   {
+    "breakdown_id": "fish_gvp_by_species_2016_17",
+    "key": "Edible oysters (aquaculture)",
+    "label_zh": "食用牡蛎（养殖）",
+    "value": 112.0
+   },
+   {
+    "breakdown_id": "fish_gvp_by_species_2016_17",
+    "key": "Pearl oysters (aquaculture)",
+    "label_zh": "珍珠贝（养殖）",
+    "value": 70.0
+   },
+   {
+    "breakdown_id": "fish_gvp_by_species_2016_17",
+    "key": "Tuna (Commonwealth wild catch)",
+    "label_zh": "金枪鱼（联邦海域野生捕捞）",
+    "value": 64.2
+   },
+   {
+    "breakdown_id": "fish_gvp_by_species_2016_17",
+    "key": "Abalone (wild, Tasmania)",
+    "label_zh": "鲍鱼（野生，塔斯马尼亚）",
+    "value": 84.0
+   }
+  ]
+ },
+ {
+  "breakdown_id": "fish_gvp_by_jurisdiction",
+  "category": "agri",
+  "label_en": "Fisheries & aquaculture GVP by jurisdiction",
+  "label_zh": "分辖区渔业及水产养殖产值",
+  "unit": "A$m",
+  "year": "2021-22",
+  "source_short": "ABARES Australian fisheries and aquaculture statistics 2022",
+  "source": "ABARES Australian fisheries and aquaculture statistics 2022, production web page (preliminary 2021-22)",
+  "source_url": "https://www.agriculture.gov.au/abares/research-topics/fisheries/fisheries-and-aquaculture-statistics/production",
+  "items": [
+   {
+    "breakdown_id": "fish_gvp_by_jurisdiction",
+    "key": "Tasmania",
+    "label_zh": "塔斯马尼亚州",
+    "value": 1310.0
+   },
+   {
+    "breakdown_id": "fish_gvp_by_jurisdiction",
+    "key": "Queensland",
+    "label_zh": "昆士兰州",
+    "value": 443.0
+   },
+   {
+    "breakdown_id": "fish_gvp_by_jurisdiction",
+    "key": "Commonwealth fisheries",
+    "label_zh": "联邦渔业",
+    "value": 437.0
+   },
+   {
+    "breakdown_id": "fish_gvp_by_jurisdiction",
+    "key": "South Australia",
+    "label_zh": "南澳大利亚州",
+    "value": 434.0
+   },
+   {
+    "breakdown_id": "fish_gvp_by_jurisdiction",
+    "key": "Western Australia (2020-21)",
+    "label_zh": "西澳大利亚州（2020-21财年）",
+    "value": 414.0
+   },
+   {
+    "breakdown_id": "fish_gvp_by_jurisdiction",
+    "key": "New South Wales",
+    "label_zh": "新南威尔士州",
+    "value": 190.0
+   },
+   {
+    "breakdown_id": "fish_gvp_by_jurisdiction",
+    "key": "Northern Territory",
+    "label_zh": "北领地",
+    "value": 122.0
+   },
+   {
+    "breakdown_id": "fish_gvp_by_jurisdiction",
+    "key": "Victoria",
+    "label_zh": "维多利亚州",
+    "value": 102.0
+   }
+  ]
+ },
+ {
+  "breakdown_id": "decommissioning_liability_by_basin",
+  "category": "fossil",
+  "label_en": "Offshore decommissioning liability by basin",
+  "label_zh": "分盆地海上油气弃置负债",
+  "unit": "% of US$40.5bn",
+  "year": "2020 (asset base Apr 2020, real 2020 US$)",
+  "source_short": "Advisian for NERA / CODA, Offshore oil and gas decommissioning liability (2021)",
+  "source": "Advisian for NERA/CODA, Offshore Oil and Gas Decommissioning Liability (Australia) (asset data April 2020)",
+  "source_url": "https://decommissioning.org.au/wp-content/uploads/2022/08/Offshore-Oil-and-Gas-Decommissioning-Liability.pdf",
+  "items": [
+   {
+    "breakdown_id": "decommissioning_liability_by_basin",
+    "key": "North Carnarvon",
+    "label_zh": "北卡那封盆地",
+    "value": 48.0
+   },
+   {
+    "breakdown_id": "decommissioning_liability_by_basin",
+    "key": "Gippsland",
+    "label_zh": "Gippsland盆地",
+    "value": 26.0
+   },
+   {
+    "breakdown_id": "decommissioning_liability_by_basin",
+    "key": "Bonaparte",
+    "label_zh": "Bonaparte盆地",
+    "value": 10.0
+   },
+   {
+    "breakdown_id": "decommissioning_liability_by_basin",
+    "key": "Browse",
+    "label_zh": "Browse盆地",
+    "value": 10.0
+   },
+   {
+    "breakdown_id": "decommissioning_liability_by_basin",
+    "key": "Otway",
+    "label_zh": "Otway盆地",
+    "value": 2.0
+   },
+   {
+    "breakdown_id": "decommissioning_liability_by_basin",
+    "key": "Bass",
+    "label_zh": "Bass盆地",
+    "value": 2.0
+   },
+   {
+    "breakdown_id": "decommissioning_liability_by_basin",
+    "key": "Perth",
+    "label_zh": "珀斯盆地",
+    "value": 1.0
+   }
+  ]
+ }
+]

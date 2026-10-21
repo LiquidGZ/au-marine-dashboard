@@ -1,0 +1,67 @@
+[
+ {
+  "layer_id": "eez",
+  "name_en": "200 nm limit (indicative EEZ)",
+  "name_zh": "200海里界线（专属经济区示意）",
+  "type": "static",
+  "url": null,
+  "where": null,
+  "out_name": "eez.geojson",
+  "color_token": "--c-line-eez",
+  "default_on": true,
+  "enabled": true,
+  "note": "200 nm buffer of Natural Earth 10m land, split from neighbouring states by equidistance. Indicative only; legal limits per AMB2020 and boundary treaties."
+ },
+ {
+  "layer_id": "ts12nm",
+  "name_en": "Territorial sea ~12 nm (indicative)",
+  "name_zh": "领海约12海里（示意）",
+  "type": "static",
+  "url": null,
+  "where": null,
+  "out_name": "territorial_sea_12nm.geojson",
+  "color_token": "--c-line-eez",
+  "default_on": false,
+  "enabled": true,
+  "note": "geo-maps countries-maritime 50m (OSM-derived), simplified."
+ },
+ {
+  "layer_id": "coastal3nm",
+  "name_en": "Coastal waters ~3 nm (indicative)",
+  "name_zh": "州沿海水域约3海里（示意）",
+  "type": "static",
+  "url": null,
+  "where": null,
+  "out_name": "coastal_waters_3nm.geojson",
+  "color_token": "--c-line-3nm",
+  "default_on": false,
+  "enabled": true,
+  "note": "3 nm buffer of the Natural Earth coastline; the legal line runs from territorial sea baselines."
+ },
+ {
+  "layer_id": "owind_areas",
+  "name_en": "Offshore wind areas (declared / proposed)",
+  "name_zh": "海上风电海域（已宣布/拟议）",
+  "type": "arcgis_featureserver",
+  "url": "https://services1.arcgis.com/wfNKYeHsOyaFyPw3/arcgis/rest/services/OffshoreRenewable_Energy_Infrastructure_Regions/FeatureServer",
+  "where": "1=1",
+  "out_name": "offshore_wind_areas.geojson",
+  "color_token": "--c-renew",
+  "default_on": true,
+  "enabled": true,
+  "note": "Geoscience Australia 'Offshore Renewable Energy Infrastructure Regions' (all polygon layers in the service). Fetched by GitHub Actions weekly."
+ },
+ {
+  "layer_id": "cables",
+  "name_en": "Submarine cables landing in Australia",
+  "name_zh": "在澳登陆的海底通信电缆",
+  "type": "telegeography",
+  "url": "https://www.submarinecablemap.com/api/v3/",
+  "where": null,
+  "out_name": "submarine_cables.geojson",
+  "color_token": "--c-other",
+  "default_on": false,
+  "enabled": true,
+  "note": "TeleGeography public API, display only. Fetched by GitHub Actions weekly."
+ }
+]

@@ -1,0 +1,2623 @@
+[
+ {
+  "operator_id": "afma",
+  "name": "AFMA (Commonwealth)",
+  "name_zh": "澳大利亚渔业管理局（联邦）",
+  "ownership": "Government (Commonwealth)",
+  "hq": "Canberra",
+  "categories": [
+   "agri"
+  ],
+  "background_en": "Manages Commonwealth fisheries from 3 nm to 200 nm.\n- Commonwealth fisheries GVP A$412m in 2022–23 (29% of wild-catch GVP).\n- Sets TACs for NPF, SBT, SESSF, ETBF, HIMI and others.",
+  "background_zh": "管理3海里至200海里联邦海域渔业。\n- 2022–23年联邦渔业产值4.12亿澳元（占野生捕捞产值29%）。\n- 设定NPF、SBT、SESSF、ETBF、HIMI等渔业TAC。",
+  "website": "https://www.afma.gov.au",
+  "sources": [
+   "https://www.agriculture.gov.au/abares/research-topics/fisheries/fishery-status",
+   "https://www.afma.gov.au/fisheries/northern-prawn-fishery"
+  ],
+  "project_ids": [
+   "AGR-023",
+   "AGR-027",
+   "AGR-028",
+   "AGR-029",
+   "AGR-030"
+  ],
+  "by_stage": {
+   "Operational": 5
+  },
+  "by_category": {
+   "agri": 5
+  }
+ },
+ {
+  "operator_id": "alinta-energy",
+  "name": "Alinta Energy",
+  "name_zh": "阿林塔能源（Alinta Energy）",
+  "ownership": "Private; owned by Chow Tai Fook Enterprises (Hong Kong)",
+  "hq": "Perth",
+  "categories": [
+   "renewable",
+   "fossil"
+  ],
+  "background_en": "Australian gentailer.\n- Holds the only Southern Ocean FL (Spinifex, 1.2 GW), Feb 2025.\n- JERA Nex (Parkwind) joined as partner Apr 2024.\n- Project linked to Portland aluminium smelter supply.",
+  "background_zh": "澳洲发电零售一体化企业。\n- 2025年2月获南大洋唯一可行性许可证（Spinifex，1.2吉瓦）。\n- 2024年4月JERA Nex（Parkwind）入股。\n- 项目面向Portland铝冶炼厂供电。",
+  "website": "https://www.alintaenergy.com.au",
+  "sources": [
+   "https://reneweconomy.com.au/alinta-parkwind-snag-first-offshore-wind-licence-in-southern-ocean-zone-that-could-power-smelter/"
+  ],
+  "project_ids": [
+   "REN-013"
+  ],
+  "by_stage": {
+   "Planning": 1
+  },
+  "by_category": {
+   "renewable": 1
+  }
+ },
+ {
+  "operator_id": "amplitude",
+  "name": "Amplitude Energy",
+  "name_zh": "Amplitude Energy（原Cooper Energy）",
+  "ownership": "Listed (ASX: AEL); formerly Cooper Energy",
+  "hq": "Adelaide",
+  "categories": [
+   "fossil"
+  ],
+  "background_en": "East coast gas supplier, renamed from Cooper Energy in 2025.\n- Operates Sole/Orbost (Gippsland) and Casino-Henry-Netherby/Athena (Otway).\n- FY26 record production 27.6 PJe.\n- East Coast Supply Project FID Sep 2026; first gas targeted 2028.",
+  "background_zh": "东海岸天然气供应商，2025年由Cooper Energy更名。\n- 运营Sole/Orbost（Gippsland）及Casino-Henry-Netherby/Athena（Otway）。\n- 2026财年产量创纪录，达27.6拍焦当量。\n- 东海岸供气项目2026年9月FID，目标2028年首气。",
+  "website": "https://www.amplitude-energy.com.au",
+  "sources": [
+   "https://smallcaps.com.au/article/amplitude-energy-delivers-record-full-year-results-as-east-coast-supply-project-nears-fid"
+  ],
+  "project_ids": [
+   "FOS-040",
+   "FOS-041",
+   "FOS-043",
+   "FOS-044",
+   "FOS-045"
+  ],
+  "by_stage": {
+   "Operational": 2,
+   "Planning": 1,
+   "Exploration / appraisal": 1,
+   "Approved / FID": 1
+  },
+  "by_category": {
+   "fossil": 5
+  }
+ },
+ {
+  "operator_id": "apa",
+  "name": "APA Group",
+  "name_zh": "APA集团",
+  "ownership": "Listed (ASX: APA)",
+  "hq": "Sydney",
+  "categories": [
+   "other"
+  ],
+  "background_en": "Australia's largest gas pipeline owner.\n- Acquired Basslink in 2022 for A$773m.\n- AER approved Basslink conversion to regulated asset (June 2025).",
+  "background_zh": "澳大利亚最大天然气管道运营商。\n- 2022年以7.73亿澳元收购Basslink。\n- 2025年6月AER批准Basslink转为受监管资产。",
+  "website": "https://www.apa.com.au/",
+  "sources": [
+   "https://reneweconomy.com.au/basslink-gets-all-clear-to-become-regulated-asset-in-change-of-heart-on-troubled-inter-connector/"
+  ],
+  "project_ids": [
+   "OTH-028"
+  ],
+  "by_stage": {
+   "Operational": 1
+  },
+  "by_category": {
+   "other": 1
+  }
+ },
+ {
+  "operator_id": "aquasure",
+  "name": "AquaSure",
+  "name_zh": "AquaSure",
+  "ownership": "Private PPP consortium (2009: Suez/Degremont, Macquarie Capital, Ventia)",
+  "hq": "Melbourne",
+  "categories": [
+   "other"
+  ],
+  "background_en": "PPP owner-operator of the Victorian Desalination Plant.\n- 150 GL/yr capacity; contract to 2039, ~A$608m/yr fixed payments.\n- Delivering first 150 GL maximum order in 2026-27.",
+  "background_zh": "维州海水淡化厂PPP持有及运营方。\n- 产能150 GL/年；合同至2039年，年固定付费约6.08亿澳元。\n- 2026-27年度执行首个150 GL满额订单。",
+  "website": "https://www.aquasure.com.au/",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Victorian_Desalination_Plant"
+  ],
+  "project_ids": [
+   "OTH-020"
+  ],
+  "by_stage": {
+   "Operational": 1
+  },
+  "by_category": {
+   "other": 1
+  }
+ },
+ {
+  "operator_id": "asbtia",
+  "name": "ASBTIA (Port Lincoln tuna ranchers)",
+  "name_zh": "澳大利亚南方蓝鳍金枪鱼产业协会（林肯港育肥商）",
+  "ownership": "Industry association of private quota-holding ranchers",
+  "hq": "Port Lincoln",
+  "categories": [
+   "agri"
+  ],
+  "background_en": "Represents the Port Lincoln SBT ranching companies that catch and fatten Australia's SBT quota.\n- Australian TAC 6,930 t (2025–26).\n- Product mainly exported to Japan.",
+  "background_zh": "代表林肯港南方蓝鳍金枪鱼育肥企业，负责捕捞并育肥澳方配额。\n- 澳方TAC 6,930吨（2025–26年）。\n- 产品主要出口日本。",
+  "website": "https://www.asbtia.com.au",
+  "sources": [
+   "https://www.afma.gov.au/fisheries/southern-bluefin-tuna-fishery"
+  ],
+  "project_ids": [
+   "AGR-007"
+  ],
+  "by_stage": {
+   "Operational": 1
+  },
+  "by_category": {
+   "agri": 1
+  }
+ },
+ {
+  "operator_id": "aus-gov-disr",
+  "name": "Australian Government (DISR)",
+  "name_zh": "澳大利亚联邦政府（工业、科学与资源部）",
+  "ownership": "Commonwealth government department",
+  "hq": "Canberra",
+  "categories": [
+   "fossil"
+  ],
+  "background_en": "Leads decommissioning of the Northern Endeavour FPSO and Laminaria-Corallina fields after the 2019 titleholder collapse.\n- Costs recovered via an industry levy.\n- Phase 2 P&A awarded to Zenith Energy Australia (Aug 2026).",
+  "background_zh": "2019年运营商破产后，主导Northern Endeavour FPSO及Laminaria-Corallina油田弃置。\n- 费用经行业征费回收。\n- 第二阶段封井于2026年8月授予Zenith Energy Australia。",
+  "website": "https://www.industry.gov.au",
+  "sources": [
+   "https://www.industry.gov.au/regulations-and-standards/regulating-offshore-oil-and-gas-in-australian-commonwealth-waters/decommissioning-the-northern-endeavour"
+  ],
+  "project_ids": [
+   "FOS-034"
+  ],
+  "by_stage": {
+   "Decommissioning": 1
+  },
+  "by_category": {
+   "fossil": 1
+  }
+ },
+ {
+  "operator_id": "bci",
+  "name": "BCI Minerals",
+  "name_zh": "BCI Minerals",
+  "ownership": "Listed (ASX: BCI)",
+  "hq": "Perth",
+  "categories": [
+   "mineral"
+  ],
+  "background_en": "Developer of the Mardie salt and SOP project.\n- Mardie 85% complete at 30 Jun 2026; first shipments targeted FY27.\n- Salt-first budget A$1,443m.",
+  "background_zh": "Mardie盐及硫酸钾项目开发商。\n- 截至2026年6月30日Mardie完工85%，首船目标FY27。\n- 盐优先预算14.43亿澳元。",
+  "website": "https://www.bciminerals.com.au",
+  "sources": [
+   "https://bulletin.webull.com/qbd/announcement/20260819/499501770/4a07805251cf874ed903e5366cc49156.pdf"
+  ],
+  "project_ids": [
+   "MIN-006"
+  ],
+  "by_stage": {
+   "Under construction": 1
+  },
+  "by_category": {
+   "mineral": 1
+  }
+ },
+ {
+  "operator_id": "beach",
+  "name": "Beach Energy",
+  "name_zh": "Beach Energy",
+  "ownership": "Listed (ASX: BPT)",
+  "hq": "Adelaide",
+  "categories": [
+   "fossil",
+   "other"
+  ],
+  "background_en": "Mid-cap gas producer focused on the east coast and WA markets.\n- Operates Otway (60%) and BassGas offshore assets.\n- FY26 group production 19.4 MMboe; Otway 5.8 MMboe.\n- Selling VIC/L35 (Artisan) to Amplitude and O.G. Otway.",
+  "background_zh": "中型天然气生产商，主攻东海岸及西澳市场。\n- 运营Otway（60%）及BassGas海上资产。\n- 2026财年集团产量1940万桶油当量，其中Otway 580万。\n- 正向Amplitude及O.G. Otway出售VIC/L35（Artisan）。",
+  "website": "https://www.beachenergy.com.au",
+  "sources": [
+   "https://announcements.asx.com.au/asxpdf/20260722/pdf/071y3rmlhdvfvx.pdf"
+  ],
+  "project_ids": [
+   "FOS-046",
+   "FOS-047",
+   "FOS-048",
+   "OTH-013"
+  ],
+  "by_stage": {
+   "Operational": 2,
+   "Planning": 1,
+   "Exploration / appraisal": 1
+  },
+  "by_category": {
+   "fossil": 3,
+   "other": 1
+  }
+ },
+ {
+  "operator_id": "bluefloat-energy",
+  "name": "BlueFloat Energy",
+  "name_zh": "BlueFloat Energy",
+  "ownership": "Owned by Quantum Capital Group; exited offshore wind 2025",
+  "hq": "Madrid",
+  "categories": [
+   "renewable"
+  ],
+  "background_en": "Floating wind developer that exited Australia in July 2025.\n- Dropped Gippsland Dawn (FL surrendered 14 Jul 2025), South Pacific (Illawarra, 1.6 GW) and Eastern Rise (Hunter, 1.725 GW).\n- Southern Winds (1.2 GW, with Energy Estate) also abandoned.",
+  "background_zh": "漂浮式风电开发商，2025年7月退出澳洲。\n- 放弃Gippsland Dawn（2025年7月14日交还许可证）、South Pacific（伊拉瓦拉，1.6吉瓦）及Eastern Rise（猎人谷，1.725吉瓦）。\n- 与Energy Estate合作的Southern Winds（1.2吉瓦）同步放弃。",
+  "website": "https://www.bluefloat.com",
+  "sources": [
+   "https://www.windtech-international.com/projects-and-contracts/bluefloat-energy-withdraws-from-australian-offshore-wind-projects"
+  ],
+  "project_ids": [
+   "REN-010",
+   "REN-014",
+   "REN-016",
+   "REN-017"
+  ],
+  "by_stage": {
+   "Cancelled": 4
+  },
+  "by_category": {
+   "renewable": 4
+  }
+ },
+ {
+  "operator_id": "bombora",
+  "name": "Bombora Wave Power",
+  "name_zh": "Bombora Wave Power",
+  "ownership": "Private (Australian-founded; UK operating subsidiary)",
+  "hq": "Perth / Pembroke Dock (UK)",
+  "categories": [
+   "renewable"
+  ],
+  "background_en": "Perth-founded developer of the mWave submerged membrane converter.\n- Projects were offshore Australia: 1.5 MW Pembrokeshire (Wales), Lanzarote 3 MW plan.\n- Mitsui O.S.K. Lines invested £3.54m (Jan 2022).\n- No Australian deployment; 2024–26 corporate status not verified this session.",
+  "background_zh": "珀斯创立的mWave潜没式膜片波浪能装置开发商。\n- 项目均在澳洲以外：威尔士Pembrokeshire 1.5兆瓦、Lanzarote 3兆瓦规划。\n- 2022年1月商船三井投资354万英镑。\n- 未在澳洲部署；2024–26年公司状态本次未核实。",
+  "website": "https://www.bomborawave.com",
+  "sources": [
+   "https://www.bomborawave.com/"
+  ],
+  "project_ids": [],
+  "by_stage": {},
+  "by_category": {}
+ },
+ {
+  "operator_id": "buckland-dry-creek",
+  "name": "Buckland Dry Creek",
+  "name_zh": "Buckland Dry Creek",
+  "ownership": "Private (subsidiary of Adelaide Resource Recovery)",
+  "hq": "Adelaide",
+  "categories": [
+   "mineral"
+  ],
+  "background_en": "Owner of the Dry Creek salt field north of Adelaide.\n- Settled with SA EPA in Dec 2024 over the 2020 St Kilda brine leak.\n- Restart conditional on a 6 km brine bypass pipeline (PEPR approved Jun 2025).",
+  "background_zh": "阿德莱德以北Dry Creek盐田持有人。\n- 2024年12月就2020年St Kilda卤水泄漏与南澳EPA和解。\n- 复产须建成6公里卤水旁通管道（PEPR于2025年6月获批）。",
+  "website": null,
+  "sources": [
+   "https://www.energymining.sa.gov.au/industry/minerals-and-mining/mining/major-projects-and-mining-activities/operating-quarries/dry-creek-salt-field",
+   "https://en.wikipedia.org/wiki/St_Kilda_salt_fields_brine_spill"
+  ],
+  "project_ids": [
+   "MIN-011"
+  ],
+  "by_stage": {
+   "Suspended": 1
+  },
+  "by_category": {
+   "mineral": 1
+  }
+ },
+ {
+  "operator_id": "bw-digital",
+  "name": "BW Digital",
+  "name_zh": "BW Digital",
+  "ownership": "Private (BW Group, Singapore)",
+  "hq": "Singapore",
+  "categories": [
+   "other"
+  ],
+  "background_en": "Owner of Hawaiki Cable since 2022.\n- Hawaiki 67 Tbps Sydney-NZ-US.\n- Planning Hawaiki Nui 1 (Sydney/Brisbane/Darwin-Singapore, 2029).",
+  "background_zh": "2022年起持有Hawaiki海缆。\n- Hawaiki悉尼-新西兰-美国，容量67 Tbps。\n- 规划Hawaiki Nui 1（悉尼/布里斯班/达尔文-新加坡，2029年）。",
+  "website": "https://www.bw-digital.com/",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hawaiki_Cable"
+  ],
+  "project_ids": [
+   "OTH-033",
+   "OTH-034"
+  ],
+  "by_stage": {
+   "Operational": 1,
+   "Planning": 1
+  },
+  "by_category": {
+   "other": 2
+  }
+ },
+ {
+  "operator_id": "carbonnet",
+  "name": "CarbonNet (Victorian Government)",
+  "name_zh": "CarbonNet（维州政府）",
+  "ownership": "Victorian Government project (DJSIR)",
+  "hq": "Melbourne",
+  "categories": [
+   "other"
+  ],
+  "background_en": "Victorian Government CCS developer for Gippsland.\n- Pelican site: up to 6 Mtpa, P90 >=168 Mt; FEED completed 2024.\n- Seeking a development partner; operation expected late 2030s.",
+  "background_zh": "维州政府Gippsland CCS开发主体。\n- Pelican场地：最高600万吨/年，P90不低于1.68亿吨；2024年完成FEED。\n- 正寻找开发合作方；预计2030年代末投运。",
+  "website": "https://djsir.vic.gov.au/carbonnet",
+  "sources": [
+   "https://djsir.vic.gov.au/carbonnet/about-the-project"
+  ],
+  "project_ids": [
+   "OTH-004"
+  ],
+  "by_stage": {
+   "Planning": 1
+  },
+  "by_category": {
+   "other": 1
+  }
+ },
+ {
+  "operator_id": "carnegie",
+  "name": "Carnegie Clean Energy",
+  "name_zh": "卡内基清洁能源（Carnegie Clean Energy）",
+  "ownership": "Listed (ASX: CCE)",
+  "hq": "Fremantle, WA",
+  "categories": [
+   "renewable"
+  ],
+  "background_en": "Developer of CETO wave technology.\n- Ran Perth Wave Energy Project (CETO 5, Garden Island) 2015–16; A$13.1m ARENA support.\n- Albany 1 MW wave farm contract terminated Mar 2019; company entered and exited administration.\n- EuropeWave/ACHIEVE: BiMEP (Spain) contract Apr 2025; MOU for 6 MW Basque array Aug 2025.\n- MoorPower demonstrator for aquaculture barges operating at Fremantle (2025).",
+  "background_zh": "CETO波浪能技术开发商。\n- 2015–16年运行珀斯波浪能项目（CETO 5，花园岛），获ARENA资助1310万澳元。\n- 奥尔巴尼1兆瓦波浪电场合同2019年3月终止；公司曾进入托管后重组。\n- EuropeWave/ACHIEVE：2025年4月签署BiMEP（西班牙）部署合同；2025年8月签署巴斯克6兆瓦阵列谅解备忘录。\n- MoorPower养殖驳船供电示范装置2025年在弗里曼特尔运行。",
+  "website": "https://www.carnegiece.com",
+  "sources": [
+   "https://www.carnegiece.com/news/",
+   "https://en.wikipedia.org/wiki/CETO"
+  ],
+  "project_ids": [
+   "REN-021",
+   "REN-022",
+   "REN-023"
+  ],
+  "by_stage": {
+   "Decommissioned": 1,
+   "Cancelled": 1,
+   "Operational": 1
+  },
+  "by_category": {
+   "renewable": 3
+  }
+ },
+ {
+  "operator_id": "cheetham",
+  "name": "Cheetham Salt",
+  "name_zh": "Cheetham Salt",
+  "ownership": "CK Life Sciences International (HKEX) 100%",
+  "hq": "Melbourne",
+  "categories": [
+   "mineral"
+  ],
+  "background_en": "Australia's main domestic salt producer, founded 1888 in Geelong.\n- 6 solar fields and 4 refineries; up to 800,000 t/yr.\n- Owned by Ridley 1992–2013, then CK Life Sciences.",
+  "background_zh": "澳大利亚主要内销盐生产商，1888年创立于吉朗。\n- 6处太阳能盐田、4座精制厂，产能最高80万吨/年。\n- 1992–2013年属Ridley，其后归长江生命科技。",
+  "website": "https://www.cheethamsalt.com.au",
+  "sources": [
+   "https://www.cheethamsalt.com.au/downloads/Cheetham-Salt-Brochure-2026.pdf",
+   "https://www.industrialinfo.com/news/article/australian-salt-producer-bought-by-overseas-investor--231612"
+  ],
+  "project_ids": [
+   "MIN-009",
+   "MIN-010"
+  ],
+  "by_stage": {
+   "Operational": 2
+  },
+  "by_category": {
+   "mineral": 2
+  }
+ },
+ {
+  "operator_id": "chevron",
+  "name": "Chevron Australia",
+  "name_zh": "雪佛龙澳大利亚",
+  "ownership": "Subsidiary of Chevron Corporation (NYSE: CVX)",
+  "hq": "Perth",
+  "categories": [
+   "fossil",
+   "other"
+  ],
+  "background_en": "Operator of Gorgon and Wheatstone LNG, holding ~24.5 Mtpa of Australian equity liquefaction capacity.\n- Gorgon 15.6 Mtpa (47.33%); Wheatstone 8.9 Mtpa (64.14%).\n- Jansz-Io compression (~US$4bn) and Gorgon Stage 3 (FID Dec 2025) sustain supply.\n- Exits NWS and takes Julimar-Brunello under 2024 swap with Woodside.",
+  "background_zh": "Gorgon与Wheatstone LNG运营商，在澳权益液化产能约2450万吨/年。\n- Gorgon 1560万吨/年（持股47.33%），Wheatstone 890万吨/年（持股64.14%）。\n- Jansz-Io增压（约40亿美元）及Gorgon三期（2025年12月FID）维持供气。\n- 按2024年与伍德赛德的资产置换退出西北大陆架并接手Julimar-Brunello。",
+  "website": "https://australia.chevron.com",
+  "sources": [
+   "https://oilgasstoragenews.com/chevron-lng-storage-gorgon-wheatstone-2026/",
+   "https://www.sec.gov/Archives/edgar/data/844551/000119312524281613/d913266dex991.htm"
+  ],
+  "project_ids": [
+   "FOS-004",
+   "FOS-005",
+   "FOS-006",
+   "FOS-015",
+   "OTH-001",
+   "OTH-010",
+   "OTH-011"
+  ],
+  "by_stage": {
+   "Operational": 3,
+   "Under construction": 1,
+   "Approved / FID": 1,
+   "Exploration / appraisal": 2
+  },
+  "by_category": {
+   "fossil": 4,
+   "other": 3
+  }
+ },
+ {
+  "operator_id": "chevron-australia",
+  "name": "Chevron Australia",
+  "name_zh": "雪佛龙澳大利亚",
+  "ownership": "Subsidiary of Chevron Corp (NYSE: CVX)",
+  "hq": "Perth",
+  "categories": [
+   "fossil",
+   "other"
+  ],
+  "background_en": "Operator of Gorgon and Wheatstone LNG.\n- Operates Gorgon CO2 injection (>11 Mt injected to May 2025).\n- Holds GHG permits G-18-AP and G-20-AP (operator) plus G-9/10/11-AP interests.",
+  "background_zh": "Gorgon及Wheatstone LNG运营商。\n- 运营Gorgon CO2回注项目（截至2025年5月累计逾1,100万吨）。\n- 作业持有G-18-AP、G-20-AP，并持G-9/10/11-AP权益。",
+  "website": "https://australia.chevron.com/",
+  "sources": [
+   "https://australia.chevron.com/-/media/australia/publications/documents/gorgon-CCS--fact-sheet.pdf"
+  ],
+  "project_ids": [
+   "FOS-004",
+   "FOS-005",
+   "FOS-006",
+   "FOS-015",
+   "OTH-001",
+   "OTH-010",
+   "OTH-011"
+  ],
+  "by_stage": {
+   "Operational": 3,
+   "Under construction": 1,
+   "Approved / FID": 1,
+   "Exploration / appraisal": 2
+  },
+  "by_category": {
+   "fossil": 4,
+   "other": 3
+  }
+ },
+ {
+  "operator_id": "citic-pacific-mining",
+  "name": "CITIC Pacific Mining",
+  "name_zh": "中信泰富矿业",
+  "ownership": "Subsidiary of CITIC Limited (HKEX: 0267)",
+  "hq": "Perth",
+  "categories": [
+   "mineral",
+   "other"
+  ],
+  "background_en": "Operator of Sino Iron magnetite project at Cape Preston.\n- Owns 140,000 m3/d Cape Preston desalination plant (2013).\n- Largest Chinese-owned mining operation in Australia.",
+  "background_zh": "Cape Preston中澳铁矿磁铁矿项目运营商。\n- 拥有14万立方米/日Cape Preston淡化厂（2013年）。\n- 澳大利亚规模最大的中资矿业项目。",
+  "website": "https://citicpacificmining.com/",
+  "sources": [
+   "https://ide-tech.com/en/project/cape-preston-desalination-plant/"
+  ],
+  "project_ids": [
+   "OTH-027"
+  ],
+  "by_stage": {
+   "Operational": 1
+  },
+  "by_category": {
+   "other": 1
+  }
+ },
+ {
+  "operator_id": "city-of-gold-coast",
+  "name": "City of Gold Coast",
+  "name_zh": "黄金海岸市政府",
+  "ownership": "Government (local)",
+  "hq": "Gold Coast",
+  "categories": [
+   "mineral"
+  ],
+  "background_en": "Local government managing Gold Coast beach nourishment.\n- Placed ~1.2 Mm3 of offshore sand Apr–Oct 2026.\n- ~3 Mm3 returned since Cyclone Alfred (Mar 2025).",
+  "background_zh": "负责黄金海岸海滩补砂的地方政府。\n- 2026年4–10月回填海上砂约120万立方米。\n- 阿尔弗雷德气旋（2025年3月）后累计回填约300万立方米。",
+  "website": "https://www.goldcoast.qld.gov.au",
+  "sources": [
+   "https://www.bairdmaritime.com/marine-projects/dredging/gold-coast-beach-sand-replenishment"
+  ],
+  "project_ids": [
+   "MIN-015"
+  ],
+  "by_stage": {
+   "Operational": 1
+  },
+  "by_category": {
+   "mineral": 1
+  }
+ },
+ {
+  "operator_id": "clean-seas",
+  "name": "Clean Seas Seafood",
+  "name_zh": "Clean Seas Seafood",
+  "ownership": "Listed (ASX/OSE: CSS)",
+  "hq": "Adelaide (Royal Park)",
+  "categories": [
+   "agri"
+  ],
+  "background_en": "Australia's main Yellowtail Kingfish farmer.\n- FY2022 sales 3,757 t; FY2025 guidance 2,550–2,650 t.\n- Hatchery at Arno Bay; farms in Spencer Gulf.",
+  "background_zh": "澳大利亚主要黄尾鰤养殖商。\n- FY2022销量3,757吨；FY2025指引2,550–2,650吨。\n- Arno Bay育苗场，斯潘塞湾养殖场。",
+  "website": "https://www.cleanseas.com.au",
+  "sources": [
+   "https://weareaquaculture.com/news/22928",
+   "https://mfn.se/all/a/clean-seas-seafood/css-business-update-2d547657"
+  ],
+  "project_ids": [
+   "AGR-008"
+  ],
+  "by_stage": {
+   "Operational": 1
+  },
+  "by_category": {
+   "agri": 1
+  }
+ },
+ {
+  "operator_id": "conocophillips",
+  "name": "ConocoPhillips Australia",
+  "name_zh": "康菲石油澳大利亚",
+  "ownership": "Subsidiary of ConocoPhillips (NYSE: COP)",
+  "hq": "Brisbane",
+  "categories": [
+   "fossil",
+   "other"
+  ],
+  "background_en": "APLNG partner and Otway Basin explorer.\n- Completed Otway phase one (Essington-1, Charlemont-1) in Jan 2026 with gas encountered.\n- Sold northern Australian assets (Bayu-Undan, Darwin LNG, Barossa) to Santos in 2020.",
+  "background_zh": "APLNG合作方及Otway盆地勘探方。\n- 2026年1月完成Otway第一阶段钻探（Essington-1、Charlemont-1），均见气。\n- 2020年将北澳资产（Bayu-Undan、达尔文LNG、Barossa）出售给桑托斯。",
+  "website": "https://www.conocophillips.com.au",
+  "sources": [
+   "https://www.wdnews.com.au/conocophillips-completes-campaign-2026-01-21",
+   "https://www.aplng.com.au/"
+  ],
+  "project_ids": [
+   "FOS-050",
+   "OTH-050"
+  ],
+  "by_stage": {
+   "Exploration / appraisal": 1,
+   "Operational": 1
+  },
+  "by_category": {
+   "fossil": 1,
+   "other": 1
+  }
+ },
+ {
+  "operator_id": "coral-sea-cable",
+  "name": "Coral Sea Cable Company",
+  "name_zh": "珊瑚海海缆公司",
+  "ownership": "Government-owned (PNG / Solomon Islands)",
+  "hq": "Port Moresby / Honiara",
+  "categories": [
+   "other"
+  ],
+  "background_en": "Owner-operators of the Coral Sea Cable System linking Sydney with PNG and Solomon Islands.\n- Build funded mainly by the Australian Government (2019)",
+  "background_zh": "珊瑚海海缆系统的所有及运营方，连接悉尼与巴布亚新几内亚、所罗门群岛。\n- 建设资金主要由澳大利亚政府提供（2019年）",
+  "website": null,
+  "sources": [],
+  "project_ids": [
+   "OTH-040"
+  ],
+  "by_stage": {
+   "Operational": 1
+  },
+  "by_category": {
+   "other": 1
+  }
+ },
+ {
+  "operator_id": "corio-generation",
+  "name": "Corio Generation",
+  "name_zh": "Corio Generation（麦格理）",
+  "ownership": "Macquarie Asset Management (Green Investment Group); platform disbanded 2025",
+  "hq": "London",
+  "categories": [
+   "renewable"
+  ],
+  "background_en": "Macquarie's former offshore wind platform.\n- Holds Great Eastern Offshore Wind FL (2.5 GW, Gippsland).\n- Disbanded 2025 after a failed sale; licence and A$16m Victorian grant held within Macquarie.\n- Project activity unclear as at Aug 2026.",
+  "background_zh": "麦格理旗下原海上风电平台。\n- 持有Great Eastern可行性许可证（2.5吉瓦，吉普斯兰）。\n- 出售未果，2025年解散；许可证及1600万澳元维州补助留在麦格理。\n- 截至2026年8月项目状态不明。",
+  "website": "https://www.coriogen.com",
+  "sources": [
+   "https://reneweconomy.com.au/the-clock-is-ticking-on-australias-promised-first-offshore-wind-auction-as-state-election-looms/amp/"
+  ],
+  "project_ids": [
+   "REN-007"
+  ],
+  "by_stage": {
+   "Suspended": 1
+  },
+  "by_category": {
+   "renewable": 1
+  }
+ },
+ {
+  "operator_id": "dampier-salt",
+  "name": "Dampier Salt (Rio Tinto)",
+  "name_zh": "Dampier Salt（力拓）",
+  "ownership": "JV: Rio Tinto 68%, Marubeni 22%, Sojitz 10%",
+  "hq": "Perth",
+  "categories": [
+   "mineral"
+  ],
+  "background_en": "One of the world's largest seaborne salt exporters.\n- Solar saltfields at Dampier and Port Hedland (53 ponds, 20,000 ha).\n- H1 2026 output 3.111 Mt; Lake MacLeod sold to Leichhardt Dec 2024.",
+  "background_zh": "全球最大海运盐出口商之一。\n- 丹皮尔及黑德兰港太阳能盐田（53个蒸发池，20,000公顷）。\n- 2026年上半年产量311.1万吨；Lake MacLeod于2024年12月售予Leichhardt。",
+  "website": "https://www.riotinto.com/operations/anz/western-australia/dampier-salt",
+  "sources": [
+   "https://www.riotinto.com/operations/anz/western-australia/dampier-salt",
+   "https://www.procurementresource.com/news-and-articles/western-australia-dampier-salt-output-recovers"
+  ],
+  "project_ids": [
+   "MIN-001",
+   "MIN-002"
+  ],
+  "by_stage": {
+   "Operational": 2
+  },
+  "by_category": {
+   "mineral": 2
+  }
+ },
+ {
+  "operator_id": "deepc-store",
+  "name": "deepC Store",
+  "name_zh": "deepC Store",
+  "ownership": "Private",
+  "hq": "Perth",
+  "categories": [
+   "other"
+  ],
+  "background_en": "Australian developer of a floating CO2 receiving and injection hub (CStore1).\n- Holds greenhouse gas assessment permits G-13-AP and G-14-AP",
+  "background_zh": "澳洲浮式CO2接收及注入枢纽（CStore1）开发商。\n- 持有温室气体评估许可G-13-AP和G-14-AP",
+  "website": "https://deepcstore.com",
+  "sources": [],
+  "project_ids": [
+   "OTH-008"
+  ],
+  "by_stage": {
+   "Exploration / appraisal": 1
+  },
+  "by_category": {
+   "other": 1
+  }
+ },
+ {
+  "operator_id": "dpird-wa",
+  "name": "DPIRD (WA)",
+  "name_zh": "西澳第一产业及区域发展部",
+  "ownership": "Government (Western Australia)",
+  "hq": "Perth",
+  "categories": [
+   "agri"
+  ],
+  "background_en": "WA fisheries and aquaculture regulator.\n- Manages the West Coast Rock Lobster fishery (MSC certified 2000).\n- Administers the Kimberley and Mid West aquaculture development zones.",
+  "background_zh": "西澳渔业及水产养殖主管部门。\n- 管理西海岸岩龙虾渔业（2000年获MSC认证）。\n- 管理金伯利及中西部水产养殖发展区。",
+  "website": "https://www.dpird.wa.gov.au",
+  "sources": [
+   "https://web-prd.dpird.wa.gov.au/environment-and-sustainability/sustainable-fisheries/west-coast-rock-lobster-managed-fishery/",
+   "https://www.countryman.com.au/news/wa/aquaculture-zone-gets-green-tick-ng-ya-365924"
+  ],
+  "project_ids": [
+   "AGR-010",
+   "AGR-011",
+   "AGR-022"
+  ],
+  "by_stage": {
+   "Operational": 2,
+   "Planning": 1
+  },
+  "by_category": {
+   "agri": 3
+  }
+ },
+ {
+  "operator_id": "edf-power-solutions-australia",
+  "name": "EDF power solutions Australia",
+  "name_zh": "法国电力澳洲（EDF power solutions Australia）",
+  "ownership": "Subsidiary of EDF Group (French state-owned)",
+  "hq": "Melbourne",
+  "categories": [
+   "renewable"
+  ],
+  "background_en": "Australian renewables arm of EDF.\n- Developer of Bunbury Offshore Wind North (~1.5 GW) and South via Bunbury Offshore Wind Farm Pty Ltd.\n- Final FLs offered 23 Jan 2026.\n- Acquired Newcastle Offshore Wind (Hunter) in Feb 2023; not licensed.",
+  "background_zh": "法国电力集团澳洲新能源子公司。\n- 通过Bunbury Offshore Wind Farm Pty Ltd开发班伯里北部（约1.5吉瓦）及南部项目。\n- 2026年1月23日获最终许可证要约。\n- 2023年2月收购猎人谷Newcastle Offshore Wind项目，未获许可证。",
+  "website": "https://www.bunburyoffshorewind.com.au",
+  "sources": [
+   "https://reneweconomy.com.au/bowen-offers-offshore-wind-licences-for-another-two-west-coast-projects/",
+   "https://www.processonline.com.au/content/business/news/edf-renewables-acquires-newcastle-offshore-wind-project-96039785"
+  ],
+  "project_ids": [
+   "REN-018",
+   "REN-019"
+  ],
+  "by_stage": {
+   "Planning": 2
+  },
+  "by_category": {
+   "renewable": 2
+  }
+ },
+ {
+  "operator_id": "eni",
+  "name": "Eni Australia",
+  "name_zh": "埃尼澳大利亚",
+  "ownership": "Subsidiary of Eni S.p.A. (BIT/NYSE: E)",
+  "hq": "Perth",
+  "categories": [
+   "fossil",
+   "other"
+  ],
+  "background_en": "Italian major's Australian arm with Bonaparte Gulf gas interests.\n- Acquired Santos' Petrel (42.71%) and Tern (100%) interests, Dec 2025.\n- Partner in Darwin LNG (11%) and Bayu-Undan (9.2%).",
+  "background_zh": "意大利埃尼集团在澳子公司，持有Bonaparte海湾天然气权益。\n- 2025年12月收购桑托斯所持Petrel（42.71%）及Tern（100%）权益。\n- 参股达尔文LNG（11%）及Bayu-Undan（9.2%）。",
+  "website": null,
+  "sources": [
+   "https://www.offshore-technology.com/news/santos-to-sell-non-core-gas-assets/"
+  ],
+  "project_ids": [
+   "FOS-055"
+  ],
+  "by_stage": {
+   "Exploration / appraisal": 1
+  },
+  "by_category": {
+   "fossil": 1
+  }
+ },
+ {
+  "operator_id": "eog",
+  "name": "EOG Resources",
+  "name_zh": "EOG Resources",
+  "ownership": "Listed (NYSE: EOG)",
+  "hq": "Houston",
+  "categories": [
+   "fossil"
+  ],
+  "background_en": "US independent with one Australian frontier permit.\n- Titleholder of WA-488-P (Beehive), up to three wells 2025-2029.",
+  "background_zh": "美国独立油气公司，在澳持有一个前沿勘探许可证。\n- WA-488-P（Beehive）许可证持有人，2025至2029年可钻最多3口井。",
+  "website": "https://www.eogresources.com",
+  "sources": [
+   "https://consultation.nopsema.gov.au/environment-division/7892/"
+  ],
+  "project_ids": [
+   "FOS-054"
+  ],
+  "by_stage": {
+   "Exploration / appraisal": 1
+  },
+  "by_category": {
+   "fossil": 1
+  }
+ },
+ {
+  "operator_id": "equinor",
+  "name": "Equinor",
+  "name_zh": "Equinor（挪威国家石油）",
+  "ownership": "Listed (OSE/NYSE: EQNR); Norwegian state 67%",
+  "hq": "Stavanger, Norway",
+  "categories": [
+   "renewable",
+   "fossil"
+  ],
+  "background_en": "Norwegian energy major.\n- Partnered Oceanex on Novocastrian (2 GW floating, Hunter); FL offered Feb 2025.\n- Exited Aug 2025; licence declined. No other Australian offshore wind holdings.",
+  "background_zh": "挪威能源公司。\n- 与Oceanex合作开发Novocastrian（2吉瓦漂浮式，猎人谷），2025年2月获许可证要约。\n- 2025年8月退出，拒收许可证；在澳无其他海上风电资产。",
+  "website": "https://www.equinor.com",
+  "sources": [
+   "https://www.offshorewind.biz/2025/08/22/equinor-pulls-out-of-2-gw-australian-floating-wind-farm-project-rejects-feasibility-licence/"
+  ],
+  "project_ids": [
+   "REN-015"
+  ],
+  "by_stage": {
+   "Cancelled": 1
+  },
+  "by_category": {
+   "renewable": 1
+  }
+ },
+ {
+  "operator_id": "equus",
+  "name": "Equus Energy",
+  "name_zh": "Equus Energy",
+  "ownership": "Listed (ASX: EQU)",
+  "hq": "Perth",
+  "categories": [
+   "fossil"
+  ],
+  "background_en": "Single-asset developer of the Equus gas project.\n- 100% owner; 10-year Alcoa GSA (~50 TJ/d) signed Aug 2026.",
+  "background_zh": "单一资产开发商，持有Equus天然气项目。\n- 持股100%，2026年8月与美铝签署10年购气协议（约50太焦/日）。",
+  "website": null,
+  "sources": [
+   "https://smallcaps.com.au/article/equus-energy-finalises-10-year-alcoa-supply-deal-for-offshore-wa-gas-project"
+  ],
+  "project_ids": [
+   "FOS-017"
+  ],
+  "by_stage": {
+   "Planning": 1
+  },
+  "by_category": {
+   "fossil": 1
+  }
+ },
+ {
+  "operator_id": "exxonmobil",
+  "name": "ExxonMobil Australia (Esso)",
+  "name_zh": "埃克森美孚澳大利亚（Esso）",
+  "ownership": "Subsidiary of Exxon Mobil Corporation (NYSE: XOM)",
+  "hq": "Melbourne",
+  "categories": [
+   "fossil"
+  ],
+  "background_en": "Long-time Bass Strait operator, now non-operating partner.\n- Operated Gippsland Basin JV from the 1960s until handing operatorship to Woodside on 1 Jul 2026.\n- Holds 50% of GBJV, 32.5% of KUJV and 25% of Gorgon.",
+  "background_zh": "长期担任巴斯海峡运营商，现为非运营合作方。\n- 自1960年代起运营Gippsland盆地合资项目，2026年7月1日移交伍德赛德。\n- 持有GBJV 50%、KUJV 32.5%、Gorgon 25%。",
+  "website": "https://www.exxonmobil.com.au",
+  "sources": [
+   "https://www.woodside.com/media-centre/news-stories/story/a-who-s-who-of-the-gippsland-basin-assets"
+  ],
+  "project_ids": [
+   "OTH-014"
+  ],
+  "by_stage": {
+   "Cancelled": 1
+  },
+  "by_category": {
+   "other": 1
+  }
+ },
+ {
+  "operator_id": "fisheries-qld",
+  "name": "Fisheries Queensland",
+  "name_zh": "昆士兰渔业局",
+  "ownership": "Government (Queensland)",
+  "hq": "Brisbane",
+  "categories": [
+   "agri"
+  ],
+  "background_en": "Queensland fisheries regulator.\n- Manages East Coast Otter Trawl Fishery under a harvest strategy.\n- Uses effort units and spatial closures.",
+  "background_zh": "昆州渔业主管机构。\n- 依捕捞策略管理东海岸拖网渔业。\n- 采用努力量单位及空间禁渔区。",
+  "website": "https://www.daf.qld.gov.au",
+  "sources": [
+   "https://www.agriculture.gov.au/abares/research-topics/fisheries/fishery-status"
+  ],
+  "project_ids": [
+   "AGR-031"
+  ],
+  "by_stage": {
+   "Operational": 1
+  },
+  "by_category": {
+   "agri": 1
+  }
+ },
+ {
+  "operator_id": "gladstone-ports",
+  "name": "Gladstone Ports Corporation",
+  "name_zh": "格拉德斯通港务公司",
+  "ownership": "Queensland Government-owned corporation",
+  "hq": "Gladstone",
+  "categories": [
+   "other"
+  ],
+  "background_en": "Operator of Gladstone, Rockhampton and Bundaberg ports.\n- 111.7 Mt total throughput in FY2023-24.\n- Hosts three Curtis Island LNG export terminals.",
+  "background_zh": "格拉德斯通、罗克汉普顿、班德堡港口运营方。\n- 2023-24财年总吞吐1.117亿吨。\n- 柯蒂斯岛三座LNG出口码头所在港。",
+  "website": "https://www.gpcl.com.au/",
+  "sources": [
+   "https://www.gpcl.com.au/"
+  ],
+  "project_ids": [
+   "OTH-059"
+  ],
+  "by_stage": {
+   "Operational": 1
+  },
+  "by_category": {
+   "other": 1
+  }
+ },
+ {
+  "operator_id": "google",
+  "name": "Google",
+  "name_zh": "谷歌",
+  "ownership": "Subsidiary of Alphabet (NASDAQ: GOOGL)",
+  "hq": "Mountain View (Australia: Sydney)",
+  "categories": [
+   "other"
+  ],
+  "background_en": "Largest new investor in Australian subsea cables.\n- Partner in INDIGO and JGA-S.\n- Building Tabua and Honomoana (2027) and Bosun, TalayLink, Umoja (2028).",
+  "background_zh": "澳大利亚新建海缆的最大投资方。\n- INDIGO及JGA-S合作方。\n- 在建Tabua、Honomoana（2027年），规划Bosun、TalayLink、Umoja（2028年）。",
+  "website": "https://cloud.google.com/",
+  "sources": [
+   "https://www.submarinecablemap.com/api/v3/country/australia.json"
+  ],
+  "project_ids": [
+   "OTH-035",
+   "OTH-039",
+   "OTH-043",
+   "OTH-044",
+   "OTH-045"
+  ],
+  "by_stage": {
+   "Operational": 2,
+   "Approved / FID": 2,
+   "Planning": 1
+  },
+  "by_category": {
+   "other": 5
+  }
+ },
+ {
+  "operator_id": "humpty-doo",
+  "name": "Humpty Doo Barramundi",
+  "name_zh": "Humpty Doo Barramundi",
+  "ownership": "Private (family-owned)",
+  "hq": "Humpty Doo (NT)",
+  "categories": [
+   "agri"
+  ],
+  "background_en": "Family-owned saltwater barramundi farm near Darwin.\n- Over 30 years of operation.\n- Recirculating saltwater wetland system.",
+  "background_zh": "达尔文附近家族持有咸水尖吻鲈养殖场。\n- 经营逾30年。\n- 咸水湿地循环水系统。",
+  "website": "https://humptydoobarramundi.com.au",
+  "sources": [
+   "https://humptydoobarramundi.com.au/"
+  ],
+  "project_ids": [
+   "AGR-012"
+  ],
+  "by_stage": {
+   "Operational": 1
+  },
+  "by_category": {
+   "agri": 1
+  }
+ },
+ {
+  "operator_id": "huon",
+  "name": "Huon Aquaculture (JBS)",
+  "name_zh": "Huon Aquaculture（JBS旗下）",
+  "ownership": "Private (JBS S.A.)",
+  "hq": "Hobart region (Tasmania)",
+  "categories": [
+   "agri"
+  ],
+  "background_en": "Tasmanian salmon farmer acquired by JBS in Nov 2021.\n- FY2026 output 34,588 t, now Tasmania's largest.\n- Sites in Storm Bay, Hideaway Bay, Macquarie Harbour; WA Mid West lease.",
+  "background_zh": "塔斯马尼亚三文鱼养殖商，2021年11月被JBS收购。\n- FY2026产量34,588吨，居塔州首位。\n- 养殖点：Storm Bay、Hideaway Bay、Macquarie Harbour；另有西澳Mid West租约。",
+  "website": "https://www.huonaqua.com.au",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Huon_Aquaculture",
+   "https://www.salmonbusiness.com/huon-overtakes-tassal-as-tasmanian-salmon-output-jumps-9/"
+  ],
+  "project_ids": [
+   "AGR-002"
+  ],
+  "by_stage": {
+   "Operational": 1
+  },
+  "by_category": {
+   "agri": 1
+  }
+ },
+ {
+  "operator_id": "iberdrola-australia",
+  "name": "Iberdrola Australia",
+  "name_zh": "伊维尔德罗拉澳洲（Iberdrola Australia）",
+  "ownership": "Subsidiary of Iberdrola SA (BME: IBE)",
+  "hq": "Sydney",
+  "categories": [
+   "renewable"
+  ],
+  "background_en": "Australian arm of Spanish utility Iberdrola.\n- Holds Aurora Green FL (up to 3 GW), July 2024.\n- Phase 1 construction planned 2029–2032, operation from 2032.\n- Awaiting Victoria's auction documents (Aug 2026).",
+  "background_zh": "西班牙伊维尔德罗拉集团澳洲子公司。\n- 2024年7月获Aurora Green可行性许可证（最高3吉瓦）。\n- 计划2029–2032年一期建设，2032年起运营。\n- 2026年8月仍在等待维州招标文件。",
+  "website": "https://www.iberdrola.com.au",
+  "sources": [
+   "https://www.iberdrola.com.au/assets/01-All-Project-Documents/06-Offshore-Wind/Community-Updates/Aurora-Green-Community-Update-August-2026.pdf"
+  ],
+  "project_ids": [
+   "REN-006"
+  ],
+  "by_stage": {
+   "Planning": 1
+  },
+  "by_category": {
+   "renewable": 1
+  }
+ },
+ {
+  "operator_id": "incapture",
+  "name": "InCapture",
+  "name_zh": "InCapture",
+  "ownership": "Private",
+  "hq": "Australia",
+  "categories": [
+   "other"
+  ],
+  "background_en": "CCS developer; operator and majority holder of greenhouse gas assessment permit G-15-AP.\n- Partners include SK earthon and CarbonCQ",
+  "background_zh": "碳封存开发商，温室气体评估许可G-15-AP的运营方及控股方。\n- 合作方包括SK earthon和CarbonCQ",
+  "website": null,
+  "sources": [],
+  "project_ids": [
+   "OTH-009"
+  ],
+  "by_stage": {
+   "Exploration / appraisal": 1
+  },
+  "by_category": {
+   "other": 1
+  }
+ },
+ {
+  "operator_id": "inpex",
+  "name": "INPEX",
+  "name_zh": "国际石油开发帝石",
+  "ownership": "Listed (TSE: 1605); Japanese government holds special share",
+  "hq": "Tokyo (Australian office Perth)",
+  "categories": [
+   "fossil",
+   "other"
+  ],
+  "background_en": "Japan's largest E&P company and operator of Ichthys LNG.\n- Ichthys 67.82% (68.555% after JERA purchase, pending).\n- Partner in Prelude (17.5%), Darwin LNG (11.4%) and Bayu-Undan (9.6%).",
+  "background_zh": "日本最大的油气勘探开发企业，Ichthys LNG运营商。\n- Ichthys持股67.82%（收购JERA权益后为68.555%，待批）。\n- 参股Prelude（17.5%）、达尔文LNG（11.4%）、Bayu-Undan（9.6%）。",
+  "website": "https://www.inpex.com.au",
+  "sources": [
+   "https://oilprice.com/Company-News/INPEX-Boosts-Stake-in-Australias-Ichthys-LNG-Project-to-69.html",
+   "https://www.ogj.com/energy-transition/news/55412476/inpex-advances-bonaparte-ccs-project-with-australian-government-declaration"
+  ],
+  "project_ids": [
+   "FOS-008",
+   "OTH-003"
+  ],
+  "by_stage": {
+   "Operational": 1,
+   "Planning": 1
+  },
+  "by_category": {
+   "fossil": 1,
+   "other": 1
+  }
+ },
+ {
+  "operator_id": "jadestone",
+  "name": "Jadestone Energy",
+  "name_zh": "Jadestone Energy",
+  "ownership": "Listed (AIM: JSE)",
+  "hq": "Singapore",
+  "categories": [
+   "fossil"
+  ],
+  "background_en": "Mature-asset oil producer in Asia-Pacific.\n- Australian assets: Montara (100%), Stag (100%), CWLH/Okha (33.33%).\n- H1 2026 output 15,281 boe/d; Stag shut in after Cyclone Narelle until Q2 2027.",
+  "background_zh": "专注成熟资产的亚太石油生产商。\n- 澳洲资产：Montara（100%）、Stag（100%）、CWLH/Okha（33.33%）。\n- 2026年上半年产量15281桶油当量/日；Stag受Narelle气旋影响停产至2027年二季度。",
+  "website": "https://www.jadestone-energy.com",
+  "sources": [
+   "https://www.investegate.co.uk/announcement/rns/jadestone-energy--jse/h1-2026-trading-statement/9692331"
+  ],
+  "project_ids": [
+   "FOS-030",
+   "FOS-031"
+  ],
+  "by_stage": {
+   "Operational": 1,
+   "Suspended": 1
+  },
+  "by_category": {
+   "fossil": 2
+  }
+ },
+ {
+  "operator_id": "jera-nex-bp",
+  "name": "JERA Nex bp",
+  "name_zh": "JERA Nex bp",
+  "ownership": "JV of JERA (Japan) and bp offshore wind businesses",
+  "hq": "London",
+  "categories": [
+   "renewable"
+  ],
+  "background_en": "Offshore wind JV of JERA and bp.\n- Develops Blue Mackerel (1 GW, Gippsland); Major Project Status Dec 2025; full EIS confirmed Mar 2026.\n- Partner in Alinta's Spinifex (Southern Ocean) via Parkwind.\n- Targets Blue Mackerel operation 2032.",
+  "background_zh": "日本JERA与英国石油（bp）海上风电合资公司。\n- 开发Blue Mackerel（1吉瓦，吉普斯兰）；2025年12月获重大项目地位，2026年3月确认完整EIS评估。\n- 通过Parkwind参股Alinta的Spinifex（南大洋）。\n- 目标2032年Blue Mackerel投运。",
+  "website": "https://www.jeranexbp.com",
+  "sources": [
+   "https://www.sgst.com.au/blue-mackerel-progresses-to-full-environmental-impact-statement/",
+   "https://esdnews.com.au/australian-offshore-wind-sector-update/"
+  ],
+  "project_ids": [
+   "REN-003"
+  ],
+  "by_stage": {
+   "Planning": 1
+  },
+  "by_category": {
+   "renewable": 1
+  }
+ },
+ {
+  "operator_id": "k-s",
+  "name": "K+S",
+  "name_zh": "K+S",
+  "ownership": "Listed (Frankfurt: SDF)",
+  "hq": "Kassel, Germany",
+  "categories": [
+   "mineral"
+  ],
+  "background_en": "German potash and salt producer.\n- Proposed the Ashburton Salt project near Onslow.\n- Cancelled the project after ~9 years of development.",
+  "background_zh": "德国钾肥及盐业公司。\n- 曾提出翁斯洛附近Ashburton盐项目。\n- 开发约9年后取消该项目。",
+  "website": "https://www.kpluss.com",
+  "sources": [
+   "https://projectblue.com/blue/news-analysis/1238/k+s-australia-cancels-ashburton-salt-project"
+  ],
+  "project_ids": [
+   "MIN-008"
+  ],
+  "by_stage": {
+   "Cancelled": 1
+  },
+  "by_category": {
+   "mineral": 1
+  }
+ },
+ {
+  "operator_id": "landbridge",
+  "name": "Landbridge Group",
+  "name_zh": "岚桥集团",
+  "ownership": "Private (Shandong, China; owner Ye Cheng)",
+  "hq": "Rizhao, Shandong",
+  "categories": [
+   "other"
+  ],
+  "background_en": "Chinese leaseholder of Darwin Port since 2015.\n- 99-year lease bought for A$506m.\n- Filed ICSID claim in May 2026 against forced sale.",
+  "background_zh": "2015年起承租达尔文港的中资企业。\n- 以5.06亿澳元获99年租约。\n- 2026年5月就强制出售提起ICSID仲裁。",
+  "website": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Port_of_Darwin"
+  ],
+  "project_ids": [
+   "OTH-060"
+  ],
+  "by_stage": {
+   "Operational": 1
+  },
+  "by_category": {
+   "other": 1
+  }
+ },
+ {
+  "operator_id": "leichhardt",
+  "name": "Leichhardt Industrials",
+  "name_zh": "Leichhardt Industrials",
+  "ownership": "Private",
+  "hq": "Melbourne",
+  "categories": [
+   "mineral"
+  ],
+  "background_en": "Industrial minerals group expanding in WA salt.\n- Bought Lake MacLeod (1.5 Mtpa salt) for A$375m, completed Dec 2024.\n- Developing the Eramurra solar salt project (Pilbara).",
+  "background_zh": "工业矿物企业，扩张西澳盐业务。\n- 以3.75亿澳元收购Lake MacLeod（150万吨/年盐），2024年12月交割。\n- 开发皮尔巴拉Eramurra太阳能盐项目。",
+  "website": "https://www.leichhardt.com.au",
+  "sources": [
+   "https://www.riotinto.com/operations/anz/western-australia/dampier-salt",
+   "https://www.epa.wa.gov.au/proposals/eramurra-solar-salt-project"
+  ],
+  "project_ids": [
+   "MIN-003",
+   "MIN-007"
+  ],
+  "by_stage": {
+   "Operational": 1,
+   "Planning": 1
+  },
+  "by_category": {
+   "mineral": 2
+  }
+ },
+ {
+  "operator_id": "mainstream-consortium",
+  "name": "Mainstream Renewable Power consortium",
+  "name_zh": "Mainstream Renewable Power联合体",
+  "ownership": "Mainstream Renewable Power, Reventus Power, DIRECT Infrastructure, AGL Energy (20%)",
+  "hq": "Dublin / Sydney",
+  "categories": [
+   "renewable"
+  ],
+  "background_en": "Consortium behind Gippsland Skies (2.5 GW).\n- FL-03 awarded May 2024.\n- Discontinued Dec 2025; licence surrendered 5 Jan 2026. AGL redirected capital to batteries and onshore firming.",
+  "background_zh": "Gippsland Skies（2.5吉瓦）开发联合体。\n- 2024年5月获可行性许可证FL-03。\n- 2025年12月终止，2026年1月5日交还许可证。AGL将资本转向储能与陆上调峰。",
+  "website": null,
+  "sources": [
+   "https://www.offshorewind.biz/2025/12/05/another-developer-in-australia-drops-offshore-wind-project",
+   "https://www.energy.vic.gov.au/renewable-energy/offshore-wind-energy/victorias-offshore-wind-farm-locations"
+  ],
+  "project_ids": [
+   "REN-012"
+  ],
+  "by_stage": {
+   "Cancelled": 1
+  },
+  "by_category": {
+   "renewable": 1
+  }
+ },
+ {
+  "operator_id": "marinus-link",
+  "name": "Marinus Link Pty Ltd",
+  "name_zh": "Marinus Link公司",
+  "ownership": "Government-owned: Commonwealth 49%, Victoria 33.3%, Tasmania 17.7%",
+  "hq": "Melbourne / Burnie",
+  "categories": [
+   "other"
+  ],
+  "background_en": "Developer of the Marinus Link HVDC interconnector.\n- Stage 1 750 MW; FID August 2025; completion targeted 2030.\n- Contracts with Prysmian and TasVic Greenlink (A$994m).",
+  "background_zh": "Marinus Link高压直流互联线开发主体。\n- 一期750兆瓦；2025年8月FID；目标2030年完工。\n- 与普睿司曼及TasVic Greenlink（9.94亿澳元）签约。",
+  "website": "https://www.marinuslink.com.au/",
+  "sources": [
+   "https://www.marinuslink.com.au/wp-content/uploads/2025/08/quadfold-Marinus-Link-Fact-Sheet-NATIONAL-WEB.pdf"
+  ],
+  "project_ids": [
+   "OTH-029"
+  ],
+  "by_stage": {
+   "Under construction": 1
+  },
+  "by_category": {
+   "other": 1
+  }
+ },
+ {
+  "operator_id": "northern-manganese",
+  "name": "Northern Manganese",
+  "name_zh": "Northern Manganese",
+  "ownership": "Listed (ASX) at time of proposal",
+  "hq": "Australia",
+  "categories": [
+   "mineral"
+  ],
+  "background_en": "Explorer that held seabed manganese tenements off Groote Eylandt.\n- Tenements affected by the NT seabed mining moratorium (2012) and ban (2021).\n- No current marine minerals activity identified.",
+  "background_zh": "曾持有格鲁特岛外海海底锰矿矿权的勘探公司。\n- 矿权受北领地海底采矿暂停令（2012年）及禁令（2021年）影响。\n- 未发现现有海洋矿产活动。",
+  "website": null,
+  "sources": [
+   "https://miningnews.net/leadership/news/1200832/northern-manganese-hit-seabed-ban"
+  ],
+  "project_ids": [
+   "MIN-012"
+  ],
+  "by_stage": {
+   "Cancelled": 1
+  },
+  "by_category": {
+   "mineral": 1
+  }
+ },
+ {
+  "operator_id": "nre-tas",
+  "name": "NRE Tasmania",
+  "name_zh": "塔斯马尼亚自然资源与环境部",
+  "ownership": "Government (Tasmania)",
+  "hq": "Hobart",
+  "categories": [
+   "agri"
+  ],
+  "background_en": "Tasmanian department managing wild fisheries and marine farming leases.\n- Manages abalone and rock lobster quota fisheries.\n- Administers shellfish and finfish marine farming leases.",
+  "background_zh": "塔州野生渔业及海水养殖租约主管部门。\n- 管理鲍鱼、岩龙虾配额渔业。\n- 管理贝类及鱼类海水养殖租约。",
+  "website": "https://nre.tas.gov.au",
+  "sources": [
+   "https://www.agriculture.gov.au/agriculture-land/fisheries/aquaculture/aquaculture-industry-in-australia"
+  ],
+  "project_ids": [
+   "AGR-018",
+   "AGR-026"
+  ],
+  "by_stage": {
+   "Operational": 2
+  },
+  "by_category": {
+   "agri": 2
+  }
+ },
+ {
+  "operator_id": "nsw-dpird",
+  "name": "NSW DPIRD",
+  "name_zh": "新南威尔士第一产业及区域发展部",
+  "ownership": "Government (New South Wales)",
+  "hq": "Orange (NSW)",
+  "categories": [
+   "agri"
+  ],
+  "background_en": "NSW fisheries and aquaculture regulator.\n- NSW fisheries GVP A$222.7m in 2024–25 (aquaculture A$112.6m).\n- Manages oyster leases in NSW estuaries.",
+  "background_zh": "新州渔业及水产养殖主管部门。\n- 2024–25年新州渔业产值2.227亿澳元（水产养殖1.126亿澳元）。\n- 管理河口牡蛎养殖租约。",
+  "website": "https://www.dpird.nsw.gov.au",
+  "sources": [
+   "https://www.dpird.nsw.gov.au/about-us/publications/pdi/2025/fisheries"
+  ],
+  "project_ids": [
+   "AGR-017"
+  ],
+  "by_stage": {
+   "Operational": 1
+  },
+  "by_category": {
+   "agri": 1
+  }
+ },
+ {
+  "operator_id": "nsw-resources",
+  "name": "NSW Resources (regulator)",
+  "name_zh": "新南威尔士资源局（监管机构）",
+  "ownership": "Government (New South Wales)",
+  "hq": "Sydney",
+  "categories": [
+   "mineral"
+  ],
+  "background_en": "NSW mineral titles regulator.\n- Coastal-waters seabed mining ban legislated Mar 2024; beach nourishment exempt.\n- Administers the legacy Cape Banks–Cape Solander sand exploration licence.",
+  "background_zh": "新州矿权监管机构。\n- 2024年3月立法禁止州沿海水域海底采矿，海滩补砂豁免。\n- 管理Cape Banks–Cape Solander遗留海砂勘探许可证。",
+  "website": "https://www.resources.nsw.gov.au",
+  "sources": [
+   "https://www.nsw.gov.au/media-releases/nsw-passes-legislation-to-ban-offshore-drilling-and-mining",
+   "https://www.theleader.com.au/story/9250070/sutherland-shire-council-investigates-offshore-sand-for-bate-bay?src=rss"
+  ],
+  "project_ids": [
+   "MIN-013"
+  ],
+  "by_stage": {
+   "Exploration / appraisal": 1
+  },
+  "by_category": {
+   "mineral": 1
+  }
+ },
+ {
+  "operator_id": "ocean-winds",
+  "name": "Ocean Winds",
+  "name_zh": "Ocean Winds（葡电新能源/Engie合资）",
+  "ownership": "50:50 JV of EDP Renewables and Engie",
+  "hq": "Madrid",
+  "categories": [
+   "renewable"
+  ],
+  "background_en": "Offshore wind JV of EDPR and Engie.\n- Holds High Sea Wind (~1.3 GW, Gippsland) and Westward Wind (up to 1.2 GW, Bunbury).\n- Westward Wind FL granted Feb 2026; Gippsland geophysical surveys from Mar 2026.",
+  "background_zh": "葡电新能源（EDPR）与Engie海上风电合资公司。\n- 持有High Sea Wind（约1.3吉瓦，吉普斯兰）与Westward Wind（最高1.2吉瓦，班伯里）。\n- 2026年2月获Westward Wind许可证；2026年3月起开展吉普斯兰地球物理勘察。",
+  "website": "https://www.oceanwinds.com",
+  "sources": [
+   "https://www.enerdata.net/publications/daily-energy-news/ocean-winds-secures-12-gw-westward-wind-feasibility-licence-australia.html"
+  ],
+  "project_ids": [
+   "REN-009",
+   "REN-020"
+  ],
+  "by_stage": {
+   "Planning": 2
+  },
+  "by_category": {
+   "renewable": 2
+  }
+ },
+ {
+  "operator_id": "oceanex",
+  "name": "Oceanex Energy",
+  "name_zh": "Oceanex Energy",
+  "ownership": "Private (Australian)",
+  "hq": "Sydney",
+  "categories": [
+   "renewable"
+  ],
+  "background_en": "Australian floating wind developer.\n- Originated Novocastrian (Hunter) in 2020; partner Equinor exited Aug 2025 and FL declined.\n- Minister Bowen said Oceanex needs an international partner to proceed.\n- Did not bid in Bunbury.",
+  "background_zh": "澳洲本土漂浮式风电开发商。\n- 2020年发起Novocastrian（猎人谷）；2025年8月合作方Equinor退出，许可证被拒收。\n- 部长Bowen称其需引入国际合作方。\n- 未参与班伯里竞标。",
+  "website": "https://oceanex.com.au",
+  "sources": [
+   "https://reneweconomy.com.au/global-wind-giant-pulls-plug-on-australias-first-floating-wind-project/amp/"
+  ],
+  "project_ids": [],
+  "by_stage": {},
+  "by_category": {}
+ },
+ {
+  "operator_id": "origin-res",
+  "name": "Origin Energy & RES",
+  "name_zh": "Origin Energy（起源能源）与RES合资",
+  "ownership": "JV: Origin Energy (ASX: ORG) and RES (private)",
+  "hq": "Sydney",
+  "categories": [
+   "renewable"
+  ],
+  "background_en": "JV developing Navigator North (1.5 GW, Gippsland).\n- FL awarded July 2024.\n- Project on hold since Sept 2025; will not bid in Victoria's first auction.",
+  "background_zh": "开发Navigator North（1.5吉瓦，吉普斯兰）的合资体。\n- 2024年7月获可行性许可证。\n- 2025年9月起搁置，不参与维州首轮招标。",
+  "website": "https://www.res-group.com/au/",
+  "sources": [
+   "https://www.offshorewind.biz/2025/09/15/origin-res-joint-venture-puts-1-5-gw-australian-offshore-wind-project-on-hold"
+  ],
+  "project_ids": [
+   "REN-008"
+  ],
+  "by_stage": {
+   "Suspended": 1
+  },
+  "by_category": {
+   "renewable": 1
+  }
+ },
+ {
+  "operator_id": "paspaley",
+  "name": "Paspaley",
+  "name_zh": "Paspaley",
+  "ownership": "Private (Paspaley family)",
+  "hq": "Darwin",
+  "categories": [
+   "agri"
+  ],
+  "background_en": "Australia's leading South Sea pearl producer.\n- Pinctada maxima pearling off north-west Australia for over 90 years.\n- Chairman Nick Paspaley AC.",
+  "background_zh": "澳大利亚主要南洋珍珠生产商。\n- 在西北海域经营大珠母贝采珠逾90年。\n- 董事长Nick Paspaley AC。",
+  "website": "https://www.paspaley.com",
+  "sources": [
+   "https://www.paspaley.com/pages/our-story"
+  ],
+  "project_ids": [
+   "AGR-015"
+  ],
+  "by_stage": {
+   "Operational": 1
+  },
+  "by_category": {
+   "agri": 1
+  }
+ },
+ {
+  "operator_id": "petuna",
+  "name": "Petuna (Sealord)",
+  "name_zh": "Petuna（Sealord旗下）",
+  "ownership": "Private (Sealord Group: 50% Moana NZ, 50% Nissui)",
+  "hq": "Devonport (Tasmania)",
+  "categories": [
+   "agri"
+  ],
+  "background_en": "Salmon and ocean trout farmer, wholly owned by Sealord since Jan 2020.\n- FY2026 output 6,272 t.\n- Main farming in Macquarie Harbour.",
+  "background_zh": "三文鱼及海鳟养殖商，2020年1月起由Sealord全资持有。\n- FY2026产量6,272吨。\n- 主要养殖区为Macquarie Harbour。",
+  "website": "https://www.petuna.com.au",
+  "sources": [
+   "https://www.salmonbusiness.com/petuna-aquaculture-sells-remaining-50-stake-to-the-sealord-group/?amp=1",
+   "https://www.salmonbusiness.com/huon-overtakes-tassal-as-tasmanian-salmon-output-jumps-9/"
+  ],
+  "project_ids": [
+   "AGR-003"
+  ],
+  "by_stage": {
+   "Operational": 1
+  },
+  "by_category": {
+   "agri": 1
+  }
+ },
+ {
+  "operator_id": "pilbara-ports",
+  "name": "Pilbara Ports Authority",
+  "name_zh": "皮尔巴拉港务局",
+  "ownership": "WA Government port authority",
+  "hq": "Port Hedland / Karratha",
+  "categories": [
+   "other"
+  ],
+  "background_en": "Operator of Port Hedland, Dampier, Ashburton and Varanus Island ports.\n- Record 804.1 Mt throughput in 2025-26, the world's largest bulk port authority by tonnage.",
+  "background_zh": "黑德兰港、丹皮尔港、阿什伯顿港及Varanus岛港口管理方。\n- 2025-26年吞吐量8.041亿吨，创纪录。",
+  "website": "https://www.pilbaraports.com.au/",
+  "sources": [
+   "https://www.pilbaraports.com.au/"
+  ],
+  "project_ids": [
+   "OTH-056",
+   "OTH-057",
+   "OTH-058"
+  ],
+  "by_stage": {
+   "Operational": 3
+  },
+  "by_category": {
+   "other": 3
+  }
+ },
+ {
+  "operator_id": "pilot",
+  "name": "Pilot Energy",
+  "name_zh": "Pilot Energy",
+  "ownership": "Listed (ASX: PGY)",
+  "hq": "Perth",
+  "categories": [
+   "fossil",
+   "other"
+  ],
+  "background_en": "Small cap converting Cliff Head oil field to carbon storage.\n- Acquired Triangle Energy's Cliff Head interests (first stage Jun 2025).",
+  "background_zh": "将Cliff Head油田改造为碳封存的小型上市公司。\n- 收购Triangle Energy所持Cliff Head权益（第一阶段2025年6月交割）。",
+  "website": null,
+  "sources": [
+   "https://announcements.asx.com.au/asxpdf/20251231/pdf/06tw74xc510jy6.pdf"
+  ],
+  "project_ids": [
+   "FOS-033",
+   "OTH-005"
+  ],
+  "by_stage": {
+   "Decommissioning": 1,
+   "Planning": 1
+  },
+  "by_category": {
+   "fossil": 1,
+   "other": 1
+  }
+ },
+ {
+  "operator_id": "pilot-energy",
+  "name": "Pilot Energy",
+  "name_zh": "Pilot Energy",
+  "ownership": "Listed (ASX: PGY)",
+  "hq": "Perth",
+  "categories": [
+   "fossil",
+   "other"
+  ],
+  "background_en": "Small-cap converting the Cliff Head oil field into CO2 storage.\n- 2C storage resource 72.2 Mt (Dec 2025); DoSF granted June 2024.\n- Plans sell-down of up to 60% of the CCS project.",
+  "background_zh": "将Cliff Head油田改作CO2封存的小市值公司。\n- 2C封存资源量7,220万吨（2025年12月）；2024年6月获封存地层宣告。\n- 计划出售CCS项目最多60%权益。",
+  "website": "https://www.pilotenergy.com.au/",
+  "sources": [
+   "https://announcements.asx.com.au/asxpdf/20251231/pdf/06tw74xc510jy6.pdf"
+  ],
+  "project_ids": [
+   "FOS-033",
+   "OTH-005"
+  ],
+  "by_stage": {
+   "Decommissioning": 1,
+   "Planning": 1
+  },
+  "by_category": {
+   "fossil": 1,
+   "other": 1
+  }
+ },
+ {
+  "operator_id": "pirsa",
+  "name": "PIRSA (SA)",
+  "name_zh": "南澳第一产业及区域部",
+  "ownership": "Government (South Australia)",
+  "hq": "Adelaide",
+  "categories": [
+   "agri"
+  ],
+  "background_en": "SA fisheries and aquaculture regulator.\n- Sets rock lobster and prawn TACCs and aquaculture leases.\n- SA seafood farmgate revenue A$0.48bn in 2022–23.",
+  "background_zh": "南澳渔业及水产养殖主管部门。\n- 设定岩龙虾、对虾TACC并管理养殖海域租约。\n- 2022–23年南澳海产品出塘收入4.8亿澳元。",
+  "website": "https://pir.sa.gov.au",
+  "sources": [
+   "https://www.pir.sa.gov.au/aquaculture",
+   "https://pir.sa.gov.au/__data/assets/pdf_file/0006/485268/NTF_SZRL_TACC_202526.pdf"
+  ],
+  "project_ids": [
+   "AGR-016",
+   "AGR-024",
+   "AGR-025"
+  ],
+  "by_stage": {
+   "Operational": 3
+  },
+  "by_category": {
+   "agri": 3
+  }
+ },
+ {
+  "operator_id": "port-of-hastings",
+  "name": "Port of Hastings Corporation",
+  "name_zh": "Hastings港务公司",
+  "ownership": "Victorian Government statutory entity (est. 2012)",
+  "hq": "Hastings",
+  "categories": [
+   "other"
+  ],
+  "background_en": "Port operator for Western Port Bay.\n- ~1.73 Mt/yr trade, ~125 vessels/yr.\n- Proposed site of the Victorian Renewable Energy Terminal for offshore wind.",
+  "background_zh": "Western Port湾港口运营方。\n- 年吞吐约173万吨，船舶约125艘次。\n- 拟建维州海上风电可再生能源码头。",
+  "website": "https://www.portofhastings.vic.gov.au/",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Port_of_Hastings"
+  ],
+  "project_ids": [
+   "OTH-062"
+  ],
+  "by_stage": {
+   "Planning": 1
+  },
+  "by_category": {
+   "other": 1
+  }
+ },
+ {
+  "operator_id": "port-of-newcastle",
+  "name": "Port of Newcastle",
+  "name_zh": "纽卡斯尔港",
+  "ownership": "98-year lease (2014): The Infrastructure Fund / China Merchants Port",
+  "hq": "Newcastle",
+  "categories": [
+   "other"
+  ],
+  "background_en": "World's largest coal export port by volume, diversifying into offshore wind and clean energy cargo.\n- Leased for 98 years from 2014 for A$1.75bn",
+  "background_zh": "按吞吐量计全球最大的煤炭出口港，正拓展海上风电及清洁能源货物业务。\n- 2014年以17.5亿澳元出租98年",
+  "website": "https://www.portofnewcastle.com.au",
+  "sources": [],
+  "project_ids": [
+   "OTH-061"
+  ],
+  "by_stage": {
+   "Operational": 1
+  },
+  "by_category": {
+   "other": 1
+  }
+ },
+ {
+  "operator_id": "pzja",
+  "name": "PZJA (Torres Strait)",
+  "name_zh": "托雷斯海峡保护区联合管理局",
+  "ownership": "Government (Commonwealth–Queensland–TSRA joint authority)",
+  "hq": "Thursday Island",
+  "categories": [
+   "agri"
+  ],
+  "background_en": "Manages commercial and traditional fishing in the Torres Strait Protected Zone.\n- Operates under the 1985 Australia–PNG Torres Strait Treaty.\n- TRL TAC 268.85 t for 2025–26.",
+  "background_zh": "管理托雷斯海峡保护区商业及传统捕捞。\n- 依1985年澳巴《托雷斯海峡条约》运作。\n- 2025–26年热带岩龙虾TAC 268.85吨。",
+  "website": "https://www.pzja.gov.au",
+  "sources": [
+   "https://www.pzja.gov.au/the-fisheries",
+   "https://www.pzja.gov.au/the-fisheries/torres-strait-tropical-rock-lobster-fishery"
+  ],
+  "project_ids": [
+   "AGR-032"
+  ],
+  "by_stage": {
+   "Operational": 1
+  },
+  "by_category": {
+   "agri": 1
+  }
+ },
+ {
+  "operator_id": "rio-tinto",
+  "name": "Rio Tinto",
+  "name_zh": "力拓",
+  "ownership": "Listed (ASX/LSE: RIO)",
+  "hq": "Melbourne / London",
+  "categories": [
+   "mineral",
+   "other"
+  ],
+  "background_en": "Global miner with Pilbara iron ore operations.\n- Operates Dampier iron ore terminals.\n- 50:50 JV with WA Government on Dampier desalination (8 GL/yr, A$1.1bn).",
+  "background_zh": "全球矿业公司，经营皮尔巴拉铁矿。\n- 运营丹皮尔港铁矿石码头。\n- 与西澳政府50:50合资建设Dampier淡化厂（8 GL/年，11亿澳元）。",
+  "website": "https://www.riotinto.com/",
+  "sources": [
+   "https://www.businesswire.com/news/home/20260303357903/en"
+  ],
+  "project_ids": [
+   "OTH-026"
+  ],
+  "by_stage": {
+   "Under construction": 1
+  },
+  "by_category": {
+   "other": 1
+  }
+ },
+ {
+  "operator_id": "rwe",
+  "name": "RWE",
+  "name_zh": "莱茵集团（RWE）",
+  "ownership": "Listed (XETRA: RWE)",
+  "hq": "Essen, Germany",
+  "categories": [
+   "renewable"
+  ],
+  "background_en": "German utility.\n- Held Kent Offshore Wind FL-08 (~2 GW, Gippsland).\n- Ceased development Oct 2025 citing costs and auction uncertainty; licence surrendered 10 Oct 2025.",
+  "background_zh": "德国电力公司。\n- 曾持有Kent项目可行性许可证FL-08（约2吉瓦，吉普斯兰）。\n- 2025年10月以成本及招标不确定为由终止开发，10月10日交还许可证。",
+  "website": "https://www.rwe.com",
+  "sources": [
+   "https://reneweconomy.com.au/rwe-scraps-gippsland-offshore-wind-project-due-to-costs-and-auction-uncertainty/",
+   "https://www.energy.vic.gov.au/renewable-energy/offshore-wind-energy/victorias-offshore-wind-farm-locations"
+  ],
+  "project_ids": [
+   "REN-011"
+  ],
+  "by_stage": {
+   "Cancelled": 1
+  },
+  "by_category": {
+   "renewable": 1
+  }
+ },
+ {
+  "operator_id": "sa-water",
+  "name": "SA Water",
+  "name_zh": "南澳水务",
+  "ownership": "SA Government-owned corporation",
+  "hq": "Adelaide",
+  "categories": [
+   "other"
+  ],
+  "background_en": "South Australia's water utility.\n- Owns Adelaide Desalination Plant (100 GL/yr).\n- Building Eyre Peninsula plant (A$330m) and delivering Northern Water planning.",
+  "background_zh": "南澳供水企业。\n- 拥有阿德莱德海水淡化厂（100 GL/年）。\n- 在建Eyre半岛淡化厂（3.3亿澳元），并参与北部供水项目规划。",
+  "website": "https://www.sawater.com.au/",
+  "sources": [
+   "https://sawater.com.au/water-and-the-environment/south-australias-water-sources/seawater"
+  ],
+  "project_ids": [
+   "OTH-021",
+   "OTH-022",
+   "OTH-023"
+  ],
+  "by_stage": {
+   "Operational": 1,
+   "Planning": 1,
+   "Under construction": 1
+  },
+  "by_category": {
+   "other": 3
+  }
+ },
+ {
+  "operator_id": "santos",
+  "name": "Santos",
+  "name_zh": "桑托斯",
+  "ownership": "Listed (ASX: STO)",
+  "hq": "Adelaide",
+  "categories": [
+   "fossil",
+   "other"
+  ],
+  "background_en": "Australian oil and gas producer with WA domestic gas, Darwin LNG and PNG LNG interests.\n- Operates Barossa and Darwin LNG; first Barossa LNG cargo Jan 2026.\n- WA hub at Varanus Island; Reindeer/Devil Creek and Ningaloo Vision ceased 2025.\n- Divested Petrel/Tern to Eni (Dec 2025); Dorado deferred.",
+  "background_zh": "澳大利亚油气生产商，资产覆盖西澳内销气、达尔文LNG及巴新LNG。\n- 运营Barossa及达尔文LNG，2026年1月Barossa首船LNG。\n- 西澳枢纽为Varanus岛；Reindeer/Devil Creek与Ningaloo Vision于2025年停产。\n- 2025年12月将Petrel/Tern出售给埃尼，Dorado开发推迟。",
+  "website": "https://www.santos.com",
+  "sources": [
+   "https://www.santos.com/wp-content/uploads/2026/01/2025-Santos-Fourth-Quarter-Report.pdf",
+   "https://www.santos.com/wp-content/uploads/2026/09/Santos-WA-Quarterly-Update-Q2-2026.pdf",
+   "https://www.argusmedia.com/pt/news-and-insights/latest-market-news/2789881-australia-s-santos-plans-bayu-undan-ccs-fid-in-2027"
+  ],
+  "project_ids": [
+   "FOS-013",
+   "FOS-014",
+   "FOS-020",
+   "FOS-021",
+   "FOS-024",
+   "FOS-029",
+   "FOS-035",
+   "FOS-052",
+   "FOS-053",
+   "OTH-002",
+   "OTH-007",
+   "OTH-051"
+  ],
+  "by_stage": {
+   "Operational": 4,
+   "Decommissioning": 4,
+   "Suspended": 1,
+   "Exploration / appraisal": 2,
+   "Planning": 1
+  },
+  "by_category": {
+   "fossil": 9,
+   "other": 3
+  }
+ },
+ {
+  "operator_id": "sea-forest",
+  "name": "Sea Forest",
+  "name_zh": "Sea Forest",
+  "ownership": "Listed (ASX: SEA)",
+  "hq": "Triabunna (Tasmania)",
+  "categories": [
+   "agri"
+  ],
+  "background_en": "Asparagopsis seaweed producer selling SeaFeed methane-reduction supplement.\n- IPO Nov 2025 raised A$20.5m at A$2.00.\n- FY2026 preliminary SeaFeed revenue A$4.98m.",
+  "background_zh": "芦笋藻生产商，销售SeaFeed甲烷减排添加剂。\n- 2025年11月IPO，以每股2.00澳元募资2,050万澳元。\n- FY2026初步SeaFeed收入498万澳元。",
+  "website": "https://www.seaforest.com.au",
+  "sources": [
+   "https://www.businessnewsaustralia.com/articles/sea-forest-ramps-up-revenue-and-slashes-losses-as-seaweed-feed-rollout-gains-traction.html",
+   "https://www.govhouse.tas.gov.au/news/latest-news/news-stories/visit-to-seaforest"
+  ],
+  "project_ids": [
+   "AGR-021"
+  ],
+  "by_stage": {
+   "Operational": 1
+  },
+  "by_category": {
+   "agri": 1
+  }
+ },
+ {
+  "operator_id": "seafarms",
+  "name": "Seafarms Group",
+  "name_zh": "Seafarms Group",
+  "ownership": "Listed (ASX: SFG)",
+  "hq": "Perth",
+  "categories": [
+   "agri"
+  ],
+  "background_en": "Prawn farmer and proponent of Project Sea Dragon.\n- Project entity in liquidation; Seafarms reacquiring assets (non-cash assets bought Feb 2026).\n- Funded by chair-controlled Avatar Finance (A$16.5m facility).",
+  "background_zh": "对虾养殖商，Sea Dragon项目发起方。\n- 项目公司清算中，Seafarms回购资产（2026年2月完成非现金资产收购）。\n- 资金来自董事长控股的Avatar Finance（1,650万澳元授信）。",
+  "website": "https://seafarms.com.au",
+  "sources": [
+   "https://www.seafoodsource.com/news/business-finance/seafarms-group-increases-revolving-credit-facility-as-it-works-to-reacquire-assets-of-project-sea-dragon"
+  ],
+  "project_ids": [
+   "AGR-013"
+  ],
+  "by_stage": {
+   "Suspended": 1
+  },
+  "by_category": {
+   "agri": 1
+  }
+ },
+ {
+  "operator_id": "seqwater",
+  "name": "Seqwater",
+  "name_zh": "东南昆士兰水务（Seqwater）",
+  "ownership": "Queensland Government statutory authority",
+  "hq": "Ipswich",
+  "categories": [
+   "other"
+  ],
+  "background_en": "Bulk water supplier for South East Queensland.\n- Owns Gold Coast Desalination Plant (43 GL/yr).\n- Planning Gold Coast expansion and a second SEQ plant (~2035).",
+  "background_zh": "东南昆州原水供应方。\n- 拥有黄金海岸海水淡化厂（43 GL/年）。\n- 规划黄金海岸扩建及第二座淡化厂（约2035年）。",
+  "website": "https://www.seqwater.com.au/",
+  "sources": [
+   "https://seqwater.com.au/project/proposed-gold-coast-desalination-plant-expansion"
+  ],
+  "project_ids": [
+   "OTH-024",
+   "OTH-025"
+  ],
+  "by_stage": {
+   "Operational": 1,
+   "Planning": 1
+  },
+  "by_category": {
+   "other": 2
+  }
+ },
+ {
+  "operator_id": "sgh-energy",
+  "name": "SGH Energy",
+  "name_zh": "SGH Energy",
+  "ownership": "Subsidiary of Seven Group Holdings (ASX: SVW)",
+  "hq": "Sydney",
+  "categories": [
+   "fossil"
+  ],
+  "background_en": "Energy arm of Seven Group Holdings.\n- Owns shut-in Longtom field; 15% partner in Crux.",
+  "background_zh": "Seven Group旗下能源业务。\n- 持有已关停的Longtom气田，参股Crux 15%。",
+  "website": null,
+  "sources": [
+   "https://www.boilingcold.com.au/regulator-orders-stokes-seven-group-to-fix-leak/",
+   "https://www.offshore-technology.com/projects/crux-project/"
+  ],
+  "project_ids": [
+   "FOS-042"
+  ],
+  "by_stage": {
+   "Suspended": 1
+  },
+  "by_category": {
+   "fossil": 1
+  }
+ },
+ {
+  "operator_id": "shark-bay-salt",
+  "name": "Shark Bay Salt (Mitsui)",
+  "name_zh": "鲨鱼湾盐业（三井）",
+  "ownership": "Mitsui & Co. 100%",
+  "hq": "Perth",
+  "categories": [
+   "mineral"
+  ],
+  "background_en": "Mitsui's WA salt subsidiary.\n- Useless Loop (~1.3 Mtpa, since 1967) and Onslow (~2.7 Mtpa, since 2001).\n- Supplies Japanese and Asian food and chlor-alkali markets.",
+  "background_zh": "三井西澳盐业子公司。\n- Useless Loop（约130万吨/年，1967年投产）及翁斯洛（约270万吨/年，2001年投产）。\n- 供应日本及亚洲食品和氯碱市场。",
+  "website": "https://www.mitsui.com/au/en/group/1216815_9223.html",
+  "sources": [
+   "https://www.mitsui.com/au/en/group/1216815_9223.html"
+  ],
+  "project_ids": [
+   "MIN-004",
+   "MIN-005"
+  ],
+  "by_stage": {
+   "Operational": 2
+  },
+  "by_category": {
+   "mineral": 2
+  }
+ },
+ {
+  "operator_id": "shell",
+  "name": "Shell Australia",
+  "name_zh": "壳牌澳大利亚",
+  "ownership": "Subsidiary of Shell plc (LSE/NYSE: SHEL)",
+  "hq": "Perth",
+  "categories": [
+   "fossil"
+  ],
+  "background_en": "Operator of Prelude FLNG and developer of Crux.\n- Prelude 3.6 Mtpa (67.5%).\n- Crux backfill (82%), first gas expected 2027.\n- Non-operated stakes in Gorgon (25%), NWS (16.67%) and Browse (27%).",
+  "background_zh": "Prelude浮式LNG运营商及Crux开发方。\n- Prelude 360万吨/年，持股67.5%。\n- Crux接替气田持股82%，预计2027年首气。\n- 非运营权益：Gorgon 25%、西北大陆架16.67%、Browse 27%。",
+  "website": "https://www.shell.com.au",
+  "sources": [
+   "https://www.gem.wiki/Prelude_Floating_LNG_Terminal",
+   "https://www.offshore-technology.com/projects/crux-project/"
+  ],
+  "project_ids": [
+   "FOS-009",
+   "FOS-010",
+   "OTH-049"
+  ],
+  "by_stage": {
+   "Operational": 2,
+   "Under construction": 1
+  },
+  "by_category": {
+   "fossil": 2,
+   "other": 1
+  }
+ },
+ {
+  "operator_id": "shell-australia",
+  "name": "Shell Australia",
+  "name_zh": "壳牌澳大利亚",
+  "ownership": "Subsidiary of Shell plc (LSE: SHEL)",
+  "hq": "Brisbane / Perth",
+  "categories": [
+   "fossil",
+   "other"
+  ],
+  "background_en": "Operator of QCLNG through QGC.\n- QCLNG 8.5 Mtpa, two trains (CNOOC 50% of Train 1).\n- Partner in Gorgon and GHG permits G-10-AP and G-20-AP.",
+  "background_zh": "经QGC运营QCLNG。\n- QCLNG两条线850万吨/年（中国海油持一号线50%）。\n- Gorgon及G-10-AP、G-20-AP合作方。",
+  "website": "https://www.shell.com.au/",
+  "sources": [
+   "https://www.shell.com.au/"
+  ],
+  "project_ids": [
+   "FOS-009",
+   "FOS-010",
+   "OTH-049"
+  ],
+  "by_stage": {
+   "Operational": 2,
+   "Under construction": 1
+  },
+  "by_category": {
+   "fossil": 2,
+   "other": 1
+  }
+ },
+ {
+  "operator_id": "southerly-ten",
+  "name": "Southerly Ten",
+  "name_zh": "Southerly Ten",
+  "ownership": "Private; backed by Copenhagen Infrastructure Partners (CIP)",
+  "hq": "Melbourne",
+  "categories": [
+   "renewable"
+  ],
+  "background_en": "Developer of Star of the South and Kut-Wut Brataualung.\n- Holds two Gippsland FLs (2.2 GW each).\n- Star of the South released draft EIS/EES May 2026, first in Australia.\n- Backed by CIP; Cbus Super reported as investor in Star of the South.",
+  "background_zh": "Star of the South与Kut-Wut Brataualung开发商。\n- 持有吉普斯兰2张可行性许可证（各2.2吉瓦）。\n- 2026年5月发布Star of the South的EIS/EES草案，为澳洲首例。\n- 由哥本哈根基础设施基金（CIP）支持；Cbus养老基金被报道为Star of the South投资方。",
+  "website": "https://southerlyten.com.au",
+  "sources": [
+   "https://southerlyten.com.au/star-of-the-south-takes-major-leap-forward/",
+   "https://www.energy.vic.gov.au/renewable-energy/offshore-wind-energy/victorias-offshore-wind-farm-locations"
+  ],
+  "project_ids": [
+   "REN-001",
+   "REN-002"
+  ],
+  "by_stage": {
+   "Planning": 2
+  },
+  "by_category": {
+   "renewable": 2
+  }
+ },
+ {
+  "operator_id": "southern-cross",
+  "name": "Southern Cross Cable Network",
+  "name_zh": "Southern Cross海缆网络",
+  "ownership": "Private: Spark NZ, Singtel/Optus, Telstra, Verizon",
+  "hq": "Bermuda",
+  "categories": [
+   "other"
+  ],
+  "background_en": "Operator of the main Australia-US trans-Pacific cable system.\n- SCCN (2000) and Southern Cross NEXT (2022, 72 Tbps).\n- SX Tasman Express planned 2028.",
+  "background_zh": "澳美主要跨太平洋海缆运营方。\n- SCCN（2000年）及Southern Cross NEXT（2022年，72 Tbps）。\n- SX Tasman Express计划2028年投运。",
+  "website": "http://www.southerncrosscables.com",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Southern_Cross_NEXT"
+  ],
+  "project_ids": [
+   "OTH-031",
+   "OTH-032"
+  ],
+  "by_stage": {
+   "Operational": 1,
+   "Planning": 1
+  },
+  "by_category": {
+   "other": 2
+  }
+ },
+ {
+  "operator_id": "squadron-energy",
+  "name": "Squadron Energy",
+  "name_zh": "Squadron Energy",
+  "ownership": "Private (Tattarang, Andrew Forrest)",
+  "hq": "Perth / Sydney",
+  "categories": [
+   "renewable",
+   "other"
+  ],
+  "background_en": "Renewables developer and owner of Port Kembla Energy Terminal.\n- PKET: 130 PJ/yr expected capacity; construction complete Dec 2024.\n- Early investor in SunCable (A$210m raise, 2022).",
+  "background_zh": "可再生能源开发商，Port Kembla能源码头持有方。\n- PKET预期能力130 PJ/年；2024年12月建成。\n- SunCable早期投资方（2022年2.1亿澳元融资）。",
+  "website": "https://squadronenergy.com/",
+  "sources": [
+   "https://squadronenergy.com/our-projects/port-kembla-energy-terminal"
+  ],
+  "project_ids": [
+   "OTH-052"
+  ],
+  "by_stage": {
+   "Operational": 1
+  },
+  "by_category": {
+   "other": 1
+  }
+ },
+ {
+  "operator_id": "subco",
+  "name": "SUBCO",
+  "name_zh": "SUBCO",
+  "ownership": "Private (Australian subsea cable developer)",
+  "hq": "Brisbane",
+  "categories": [
+   "other"
+  ],
+  "background_en": "Independent cable owner focused on Indian Ocean and domestic routes.\n- Operates Oman Australia Cable (48 Tbps lit).\n- SMAP domestic cable (RFS 2026); APX East/West planned 2028-29.",
+  "background_zh": "专注印度洋及国内航线的独立海缆运营商。\n- 运营阿曼-澳大利亚海缆（点亮容量48 Tbps）。\n- SMAP国内海缆（2026年投运）；APX东西线计划2028至2029年。",
+  "website": "https://sub.co/",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Oman_Australia_Cable"
+  ],
+  "project_ids": [
+   "OTH-037",
+   "OTH-038",
+   "OTH-046"
+  ],
+  "by_stage": {
+   "Operational": 2,
+   "Planning": 1
+  },
+  "by_category": {
+   "other": 3
+  }
+ },
+ {
+  "operator_id": "suncable",
+  "name": "SunCable",
+  "name_zh": "SunCable",
+  "ownership": "Private, controlled by Grok Ventures",
+  "hq": "Darwin / Sydney",
+  "categories": [
+   "renewable",
+   "other"
+  ],
+  "background_en": "Developer of the Australia-Asia PowerLink.\n- ~6 GW NT solar, 1.75 GW export to Singapore via ~4,300 km HVDC cable.\n- FID guided 2027; Grok Ventures took control after 2023 administration.",
+  "background_zh": "澳亚电力互联项目开发商。\n- 北领地约6吉瓦光伏，经约4,300公里高压直流海缆向新加坡出口1.75吉瓦。\n- FID指引2027年；2023年破产管理后由Grok Ventures控股。",
+  "website": "https://suncable.energy/",
+  "sources": [
+   "http://www.pv-magazine-australia.com/2025/07/07/federal-government-keeps-faith-in-suncable-project/"
+  ],
+  "project_ids": [
+   "OTH-030"
+  ],
+  "by_stage": {
+   "Planning": 1
+  },
+  "by_category": {
+   "other": 1
+  }
+ },
+ {
+  "operator_id": "sydney-desalination-plant",
+  "name": "Sydney Desalination Plant Pty Ltd",
+  "name_zh": "悉尼海水淡化厂公司",
+  "ownership": "Private: Ontario Teachers' 50%, UTA/TIF funds 50% (50-year lease from NSW Govt, 2012)",
+  "hq": "Sydney",
+  "categories": [
+   "other"
+  ],
+  "background_en": "Lessee and owner-operator of the Kurnell plant.\n- 250 ML/d capacity, up to 15% of Sydney supply.\n- Expansion to 500 ML/d under government consideration.",
+  "background_zh": "Kurnell淡化厂承租及运营方。\n- 产能250 ML/日，最高供应悉尼15%用水。\n- 扩建至500 ML/日待政府决策。",
+  "website": "https://www.sydneydesal.com.au/",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sydney_Desalination_Plant"
+  ],
+  "project_ids": [
+   "OTH-018",
+   "OTH-019"
+  ],
+  "by_stage": {
+   "Operational": 1,
+   "Planning": 1
+  },
+  "by_category": {
+   "other": 2
+  }
+ },
+ {
+  "operator_id": "tas-epa",
+  "name": "Tasmania EPA",
+  "name_zh": "塔斯马尼亚环保局",
+  "ownership": "Government (Tasmania)",
+  "hq": "Hobart",
+  "categories": [
+   "agri"
+  ],
+  "background_en": "Environmental regulator for Tasmanian finfish farming.\n- Sets biomass and dissolved-oxygen requirements in Macquarie Harbour and Storm Bay.\n- Approved Macquarie Harbour oxygenation plans on 1 Sep 2026.",
+  "background_zh": "塔斯马尼亚鱼类养殖环境监管机构。\n- 制定Macquarie Harbour及Storm Bay生物量和溶解氧要求。\n- 2026年9月1日批准Macquarie Harbour增氧方案。",
+  "website": "https://epa.tas.gov.au",
+  "sources": [
+   "https://www.salmonbusiness.com/tasmania-salmon-farms-required-to-offset-10-3-tonnes-of-oxygen-use-a-day/"
+  ],
+  "project_ids": [
+   "AGR-004",
+   "AGR-005"
+  ],
+  "by_stage": {
+   "Operational": 2
+  },
+  "by_category": {
+   "agri": 2
+  }
+ },
+ {
+  "operator_id": "tassal",
+  "name": "Tassal (Cooke)",
+  "name_zh": "Tassal（Cooke旗下）",
+  "ownership": "Private (Cooke Inc., Canada); delisted from ASX Nov 2022",
+  "hq": "Hobart",
+  "categories": [
+   "agri"
+  ],
+  "background_en": "Tasmania's long-time largest salmon farmer, owned by Cooke Inc. since 2022.\n- Acquired at A$5.23/share (~A$1.7bn).\n- Salmon (33,388 t FY2026), prawns (QLD/NSW) and Cone Bay barramundi (WA).",
+  "background_zh": "塔斯马尼亚长期最大三文鱼养殖商，2022年起由加拿大Cooke Inc.持有。\n- 收购价每股5.23澳元（约17亿澳元）。\n- 业务：三文鱼（FY2026产量33,388吨）、对虾（昆州/新州）及西澳Cone Bay尖吻鲈。",
+  "website": "https://www.tassal.com.au",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tassal",
+   "https://www.salmonbusiness.com/huon-overtakes-tassal-as-tasmanian-salmon-output-jumps-9/"
+  ],
+  "project_ids": [
+   "AGR-001",
+   "AGR-006",
+   "AGR-009",
+   "AGR-014"
+  ],
+  "by_stage": {
+   "Operational": 4
+  },
+  "by_category": {
+   "agri": 4
+  }
+ },
+ {
+  "operator_id": "telstra",
+  "name": "Telstra",
+  "name_zh": "澳洲电信",
+  "ownership": "Listed (ASX: TLS)",
+  "hq": "Melbourne",
+  "categories": [
+   "other"
+  ],
+  "background_en": "Australia's largest telco and cable owner.\n- Owns Bass Strait-1 and -2; 25% of Southern Cross.\n- Partner in AJC, TGA and INDIGO-West.",
+  "background_zh": "澳大利亚最大电信运营商及海缆持有方。\n- 拥有巴斯海峡1号、2号；持Southern Cross 25%。\n- AJC、TGA、INDIGO-West合作方。",
+  "website": "https://www.telstra.com.au/",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Southern_Cross_NEXT"
+  ],
+  "project_ids": [
+   "OTH-041",
+   "OTH-042",
+   "OTH-047"
+  ],
+  "by_stage": {
+   "Operational": 3
+  },
+  "by_category": {
+   "other": 3
+  }
+ },
+ {
+  "operator_id": "totalenergies",
+  "name": "TotalEnergies",
+  "name_zh": "道达尔能源",
+  "ownership": "Listed (Euronext/NYSE: TTE)",
+  "hq": "Paris",
+  "categories": [
+   "fossil"
+  ],
+  "background_en": "Largest non-operating partner in Ichthys LNG.\n- Holds 26% of Ichthys.\n- No operated offshore production in Australia.",
+  "background_zh": "Ichthys LNG最大的非运营合作方。\n- 持有Ichthys 26%权益。\n- 在澳无运营的海上生产资产。",
+  "website": "https://totalenergies.com",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ichthys_gas_field"
+  ],
+  "project_ids": [],
+  "by_stage": {},
+  "by_category": {}
+ },
+ {
+  "operator_id": "tweed-sand-bypassing",
+  "name": "Tweed Sand Bypassing (NSW & QLD Govts)",
+  "name_zh": "特威德输砂旁通工程（新州及昆州政府）",
+  "ownership": "Government (NSW and Queensland joint)",
+  "hq": "Tweed Heads",
+  "categories": [
+   "mineral"
+  ],
+  "background_en": "Joint NSW–QLD coastal sand management scheme.\n- ~500,000 m3/yr long-term target.\n- Government-run since Sep 2024 handback from McConnell Dowell.",
+  "background_zh": "新州与昆州联合海岸输砂管理工程。\n- 长期目标约50万立方米/年。\n- 2024年9月自McConnell Dowell移交后由政府运营。",
+  "website": "https://tweedsandbypass.nsw.gov.au",
+  "sources": [
+   "https://mcconnelldowell.com/projects/tweed-sand-bypassing-facility",
+   "https://www.echo.net.au/2026/03/dredging-underway-at-tweed-river-entrance/"
+  ],
+  "project_ids": [
+   "MIN-014"
+  ],
+  "by_stage": {
+   "Operational": 1
+  },
+  "by_category": {
+   "mineral": 1
+  }
+ },
+ {
+  "operator_id": "utas",
+  "name": "University of Tasmania",
+  "name_zh": "塔斯马尼亚大学",
+  "ownership": "Public university",
+  "hq": "Hobart",
+  "categories": [
+   "renewable"
+  ],
+  "background_en": "Leads the Australian Tidal Energy (AUSTEn) resource assessment.\n- Banks Strait identified as Australia's most energetic tidal site in the study",
+  "background_zh": "牵头澳大利亚潮汐能（AUSTEn）资源评估。\n- 研究认定Banks Strait为澳洲潮汐能量密度最高的海域",
+  "website": "https://www.utas.edu.au",
+  "sources": [],
+  "project_ids": [
+   "REN-025"
+  ],
+  "by_stage": {
+   "Exploration / appraisal": 1
+  },
+  "by_category": {
+   "renewable": 1
+  }
+ },
+ {
+  "operator_id": "venice-energy",
+  "name": "Venice Energy",
+  "name_zh": "Venice Energy",
+  "ownership": "Private",
+  "hq": "Adelaide",
+  "categories": [
+   "other"
+  ],
+  "background_en": "Developer of an LNG import terminal at Outer Harbor, Adelaide.",
+  "background_zh": "阿德莱德Outer Harbor LNG进口终端开发商。",
+  "website": null,
+  "sources": [],
+  "project_ids": [
+   "OTH-055"
+  ],
+  "by_stage": {
+   "Planning": 1
+  },
+  "by_category": {
+   "other": 1
+  }
+ },
+ {
+  "operator_id": "vermilion",
+  "name": "Vermilion Energy",
+  "name_zh": "Vermilion Energy",
+  "ownership": "Listed (TSX/NYSE: VET)",
+  "hq": "Calgary",
+  "categories": [
+   "fossil"
+  ],
+  "background_en": "Canadian producer with one Australian offshore oil field.\n- Wandoo field, 100% working interest.",
+  "background_zh": "加拿大油气生产商，在澳持有一个海上油田。\n- Wandoo油田，100%工作权益。",
+  "website": "https://www.vermilionenergy.com",
+  "sources": [
+   "https://www.vermilionenergy.com/our-operations/"
+  ],
+  "project_ids": [
+   "FOS-032"
+  ],
+  "by_stage": {
+   "Operational": 1
+  },
+  "by_category": {
+   "fossil": 1
+  }
+ },
+ {
+  "operator_id": "vfa",
+  "name": "Victorian Fisheries Authority",
+  "name_zh": "维多利亚州渔业局",
+  "ownership": "Government (Victoria)",
+  "hq": "Melbourne",
+  "categories": [
+   "agri"
+  ],
+  "background_en": "Victorian fisheries regulator.\n- Rock lobster TACCs: Western Zone 245 t, Eastern Zone 21 t.\n- Manages Port Phillip Bay aquaculture fisheries reserves.",
+  "background_zh": "维州渔业主管机构。\n- 岩龙虾TACC：西区245吨、东区21吨。\n- 管理菲利普港湾水产养殖保留区。",
+  "website": "https://vfa.vic.gov.au",
+  "sources": [
+   "https://vfa.vic.gov.au/__data/assets/pdf_file/0006/1190418/Att-3_RLRAG-2025-26-TACC-Recommendation.pdf"
+  ],
+  "project_ids": [
+   "AGR-019"
+  ],
+  "by_stage": {
+   "Operational": 1
+  },
+  "by_category": {
+   "agri": 1
+  }
+ },
+ {
+  "operator_id": "viva-energy",
+  "name": "Viva Energy",
+  "name_zh": "Viva Energy",
+  "ownership": "Listed (ASX: VEA)",
+  "hq": "Melbourne",
+  "categories": [
+   "other"
+  ],
+  "background_en": "Fuel refiner and marketer; owns the Geelong refinery.\n- Proposed a floating LNG import terminal at Geelong",
+  "background_zh": "燃料炼化及销售商，拥有吉朗炼厂。\n- 曾提出在吉朗建设浮式LNG进口终端",
+  "website": "https://www.vivaenergy.com.au",
+  "sources": [],
+  "project_ids": [
+   "OTH-053"
+  ],
+  "by_stage": {
+   "Planning": 1
+  },
+  "by_category": {
+   "other": 1
+  }
+ },
+ {
+  "operator_id": "vocus",
+  "name": "Vocus",
+  "name_zh": "Vocus",
+  "ownership": "Private (Macquarie Asset Management / Aware Super)",
+  "hq": "Brisbane",
+  "categories": [
+   "other"
+  ],
+  "background_en": "Fibre and subsea network owner.\n- Owns Australia-Singapore Cable (2018) and North-West Cable System (2016).",
+  "background_zh": "光纤及海缆网络运营商。\n- 拥有澳新海缆ASC（2018年）及西北海缆系统（2016年）。",
+  "website": "https://www.vocus.com.au/",
+  "sources": [
+   "https://www.submarinecablemap.com/api/v3/cable/australia-singapore-cable-asc.json"
+  ],
+  "project_ids": [
+   "OTH-036",
+   "OTH-048"
+  ],
+  "by_stage": {
+   "Operational": 2
+  },
+  "by_category": {
+   "other": 2
+  }
+ },
+ {
+  "operator_id": "vopak",
+  "name": "Vopak",
+  "name_zh": "孚宝（Vopak）",
+  "ownership": "Listed (Euronext: VPK)",
+  "hq": "Rotterdam",
+  "categories": [
+   "other"
+  ],
+  "background_en": "Dutch independent tank-storage operator.\n- Proponent of the Vopak Victoria Energy Terminal (floating LNG import) at Avalon, Port Phillip",
+  "background_zh": "荷兰独立储罐运营商。\n- 维州Avalon（菲利普港湾）浮式LNG进口终端的开发方",
+  "website": "https://www.vopak.com",
+  "sources": [],
+  "project_ids": [
+   "OTH-054"
+  ],
+  "by_stage": {
+   "Planning": 1
+  },
+  "by_category": {
+   "other": 1
+  }
+ },
+ {
+  "operator_id": "water-corporation",
+  "name": "Water Corporation",
+  "name_zh": "西澳水务公司",
+  "ownership": "WA Government-owned corporation",
+  "hq": "Perth",
+  "categories": [
+   "other"
+  ],
+  "background_en": "WA's principal water utility.\n- Owns Perth Seawater (45 GL/yr) and Southern Seawater (100 GL/yr) plants.\n- Building Alkimos (50 GL/yr Stage 1, A$2.8bn) for 2028.",
+  "background_zh": "西澳主要供水企业。\n- 拥有珀斯海水淡化厂（45 GL/年）及南部海水淡化厂（100 GL/年）。\n- 在建Alkimos淡化厂（一期50 GL/年，28亿澳元），2028年投运。",
+  "website": "https://www.watercorporation.com.au/",
+  "sources": [
+   "https://watercorporation.com.au/ASDP"
+  ],
+  "project_ids": [
+   "OTH-015",
+   "OTH-016",
+   "OTH-017"
+  ],
+  "by_stage": {
+   "Operational": 2,
+   "Under construction": 1
+  },
+  "by_category": {
+   "other": 3
+  }
+ },
+ {
+  "operator_id": "wave-swell",
+  "name": "Wave Swell Energy",
+  "name_zh": "Wave Swell Energy",
+  "ownership": "Private (Australian)",
+  "hq": "Melbourne",
+  "categories": [
+   "renewable"
+  ],
+  "background_en": "Developer of UniWave oscillating-water-column technology.\n- 200 kW UniWave200 grid-connected on King Island Jun 2021 under Hydro Tasmania PPA.\n- ARENA project (A$4.03m of A$19.37m) closed Oct 2024; device decommissioned.\n- Next commercial project not verified as at Oct 2026.",
+  "background_zh": "UniWave振荡水柱技术开发商。\n- 2021年6月200千瓦UniWave200在金岛并网，与Hydro Tasmania签订购电协议。\n- ARENA项目（总投资1937万澳元，资助403万澳元）2024年10月结项，装置退役。\n- 截至2026年10月未核实后续商业项目。",
+  "website": "https://www.waveswellenergy.com.au",
+  "sources": [
+   "https://arena.gov.au/projects/uniwave200-king-island-project-wave-swell/"
+  ],
+  "project_ids": [
+   "REN-024"
+  ],
+  "by_stage": {
+   "Decommissioned": 1
+  },
+  "by_category": {
+   "renewable": 1
+  }
+ },
+ {
+  "operator_id": "woodside",
+  "name": "Woodside Energy",
+  "name_zh": "伍德赛德能源",
+  "ownership": "Listed (ASX/NYSE: WDS)",
+  "hq": "Perth",
+  "categories": [
+   "fossil",
+   "other"
+  ],
+  "background_en": "Australia's largest independent oil and gas producer and LNG operator.\n- Operates NWS, Pluto, Scarborough, Browse, Sunrise and, from 1 Jul 2026, Bass Strait.\n- Merged with BHP Petroleum in 2022, inheriting Bass Strait, Pyrenees, Macedon and legacy decommissioning.\n- 2024 asset swap with Chevron lifts NWS stake to 50% and exits Wheatstone and Julimar-Brunello (targeted Q4 2026).",
+  "background_zh": "澳大利亚最大的独立油气生产商和LNG运营商。\n- 运营西北大陆架、Pluto、Scarborough、Browse、大日出，2026年7月1日起运营巴斯海峡。\n- 2022年与必和必拓石油业务合并，承接巴斯海峡、Pyrenees、Macedon及多项弃置责任。\n- 2024年与雪佛龙资产置换，西北大陆架权益升至50%，退出Wheatstone与Julimar-Brunello（目标2026年四季度交割）。",
+  "website": "https://www.woodside.com",
+  "sources": [
+   "https://www.woodside.com/docs/default-source/investor-documents/quarterly-and-half-yearly-pdfs-and-data-tables/2026/half-year-2026-report.pdf",
+   "https://www.sec.gov/Archives/edgar/data/844551/000119312524281613/d913266dex991.htm",
+   "https://offshore-mag.com/regional-reports/australia-new-zealand/article/14282159/five-majors-awarded-ghg-assessment-permit-offshore-western-australia"
+  ],
+  "project_ids": [
+   "FOS-001",
+   "FOS-002",
+   "FOS-003",
+   "FOS-007",
+   "FOS-011",
+   "FOS-012",
+   "FOS-016",
+   "FOS-018",
+   "FOS-019",
+   "FOS-022",
+   "FOS-023",
+   "FOS-025",
+   "FOS-026",
+   "FOS-027",
+   "FOS-028",
+   "FOS-036",
+   "FOS-037",
+   "FOS-038",
+   "FOS-039",
+   "FOS-049",
+   "OTH-006",
+   "OTH-012"
+  ],
+  "by_stage": {
+   "Operational": 9,
+   "Under construction": 2,
+   "Planning": 3,
+   "Exploration / appraisal": 3,
+   "Decommissioned": 1,
+   "Decommissioning": 4
+  },
+  "by_category": {
+   "fossil": 20,
+   "other": 2
+  }
+ },
+ {
+  "operator_id": "yumbah",
+  "name": "Yumbah Aquaculture",
+  "name_zh": "Yumbah Aquaculture",
+  "ownership": "Private (Australian shareholders)",
+  "hq": "Adelaide",
+  "categories": [
+   "agri"
+  ],
+  "background_en": "Largest Australian land-based abalone farmer.\n- Also produces mussels, oysters, spat and kingfish.\n- Port Lincoln abalone farm under ASC audit.",
+  "background_zh": "澳大利亚最大陆基鲍鱼养殖商。\n- 另产贻贝、牡蛎、苗种及黄尾鰤。\n- 林肯港鲍鱼场接受ASC审核。",
+  "website": "https://www.yumbah.com",
+  "sources": [
+   "https://www.yumbah.com/"
+  ],
+  "project_ids": [
+   "AGR-020"
+  ],
+  "by_stage": {
+   "Operational": 1
+  },
+  "by_category": {
+   "agri": 1
+  }
+ },
+ {
+  "operator_id": "orsted",
+  "name": "Ørsted",
+  "name_zh": "沃旭能源（Ørsted）",
+  "ownership": "Listed (Nasdaq Copenhagen: ORSTED); Danish state majority",
+  "hq": "Fredericia, Denmark",
+  "categories": [
+   "renewable"
+  ],
+  "background_en": "Global offshore wind developer.\n- Holds Gippsland 1 (2.8 GW) and Gippsland 2 (2 GW) FLs, granted 2024.\n- Lodged Gippsland 1 EPBC documents Feb 2026.\n- Group under financial pressure from US offshore wind setbacks 2024–26.",
+  "background_zh": "全球海上风电开发商。\n- 持有Gippsland 1（2.8吉瓦）、Gippsland 2（2吉瓦）可行性许可证，2024年获发。\n- 2026年2月提交Gippsland 1的EPBC环评文件。\n- 2024–26年受美国海上风电受挫影响，集团财务承压。",
+  "website": "https://orsted.com.au",
+  "sources": [
+   "https://orsted.com/en/media/news/2024/05/oersted-secures-licences-to-develop-large-scale-of-855411",
+   "https://www.offshorewind.biz/2026/02/09/orsted-jera-nex-bp-submit-environmental-applications-for-offshore-wind-projects-in-australia"
+  ],
+  "project_ids": [
+   "REN-004",
+   "REN-005"
+  ],
+  "by_stage": {
+   "Planning": 2
+  },
+  "by_category": {
+   "renewable": 2
+  }
+ }
+]

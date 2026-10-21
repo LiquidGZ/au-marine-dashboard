@@ -1,0 +1,140 @@
+[
+ {
+  "zone_id": "gippsland",
+  "name_en": "Gippsland",
+  "name_zh": "吉普斯兰",
+  "state": "VIC",
+  "status": "Declared",
+  "declared_date": "2022-12-19",
+  "area_km2": 15000.0,
+  "potential_gw": 25.0,
+  "fl_granted": 12,
+  "fl_active": 9,
+  "fl_capacity_gw": 18.5,
+  "commercial_licences": 0,
+  "centroid_lat": -38.95,
+  "centroid_lng": 147.1,
+  "notes_en": "Instrument OEI-01-2022 (F2022L01736), three parts: Part 1 8,724 km², Part 2 2,030 km², Part 3 4,246 km² (original proposal 27,500 km²). 12 FLs granted 2024 from 37 applications (~25 GW); 3 surrendered (Gippsland Dawn 14 Jul 2025, Kent 10 Oct 2025, Gippsland Skies 5 Jan 2026), leaving 9 active (~18.5 GW sum of project capacities). Navigator North on hold; Corio's Great Eastern dormant. Victoria's first auction (RFP opened 26 Aug 2026) covers this area. Boundary geometry: Geoscience Australia FeatureServer https://services1.arcgis.com/wfNKYeHsOyaFyPw3/arcgis/rest/services/OffshoreRenewable_Energy_Infrastructure_Regions/FeatureServer/7 (layer 7; returns JSON). Centroid approximate.",
+  "notes_zh": "宣布文件OEI-01-2022（F2022L01736），分三部分：第1部分8724平方公里、第2部分2030平方公里、第3部分4246平方公里（原拟议27500平方公里）。2024年从37份申请中发放12张可行性许可证（约25吉瓦）；3张已交还（Gippsland Dawn 2025年7月14日、Kent 2025年10月10日、Gippsland Skies 2026年1月5日），现存9张，项目装机合计约18.5吉瓦。Navigator North搁置，Corio的Great Eastern停滞。维州首轮招标（2026年8月26日开启RFP）覆盖该海域。中心点为近似值。",
+  "sources": [
+   "https://services1.arcgis.com/wfNKYeHsOyaFyPw3/arcgis/rest/services/OffshoreRenewable_Energy_Infrastructure_Regions/FeatureServer/7",
+   "https://www.energy.vic.gov.au/renewable-energy/offshore-wind-energy/victorias-offshore-wind-farm-locations",
+   "https://www.legislation.gov.au/F2022L01736/latest/text"
+  ]
+ },
+ {
+  "zone_id": "southern-ocean",
+  "name_en": "Southern Ocean (off Warrnambool–Port Fairy)",
+  "name_zh": "南大洋（Warrnambool–Port Fairy外海）",
+  "state": "VIC",
+  "status": "Declared (revised)",
+  "declared_date": "2024-03-06",
+  "area_km2": 1030.0,
+  "potential_gw": null,
+  "fl_granted": 1,
+  "fl_active": 1,
+  "fl_capacity_gw": 1.2,
+  "commercial_licences": 0,
+  "centroid_lat": -38.55,
+  "centroid_lng": 142.2,
+  "notes_en": "Instrument OEI-01-2024 (F2024L00287); 1,030 km² 15–20 km off Warrnambool/Port Fairy, cut from 5,132 km² proposed area (which reached into SA waters off Port MacDonnell). One FL: Spinifex (Alinta/JERA Nex), Feb 2025, ~one third of the area. Included in Victoria's 2 GW first auction. Potential GW figure not verified this session. Boundary: Geoscience Australia FeatureServer layer 7.",
+  "notes_zh": "宣布文件OEI-01-2024（F2024L00287）；面积1030平方公里，位于Warrnambool/Port Fairy外15–20公里，由5132平方公里拟议范围（原延伸至南澳Port MacDonnell外海）缩减而来。仅1张许可证：Spinifex（Alinta/JERA Nex），2025年2月发放，约占海域三分之一。纳入维州首轮2吉瓦招标。潜在装机数据本次未核实。",
+  "sources": [
+   "https://services1.arcgis.com/wfNKYeHsOyaFyPw3/arcgis/rest/services/OffshoreRenewable_Energy_Infrastructure_Regions/FeatureServer/7",
+   "https://www.energy.vic.gov.au/renewable-energy/offshore-wind-energy/victorias-offshore-wind-farm-locations",
+   "https://www.legislation.gov.au/F2024L00287/asmade/text"
+  ]
+ },
+ {
+  "zone_id": "hunter",
+  "name_en": "Hunter",
+  "name_zh": "猎人谷",
+  "state": "NSW",
+  "status": "Declared",
+  "declared_date": "2023-07-12",
+  "area_km2": 1854.0,
+  "potential_gw": null,
+  "fl_granted": 0,
+  "fl_active": 0,
+  "fl_capacity_gw": 0.0,
+  "commercial_licences": 0,
+  "centroid_lat": -32.95,
+  "centroid_lng": 152.05,
+  "notes_en": "Instrument OEI-01-2023 (F2023L01005); 1,854 km² between Swansea and Port Stephens (proposal 2,811 km²). 8 FL applications assessed; only Novocastrian (Equinor/Oceanex, 2 GW floating) offered an FL (Feb 2025), declined Aug 2025. Government said in 2025 it would not reopen the zone to other applicants; R&D licences available across all six zones from 2025–26. Potential GW not verified this session.",
+  "notes_zh": "宣布文件OEI-01-2023（F2023L01005）；面积1854平方公里，位于Swansea至Port Stephens外海（拟议2811平方公里）。共评估8份申请，仅Novocastrian（Equinor/Oceanex，2吉瓦漂浮式）于2025年2月获许可证要约，2025年8月被拒收。政府2025年表示不向其他申请人重新开放；2025–26年起六个海域均可申请研发许可证。潜在装机本次未核实。",
+  "sources": [
+   "https://services1.arcgis.com/wfNKYeHsOyaFyPw3/arcgis/rest/services/OffshoreRenewable_Energy_Infrastructure_Regions/FeatureServer/7",
+   "https://reneweconomy.com.au/global-wind-giant-pulls-plug-on-australias-first-floating-wind-project/amp/",
+   "https://www.legislation.gov.au/F2023L01005/latest/text"
+  ]
+ },
+ {
+  "zone_id": "illawarra",
+  "name_en": "Illawarra",
+  "name_zh": "伊拉瓦拉",
+  "state": "NSW",
+  "status": "Declared",
+  "declared_date": "2024-06-11",
+  "area_km2": 1022.0,
+  "potential_gw": null,
+  "fl_granted": 0,
+  "fl_active": 0,
+  "fl_capacity_gw": 0.0,
+  "commercial_licences": 0,
+  "centroid_lat": -34.45,
+  "centroid_lng": 151.15,
+  "notes_en": "Instrument OEI-02-2024 (F2024L00685); 1,022 km² declared (proposal 1,461 km²). 23 Jan 2026: government confirmed no FLs; last applicant BlueFloat (South Pacific, 1.6 GW) withdrew. Zone stays declared; R&D licences available. Potential GW not verified this session.",
+  "notes_zh": "宣布文件OEI-02-2024（F2024L00685）；宣布面积1022平方公里（拟议1461平方公里）。2026年1月23日政府确认不发放可行性许可证；最后申请人BlueFloat（South Pacific，1.6吉瓦）已撤回。海域宣布继续有效，可申请研发许可证。",
+  "sources": [
+   "https://services1.arcgis.com/wfNKYeHsOyaFyPw3/arcgis/rest/services/OffshoreRenewable_Energy_Infrastructure_Regions/FeatureServer/7",
+   "https://www.illawarramercury.com.au/story/9159854/illawarra-offshore-wind-zone-govt-admits-bluefloat-is-gone/",
+   "https://www.legislation.gov.au/F2024L00685/asmade/text"
+  ]
+ },
+ {
+  "zone_id": "bunbury",
+  "name_en": "Indian Ocean off Bunbury",
+  "name_zh": "班伯里外印度洋",
+  "state": "WA",
+  "status": "Declared (revised)",
+  "declared_date": "2024-09-02",
+  "area_km2": 3996.0,
+  "potential_gw": 11.4,
+  "fl_granted": 3,
+  "fl_active": 3,
+  "fl_capacity_gw": 4.0,
+  "commercial_licences": 0,
+  "centroid_lat": -33.25,
+  "centroid_lng": 115.35,
+  "notes_en": "Instrument OEI-03-2024 (F2024L01108), two parts (1,916 + 2,080 km²), ≥30 km offshore; cut from 7,670 km² proposal. Final FLs offered 23 Jan 2026 to Bunbury OW North and South (EDF) and Westward Wind (Ocean Winds); ~4 GW combined (government figure). Supplies SWIS.",
+  "notes_zh": "宣布文件OEI-03-2024（F2024L01108），两部分合计3996平方公里（1916＋2080），离岸至少30公里；由7670平方公里拟议范围缩减。2026年1月23日向Bunbury北部、南部（EDF）及Westward Wind（Ocean Winds）发出最终许可证要约，合计约4吉瓦（政府口径），接入SWIS电网。",
+  "sources": [
+   "https://services1.arcgis.com/wfNKYeHsOyaFyPw3/arcgis/rest/services/OffshoreRenewable_Energy_Infrastructure_Regions/FeatureServer/7",
+   "https://www.offshorewind.biz/2026/01/23/australian-govt-awards-final-feasibility-licences-to-three-offshore-wind-projects-in-bunbury-zone/",
+   "https://www.legislation.gov.au/F2024L01108/asmade/text"
+  ]
+ },
+ {
+  "zone_id": "bass-strait-north",
+  "name_en": "Bass Strait (off Northern Tasmania)",
+  "name_zh": "巴斯海峡（塔斯马尼亚北部外海）",
+  "state": "TAS",
+  "status": "Declared (revised)",
+  "declared_date": "2024-12-12",
+  "area_km2": 7104.0,
+  "potential_gw": 20.0,
+  "fl_granted": 0,
+  "fl_active": 0,
+  "fl_capacity_gw": 0.0,
+  "commercial_licences": 0,
+  "centroid_lat": -40.6,
+  "centroid_lng": 146.1,
+  "notes_en": "Instrument OEI-04-2024 (F2024L01647), two parts (5,511 + 1,593 km²), pushed ≥30 km offshore and shrunk from 10,136 km² proposal. Jan–Feb 2026: government decided not to offer FLs citing lack of competitive bids. R&D licences available. Declared date per media reports of 12 Dec 2024 declaration.",
+  "notes_zh": "宣布文件OEI-04-2024（F2024L01647），两部分合计7104平方公里（5511＋1593），离岸至少30公里，由10136平方公里拟议范围缩减。2026年1–2月政府以缺乏竞争性申请为由决定不发放可行性许可证。可申请研发许可证。",
+  "sources": [
+   "https://services1.arcgis.com/wfNKYeHsOyaFyPw3/arcgis/rest/services/OffshoreRenewable_Energy_Infrastructure_Regions/FeatureServer/7",
+   "https://www.offshorewind.biz/2024/12/12/australia-declares-wind-zone-for-20-gw-off-bass-strait",
+   "https://reneweconomy.com.au/french-giants-dominate-offshore-wind-licences-out-west-but-none-offered-in-illawarra-or-bass-strait"
+  ]
+ }
+]

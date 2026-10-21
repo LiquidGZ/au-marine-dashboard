@@ -1,0 +1,691 @@
+{
+ "project_count": 189,
+ "by_category_stage": {
+  "fossil": {
+   "Operational": 22,
+   "Under construction": 4,
+   "Approved / FID": 2,
+   "Planning": 6,
+   "Exploration / appraisal": 7,
+   "Suspended": 3,
+   "Decommissioning": 10,
+   "Decommissioned": 1,
+   "Cancelled": 0
+  },
+  "renewable": {
+   "Operational": 1,
+   "Under construction": 0,
+   "Approved / FID": 0,
+   "Planning": 11,
+   "Exploration / appraisal": 1,
+   "Suspended": 2,
+   "Decommissioning": 0,
+   "Decommissioned": 2,
+   "Cancelled": 8
+  },
+  "mineral": {
+   "Operational": 9,
+   "Under construction": 1,
+   "Approved / FID": 0,
+   "Planning": 1,
+   "Exploration / appraisal": 1,
+   "Suspended": 1,
+   "Decommissioning": 0,
+   "Decommissioned": 0,
+   "Cancelled": 2
+  },
+  "agri": {
+   "Operational": 30,
+   "Under construction": 0,
+   "Approved / FID": 0,
+   "Planning": 1,
+   "Exploration / appraisal": 0,
+   "Suspended": 1,
+   "Decommissioning": 0,
+   "Decommissioned": 0,
+   "Cancelled": 0
+  },
+  "other": {
+   "Operational": 31,
+   "Under construction": 4,
+   "Approved / FID": 2,
+   "Planning": 16,
+   "Exploration / appraisal": 8,
+   "Suspended": 0,
+   "Decommissioning": 0,
+   "Decommissioned": 0,
+   "Cancelled": 1
+  }
+ },
+ "by_subcategory_stage": {
+  "fossil|LNG": {
+   "Operational": 9,
+   "Under construction": 3,
+   "Approved / FID": 1,
+   "Planning": 3,
+   "Exploration / appraisal": 0,
+   "Suspended": 0,
+   "Decommissioning": 1,
+   "Decommissioned": 0,
+   "Cancelled": 0
+  },
+  "fossil|Domestic gas": {
+   "Operational": 8,
+   "Under construction": 1,
+   "Approved / FID": 1,
+   "Planning": 3,
+   "Exploration / appraisal": 0,
+   "Suspended": 1,
+   "Decommissioning": 2,
+   "Decommissioned": 0,
+   "Cancelled": 0
+  },
+  "fossil|Exploration & appraisal": {
+   "Operational": 0,
+   "Under construction": 0,
+   "Approved / FID": 0,
+   "Planning": 0,
+   "Exploration / appraisal": 7,
+   "Suspended": 0,
+   "Decommissioning": 0,
+   "Decommissioned": 0,
+   "Cancelled": 0
+  },
+  "fossil|Oil & condensate": {
+   "Operational": 5,
+   "Under construction": 0,
+   "Approved / FID": 0,
+   "Planning": 0,
+   "Exploration / appraisal": 0,
+   "Suspended": 2,
+   "Decommissioning": 7,
+   "Decommissioned": 1,
+   "Cancelled": 0
+  },
+  "renewable|Offshore wind": {
+   "Operational": 0,
+   "Under construction": 0,
+   "Approved / FID": 0,
+   "Planning": 11,
+   "Exploration / appraisal": 0,
+   "Suspended": 2,
+   "Decommissioning": 0,
+   "Decommissioned": 0,
+   "Cancelled": 7
+  },
+  "renewable|Wave & tidal": {
+   "Operational": 1,
+   "Under construction": 0,
+   "Approved / FID": 0,
+   "Planning": 0,
+   "Exploration / appraisal": 1,
+   "Suspended": 0,
+   "Decommissioning": 0,
+   "Decommissioned": 2,
+   "Cancelled": 1
+  },
+  "mineral|Sea salt & potash": {
+   "Operational": 7,
+   "Under construction": 1,
+   "Approved / FID": 0,
+   "Planning": 1,
+   "Exploration / appraisal": 0,
+   "Suspended": 1,
+   "Decommissioning": 0,
+   "Decommissioned": 0,
+   "Cancelled": 1
+  },
+  "mineral|Seabed minerals": {
+   "Operational": 0,
+   "Under construction": 0,
+   "Approved / FID": 0,
+   "Planning": 0,
+   "Exploration / appraisal": 0,
+   "Suspended": 0,
+   "Decommissioning": 0,
+   "Decommissioned": 0,
+   "Cancelled": 1
+  },
+  "mineral|Marine sand": {
+   "Operational": 2,
+   "Under construction": 0,
+   "Approved / FID": 0,
+   "Planning": 0,
+   "Exploration / appraisal": 1,
+   "Suspended": 0,
+   "Decommissioning": 0,
+   "Decommissioned": 0,
+   "Cancelled": 0
+  },
+  "agri|Finfish aquaculture": {
+   "Operational": 11,
+   "Under construction": 0,
+   "Approved / FID": 0,
+   "Planning": 1,
+   "Exploration / appraisal": 0,
+   "Suspended": 0,
+   "Decommissioning": 0,
+   "Decommissioned": 0,
+   "Cancelled": 0
+  },
+  "agri|Shellfish & pearl aquaculture": {
+   "Operational": 7,
+   "Under construction": 0,
+   "Approved / FID": 0,
+   "Planning": 0,
+   "Exploration / appraisal": 0,
+   "Suspended": 1,
+   "Decommissioning": 0,
+   "Decommissioned": 0,
+   "Cancelled": 0
+  },
+  "agri|Seaweed aquaculture": {
+   "Operational": 1,
+   "Under construction": 0,
+   "Approved / FID": 0,
+   "Planning": 0,
+   "Exploration / appraisal": 0,
+   "Suspended": 0,
+   "Decommissioning": 0,
+   "Decommissioned": 0,
+   "Cancelled": 0
+  },
+  "agri|Wild-catch fishery": {
+   "Operational": 11,
+   "Under construction": 0,
+   "Approved / FID": 0,
+   "Planning": 0,
+   "Exploration / appraisal": 0,
+   "Suspended": 0,
+   "Decommissioning": 0,
+   "Decommissioned": 0,
+   "Cancelled": 0
+  },
+  "other|CCS & gas storage": {
+   "Operational": 1,
+   "Under construction": 0,
+   "Approved / FID": 0,
+   "Planning": 4,
+   "Exploration / appraisal": 8,
+   "Suspended": 0,
+   "Decommissioning": 0,
+   "Decommissioned": 0,
+   "Cancelled": 1
+  },
+  "other|Desalination": {
+   "Operational": 7,
+   "Under construction": 3,
+   "Approved / FID": 0,
+   "Planning": 3,
+   "Exploration / appraisal": 0,
+   "Suspended": 0,
+   "Decommissioning": 0,
+   "Decommissioned": 0,
+   "Cancelled": 0
+  },
+  "other|Subsea cables & interconnectors": {
+   "Operational": 13,
+   "Under construction": 1,
+   "Approved / FID": 2,
+   "Planning": 5,
+   "Exploration / appraisal": 0,
+   "Suspended": 0,
+   "Decommissioning": 0,
+   "Decommissioned": 0,
+   "Cancelled": 0
+  },
+  "other|Ports & LNG terminals": {
+   "Operational": 10,
+   "Under construction": 0,
+   "Approved / FID": 0,
+   "Planning": 4,
+   "Exploration / appraisal": 0,
+   "Suspended": 0,
+   "Decommissioning": 0,
+   "Decommissioned": 0,
+   "Cancelled": 0
+  }
+ },
+ "by_state_category": {
+  "WA": {
+   "fossil": 31,
+   "renewable": 6,
+   "mineral": 8,
+   "agri": 5,
+   "other": 21
+  },
+  "NT": {
+   "fossil": 3,
+   "renewable": 0,
+   "mineral": 1,
+   "agri": 2,
+   "other": 5
+  },
+  "QLD": {
+   "fossil": 0,
+   "renewable": 0,
+   "mineral": 2,
+   "agri": 5,
+   "other": 8
+  },
+  "NSW": {
+   "fossil": 0,
+   "renewable": 3,
+   "mineral": 2,
+   "agri": 1,
+   "other": 11
+  },
+  "VIC": {
+   "fossil": 15,
+   "renewable": 13,
+   "mineral": 0,
+   "agri": 3,
+   "other": 9
+  },
+  "TAS": {
+   "fossil": 1,
+   "renewable": 2,
+   "mineral": 0,
+   "agri": 9,
+   "other": 3
+  },
+  "SA": {
+   "fossil": 0,
+   "renewable": 1,
+   "mineral": 2,
+   "agri": 6,
+   "other": 4
+  },
+  "EXT": {
+   "fossil": 5,
+   "renewable": 0,
+   "mineral": 0,
+   "agri": 1,
+   "other": 1
+  }
+ },
+ "by_stage": {
+  "Operational": 93,
+  "Under construction": 9,
+  "Approved / FID": 4,
+  "Planning": 35,
+  "Exploration / appraisal": 17,
+  "Suspended": 7,
+  "Decommissioning": 10,
+  "Decommissioned": 3,
+  "Cancelled": 11
+ },
+ "capacity_by_stage": [
+  {
+   "category": "fossil",
+   "subcategory": "Domestic gas",
+   "unit": "TJ/d gas",
+   "n": 3,
+   "excluded": 0,
+   "by_stage": {
+    "Operational": 268.0,
+    "Under construction": 0.0,
+    "Approved / FID": 90.0,
+    "Planning": 0.0,
+    "Exploration / appraisal": 0.0,
+    "Suspended": 0.0,
+    "Decommissioning": 0.0,
+    "Decommissioned": 0.0,
+    "Cancelled": 0.0
+   }
+  },
+  {
+   "category": "fossil",
+   "subcategory": "LNG",
+   "unit": "Mtpa LNG",
+   "n": 8,
+   "excluded": 1,
+   "by_stage": {
+    "Operational": 59.9,
+    "Under construction": 5.0,
+    "Approved / FID": 0.0,
+    "Planning": 0.0,
+    "Exploration / appraisal": 0.0,
+    "Suspended": 0.0,
+    "Decommissioning": 0.0,
+    "Decommissioned": 0.0,
+    "Cancelled": 0.0
+   }
+  },
+  {
+   "category": "renewable",
+   "subcategory": "Offshore wind",
+   "unit": "MW",
+   "n": 19,
+   "excluded": 0,
+   "by_stage": {
+    "Operational": 0.0,
+    "Under construction": 0.0,
+    "Approved / FID": 0.0,
+    "Planning": 18400.0,
+    "Exploration / appraisal": 0.0,
+    "Suspended": 4000.0,
+    "Decommissioning": 0.0,
+    "Decommissioned": 0.0,
+    "Cancelled": 13125.0
+   }
+  },
+  {
+   "category": "mineral",
+   "subcategory": "Sea salt & potash",
+   "unit": "Mtpa salt",
+   "n": 5,
+   "excluded": 0,
+   "by_stage": {
+    "Operational": 5.5,
+    "Under construction": 5.3,
+    "Approved / FID": 0.0,
+    "Planning": 3.4,
+    "Exploration / appraisal": 0.0,
+    "Suspended": 0.0,
+    "Decommissioning": 0.0,
+    "Decommissioned": 0.0,
+    "Cancelled": 0.0
+   }
+  },
+  {
+   "category": "other",
+   "subcategory": "CCS & gas storage",
+   "unit": "Mtpa CO2",
+   "n": 5,
+   "excluded": 0,
+   "by_stage": {
+    "Operational": 4.0,
+    "Under construction": 0.0,
+    "Approved / FID": 0.0,
+    "Planning": 26.0,
+    "Exploration / appraisal": 0.0,
+    "Suspended": 0.0,
+    "Decommissioning": 0.0,
+    "Decommissioned": 0.0,
+    "Cancelled": 0.5
+   }
+  },
+  {
+   "category": "other",
+   "subcategory": "Desalination",
+   "unit": "GL/yr",
+   "n": 8,
+   "excluded": 3,
+   "by_stage": {
+    "Operational": 438.0,
+    "Under construction": 63.3,
+    "Approved / FID": 0.0,
+    "Planning": 0.0,
+    "Exploration / appraisal": 0.0,
+    "Suspended": 0.0,
+    "Decommissioning": 0.0,
+    "Decommissioned": 0.0,
+    "Cancelled": 0.0
+   }
+  },
+  {
+   "category": "other",
+   "subcategory": "Ports & LNG terminals",
+   "unit": "Mtpa LNG",
+   "n": 3,
+   "excluded": 2,
+   "by_stage": {
+    "Operational": 25.3,
+    "Under construction": 0.0,
+    "Approved / FID": 0.0,
+    "Planning": 0.0,
+    "Exploration / appraisal": 0.0,
+    "Suspended": 0.0,
+    "Decommissioning": 0.0,
+    "Decommissioned": 0.0,
+    "Cancelled": 0.0
+   }
+  },
+  {
+   "category": "other",
+   "subcategory": "Subsea cables & interconnectors",
+   "unit": "Tbps",
+   "n": 4,
+   "excluded": 3,
+   "by_stage": {
+    "Operational": 207.0,
+    "Under construction": 0.0,
+    "Approved / FID": 0.0,
+    "Planning": 0.0,
+    "Exploration / appraisal": 0.0,
+    "Suspended": 0.0,
+    "Decommissioning": 0.0,
+    "Decommissioned": 0.0,
+    "Cancelled": 0.0
+   }
+  }
+ ],
+ "capex_by_category_stage": {
+  "fossil": {
+   "Operational": 0.0,
+   "Under construction": 0.0,
+   "Approved / FID": 3.0,
+   "Planning": 48.7,
+   "Exploration / appraisal": 0.0,
+   "Suspended": 0.0,
+   "Decommissioning": 0.0,
+   "Decommissioned": 0.0,
+   "Cancelled": 0.0
+  },
+  "renewable": {
+   "Operational": 0.0,
+   "Under construction": 0.0,
+   "Approved / FID": 0.0,
+   "Planning": 4.0,
+   "Exploration / appraisal": 0.0,
+   "Suspended": 8.0,
+   "Decommissioning": 0.0,
+   "Decommissioned": 0.0,
+   "Cancelled": 10.0
+  },
+  "mineral": {
+   "Operational": 0.0,
+   "Under construction": 1.443,
+   "Approved / FID": 0.0,
+   "Planning": 0.0,
+   "Exploration / appraisal": 0.0,
+   "Suspended": 0.0,
+   "Decommissioning": 0.0,
+   "Decommissioned": 0.0,
+   "Cancelled": 0.0
+  },
+  "agri": {
+   "Operational": 0.0,
+   "Under construction": 0.0,
+   "Approved / FID": 0.0,
+   "Planning": 0.0,
+   "Exploration / appraisal": 0.0,
+   "Suspended": 0.0,
+   "Decommissioning": 0.0,
+   "Decommissioned": 0.0,
+   "Cancelled": 0.0
+  },
+  "other": {
+   "Operational": 5.22,
+   "Under construction": 7.23,
+   "Approved / FID": 0.0,
+   "Planning": 0.0,
+   "Exploration / appraisal": 0.0,
+   "Suspended": 0.0,
+   "Decommissioning": 0.0,
+   "Decommissioned": 0.0,
+   "Cancelled": 0.0
+  }
+ },
+ "capex_counts": {
+  "fossil": 2,
+  "renewable": 3,
+  "mineral": 1,
+  "other": 8
+ },
+ "latest_updates": [
+  {
+   "project_id": "MIN-015",
+   "date": "2026-10"
+  },
+  {
+   "project_id": "OTH-003",
+   "date": "2026-10"
+  },
+  {
+   "project_id": "FOS-008",
+   "date": "2026-09"
+  },
+  {
+   "project_id": "FOS-012",
+   "date": "2026-09"
+  },
+  {
+   "project_id": "FOS-044",
+   "date": "2026-09"
+  },
+  {
+   "project_id": "FOS-045",
+   "date": "2026-09"
+  },
+  {
+   "project_id": "AGR-001",
+   "date": "2026-09"
+  },
+  {
+   "project_id": "AGR-002",
+   "date": "2026-09"
+  },
+  {
+   "project_id": "AGR-003",
+   "date": "2026-09"
+  },
+  {
+   "project_id": "AGR-004",
+   "date": "2026-09"
+  },
+  {
+   "project_id": "OTH-015",
+   "date": "2026-09"
+  },
+  {
+   "project_id": "OTH-017",
+   "date": "2026-09"
+  },
+  {
+   "project_id": "FOS-001",
+   "date": "2026-08"
+  },
+  {
+   "project_id": "FOS-003",
+   "date": "2026-08"
+  },
+  {
+   "project_id": "FOS-017",
+   "date": "2026-08"
+  },
+  {
+   "project_id": "FOS-034",
+   "date": "2026-08"
+  },
+  {
+   "project_id": "FOS-041",
+   "date": "2026-08"
+  },
+  {
+   "project_id": "REN-002",
+   "date": "2026-08"
+  },
+  {
+   "project_id": "REN-005",
+   "date": "2026-08"
+  },
+  {
+   "project_id": "REN-006",
+   "date": "2026-08"
+  },
+  {
+   "project_id": "REN-007",
+   "date": "2026-08"
+  },
+  {
+   "project_id": "REN-013",
+   "date": "2026-08"
+  },
+  {
+   "project_id": "MIN-006",
+   "date": "2026-08"
+  },
+  {
+   "project_id": "AGR-013",
+   "date": "2026-08"
+  },
+  {
+   "project_id": "AGR-021",
+   "date": "2026-08"
+  },
+  {
+   "project_id": "OTH-020",
+   "date": "2026-08"
+  },
+  {
+   "project_id": "FOS-011",
+   "date": "2026-07"
+  },
+  {
+   "project_id": "FOS-013",
+   "date": "2026-07"
+  },
+  {
+   "project_id": "FOS-014",
+   "date": "2026-07"
+  },
+  {
+   "project_id": "FOS-025",
+   "date": "2026-07"
+  },
+  {
+   "project_id": "FOS-031",
+   "date": "2026-07"
+  },
+  {
+   "project_id": "FOS-036",
+   "date": "2026-07"
+  },
+  {
+   "project_id": "FOS-040",
+   "date": "2026-07"
+  },
+  {
+   "project_id": "FOS-046",
+   "date": "2026-07"
+  },
+  {
+   "project_id": "FOS-047",
+   "date": "2026-07"
+  },
+  {
+   "project_id": "FOS-048",
+   "date": "2026-07"
+  },
+  {
+   "project_id": "MIN-001",
+   "date": "2026-07"
+  },
+  {
+   "project_id": "MIN-002",
+   "date": "2026-07"
+  },
+  {
+   "project_id": "FOS-051",
+   "date": "2026-06"
+  },
+  {
+   "project_id": "OTH-038",
+   "date": "2026-06"
+  }
+ ],
+ "operator_count": 98,
+ "instrument_count": 115
+}

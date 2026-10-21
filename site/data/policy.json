@@ -1,0 +1,3141 @@
+{
+ "stages": [
+  {
+   "stage_id": "access",
+   "name_en": "Area planning & acreage",
+   "name_zh": "海域规划与准入",
+   "order": 1,
+   "desc_en": "Declared areas, acreage release, aquaculture zones, marine parks and zoning",
+   "desc_zh": "海域宣布、区块招标、养殖区划、海洋公园及分区"
+  },
+  {
+   "stage_id": "title",
+   "name_en": "Titles, licences & quota",
+   "name_zh": "权属、许可与配额",
+   "order": 2,
+   "desc_en": "Exploration permits, production licences, feasibility & commercial licences, fishing rights, aquaculture leases",
+   "desc_zh": "勘探许可、生产许可证、可行性及商业许可证、捕捞权、养殖租约"
+  },
+  {
+   "stage_id": "approval",
+   "name_en": "Environmental & project approval",
+   "name_zh": "环境与项目审批",
+   "order": 3,
+   "desc_en": "EPBC, offshore environment plans, state environmental assessment, consultation",
+   "desc_zh": "EPBC、海上环境计划、州环境评估、相关方咨询"
+  },
+  {
+   "stage_id": "safety",
+   "name_en": "Construction, safety & operations",
+   "name_zh": "建设、安全与作业",
+   "order": 4,
+   "desc_en": "Safety cases, well integrity, structural integrity, marine safety",
+   "desc_zh": "安全案例、井完整性、结构完整性、海事安全"
+  },
+  {
+   "stage_id": "operation",
+   "name_en": "Resource management",
+   "name_zh": "资源管理与生产",
+   "order": 5,
+   "desc_en": "Field development plans, harvest strategies, TACCs, biosecurity, lease conditions",
+   "desc_zh": "油田开发方案、捕捞策略、总可捕量、生物安全、租约条件"
+  },
+  {
+   "stage_id": "fiscal",
+   "name_en": "Royalties, taxes & levies",
+   "name_zh": "财税与收费",
+   "order": 6,
+   "desc_en": "PRRT, royalties, levies, cost recovery, licence fees",
+   "desc_zh": "PRRT、特许权费、征费、成本回收、许可费"
+  },
+  {
+   "stage_id": "market",
+   "name_en": "Market, domestic supply & export",
+   "name_zh": "市场、内销与出口",
+   "order": 7,
+   "desc_en": "Gas reservation, price caps, export controls, offshore wind auctions",
+   "desc_zh": "天然气保留、价格上限、出口管制、海上风电招标"
+  },
+  {
+   "stage_id": "decom",
+   "name_en": "Decommissioning & rehabilitation",
+   "name_zh": "退役与弃置",
+   "order": 8,
+   "desc_en": "Removal obligations, trailing liability, financial security",
+   "desc_zh": "拆除义务、追溯责任、财务担保"
+  },
+  {
+   "stage_id": "cross",
+   "name_en": "Cross-cutting",
+   "name_zh": "跨领域制度",
+   "order": 9,
+   "desc_en": "Offshore Constitutional Settlement, native title, foreign investment, critical infrastructure",
+   "desc_zh": "海上宪政安排、原住民权利、外国投资、关键基础设施"
+  }
+ ],
+ "jurisdictions": [
+  {
+   "jurisdiction_id": "FED",
+   "name_en": "Commonwealth",
+   "name_zh": "联邦",
+   "marine_scope_en": "Commonwealth waters: from 3 nm off the territorial sea baseline to the 200 nm EEZ limit and the extended continental shelf; also external territories",
+   "marine_scope_zh": "联邦海域：领海基线外3海里至200海里专属经济区界限及外大陆架；另含外部领地海域",
+   "key_regulators": "NOPTA, NOPSEMA (also Offshore Infrastructure Regulator), DISR, DCCEEW, NEPA (from 2026-07), AFMA, GBRMPA, Parks Australia, PZJA, ACMA, AMSA, Clean Energy Regulator, ATO, Treasury/FIRB, ACCC, AER",
+   "overview_en": "The Commonwealth regulates almost all offshore petroleum, offshore wind, CCS and most fisheries value.\n- Titles: OPGGS Act (petroleum, GHG), OEI Act (offshore wind), Offshore Minerals Act, Fisheries Management Act\n- Approvals: NOPSEMA for petroleum and GHG; EPBC Act for offshore wind, cables and other projects, with NEPA from 1 July 2026\n- Market: Gas Market Code, ADGSM and the proposed Domestic Gas Reservation Scheme (start 1 January 2028)\n- Fiscal: PRRT with a 90% deduction cap for LNG from July 2023; cost-recovery levies; Safeguard Mechanism",
+   "overview_zh": "联邦几乎管辖全部海上油气、海上风电、碳捕集与封存，以及产值占大头的渔业。\n- 权利：OPGGS法（油气、温室气体封存）、OEI法（海上风电）、《海上矿产法》、《渔业管理法》\n- 审批：油气及温室气体封存由NOPSEMA审批；海上风电、电缆等适用EPBC法，2026年7月1日起由NEPA执法\n- 市场：天然气市场准则、ADGSM及拟议国内天然气保留机制（2028年1月1日起）\n- 财税：PRRT（2023年7月起LNG扣除上限90%）、成本回收征费、保障机制"
+  },
+  {
+   "jurisdiction_id": "WA",
+   "name_en": "Western Australia",
+   "name_zh": "西澳大利亚州",
+   "marine_scope_en": "WA coastal waters to 3 nm from baselines plus internal waters (e.g. Shark Bay, King Sound); WA also manages most fisheries off its coast to 200 nm under OCS arrangements",
+   "marine_scope_zh": "西澳沿海水域（基线外3海里）及内水（如Shark Bay、King Sound）；依海上宪政安排，西澳管理其外海至200海里的大部分渔业",
+   "key_regulators": "Department of Mines, Petroleum and Exploration (DMPE), DPIRD (fisheries, aquaculture, pearling), EPA WA / DWER, DBCA (marine parks), Department of Transport and five port authorities, Department of Energy and Economic Diversification (State Agreements)",
+   "overview_en": "WA hosts most of Australia's LNG export capacity; its role centres on coastal-water pipelines, onshore plants and domestic gas.\n- Domestic Gas Policy: 15% LNG reservation; onshore 80% to 2030 then 100% (September 2024 update)\n- CCS enabled in coastal waters and onshore by the 2024 Petroleum Legislation Amendment\n- Fisheries remain under the FRMA 1994 after ARMA was abandoned in June 2024\n- Bunbury offshore wind area (Commonwealth waters) received about 4 GW of feasibility licences in January 2026",
+   "overview_zh": "西澳拥有全国大部分LNG出口产能，州级管辖集中于沿海水域管道、陆上工厂和内销气。\n- 国内天然气政策：LNG保留15%；陆上项目2030年前80%，此后100%（2024年9月更新）\n- 2024年《石油立法修订》允许在沿海水域及陆上开展碳捕集与封存\n- 2024年6月放弃ARMA后，渔业继续适用《1994年渔业资源管理法》\n- Bunbury海上风电区域（联邦海域）于2026年1月获约4 GW可行性许可证"
+  },
+  {
+   "jurisdiction_id": "NT",
+   "name_en": "Northern Territory",
+   "name_zh": "北领地",
+   "marine_scope_en": "NT coastal waters to 3 nm plus internal waters (e.g. Darwin Harbour); Aboriginal land extends to low water mark along much of the coast",
+   "marine_scope_zh": "北领地沿海水域（3海里）及内水（如达尔文港）；沿海大部分原住民土地延伸至低潮线",
+   "key_regulators": "NT Department of Mining and Energy, NT Department of Agriculture and Fisheries, NT EPA, Parks and Wildlife Commission, Darwin Port operator, Northern Land Council and other land councils",
+   "overview_en": "NT is the landing point for Timor Sea and Browse-region gas, with LNG at Darwin.\n- Pipelines from Ichthys and Barossa cross NT coastal waters to Darwin LNG and Ichthys LNG\n- Seabed mining banned in coastal waters (decision February 2021)\n- Blue Mud Bay gives Traditional Owners control of tidal waters over Aboriginal land\n- Largely exempt from the proposed Commonwealth gas reservation scheme",
+   "overview_zh": "北领地是帝汶海及周边海域天然气的登陆点，LNG厂位于达尔文。\n- Ichthys和Barossa管道穿越北领地沿海水域通往达尔文LNG和Ichthys LNG\n- 沿海水域禁止海底采矿（2021年2月决定）\n- Blue Mud Bay案使传统所有者可控制原住民土地上方的潮间水域\n- 基本豁免于拟议的联邦天然气保留机制"
+  },
+  {
+   "jurisdiction_id": "QLD",
+   "name_en": "Queensland",
+   "name_zh": "昆士兰州",
+   "marine_scope_en": "Queensland coastal waters to 3 nm and tidal lands; most of the coast lies within the Great Barrier Reef World Heritage Area, overlapping the Commonwealth GBR Marine Park",
+   "marine_scope_zh": "昆州沿海水域（3海里）及潮间土地；大部分海岸位于大堡礁世界遗产区，与联邦大堡礁海洋公园重叠",
+   "key_regulators": "DNRMMRRD (resources), Fisheries Queensland (Department of Primary Industries), DETSI (environment, marine parks), Department of Transport and Main Roads / Maritime Safety Queensland, port GOCs, GBRMPA (joint)",
+   "overview_en": "Queensland's marine regime is shaped by the Great Barrier Reef.\n- Petroleum and mining effectively excluded from Reef waters; port development limited to four priority ports\n- Gas reservation via the prospective gas production land reserve for onshore acreage\n- GHG storage banned in the Great Artesian Basin (2024)\n- GBR commercial gillnet fishing to end by mid-2027",
+   "overview_zh": "昆州海洋监管以大堡礁为核心约束。\n- 大堡礁水域实际上排除油气及采矿；港口开发限于四个优先港口\n- 通过陆上区块“预期天然气生产用地保留”实施内销气保留\n- 2024年起禁止在大自流盆地封存温室气体\n- 大堡礁商业刺网捕捞2027年中前退出"
+  },
+  {
+   "jurisdiction_id": "NSW",
+   "name_en": "New South Wales",
+   "name_zh": "新南威尔士州",
+   "marine_scope_en": "NSW coastal waters to 3 nm, estuaries and Lord Howe Island waters",
+   "marine_scope_zh": "新州沿海水域（3海里）、河口及豪勋爵岛海域",
+   "key_regulators": "NSW Resources, NSW DPIRD (Fisheries), Department of Planning, Housing and Infrastructure, NSW EPA, Marine Estate Management Authority, Transport for NSW / Port Authority of NSW, EnergyCo, IPART",
+   "overview_en": "NSW prohibits offshore oil, gas and mineral exploration in its waters and focuses on offshore wind grid links, fisheries and aquaculture.\n- 2024 EP&A amendment bans seabed exploration and extraction and supporting onshore development\n- Hunter and Illawarra offshore wind areas are in Commonwealth waters; Hunter has one feasibility licence (Novocastrian), Illawarra none\n- Fisheries and oyster aquaculture under the Fisheries Management Act 1994; six marine parks",
+   "overview_zh": "新州禁止在其水域勘探油气和矿产，重点在海上风电并网、渔业与养殖。\n- 2024年EP&A法修订禁止海底勘探开采及配套陆上开发\n- Hunter与Illawarra海上风电区域位于联邦海域；Hunter有1个可行性许可证（Novocastrian），Illawarra无\n- 渔业及牡蛎养殖适用《1994年渔业管理法》；设六个海洋公园"
+  },
+  {
+   "jurisdiction_id": "VIC",
+   "name_en": "Victoria",
+   "name_zh": "维多利亚州",
+   "marine_scope_en": "Victorian coastal waters to 3 nm, Port Phillip Bay and Western Port",
+   "marine_scope_zh": "维州沿海水域（3海里）、Port Phillip湾及Western Port",
+   "key_regulators": "DEECA (Earth Resources Regulation, Offshore Wind Energy Victoria, VicGrid), Victorian Fisheries Authority, EPA Victoria, Department of Transport and Planning (EES), Ports Victoria, Parks Victoria",
+   "overview_en": "Victoria leads state offshore wind policy and depends on Gippsland and Otway offshore gas.\n- Legislated offshore wind targets 2/4/9 GW (2032/2035/2040); first 2 GW auction launched 25 August 2026\n- VicGrid plans shared transmission for Gippsland offshore wind\n- 2025 Otway acreage release included two areas off Victoria\n- CarbonNet GHG storage under the state OPGGS Act 2010",
+   "overview_zh": "维州主导州级海上风电政策，天然气供应依赖Gippsland和Otway海上气田。\n- 立法确定海上风电目标2/4/9 GW（2032/2035/2040年）；首批2 GW拍卖于2026年8月25日启动\n- VicGrid规划Gippsland海上风电共享输电线路\n- 2025年Otway区块招标含维州外海2个区块\n- CarbonNet温室气体封存适用州《2010年海上石油与温室气体封存法》"
+  },
+  {
+   "jurisdiction_id": "TAS",
+   "name_en": "Tasmania",
+   "name_zh": "塔斯马尼亚州",
+   "marine_scope_en": "Tasmanian coastal waters to 3 nm, including Bass Strait islands; marine farming can extend to adjacent Commonwealth waters",
+   "marine_scope_zh": "塔州沿海水域（3海里），含Bass Strait岛屿；海水养殖可延伸至相邻联邦海域",
+   "key_regulators": "NRE Tasmania (fisheries, marine farming), EPA Tasmania, Marine Farming Planning Review Panel, Mineral Resources Tasmania, MAST, TasPorts",
+   "overview_en": "Tasmania's marine economy centres on salmon aquaculture and quota fisheries.\n- Salmon regulated through marine farming plans, EPA environmental licences and the 2023 Salmon Industry Plan\n- 2025 Commonwealth amendment shields Macquarie Harbour farming from EPBC reconsideration\n- Three 2025 Otway acreage areas lie off Tasmania; Bass Strait offshore wind area got no feasibility licences",
+   "overview_zh": "塔州海洋经济以三文鱼养殖和配额渔业为主。\n- 三文鱼通过海水养殖规划、EPA环境许可及《2023年三文鱼产业计划》监管\n- 2025年联邦修订使Macquarie Harbour养殖免于EPBC复议\n- 2025年Otway招标3个区块位于塔州外海；Bass Strait海上风电区域未发放可行性许可证"
+  },
+  {
+   "jurisdiction_id": "SA",
+   "name_en": "South Australia",
+   "name_zh": "南澳大利亚州",
+   "marine_scope_en": "SA coastal waters to 3 nm, including Spencer Gulf and Gulf St Vincent (largely internal waters)",
+   "marine_scope_zh": "南澳沿海水域（3海里），含Spencer湾和St Vincent湾（大部分为内水）",
+   "key_regulators": "Department for Energy and Mining, PIRSA (fisheries, aquaculture), EPA SA, Department for Environment and Water (marine parks), Department for Infrastructure and Transport, ESCOSA, SA Water",
+   "overview_en": "SA combines a dedicated aquaculture law with a state regime for renewables in coastal waters.\n- Aquaculture Act 2001: zone policies, leases and licences (tuna, oysters, kingfish)\n- Hydrogen and Renewable Energy Act 2023 covers renewables on land and in coastal waters\n- GHG storage under the Energy Resources Act 2000 (Moomba CCS)\n- 19 marine parks constrain seabed and aquaculture uses",
+   "overview_zh": "南澳既有专门的水产养殖法，也有覆盖沿海水域的州级可再生能源制度。\n- 《2001年水产养殖法》：养殖区政策、租约及许可证（金枪鱼、牡蛎、黄尾鰤）\n- 《2023年氢能与可再生能源法》覆盖陆上及沿海水域可再生能源\n- 温室气体封存适用《2000年能源资源法》（Moomba碳捕集与封存）\n- 19个海洋公园约束海床利用和养殖"
+  }
+ ],
+ "instruments": [
+  {
+   "policy_id": "FED-01",
+   "jurisdiction_id": "FED",
+   "title": "Offshore Petroleum and Greenhouse Gas Storage Act 2006",
+   "title_zh": "《2006年海上石油与温室气体封存法》",
+   "type": "Act",
+   "categories": [
+    "fossil",
+    "other"
+   ],
+   "stages": [
+    "access",
+    "title",
+    "approval",
+    "safety",
+    "operation",
+    "decom"
+   ],
+   "regulator": "NOPTA / NOPSEMA / Joint Authority / DISR",
+   "status": "Amended 2024",
+   "year": 2006,
+   "summary_en": "Principal statute for petroleum and greenhouse gas (GHG) storage in Commonwealth waters beyond 3 nm.\n- Titles: exploration permits, retention leases, production licences, infrastructure and pipeline licences, GHG assessment permits, holding leases and injection licences\n- Joint Authority (Commonwealth Minister plus adjacent State/NT Minister) decides key title matters; NOPTA administers titles; NOPSEMA regulates safety, well integrity and environment\n- Decommissioning: titleholders must remove all property before title ends unless an alternative is accepted; 2021 amendments added trailing liability and change-in-control approval",
+   "summary_zh": "联邦海域（3海里以外）油气与温室气体封存的基本法。\n- 权利类型：勘探许可、保留租约、生产许可证、基础设施与管道许可证，以及温室气体评估许可、持有租约和注入许可证\n- 联合主管机构（联邦部长＋相邻州/领地部长）决定主要权利事项；NOPTA负责权利管理，NOPSEMA负责安全、井完整性与环境监管\n- 弃置：权利终止前须拆除全部设施，替代方案须经批准；2021年修订引入追溯责任和控制权变更审批",
+   "recent_change_en": "2024-06: Safety and Other Measures amendments in force; 2026-09: statutory reviews of NOPSEMA and NOPTA launched (terms of reference published).",
+   "recent_change_zh": "2024年6月：《安全及其他措施》修订生效；2026年9月：NOPSEMA与NOPTA法定评估启动，职权范围文件已公布。",
+   "url": "https://www.legislation.gov.au/C2006A00014/latest/details"
+  },
+  {
+   "policy_id": "FED-02",
+   "jurisdiction_id": "FED",
+   "title": "Offshore Petroleum and Greenhouse Gas Storage (Resource Management and Administration) Regulations 2025",
+   "title_zh": "《2025年海上石油与温室气体封存（资源管理与行政）条例》",
+   "type": "Regulation",
+   "categories": [
+    "fossil",
+    "other"
+   ],
+   "stages": [
+    "operation",
+    "title"
+   ],
+   "regulator": "NOPTA / NOPSEMA",
+   "status": "In force (remade 2025)",
+   "year": 2025,
+   "summary_en": "Operational rules for resource management under the OPGGS Act, remade to replace the 2011 Regulations.\n- Field development plans (FDP) approved by the Joint Authority before a production licence; variations needed when recovery strategy changes\n- Data and reporting duties: well, survey and production data to NOPTA, released through NOPIMS\n- Well operations management plans for well integrity accepted by NOPSEMA",
+   "summary_zh": "OPGGS法下资源管理的操作性规则，替代2011年版条例。\n- 油田开发方案（FDP）须在颁发生产许可证前经联合主管机构批准；开采策略变化须申请变更\n- 数据与报告义务：钻井、勘探调查和产量数据报送NOPTA，经NOPIMS公开\n- 井完整性方面的井作业管理计划由NOPSEMA审核接受",
+   "recent_change_en": "2025: RMA Regulations remade with changes to oversight; NOPSEMA consulting on supporting guidance (exact commencement date not confirmed).",
+   "recent_change_zh": "2025年：资源管理与行政条例重新制定并调整监管安排；NOPSEMA就配套指南征求意见（具体生效日期未核实）。",
+   "url": "https://www.nopta.gov.au/application-processes/development/index.html"
+  },
+  {
+   "policy_id": "FED-03",
+   "jurisdiction_id": "FED",
+   "title": "Offshore Petroleum and Greenhouse Gas Storage (Environment) Regulations 2023",
+   "title_zh": "《2023年海上石油与温室气体封存（环境）条例》",
+   "type": "Regulation",
+   "categories": [
+    "fossil",
+    "other"
+   ],
+   "stages": [
+    "approval"
+   ],
+   "regulator": "NOPSEMA",
+   "status": "In force; under review",
+   "year": 2023,
+   "summary_en": "Environmental approval regime for offshore petroleum and GHG activities in Commonwealth waters.\n- Each activity needs a NOPSEMA-accepted environment plan (EP); development projects first need an offshore project proposal (OPP)\n- Titleholders must consult 'relevant persons'; Santos v Tipakalippa (Full Federal Court, Dec 2022) held this includes Traditional Custodians with sea country interests\n- NOPSEMA's program is endorsed under EPBC Act strategic assessment, so petroleum activities it accepts do not need separate EPBC referral",
+   "summary_zh": "联邦海域油气及温室气体封存作业的环境审批制度。\n- 每项作业须取得NOPSEMA接受的环境计划（EP）；开发项目须先提交海上项目方案（OPP）\n- 权利人须咨询“相关方”；Santos诉Tipakalippa案（联邦法院合议庭，2022年12月）认定相关方包括拥有海域权益的传统守护者\n- NOPSEMA审批程序已通过EPBC法战略评估认可，经其接受的油气作业无需另行向联邦环境部申报",
+   "recent_change_en": "2026-09: DISR Offshore Environmental Management Review published key findings and next steps on consultation and EP process.",
+   "recent_change_zh": "2026年9月：工业部海上环境管理评估公布主要结论与后续安排，涉及咨询要求和环境计划流程。",
+   "url": "https://www.nopsema.gov.au/offshore-industry/environmental-management"
+  },
+  {
+   "policy_id": "FED-04",
+   "jurisdiction_id": "FED",
+   "title": "Offshore Petroleum and Greenhouse Gas Storage (Safety) Regulations 2009",
+   "title_zh": "《2009年海上石油与温室气体封存（安全）条例》",
+   "type": "Regulation",
+   "categories": [
+    "fossil",
+    "other"
+   ],
+   "stages": [
+    "safety"
+   ],
+   "regulator": "NOPSEMA",
+   "status": "In force",
+   "year": 2009,
+   "summary_en": "Occupational health and safety regime for offshore petroleum and GHG facilities.\n- Operators need a NOPSEMA-accepted safety case covering major accident events before operating a facility\n- Diving safety management systems and workforce OHS duties under Schedule 3 of the OPGGS Act\n- NOPSEMA inspects, issues improvement and prohibition notices, and prosecutes",
+   "summary_zh": "海上油气及温室气体封存设施的职业健康安全制度。\n- 设施运营前须取得NOPSEMA接受的安全案例，覆盖重大事故情形\n- 潜水安全管理体系，以及OPGGS法附表3规定的职业健康安全义务\n- NOPSEMA负责检查、发出整改及禁止通知并提起诉讼",
+   "recent_change_en": "2024-06: OPGGS Legislation Amendment (Safety and Other Measures) Act 2024 updated the underlying safety provisions.",
+   "recent_change_zh": "2024年6月：《2024年OPGGS立法修订（安全及其他措施）法》更新相关安全条款。",
+   "url": "https://www.nopsema.gov.au/offshore-industry/safety"
+  },
+  {
+   "policy_id": "FED-05",
+   "jurisdiction_id": "FED",
+   "title": "Offshore Petroleum and Greenhouse Gas Storage Legislation Amendment (Safety and Other Measures) Act 2024",
+   "title_zh": "《2024年海上石油与温室气体封存立法修订（安全及其他措施）法》",
+   "type": "Act",
+   "categories": [
+    "fossil",
+    "other"
+   ],
+   "stages": [
+    "safety",
+    "operation"
+   ],
+   "regulator": "NOPSEMA / DISR",
+   "status": "In force",
+   "year": 2024,
+   "summary_en": "Amending Act (No. 43 of 2024) to the OPGGS framework.\n- Schedule 1: safety measures in the OPGGS Act, with consequential changes to maritime OHS law\n- Schedule 2: clarifies interaction with the Navigation Act 2012 and expands remedial direction powers\n- Minor and technical amendments with transitional provisions",
+   "summary_zh": "OPGGS体系的修订法（2024年第43号）。\n- 附表1：OPGGS法安全条款修订，并相应修改海事职业健康安全法\n- 附表2：厘清与《2012年航行法》的适用关系，扩大补救指令权\n- 其他技术性修订及过渡条款",
+   "recent_change_en": "2026-10: Government published its response to the Senate inquiry on the Safety and Other Measures Bill.",
+   "recent_change_zh": "2026年10月：政府发布对参议院《安全及其他措施》法案调查报告的回应。",
+   "url": "https://www.legislation.gov.au/C2024A00043/latest/details"
+  },
+  {
+   "policy_id": "FED-06",
+   "jurisdiction_id": "FED",
+   "title": "Offshore Petroleum and Greenhouse Gas Storage Amendment (Titles Administration and Other Measures) Act 2021",
+   "title_zh": "《2021年海上石油与温室气体封存修订（权利管理及其他措施）法》",
+   "type": "Act",
+   "categories": [
+    "fossil"
+   ],
+   "stages": [
+    "decom",
+    "title"
+   ],
+   "regulator": "NOPTA / Joint Authority / NOPSEMA",
+   "status": "In force",
+   "year": 2021,
+   "summary_en": "Decommissioning-liability reform passed after the Northern Endeavour FPSO failure.\n- Trailing liability: Minister can call back former titleholders and related parties to decommission\n- Change-in-control of a titleholder requires Joint Authority approval\n- Stronger financial and technical capacity assessment when titles are granted or transferred",
+   "summary_zh": "Northern Endeavour浮式生产储卸油装置事件后通过的弃置责任改革。\n- 追溯责任：部长可责令前任权利人及关联方承担弃置义务\n- 权利人控制权变更须经联合主管机构批准\n- 授予或转让权利时加强财务与技术能力审查",
+   "recent_change_en": "2025–26: DISR consultation paper on decommissioning and financial assurance reforms (paper date not confirmed).",
+   "recent_change_zh": "2025–2026年：工业部就弃置与财务担保改革发布征求意见稿（具体日期未核实）。",
+   "url": "https://www.nopta.gov.au/application-processes/surrender-expiry-cancellation-petroleum.html"
+  },
+  {
+   "policy_id": "FED-07",
+   "jurisdiction_id": "FED",
+   "title": "Offshore Petroleum (Laminaria and Corallina Decommissioning Cost Recovery Levy) Act 2021",
+   "title_zh": "《2021年海上石油（Laminaria与Corallina弃置成本回收征费）法》",
+   "type": "Act",
+   "categories": [
+    "fossil"
+   ],
+   "stages": [
+    "fiscal",
+    "decom"
+   ],
+   "regulator": "NOPTA / DISR",
+   "status": "In force",
+   "year": 2021,
+   "summary_en": "Industry levy to recover Commonwealth costs of decommissioning the Northern Endeavour FPSO and Laminaria-Corallina fields.\n- Government assumed the work after the operator entered liquidation in 2020\n- Levy is charged on offshore petroleum production titleholders\n- Precedent for industry-wide cost recovery when a titleholder defaults",
+   "summary_zh": "向行业征费，回收联邦承担Northern Endeavour浮式装置及Laminaria-Corallina油田弃置的成本。\n- 运营商2020年清算后由联邦政府接手弃置\n- 征费对象为海上石油生产许可证持有人\n- 为权利人违约时的全行业成本分摊提供先例",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.nopsema.gov.au/offshore-industry/decommissioning"
+  },
+  {
+   "policy_id": "FED-08",
+   "jurisdiction_id": "FED",
+   "title": "Petroleum Resource Rent Tax Assessment Act 1987 (with Offshore Petroleum (Royalty) Act 2006)",
+   "title_zh": "《1987年石油资源租赁税评估法》（含《2006年海上石油（特许权使用费）法》）",
+   "type": "Act",
+   "categories": [
+    "fossil"
+   ],
+   "stages": [
+    "fiscal"
+   ],
+   "regulator": "ATO / Treasury",
+   "status": "Amended 2023",
+   "year": 1987,
+   "summary_en": "Profit-based tax on petroleum projects, set at 40% of taxable profit after deductions and uplifted carried-forward expenditure.\n- Applies to offshore projects in Commonwealth waters and, since 1 July 2012, onshore projects and the North West Shelf\n- North West Shelf also pays Commonwealth royalty and excise under the Royalty Act; royalty is shared with WA and creditable against PRRT\n- PRRT is deductible for company tax",
+   "summary_zh": "按项目利润征收的石油资源租赁税，税率为扣除费用及按上浮率结转支出后应税利润的40%。\n- 适用于联邦海域项目，自2012年7月1日起覆盖陆上项目及西北大陆架项目\n- 西北大陆架另按《特许权使用费法》缴纳联邦特许权使用费和消费税，特许权使用费与西澳分成，可抵扣PRRT\n- PRRT可在公司所得税前扣除",
+   "recent_change_en": "From 2023-07-01: deductions for LNG projects capped at 90% of assessable receipts, bringing forward PRRT payments.",
+   "recent_change_zh": "自2023年7月1日起：LNG项目可扣除额上限为应税收入的90%，PRRT缴纳时点提前。",
+   "url": "https://www.ato.gov.au/businesses-and-organisations/gst-excise-and-indirect-taxes/petroleum-resource-rent-tax"
+  },
+  {
+   "policy_id": "FED-09",
+   "jurisdiction_id": "FED",
+   "title": "Offshore Petroleum Exploration Acreage Release (annual)",
+   "title_zh": "年度海上石油勘探区块招标",
+   "type": "Program",
+   "categories": [
+    "fossil"
+   ],
+   "stages": [
+    "access",
+    "title"
+   ],
+   "regulator": "DISR / NOPTA / Geoscience Australia / Joint Authority",
+   "status": "Ongoing (2025 round bids closed 2026-06)",
+   "year": 2025,
+   "summary_en": "Annual release of offshore areas for exploration permits, awarded on work-program bids.\n- Areas nominated by industry, screened against marine parks, defence and other uses, then gazetted\n- 2025 release limited to the Otway Basin: five areas, two off Victoria and three off Tasmania\n- Bids for all five areas closed 30 June 2026",
+   "summary_zh": "联邦海域年度勘探区块招标，按工作量承诺竞标授予勘探许可。\n- 区块由行业提名，经海洋公园、国防等用途筛选后公告\n- 2025年招标仅限Otway盆地：5个区块，其中维州海域2个、塔州海域3个\n- 5个区块投标均于2026年6月30日截止",
+   "recent_change_en": "2025-12: 2025 Otway release gazetted (5 areas); 2026-06-30: bids closed.",
+   "recent_change_zh": "2025年12月：2025年Otway区块招标公告（5个区块）；2026年6月30日：投标截止。",
+   "url": "https://www.ga.gov.au/nopims/news/2025-petroleum-exploration-acreage-release"
+  },
+  {
+   "policy_id": "FED-10",
+   "jurisdiction_id": "FED",
+   "title": "Offshore Electricity Infrastructure Act 2021",
+   "title_zh": "《2021年海上电力基础设施法》",
+   "type": "Act",
+   "categories": [
+    "renewable",
+    "other"
+   ],
+   "stages": [
+    "access",
+    "title",
+    "approval",
+    "safety",
+    "decom"
+   ],
+   "regulator": "DCCEEW Minister / Offshore Infrastructure Regulator (NOPSEMA) / Offshore Infrastructure Registrar (NOPTA)",
+   "status": "In force",
+   "year": 2021,
+   "summary_en": "Licensing framework for offshore wind, other offshore renewables and transmission in Commonwealth waters.\n- Minister declares suitable areas after public consultation; licences can only be granted in declared areas\n- Licences: feasibility (up to 7 years), commercial (up to 40 years), transmission and infrastructure, research and demonstration\n- Holders need an approved management plan, EPBC approval, financial security and a decommissioning plan",
+   "summary_zh": "联邦海域海上风电、其他海洋可再生能源及输电设施的许可框架。\n- 部长经公众咨询后宣布适宜海域，许可证仅可在已宣布海域内授予\n- 许可证类型：可行性许可证（最长7年）、商业许可证（最长40年）、输电及基础设施许可证、研究示范许可证\n- 持证人须取得管理计划批准、EPBC批准、提供财务担保并制定弃置方案",
+   "recent_change_en": "2026-01: final feasibility licences offered in Bunbury (about 4 GW); none in Illawarra; preliminary decision not to offer in Bass Strait; R&D licence applications opened in all six areas.",
+   "recent_change_zh": "2026年1月：Bunbury海域发放最终可行性许可证（约4 GW）；Illawarra未发证；Bass Strait初步决定不发证；六个海域开放研究示范许可证申请。",
+   "url": "https://www.legislation.gov.au/C2021A00120/latest/details"
+  },
+  {
+   "policy_id": "FED-11",
+   "jurisdiction_id": "FED",
+   "title": "Offshore Electricity Infrastructure Regulations 2022 (as amended 2024 and 2025)",
+   "title_zh": "《2022年海上电力基础设施条例》（2024、2025年修订）",
+   "type": "Regulation",
+   "categories": [
+    "renewable"
+   ],
+   "stages": [
+    "approval",
+    "safety",
+    "fiscal",
+    "decom"
+   ],
+   "regulator": "Offshore Infrastructure Regulator / Registrar",
+   "status": "Amended 2025",
+   "year": 2022,
+   "summary_en": "Detailed rules under the OEI Act.\n- Management plans, design notification scheme, financial security, safety and protection zones, WHS and record keeping (2024 amendments in force December 2024)\n- Licence holders may seek management plan approval while detailed environmental assessment proceeds\n- Licence fees and levies; a November 2025 remittal instrument waived or reduced fees, which are expected to resume in 2027",
+   "summary_zh": "OEI法下的实施细则。\n- 规定管理计划、设计通知、财务担保、安全及保护区、工作健康安全与记录保存（2024年修订于2024年12月生效）\n- 持证人可在详细环评进行期间同时申请管理计划批准\n- 许可证费与征费；2025年11月减免文书免除或下调费用，预计2027年恢复收取",
+   "recent_change_en": "2025-11-14: OEI Amendment (Remittal of Fees and Levies and Other Measures) Regulations 2025 registered (spent and repealed 2026-03).",
+   "recent_change_zh": "2025年11月14日：《2025年OEI修订（费用与征费减免及其他措施）条例》登记，2026年3月执行完毕后废止。",
+   "url": "https://www.legislation.gov.au/F2025L01378/asmade/details"
+  },
+  {
+   "policy_id": "FED-12",
+   "jurisdiction_id": "FED",
+   "title": "Declared offshore wind areas (OEI Act declarations)",
+   "title_zh": "已宣布海上风电区域（OEI法宣布文书）",
+   "type": "Plan",
+   "categories": [
+    "renewable"
+   ],
+   "stages": [
+    "access"
+   ],
+   "regulator": "DCCEEW",
+   "status": "In force (six areas)",
+   "year": 2022,
+   "summary_en": "Six areas declared for offshore renewable energy in Commonwealth waters.\n- Gippsland, Vic (Dec 2022, about 15,000 km²); Hunter, NSW (Jul 2023); Southern Ocean, Vic (Mar 2024, about 1,030 km²)\n- Illawarra, NSW (Jun 2024); Bunbury, WA (Sep 2024, 3,995 km², up to 11.4 GW); Bass Strait / Northern Tasmania (2025)\n- Each declaration fixes boundaries, excludes shipping lanes and sensitive areas, and opens a feasibility licence round",
+   "summary_zh": "联邦海域六个已宣布的海洋可再生能源区域。\n- Gippsland（维州，2022年12月，约15,000平方公里）；Hunter（新州，2023年7月）；Southern Ocean（维州，2024年3月，约1,030平方公里）\n- Illawarra（新州，2024年6月）；Bunbury（西澳，2024年9月，3,995平方公里，潜在装机最高11.4 GW）；Bass Strait/北塔斯马尼亚（2025年）\n- 每项宣布确定边界、剔除航道和敏感区域，并开启可行性许可证申请轮次",
+   "recent_change_en": "2025–26: Gippsland licences FL-07, FL-08 and FL-03 surrendered (nine remain); Illawarra and Bass Strait received no feasibility licences.",
+   "recent_change_zh": "2025–2026年：Gippsland的FL-07、FL-08、FL-03许可证交回（剩余9个）；Illawarra与Bass Strait未授予可行性许可证。",
+   "url": "https://www.dcceew.gov.au/energy/renewable/offshore-wind"
+  },
+  {
+   "policy_id": "FED-13",
+   "jurisdiction_id": "FED",
+   "title": "Environment Protection and Biodiversity Conservation Act 1999",
+   "title_zh": "《1999年环境保护与生物多样性保护法》（EPBC法）",
+   "type": "Act",
+   "categories": [
+    "fossil",
+    "renewable",
+    "mineral",
+    "agri",
+    "other"
+   ],
+   "stages": [
+    "approval",
+    "access"
+   ],
+   "regulator": "DCCEEW / National Environmental Protection Agency (from 2026-07)",
+   "status": "Amended 2025",
+   "year": 1999,
+   "summary_en": "Federal approval law for actions affecting matters of national environmental significance (MNES).\n- Triggers include the Commonwealth marine area, listed threatened and migratory species, World Heritage (e.g. Great Barrier Reef) and nuclear actions\n- Offshore wind, cables, ports, desalination and aquaculture with MNES impacts need referral; NOPSEMA-assessed petroleum activities are covered by a 2014 strategic assessment\n- Part 15 establishes Australian Marine Parks and their management plans",
+   "summary_zh": "联邦环境审批法，规管影响国家环境关切事项（MNES）的行为。\n- 触发事项包括联邦海域、受威胁及迁徙物种、世界遗产（如大堡礁）和核相关行为\n- 海上风电、海底电缆、港口、海水淡化及养殖项目涉及MNES须申报；经NOPSEMA评估的油气作业由2014年战略评估覆盖\n- 第15部分设立澳大利亚海洋公园及其管理计划",
+   "recent_change_en": "2025-12-01: reform package assented (passed 2025-11-28); NEPA from 2026-07-01; remaining approval changes commence 2026-12-01.",
+   "recent_change_zh": "2025年12月1日：改革法案获御准（2025年11月28日通过）；国家环保署2026年7月1日成立；其余审批条款2026年12月1日生效。",
+   "url": "https://www.legislation.gov.au/C2004A00485/latest/details"
+  },
+  {
+   "policy_id": "FED-14",
+   "jurisdiction_id": "FED",
+   "title": "Environment Protection Reform Act 2025 and National Environmental Protection Agency Act 2025",
+   "title_zh": "《2025年环境保护改革法》及《2025年国家环境保护署法》",
+   "type": "Act",
+   "categories": [
+    "fossil",
+    "renewable",
+    "mineral",
+    "agri",
+    "other"
+   ],
+   "stages": [
+    "approval"
+   ],
+   "regulator": "NEPA / DCCEEW",
+   "status": "In force (staged to 2026-12)",
+   "year": 2025,
+   "summary_en": "Seven-Act package rewriting EPBC assessment and creating an independent regulator.\n- 2025-12-02: Part 19B framework for National Environmental Standards commenced\n- 2026-07-01: NEPA established, with environmental protection orders, higher penalties and compliance audits\n- 2026-12-01: 'unacceptable impacts' test, streamlined approvals, GHG emissions disclosure in assessments and bioregional planning",
+   "summary_zh": "由七部法律组成的改革包，重写EPBC评估程序并设立独立监管机构。\n- 2025年12月2日：第19B部分国家环境标准框架生效\n- 2026年7月1日：国家环保署（NEPA）成立，可发布环境保护令，罚则上调，引入合规审计\n- 2026年12月1日：引入“不可接受影响”标准、简化审批、评估中披露温室气体排放及生物区域规划",
+   "recent_change_en": "2026-07-01: NEPA commenced compliance and enforcement functions.",
+   "recent_change_zh": "2026年7月1日：NEPA开始履行合规与执法职能。",
+   "url": "https://www.legislation.gov.au/C2025A00068/latest/details"
+  },
+  {
+   "policy_id": "FED-15",
+   "jurisdiction_id": "FED",
+   "title": "Environment Protection and Biodiversity Conservation Amendment (Reconsiderations) Act 2025",
+   "title_zh": "《2025年EPBC修订（复议）法》",
+   "type": "Act",
+   "categories": [
+    "agri"
+   ],
+   "stages": [
+    "approval",
+    "operation"
+   ],
+   "regulator": "DCCEEW",
+   "status": "In force",
+   "year": 2025,
+   "summary_en": "Limits reconsideration of past 'particular manner' decisions.\n- Minister cannot overturn a decision where the action follows a state management arrangement and has been ongoing for at least five years\n- Directed at Macquarie Harbour (Tas) salmon farming, operating under a 2012 'particular manner' decision\n- Environmental groups linked the industry to water-quality decline affecting the endangered Maugean skate",
+   "summary_zh": "限制对既往“特定方式”决定的复议。\n- 行为遵循州管理安排且已持续5年以上的，部长不得推翻原决定\n- 针对塔州Macquarie Harbour三文鱼养殖，该产业依据2012年“特定方式”决定运营\n- 环保组织认为该产业导致水质下降，影响濒危的Maugean鳐",
+   "recent_change_en": "2025-03: passed in the final sitting week of the 47th Parliament.",
+   "recent_change_zh": "2025年3月：在第47届议会最后一个会期周通过。",
+   "url": "https://www.edo.org.au/2025/03/31/national-nature-laws-weakened-as-final-move-of-the-47th-parliament/"
+  },
+  {
+   "policy_id": "FED-16",
+   "jurisdiction_id": "FED",
+   "title": "Australian Marine Parks management plans (EPBC Act Part 15)",
+   "title_zh": "澳大利亚海洋公园管理计划（EPBC法第15部分）",
+   "type": "Plan",
+   "categories": [
+    "fossil",
+    "renewable",
+    "mineral",
+    "agri",
+    "other"
+   ],
+   "stages": [
+    "access"
+   ],
+   "regulator": "Parks Australia (Director of National Parks)",
+   "status": "In force; 2018 plans under review",
+   "year": 2018,
+   "summary_en": "Eight management plans zone the Commonwealth marine park network.\n- Networks: North, North-west, South-west, South-east, Temperate East, Coral Sea, plus Indian Ocean Territories parks\n- Zones follow IUCN categories; sanctuary and national park zones exclude extraction, multiple-use zones may allow petroleum, cables and fishing under authorisation\n- Spatial constraint for acreage release, offshore wind declarations and fishery access",
+   "summary_zh": "八份管理计划对联邦海洋公园网络进行分区。\n- 网络包括北部、西北、西南、东南、温带东部、珊瑚海及印度洋领地海洋公园\n- 分区参照IUCN类别；保护区和国家公园区禁止开采，多用途区经授权可开展油气、海底电缆和捕捞\n- 是区块招标、海上风电区域宣布和渔业准入的空间约束条件",
+   "recent_change_en": "Review of the 2018 management plans under way (Parks Australia); South-east network review 2022–2024.",
+   "recent_change_zh": "Parks Australia正在评估2018年管理计划；东南网络已于2022–2024年完成评估。",
+   "url": "https://australianmarineparks.gov.au/management/management-plans/"
+  },
+  {
+   "policy_id": "FED-17",
+   "jurisdiction_id": "FED",
+   "title": "Great Barrier Reef Marine Park Act 1975 and Zoning Plan 2003",
+   "title_zh": "《1975年大堡礁海洋公园法》及《2003年分区规划》",
+   "type": "Act",
+   "categories": [
+    "fossil",
+    "mineral",
+    "agri",
+    "other"
+   ],
+   "stages": [
+    "access",
+    "approval",
+    "operation"
+   ],
+   "regulator": "GBRMPA",
+   "status": "In force",
+   "year": 1975,
+   "summary_en": "Statute for the Great Barrier Reef Marine Park, managed jointly with Queensland.\n- Mining, including petroleum exploration, is prohibited in the Marine Park except for research\n- Zoning Plan 2003 places about one-third of the Park in no-take green zones\n- Permits required for tourism, aquaculture, infrastructure and dredge disposal; Environmental Management Charge on tourism",
+   "summary_zh": "大堡礁海洋公园的基本法，与昆州联合管理。\n- 公园范围内禁止采矿（含油气勘探），科研除外\n- 2003年分区规划将约三分之一面积划为禁捕绿区\n- 旅游、养殖、基础设施和疏浚物处置须取得许可；对旅游业征收环境管理费",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.gbrmpa.gov.au/"
+  },
+  {
+   "policy_id": "FED-18",
+   "jurisdiction_id": "FED",
+   "title": "Fisheries Management Act 1991 (with Fisheries Levy Act 1984)",
+   "title_zh": "《1991年渔业管理法》（含《1984年渔业征费法》）",
+   "type": "Act",
+   "categories": [
+    "agri"
+   ],
+   "stages": [
+    "title",
+    "operation",
+    "fiscal"
+   ],
+   "regulator": "AFMA",
+   "status": "In force",
+   "year": 1991,
+   "summary_en": "Framework for Commonwealth-managed fisheries, mostly beyond 3 nm.\n- Management plans and statutory fishing rights (SFRs), including individual transferable quota in fisheries such as the Southern and Eastern Scalefish and Shark Fishery and Southern Bluefin Tuna\n- AFMA sets total allowable catch (TAC) each season\n- Management costs recovered through levies on SFR holders",
+   "summary_zh": "联邦管辖渔业的管理框架，主要覆盖3海里以外海域。\n- 管理计划与法定捕捞权（SFR），包括东南鳞鱼与鲨鱼渔业、南方蓝鳍金枪鱼等渔业的个人可转让配额\n- AFMA按渔季设定总可捕量（TAC）\n- 管理成本通过向法定捕捞权持有人征费回收",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.legislation.gov.au/C2004A04237/latest/details"
+  },
+  {
+   "policy_id": "FED-19",
+   "jurisdiction_id": "FED",
+   "title": "Commonwealth Fisheries Harvest Strategy Policy 2018",
+   "title_zh": "《2018年联邦渔业捕捞策略政策》",
+   "type": "Policy",
+   "categories": [
+    "agri"
+   ],
+   "stages": [
+    "operation"
+   ],
+   "regulator": "DAFF / AFMA",
+   "status": "In force",
+   "year": 2018,
+   "summary_en": "Sets the rules AFMA uses to set catch limits.\n- Target reference point: biomass at maximum economic yield (BMEY), with a 0.48 B0 proxy where BMEY is unknown\n- Limit reference point: 0.20 B0; targeted fishing stops below the limit and a rebuilding strategy applies\n- Harvest control rules link stock assessment results to annual TACs",
+   "summary_zh": "规定AFMA设定捕捞限额的规则。\n- 目标参考点：最大经济产量生物量（BMEY），无法测算时以0.48倍原始生物量（B0）代替\n- 限制参考点：0.20倍B0；低于限制点停止定向捕捞并实施恢复策略\n- 捕捞控制规则将资源评估结果与年度TAC挂钩",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.afma.gov.au/fisheries-management"
+  },
+  {
+   "policy_id": "FED-20",
+   "jurisdiction_id": "FED",
+   "title": "Torres Strait Fisheries Act 1984",
+   "title_zh": "《1984年托雷斯海峡渔业法》",
+   "type": "Act",
+   "categories": [
+    "agri"
+   ],
+   "stages": [
+    "title",
+    "operation",
+    "cross"
+   ],
+   "regulator": "Protected Zone Joint Authority (PZJA) / AFMA",
+   "status": "In force",
+   "year": 1984,
+   "summary_en": "Implements the Torres Strait Treaty with Papua New Guinea for fisheries in the Protected Zone.\n- PZJA manages commercial and traditional fisheries, including tropical rock lobster, Spanish mackerel and bêche-de-mer\n- Traditional inhabitants' fishing has priority; catch sharing with PNG under the Treaty\n- Licences and quota in the Torres Strait are separate from AFMA's other fisheries",
+   "summary_zh": "实施与巴布亚新几内亚的《托雷斯海峡条约》，管理保护区内渔业。\n- PZJA管理商业及传统渔业，包括热带岩龙虾、西班牙鲭和海参\n- 传统居民捕捞享有优先权；依条约与巴新分享渔获\n- 托雷斯海峡的许可证和配额独立于AFMA其他渔业",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.pzja.gov.au/"
+  },
+  {
+   "policy_id": "FED-21",
+   "jurisdiction_id": "FED",
+   "title": "Biosecurity Act 2015",
+   "title_zh": "《2015年生物安全法》",
+   "type": "Act",
+   "categories": [
+    "agri",
+    "other"
+   ],
+   "stages": [
+    "operation"
+   ],
+   "regulator": "DAFF",
+   "status": "In force",
+   "year": 2015,
+   "summary_en": "National biosecurity law covering vessels, ballast water, biofouling and aquatic animal imports.\n- Ballast water management and biofouling reporting for international vessels, relevant to offshore construction vessels and FPSOs\n- Import conditions for live aquatic animals, feed and genetic stock for aquaculture\n- Emergency powers for aquatic disease incursions",
+   "summary_zh": "全国生物安全法，覆盖船舶、压载水、生物污着及水生动物进口。\n- 国际船舶须执行压载水管理和生物污着报告，适用于海上施工船和浮式生产储卸油装置\n- 规定活体水生动物、饲料和养殖种质的进口条件\n- 赋予水生疫病入侵的紧急处置权",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.legislation.gov.au/C2015A00061/latest/details"
+  },
+  {
+   "policy_id": "FED-22",
+   "jurisdiction_id": "FED",
+   "title": "Export Control Act 2020 (Fish and Fish Products Rules)",
+   "title_zh": "《2020年出口管制法》（鱼类及鱼产品规则）",
+   "type": "Act",
+   "categories": [
+    "agri"
+   ],
+   "stages": [
+    "market"
+   ],
+   "regulator": "DAFF",
+   "status": "In force",
+   "year": 2020,
+   "summary_en": "Controls exports of fish and fish products.\n- Export-registered establishments, approved arrangements and government certification required for most seafood exports\n- Importing-country requirements (e.g. China, EU, US) given legal effect through export permits\n- Wild-caught exports of protected species also need an EPBC Part 13A wildlife trade approval",
+   "summary_zh": "管制鱼类及鱼产品出口。\n- 大多数海产品出口须在注册出口企业加工，执行批准方案并取得政府证书\n- 通过出口许可落实进口国要求（如中国、欧盟、美国）\n- 受保护物种的野生捕捞出口另须取得EPBC第13A部分野生物贸易批准",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.legislation.gov.au/C2020A00012/latest/details"
+  },
+  {
+   "policy_id": "FED-23",
+   "jurisdiction_id": "FED",
+   "title": "Offshore Minerals Act 1994",
+   "title_zh": "《1994年海上矿产法》",
+   "type": "Act",
+   "categories": [
+    "mineral"
+   ],
+   "stages": [
+    "title",
+    "access"
+   ],
+   "regulator": "Joint Authority / Designated Authority (State Minister)",
+   "status": "In force",
+   "year": 1994,
+   "summary_en": "Licensing regime for minerals other than petroleum in Commonwealth waters.\n- Exploration, retention, mining and works licences; areas released by the Joint Authority\n- State and NT Ministers act as Designated Authority for day-to-day administration\n- No commercial seabed mining operates in Commonwealth waters; mining is prohibited in the Great Barrier Reef Marine Park",
+   "summary_zh": "联邦海域非油气矿产的许可制度。\n- 设勘探、保留、采矿及工程许可证；区块由联合主管机构释放\n- 州及领地部长作为指定主管机构负责日常管理\n- 联邦海域目前无商业化海底采矿；大堡礁海洋公园内禁止采矿",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.ga.gov.au/scientific-topics/marine/jurisdiction/maritime-boundary-definitions"
+  },
+  {
+   "policy_id": "FED-24",
+   "jurisdiction_id": "FED",
+   "title": "Environment Protection (Sea Dumping) Act 1981",
+   "title_zh": "《1981年环境保护（海洋倾倒）法》",
+   "type": "Act",
+   "categories": [
+    "other",
+    "mineral"
+   ],
+   "stages": [
+    "approval"
+   ],
+   "regulator": "DCCEEW",
+   "status": "Amended 2023",
+   "year": 1981,
+   "summary_en": "Implements the London Protocol on dumping at sea.\n- Permits for sea disposal of dredge spoil, vessels and platforms, and sub-seabed CO2 storage\n- Relevant to port capital dredging, offshore decommissioning in situ and CCS\n- 2023 amendment implemented the 2009 London Protocol change allowing export of CO2 for sub-seabed storage, subject to a bilateral arrangement",
+   "summary_zh": "实施《伦敦议定书》的海洋倾倒管理法。\n- 疏浚物、船舶及平台的海上处置以及海底CO2封存须取得许可\n- 适用于港口基建疏浚、海上设施原地弃置和碳捕集与封存\n- 2023年修订落实《伦敦议定书》2009年修正案，在双边安排前提下允许出口CO2用于海底封存",
+   "recent_change_en": "2023: amendment enabling cross-border CO2 transport for sub-seabed storage (Act title and date to be confirmed).",
+   "recent_change_zh": "2023年：修订允许跨境运输CO2用于海底封存（法案名称与日期待核实）。",
+   "url": "https://www.dcceew.gov.au/environment/marine/sea-dumping"
+  },
+  {
+   "policy_id": "FED-25",
+   "jurisdiction_id": "FED",
+   "title": "Telecommunications Act 1997 Schedule 3A (submarine cables)",
+   "title_zh": "《1997年电信法》附表3A（海底电缆）",
+   "type": "Act",
+   "categories": [
+    "other"
+   ],
+   "stages": [
+    "access",
+    "title"
+   ],
+   "regulator": "ACMA",
+   "status": "In force",
+   "year": 1997,
+   "summary_en": "Permit and protection regime for international submarine cables.\n- ACMA issues installation permits inside and outside protection zones\n- Protection zones (e.g. off Sydney and Perth) restrict anchoring, trawling and other risky activities\n- Interconnectors and offshore wind export cables are regulated separately (OEI Act, state law)",
+   "summary_zh": "国际海底通信电缆的许可与保护制度。\n- ACMA核发保护区内外的敷设许可\n- 保护区（如悉尼、珀斯外海）限制锚泊、拖网等高风险作业\n- 电力互联线和海上风电送出电缆另由OEI法及州法规管",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.acma.gov.au/submarine-cables"
+  },
+  {
+   "policy_id": "FED-26",
+   "jurisdiction_id": "FED",
+   "title": "Seas and Submerged Lands Act 1973",
+   "title_zh": "《1973年海洋与水下土地法》",
+   "type": "Act",
+   "categories": [
+    "fossil",
+    "renewable",
+    "mineral",
+    "agri",
+    "other"
+   ],
+   "stages": [
+    "cross"
+   ],
+   "regulator": "Attorney-General's Department / Geoscience Australia",
+   "status": "In force",
+   "year": 1973,
+   "summary_en": "Asserts Commonwealth sovereignty and sovereign rights offshore.\n- Territorial sea (12 nm), contiguous zone, exclusive economic zone (200 nm) and continental shelf, including extended shelf confirmed by the UN Commission\n- Baselines and zone limits proclaimed under the Act and mapped by Geoscience Australia\n- High Court upheld Commonwealth sovereignty in 1975 (NSW v Commonwealth), leading to the Offshore Constitutional Settlement",
+   "summary_zh": "确立联邦对海洋的主权及主权权利。\n- 领海（12海里）、毗连区、专属经济区（200海里）及大陆架，含经联合国委员会确认的外大陆架\n- 领海基线及各区界限依本法公告，由Geoscience Australia制图\n- 1975年高等法院（新州诉联邦案）确认联邦主权，后续形成海上宪政安排",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.ga.gov.au/scientific-topics/marine/jurisdiction/maritime-boundary-definitions"
+  },
+  {
+   "policy_id": "FED-27",
+   "jurisdiction_id": "FED",
+   "title": "Offshore Constitutional Settlement 1979 and Coastal Waters (State Powers / State Title) Acts 1980",
+   "title_zh": "1979年海上宪政安排及1980年《沿海水域（州权力/州所有权）法》",
+   "type": "Agreement",
+   "categories": [
+    "fossil",
+    "renewable",
+    "mineral",
+    "agri",
+    "other"
+   ],
+   "stages": [
+    "cross",
+    "access"
+   ],
+   "regulator": "Commonwealth / States / NT",
+   "status": "In force",
+   "year": 1980,
+   "summary_en": "Intergovernmental settlement that returned the first 3 nm of seabed and legislative power to the States and NT.\n- States/NT regulate petroleum, minerals, fisheries, aquaculture and marine parks in coastal waters (0–3 nm)\n- Mirror petroleum and mining legislation; Joint Authorities for petroleum titles in Commonwealth waters\n- OCS fisheries arrangements can assign a fishery to one jurisdiction across the 3 nm line",
+   "summary_zh": "联邦与各州的政府间安排，将0–3海里海床所有权及立法权交还州和北领地。\n- 州/领地管辖沿海水域（0–3海里）内的油气、矿产、渔业、养殖和海洋公园\n- 油气与矿业实行镜像立法；联邦海域油气权利由联合主管机构决定\n- 渔业安排可将某一渔业跨3海里线整体交由单一辖区管理",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.ga.gov.au/scientific-topics/marine/jurisdiction/maritime-boundary-definitions"
+  },
+  {
+   "policy_id": "FED-28",
+   "jurisdiction_id": "FED",
+   "title": "Native Title Act 1993",
+   "title_zh": "《1993年原住民土地权利法》",
+   "type": "Act",
+   "categories": [
+    "fossil",
+    "renewable",
+    "mineral",
+    "agri",
+    "other"
+   ],
+   "stages": [
+    "cross",
+    "approval"
+   ],
+   "regulator": "Federal Court / National Native Title Tribunal",
+   "status": "In force",
+   "year": 1993,
+   "summary_en": "Recognises native title, including non-exclusive rights in the sea.\n- Yarmirr (2001) confirmed native title offshore; Akiba (2013) recognised commercial fishing rights in the Torres Strait\n- Future acts regime and Indigenous Land Use Agreements apply to offshore titles, cables and port works affecting native title\n- Sea-country consultation duties also arise under OPGGS environment rules (Tipakalippa)",
+   "summary_zh": "承认原住民土地权利，包括海域内的非排他性权利。\n- Yarmirr案（2001年）确认海上原住民权利；Akiba案（2013年）承认托雷斯海峡的商业捕捞权\n- 影响原住民权利的海上权利、电缆及港口工程适用未来行为制度和原住民土地使用协议\n- OPGGS环境规则亦产生海域原住民咨询义务（Tipakalippa案）",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.legislation.gov.au/C2004A04665/latest/details"
+  },
+  {
+   "policy_id": "FED-29",
+   "jurisdiction_id": "FED",
+   "title": "Foreign Acquisitions and Takeovers Act 1975",
+   "title_zh": "《1975年外国收购与接管法》",
+   "type": "Act",
+   "categories": [
+    "fossil",
+    "renewable",
+    "mineral",
+    "agri",
+    "other"
+   ],
+   "stages": [
+    "cross"
+   ],
+   "regulator": "Treasury / FIRB",
+   "status": "In force",
+   "year": 1975,
+   "summary_en": "Foreign investment screening, including national security review.\n- Zero-dollar threshold for 'national security businesses' such as energy, ports and telecommunications and for national security land\n- Mining and production tenements, including offshore petroleum titles, are interests in Australian land\n- Treasurer can impose conditions (e.g. tax, data, domestic supply) or block; call-in and last-resort powers since 2021",
+   "summary_zh": "外国投资审查法，包括国家安全审查。\n- 能源、港口、电信等“国家安全业务”及国家安全用地适用零门槛\n- 采矿及生产权利（含海上油气权利）属于澳大利亚土地权益\n- 财长可附加条件（如税务、数据、国内供应）或否决；2021年起具备调入审查及最后手段权力",
+   "recent_change_en": "2026-09-19: Treasury stopped accepting card payment of foreign investment fees (administrative).",
+   "recent_change_zh": "2026年9月19日：财政部停止以银行卡缴纳外资申请费（行政调整）。",
+   "url": "https://www.legislation.gov.au/C2004A01402/latest/details"
+  },
+  {
+   "policy_id": "FED-30",
+   "jurisdiction_id": "FED",
+   "title": "Safeguard Mechanism (National Greenhouse and Energy Reporting Act 2007 and Safeguard Rule)",
+   "title_zh": "保障机制（《2007年国家温室气体与能源报告法》及保障规则）",
+   "type": "Act",
+   "categories": [
+    "fossil",
+    "other"
+   ],
+   "stages": [
+    "fiscal",
+    "operation",
+    "cross"
+   ],
+   "regulator": "Clean Energy Regulator",
+   "status": "Amended 2023",
+   "year": 2007,
+   "summary_en": "Baseline-and-credit scheme for facilities emitting over 100,000 t CO2-e a year.\n- Covers offshore platforms, FPSOs and LNG plants; baselines decline 4.9% a year to 2030 under 2023 reforms\n- Facilities below baseline earn Safeguard Mechanism Credits; those above surrender SMCs or ACCUs\n- Government policy requires new gas fields supplying LNG to offset reservoir CO2 from day one",
+   "summary_zh": "针对年排放超过10万吨CO2当量设施的基线-信用机制。\n- 覆盖海上平台、浮式生产储卸油装置和LNG厂；2023年改革后基线每年下降4.9%至2030年\n- 排放低于基线的设施获得保障机制信用（SMC）；高于基线须缴回SMC或ACCU\n- 政策要求为LNG供气的新气田自投产起抵消储层CO2排放",
+   "recent_change_en": "From 2023-07-01: reformed baselines and SMC crediting apply.",
+   "recent_change_zh": "自2023年7月1日起：改革后的基线与SMC信用机制实施。",
+   "url": "https://www.cer.gov.au/schemes/safeguard-mechanism"
+  },
+  {
+   "policy_id": "FED-31",
+   "jurisdiction_id": "FED",
+   "title": "Security of Critical Infrastructure Act 2018",
+   "title_zh": "《2018年关键基础设施安全法》",
+   "type": "Act",
+   "categories": [
+    "fossil",
+    "renewable",
+    "other"
+   ],
+   "stages": [
+    "cross",
+    "operation"
+   ],
+   "regulator": "Department of Home Affairs (CISC)",
+   "status": "Amended 2024",
+   "year": 2018,
+   "summary_en": "Security obligations for critical infrastructure assets.\n- Covers gas production and processing, electricity generation and transmission, ports, data and communications assets\n- Register of foreign ownership and operational information, critical infrastructure risk management program, incident reporting\n- Government assistance and intervention powers for serious cyber incidents",
+   "summary_zh": "关键基础设施资产的安全义务。\n- 覆盖天然气生产与处理、发电及输电、港口、数据与通信资产\n- 须登记外资持股与运营信息、执行关键基础设施风险管理计划并报告安全事件\n- 政府在重大网络事件中享有协助与干预权",
+   "recent_change_en": "2024-11: Cyber Security Legislation Package amended SOCI (data storage systems, consequence management, protected information).",
+   "recent_change_zh": "2024年11月：网络安全立法包修订本法（数据存储系统、后果管理、受保护信息）。",
+   "url": "https://www.legislation.gov.au/C2018A00029/latest/details"
+  },
+  {
+   "policy_id": "FED-32",
+   "jurisdiction_id": "FED",
+   "title": "Underwater Cultural Heritage Act 2018",
+   "title_zh": "《2018年水下文化遗产法》",
+   "type": "Act",
+   "categories": [
+    "fossil",
+    "renewable",
+    "mineral",
+    "other"
+   ],
+   "stages": [
+    "cross",
+    "approval"
+   ],
+   "regulator": "DCCEEW",
+   "status": "In force",
+   "year": 2018,
+   "summary_en": "Protects shipwrecks, sunken aircraft and other underwater heritage in Commonwealth waters.\n- Wrecks over 75 years old protected automatically; others by declaration\n- Permit needed to disturb protected heritage or protected zones\n- Relevant to seabed surveys, cable routes, offshore wind foundations and dredging",
+   "summary_zh": "保护联邦海域内的沉船、沉没航空器及其他水下遗产。\n- 沉没超过75年的残骸自动受保护，其他经宣布后受保护\n- 扰动受保护遗产或保护区须取得许可\n- 适用于海床勘测、电缆路由、海上风电基础施工和疏浚",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.legislation.gov.au/C2018A00085/latest/details"
+  },
+  {
+   "policy_id": "FED-33",
+   "jurisdiction_id": "FED",
+   "title": "Sea Installations Act 1987",
+   "title_zh": "《1987年海上设施法》",
+   "type": "Act",
+   "categories": [
+    "agri",
+    "other"
+   ],
+   "stages": [
+    "cross",
+    "title"
+   ],
+   "regulator": "DCCEEW",
+   "status": "In force",
+   "year": 1987,
+   "summary_en": "Permit regime for structures attached to the seabed in adjacent areas not covered by other offshore laws.\n- Covers installations such as tourism pontoons and some aquaculture structures\n- Permit conditions on safety, environment and removal\n- Petroleum and offshore electricity infrastructure are regulated under the OPGGS and OEI Acts instead",
+   "summary_zh": "适用于其他海上法律未覆盖、固定于海床的相邻海域设施的许可制度。\n- 覆盖旅游浮台及部分养殖设施\n- 许可证附带安全、环境和拆除条件\n- 油气与海上电力设施改由OPGGS法和OEI法规管",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.dcceew.gov.au/environment/marine/sea-installations"
+  },
+  {
+   "policy_id": "FED-34",
+   "jurisdiction_id": "FED",
+   "title": "Navigation Act 2012 and Marine Safety (Domestic Commercial Vessel) National Law",
+   "title_zh": "《2012年航行法》及国内商船海事安全国家法",
+   "type": "Act",
+   "categories": [
+    "fossil",
+    "renewable",
+    "agri",
+    "other"
+   ],
+   "stages": [
+    "safety"
+   ],
+   "regulator": "AMSA",
+   "status": "In force",
+   "year": 2012,
+   "summary_en": "Maritime safety regime for regulated Australian and foreign vessels and domestic commercial vessels.\n- Vessel survey, crewing, pollution prevention (MARPOL) and port State control\n- Applies to offshore supply, construction and installation vessels; boundary with OPGGS clarified by the 2024 amendments\n- Domestic commercial vessels (fishing, aquaculture workboats) under the National Law",
+   "summary_zh": "适用于受管辖澳籍及外籍船舶和国内商船的海事安全制度。\n- 船舶检验、配员、防污染（MARPOL）及港口国监督\n- 适用于海上补给、施工及安装船；2024年修订厘清与OPGGS法的边界\n- 国内商船（渔船、养殖作业船）适用国家法",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.amsa.gov.au/about/regulations-and-standards/navigation-act-2012"
+  },
+  {
+   "policy_id": "FED-35",
+   "jurisdiction_id": "FED",
+   "title": "Australian Domestic Gas Security Mechanism (ADGSM)",
+   "title_zh": "澳大利亚国内天然气安全机制（ADGSM）",
+   "type": "Regulation",
+   "categories": [
+    "fossil"
+   ],
+   "stages": [
+    "market"
+   ],
+   "regulator": "DISR / Minister for Resources",
+   "status": "In force; to be replaced",
+   "year": 2017,
+   "summary_en": "Export-control backstop for LNG under the Customs (Prohibited Exports) Regulations.\n- Minister can determine a shortfall quarter and restrict LNG exports from net-deficit east coast projects\n- Reformed from 1 April 2023 to quarterly assessment and extended to 1 January 2030\n- Never activated; the proposed Domestic Gas Reservation Scheme is designed to replace it",
+   "summary_zh": "依据《海关（禁止出口）条例》设立的LNG出口管制后备机制。\n- 部长可认定供应短缺季度，限制东海岸净亏缺项目的LNG出口\n- 2023年4月1日起改为按季度评估，有效期延至2030年1月1日\n- 从未启用；拟议的国内天然气保留机制将取代该机制",
+   "recent_change_en": "2026-05: Government stated the Domestic Gas Reservation Scheme will replace the ADGSM 'gas trigger'.",
+   "recent_change_zh": "2026年5月：政府表示国内天然气保留机制将取代ADGSM“天然气触发机制”。",
+   "url": "https://www.industry.gov.au/mining-oil-and-gas/oil-and-gas/australian-domestic-gas-security-mechanism"
+  },
+  {
+   "policy_id": "FED-36",
+   "jurisdiction_id": "FED",
+   "title": "Gas Market Code (Competition and Consumer (Gas Market Code) Regulations 2023)",
+   "title_zh": "天然气市场准则（《2023年竞争与消费者（天然气市场准则）条例》）",
+   "type": "Regulation",
+   "categories": [
+    "fossil"
+   ],
+   "stages": [
+    "market"
+   ],
+   "regulator": "ACCC / DCCEEW / Treasury",
+   "status": "In force; under review",
+   "year": 2023,
+   "summary_en": "Mandatory code of conduct for east coast wholesale gas.\n- Reasonable price of A$12/GJ for wholesale gas sold by east coast producers, with exemptions for producers offering new supply commitments\n- Good-faith negotiation, transparency and dispute resolution obligations\n- Replaced the temporary emergency price cap order of December 2022",
+   "summary_zh": "东海岸批发天然气强制行为准则。\n- 东海岸生产商批发气“合理价格”为12澳元/吉焦，承诺新增供应的生产商可获豁免\n- 规定诚信谈判、信息透明和争议解决义务\n- 取代2022年12月的临时紧急限价令",
+   "recent_change_en": "2023-07-11: Code commenced; 2025–26 Gas Market Review considered its interaction with the reservation scheme.",
+   "recent_change_zh": "2023年7月11日：准则生效；2025–2026年天然气市场评估研究其与保留机制的衔接。",
+   "url": "https://www.accc.gov.au/inquiries-and-consultations/gas-inquiry-2017-30"
+  },
+  {
+   "policy_id": "FED-37",
+   "jurisdiction_id": "FED",
+   "title": "Future Gas Strategy 2024",
+   "title_zh": "《2024年未来天然气战略》",
+   "type": "Policy",
+   "categories": [
+    "fossil",
+    "other"
+   ],
+   "stages": [
+    "market",
+    "access"
+   ],
+   "regulator": "DISR",
+   "status": "In force",
+   "year": 2024,
+   "summary_en": "Commonwealth position that gas is needed through the transition to 2050 and beyond.\n- Supports new supply, including exploration and acreage release, to meet demand and avoid shortfalls\n- Backs CCS and Australia's role as a reliable LNG trading partner\n- Basis for later gas market reviews and the 2026 reservation scheme",
+   "summary_zh": "联邦立场：能源转型期至2050年及以后仍需天然气。\n- 支持新增供应，包括勘探和区块招标，以满足需求、避免短缺\n- 支持碳捕集与封存，维持澳大利亚可靠LNG供应国地位\n- 为后续天然气市场评估及2026年保留机制提供依据",
+   "recent_change_en": "2024-05-09: Strategy released.",
+   "recent_change_zh": "2024年5月9日：战略发布。",
+   "url": "https://www.industry.gov.au/publications/future-gas-strategy"
+  },
+  {
+   "policy_id": "FED-38",
+   "jurisdiction_id": "FED",
+   "title": "Domestic Gas Reservation Scheme (proposed)",
+   "title_zh": "国内天然气保留机制（拟议）",
+   "type": "Program",
+   "categories": [
+    "fossil"
+   ],
+   "stages": [
+    "market"
+   ],
+   "regulator": "DCCEEW / AER / Minister for Resources",
+   "status": "Proposed",
+   "year": 2026,
+   "summary_en": "Standing reservation obligation on LNG exporters, announced May 2026.\n- Exporters must physically supply a Domestic Supply Obligation (DSO); offers alone do not satisfy it\n- September 2026 revision: AER sets the share up to 20% of exports; start delayed to 1 January 2028; LNG contracts signed before 22 December 2025 are unaffected\n- WA projects already under a 15% policy; NT largely exempt; legislation expected to be introduced later in 2026",
+   "summary_zh": "2026年5月宣布、对LNG出口商的常设保留义务。\n- 出口商须实际交付国内供应义务（DSO）气量，仅报价不视为履约\n- 2026年9月修订：由AER设定比例，上限为出口量的20%；起始日推迟至2028年1月1日；2025年12月22日前签订的LNG合同不受影响\n- 西澳项目已适用15%保留政策；北领地基本豁免；立法预计2026年内提交议会",
+   "recent_change_en": "2026-05-07: scheme announced (20%, start 1 Jul 2027); 2026-05-27: draft design framework; 2026-09-10: revised (AER-set up to 20%, start 1 Jan 2028).",
+   "recent_change_zh": "2026年5月7日：宣布机制（20%，2027年7月1日起）；2026年5月27日：发布设计框架草案；2026年9月10日：修订（AER设定、上限20%，2028年1月1日起）。",
+   "url": "https://www.gadens.com/insights/the-new-domestic-gas-reservation-scheme-what-it-means-for-lng-and-gas-supply-in-australia"
+  },
+  {
+   "policy_id": "FED-39",
+   "jurisdiction_id": "FED",
+   "title": "Capacity Investment Scheme",
+   "title_zh": "容量投资计划（CIS）",
+   "type": "Program",
+   "categories": [
+    "renewable"
+   ],
+   "stages": [
+    "market"
+   ],
+   "regulator": "DCCEEW / AEMO Services",
+   "status": "In force",
+   "year": 2023,
+   "summary_en": "Commonwealth underwriting of new renewable generation and dispatchable capacity through competitive tenders.\n- Revenue floors and ceilings under Capacity Investment Scheme Agreements\n- Tenders run by NEM and WEM region; offshore wind has not had a dedicated CIS tender\n- Victoria's offshore wind contracts are expected to be integrated into the proposed national Electricity Services Entry Mechanism (ESEM)",
+   "summary_zh": "联邦通过竞争性招标为新增可再生能源发电及可调度容量提供收入担保。\n- 容量投资计划协议设定收入下限与上限\n- 按NEM和WEM区域分轮招标；海上风电未设专项招标\n- 维州海上风电合同预计纳入拟议的全国电力服务准入机制（ESEM）",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.dcceew.gov.au/energy/renewable/capacity-investment-scheme"
+  },
+  {
+   "policy_id": "FED-40",
+   "jurisdiction_id": "FED",
+   "title": "Offshore Petroleum and Greenhouse Gas Storage (Regulatory Levies) Act 2003 and NOPTA cost recovery",
+   "title_zh": "《2003年海上石油与温室气体封存（监管征费）法》及NOPTA成本回收",
+   "type": "Act",
+   "categories": [
+    "fossil",
+    "other"
+   ],
+   "stages": [
+    "fiscal"
+   ],
+   "regulator": "NOPTA / NOPSEMA",
+   "status": "In force",
+   "year": 2003,
+   "summary_en": "Cost recovery for offshore petroleum and GHG regulation.\n- Annual titles administration levy, safety case and environment plan levies, well investigation levy\n- Application fees for titles, dealings and approvals set in NOPTA's schedule of fees and levies\n- Cost Recovery Implementation Statements reviewed periodically",
+   "summary_zh": "海上油气及温室气体封存监管的成本回收。\n- 年度权利管理征费、安全案例与环境计划征费、油井调查征费\n- 权利申请、交易及审批费用列于NOPTA收费与征费表\n- 成本回收实施说明定期复核",
+   "recent_change_en": "2026-05-01: updated NOPTA Cost Recovery Implementation Statement and schedule of fees and levies took effect.",
+   "recent_change_zh": "2026年5月1日：NOPTA更新的成本回收实施说明及收费征费表生效。",
+   "url": "https://www.nopta.gov.au/media/news/2026/updated-nopta-cost-recovery-implementation-statement-published.html"
+  },
+  {
+   "policy_id": "FED-41",
+   "jurisdiction_id": "FED",
+   "title": "Offshore greenhouse gas storage titles and acreage (OPGGS Act Part 3)",
+   "title_zh": "海上温室气体封存权利及区块（OPGGS法第3部分）",
+   "type": "Program",
+   "categories": [
+    "other"
+   ],
+   "stages": [
+    "access",
+    "title",
+    "decom"
+   ],
+   "regulator": "NOPTA / Joint Authority / NOPSEMA",
+   "status": "In force",
+   "year": 2008,
+   "summary_en": "Regime for offshore CO2 storage in Commonwealth waters.\n- GHG assessment permits released through periodic acreage rounds; holding leases and injection licences follow site characterisation\n- Declaration of identified storage formation and site plan approvals by the Joint Authority/Minister\n- Long-term liability can transfer to the Commonwealth after site closure on conditions",
+   "summary_zh": "联邦海域海上CO2封存制度。\n- 温室气体评估许可通过定期区块招标释放；完成场地表征后申请持有租约和注入许可证\n- 封存地层认定和场地方案由联合主管机构/部长批准\n- 场地关闭后满足条件可将长期责任转移至联邦",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.nopta.gov.au/application-processes/greenhouse-gas/index.html"
+  },
+  {
+   "policy_id": "FED-42",
+   "jurisdiction_id": "FED",
+   "title": "Offshore oil and gas decommissioning framework and guideline",
+   "title_zh": "海上油气弃置框架及指南",
+   "type": "Guideline",
+   "categories": [
+    "fossil"
+   ],
+   "stages": [
+    "decom"
+   ],
+   "regulator": "DISR / NOPSEMA",
+   "status": "In force; reform consultation under way",
+   "year": 2022,
+   "summary_en": "Government policy framework applied by NOPSEMA.\n- Four principles: titleholders are responsible; plan early; full removal is the default; finish before the title ends\n- Alternatives to full removal accepted only with equal or better environmental outcomes and full legal compliance\n- Supported by policies on title surrender, maintenance and removal of property and a Ministerial Statement of Expectations",
+   "summary_zh": "由NOPSEMA执行的政府弃置政策框架。\n- 四项原则：权利人承担责任；提前规划；默认全部拆除；权利终止前完成\n- 仅在环境效果相同或更优且全面合规时接受替代方案\n- 配套政策包括权利交回、设施维护与拆除，以及部长期望声明",
+   "recent_change_en": "2025–26: DISR consultation paper on decommissioning and financial assurance reforms.",
+   "recent_change_zh": "2025–2026年：工业部就弃置与财务担保改革发布征求意见稿。",
+   "url": "https://www.nopsema.gov.au/offshore-industry/decommissioning"
+  },
+  {
+   "policy_id": "WA-01",
+   "jurisdiction_id": "WA",
+   "title": "Petroleum and Greenhouse Gas Storage (Submerged Lands) Act 1982 (formerly Petroleum (Submerged Lands) Act 1982)",
+   "title_zh": "《1982年石油与温室气体封存（水下土地）法》（原《石油（水下土地）法》）",
+   "type": "Act",
+   "categories": [
+    "fossil",
+    "other"
+   ],
+   "stages": [
+    "access",
+    "title",
+    "approval",
+    "safety",
+    "decom"
+   ],
+   "regulator": "Department of Mines, Petroleum and Exploration (DMPE)",
+   "status": "Amended 2024",
+   "year": 1982,
+   "summary_en": "Petroleum and GHG regime for WA coastal waters (0–3 nm) and internal waters.\n- Mirrors OPGGS title types; covers nearshore fields, pipelines crossing coastal waters to onshore LNG and domgas plants\n- Exploration excluded from sensitive areas, including the Ningaloo Marine Park state waters\n- Renamed and extended to GHG storage by the 2024 Petroleum Legislation Amendment",
+   "summary_zh": "西澳沿海水域（0–3海里）及内水的油气与温室气体封存制度。\n- 权利类型与OPGGS法对应；覆盖近岸油气田，以及穿越沿海水域连接陆上LNG和内销气厂的管道\n- 敏感区域禁止勘探，包括Ningaloo海洋公园州水域\n- 2024年《石油立法修订》更名并扩展至温室气体封存",
+   "recent_change_en": "2024-05: Petroleum Legislation Amendment passed, adding GHG storage titles and renaming the Act.",
+   "recent_change_zh": "2024年5月：《石油立法修订》通过，新增温室气体封存权利并更名。",
+   "url": "https://www.wa.gov.au/organisation/department-of-mines-petroleum-and-exploration"
+  },
+  {
+   "policy_id": "WA-02",
+   "jurisdiction_id": "WA",
+   "title": "Petroleum Legislation Amendment Act 2024 (WA carbon capture and storage)",
+   "title_zh": "《2024年石油立法修订法》（西澳碳捕集与封存）",
+   "type": "Act",
+   "categories": [
+    "other"
+   ],
+   "stages": [
+    "title",
+    "approval",
+    "decom"
+   ],
+   "regulator": "DMPE",
+   "status": "Enacted 2024",
+   "year": 2024,
+   "summary_en": "Creates a state CCS framework onshore and in WA coastal waters.\n- Passed 7 May 2024 (introduced as the Petroleum Legislation Amendment Bill 2023)\n- Renames three Acts: Petroleum, Geothermal Energy and Greenhouse Gas Storage Act 1967; Petroleum and Greenhouse Gas Storage (Submerged Lands) Act 1982; Petroleum and Greenhouse Gas Pipelines Act 1969\n- Allows GHG assessment permits, injection licences and CO2 pipelines, aligned with the Commonwealth regime",
+   "summary_zh": "建立西澳陆上及沿海水域碳捕集与封存框架。\n- 2024年5月7日通过（提交时为《2023年石油立法修订法案》）\n- 三部法律更名：《1967年石油、地热能与温室气体封存法》《1982年石油与温室气体封存（水下土地）法》《1969年石油与温室气体管道法》\n- 允许颁发温室气体评估许可、注入许可证及CO2管道许可，与联邦制度衔接",
+   "recent_change_en": "2024-05-07: passed by Parliament (staged commencement not confirmed).",
+   "recent_change_zh": "2024年5月7日：议会通过（分阶段生效日期未核实）。",
+   "url": "https://allens.com.au/insights-news/insights/2024/05/a-key-step-to-net-zero-in-wa"
+  },
+  {
+   "policy_id": "WA-03",
+   "jurisdiction_id": "WA",
+   "title": "Fish Resources Management Act 1994",
+   "title_zh": "《1994年渔业资源管理法》",
+   "type": "Act",
+   "categories": [
+    "agri"
+   ],
+   "stages": [
+    "title",
+    "operation",
+    "fiscal",
+    "access"
+   ],
+   "regulator": "DPIRD",
+   "status": "In force",
+   "year": 1994,
+   "summary_en": "Principal WA law for commercial, recreational and customary fishing and aquaculture.\n- Managed fisheries with individual transferable quota or effort units (e.g. western rock lobster, the largest single-species fishery by value)\n- Aquaculture licences and leases, including in Aquaculture Development Zones\n- Under OCS arrangements WA manages most fisheries off its coast out to 200 nm",
+   "summary_zh": "西澳商业、休闲、传统捕捞及水产养殖的基本法。\n- 管理型渔业实行个人可转让配额或捕捞努力量单位（如西部岩龙虾，产值最高的单一物种渔业）\n- 核发养殖许可证和租约，包括水产养殖发展区内\n- 依海上宪政渔业安排，西澳管理其外海至200海里的大部分渔业",
+   "recent_change_en": "2024-06-18: Government decided not to implement the Aquatic Resources Management Act 2016; FRMA remains the principal Act.",
+   "recent_change_zh": "2024年6月18日：政府决定不实施《2016年水生资源管理法》，本法继续作为主体法律。",
+   "url": "https://fish.wa.gov.au/About-Us/Legislation/Western_Australian_Fisheries_Legislation/Pages/default.aspx"
+  },
+  {
+   "policy_id": "WA-04",
+   "jurisdiction_id": "WA",
+   "title": "Pearling Act 1990",
+   "title_zh": "《1990年珍珠养殖法》",
+   "type": "Act",
+   "categories": [
+    "agri"
+   ],
+   "stages": [
+    "title",
+    "operation"
+   ],
+   "regulator": "DPIRD",
+   "status": "In force",
+   "year": 1990,
+   "summary_en": "Regulates the Pinctada maxima pearl industry off northern WA.\n- Quota for wild-caught pearl oysters, hatchery permits and pearl oyster farm leases\n- Industry centred on Broome and the Kimberley coast\n- Retained after ARMA was abandoned in 2024",
+   "summary_zh": "规管西澳北部大珠母贝（Pinctada maxima）珍珠产业。\n- 野生珠母贝捕捞配额、育苗许可和珍珠贝养殖场租约\n- 产业集中于Broome及金伯利海岸\n- 2024年放弃ARMA后继续保留",
+   "recent_change_en": "2024-06-18: retained following decision not to proceed with ARMA.",
+   "recent_change_zh": "2024年6月18日：政府放弃ARMA后继续保留。",
+   "url": "https://www.wa.gov.au/government/media-statements/Cook-Labor-Government/Implementation-of-fisheries-legislation-not-to-proceed-20240618"
+  },
+  {
+   "policy_id": "WA-05",
+   "jurisdiction_id": "WA",
+   "title": "Aquaculture Development Zones (Kimberley and Mid West)",
+   "title_zh": "水产养殖发展区（金伯利及中西部）",
+   "type": "Plan",
+   "categories": [
+    "agri"
+   ],
+   "stages": [
+    "access",
+    "approval"
+   ],
+   "regulator": "DPIRD / EPA WA",
+   "status": "In force",
+   "year": 2014,
+   "summary_en": "Pre-approved zones for marine finfish aquaculture in WA waters.\n- Kimberley ADZ (Cone Bay) and Mid West ADZ (Abrolhos Islands) carry strategic environmental approval\n- Investors apply for leases and licences under the FRMA inside the zones without a full project EIA\n- Zone management policies set environmental monitoring and stocking limits",
+   "summary_zh": "西澳水域海水鱼类养殖的预审批区域。\n- 金伯利发展区（Cone Bay）和中西部发展区（Abrolhos群岛）已取得战略性环境批准\n- 投资者在区内依FRMA申请租约和许可证，无需单独完成项目环评\n- 区域管理政策规定环境监测和放养上限",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://fish.wa.gov.au/About-Us/Legislation/Western_Australian_Fisheries_Legislation/Pages/default.aspx"
+  },
+  {
+   "policy_id": "WA-06",
+   "jurisdiction_id": "WA",
+   "title": "Environmental Protection Act 1986",
+   "title_zh": "《1986年环境保护法》",
+   "type": "Act",
+   "categories": [
+    "fossil",
+    "renewable",
+    "mineral",
+    "agri",
+    "other"
+   ],
+   "stages": [
+    "approval"
+   ],
+   "regulator": "EPA WA / DWER",
+   "status": "In force",
+   "year": 1986,
+   "summary_en": "WA environmental impact assessment and licensing law.\n- Part IV: EPA assesses significant proposals (LNG plants, ports, salt projects, desalination) and the Minister sets conditions\n- Part V: works approvals and licences for prescribed premises, including wastewater and brine discharge\n- EPA greenhouse gas guidance expects major proposals to plan for net zero by 2050",
+   "summary_zh": "西澳环境影响评估与许可法。\n- 第IV部分：EPA评估重大项目（LNG厂、港口、盐田、海水淡化），部长设定批准条件\n- 第V部分：规定场所的工程审批与运营许可，包括废水和浓盐水排放\n- EPA温室气体指南要求重大项目制定2050年净零路径",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.epa.wa.gov.au/"
+  },
+  {
+   "policy_id": "WA-07",
+   "jurisdiction_id": "WA",
+   "title": "Conservation and Land Management Act 1984 (marine parks and reserves)",
+   "title_zh": "《1984年保护与土地管理法》（海洋公园及保护区）",
+   "type": "Act",
+   "categories": [
+    "fossil",
+    "mineral",
+    "agri",
+    "other"
+   ],
+   "stages": [
+    "access"
+   ],
+   "regulator": "DBCA",
+   "status": "In force",
+   "year": 1984,
+   "summary_en": "Creates and manages WA marine parks and marine management areas in state waters.\n- Parks include Ningaloo, Shark Bay, Rowley Shoals and Kimberley parks\n- Zoning: sanctuary zones exclude extraction; general use zones allow regulated fishing and some infrastructure\n- Management plans developed jointly with Traditional Owners in many northern parks",
+   "summary_zh": "设立并管理西澳州水域的海洋公园和海洋管理区。\n- 包括Ningaloo、Shark Bay、Rowley Shoals及金伯利地区海洋公园\n- 分区：保护区禁止开采；一般利用区允许受规管的捕捞和部分基础设施\n- 北部多数公园与传统所有者共同编制管理计划",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.dbca.wa.gov.au/"
+  },
+  {
+   "policy_id": "WA-08",
+   "jurisdiction_id": "WA",
+   "title": "Mining Act 1978 and salt/marine sand State Agreements",
+   "title_zh": "《1978年采矿法》及盐业/海砂州协议",
+   "type": "Act",
+   "categories": [
+    "mineral"
+   ],
+   "stages": [
+    "title",
+    "operation"
+   ],
+   "regulator": "DMPE",
+   "status": "In force",
+   "year": 1978,
+   "summary_en": "Mineral tenure for WA land, including the seabed of coastal waters where not excluded.\n- Solar salt operations (e.g. Dampier, Port Hedland, Shark Bay, Lake MacLeod) hold mining leases or State Agreements\n- Shell sand dredging in Cockburn Sound operates under a State Agreement\n- No seabed mining operations in WA coastal waters",
+   "summary_zh": "西澳矿权制度，适用范围包括未被排除的沿海水域海床。\n- 日晒盐项目（如Dampier、Port Hedland、Shark Bay、Lake MacLeod）持采矿租约或州协议\n- Cockburn Sound贝壳砂疏浚依州协议运营\n- 西澳沿海水域无海底采矿作业",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.wa.gov.au/organisation/department-of-mines-petroleum-and-exploration"
+  },
+  {
+   "policy_id": "WA-09",
+   "jurisdiction_id": "WA",
+   "title": "Port Authorities Act 1999",
+   "title_zh": "《1999年港务局法》",
+   "type": "Act",
+   "categories": [
+    "other",
+    "fossil",
+    "renewable"
+   ],
+   "stages": [
+    "title",
+    "operation"
+   ],
+   "regulator": "Department of Transport / port authorities",
+   "status": "In force",
+   "year": 1999,
+   "summary_en": "Governs WA's five port authorities.\n- Fremantle, Kimberley, Mid West, Pilbara (Ashburton, Dampier, Port Hedland, Varanus Island) and Southern (Albany, Bunbury, Esperance)\n- Port authorities control port waters, pilotage, leases for LNG and resource terminals\n- Bunbury port relevant to the Bunbury offshore wind area",
+   "summary_zh": "规管西澳五家港务局。\n- Fremantle、金伯利、中西部、Pilbara（Ashburton、Dampier、Port Hedland、Varanus岛）和南部（Albany、Bunbury、Esperance）\n- 港务局管理港区水域、引航及LNG和资源码头租约\n- Bunbury港与Bunbury海上风电区域相关",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.transport.wa.gov.au/supply-chains/ports/authorities"
+  },
+  {
+   "policy_id": "WA-10",
+   "jurisdiction_id": "WA",
+   "title": "WA Domestic Gas Policy",
+   "title_zh": "西澳国内天然气政策",
+   "type": "Policy",
+   "categories": [
+    "fossil"
+   ],
+   "stages": [
+    "market"
+   ],
+   "regulator": "WA Government (DEED / DMPE)",
+   "status": "Amended 2024",
+   "year": 2006,
+   "summary_en": "Reservation policy applied to LNG and gas export projects.\n- LNG projects reserve the equivalent of 15% of production for the WA market, applied through State Agreements and export approvals\n- September 2024 update: onshore projects reserve 80% to 31 December 2030 and 100% thereafter; 15% for the first Canning Basin mover\n- Annual WA Domestic Gas Statement reports compliance",
+   "summary_zh": "适用于LNG及天然气出口项目的保留政策。\n- LNG项目须为西澳市场保留相当于产量15%的天然气，通过州协议和出口审批落实\n- 2024年9月更新：陆上项目2030年12月31日前保留80%，此后100%；Canning盆地首个开发者为15%\n- 年度《西澳国内天然气报告》披露履约情况",
+   "recent_change_en": "2024-09-19: policy updated; 2026: Commonwealth reservation scheme to treat WA's 15% as the base.",
+   "recent_change_zh": "2024年9月19日：政策更新；2026年：联邦保留机制以西澳15%为基础。",
+   "url": "https://wa.gov.au/government/announcements/domestic-gas-policy-updated-secure-was-energy-future"
+  },
+  {
+   "policy_id": "WA-11",
+   "jurisdiction_id": "WA",
+   "title": "State Agreement Acts for LNG and resource projects",
+   "title_zh": "LNG及资源项目州协议法",
+   "type": "Agreement",
+   "categories": [
+    "fossil",
+    "mineral",
+    "other"
+   ],
+   "stages": [
+    "title",
+    "market",
+    "cross"
+   ],
+   "regulator": "WA Government (DEED)",
+   "status": "In force",
+   "year": 1979,
+   "summary_en": "Project-specific contracts ratified by WA Parliament.\n- Examples: North West Gas Development (Woodside) Agreement Act 1979; Gorgon Gas Processing and Infrastructure Project Agreement Act 2003\n- Fix land tenure, royalties, local content and domestic gas commitments (e.g. Gorgon 2,000 PJ domgas)\n- Override general law where inconsistent; variations need parliamentary approval",
+   "summary_zh": "经西澳议会批准的单个项目协议。\n- 例如《1979年西北天然气开发（伍德赛德）协议法》《2003年Gorgon天然气处理与基础设施项目协议法》\n- 锁定土地权属、特许权使用费、本地化及内销气承诺（如Gorgon 2,000拍焦内销气）\n- 与一般法律冲突时优先适用；变更须议会批准",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.wa.gov.au/organisation/department-of-jobs-tourism-science-and-innovation"
+  },
+  {
+   "policy_id": "WA-12",
+   "jurisdiction_id": "WA",
+   "title": "Water Services Act 2012 and Rights in Water and Irrigation Act 1914 (desalination)",
+   "title_zh": "《2012年供水服务法》及《1914年水权与灌溉法》（海水淡化）",
+   "type": "Act",
+   "categories": [
+    "other"
+   ],
+   "stages": [
+    "title",
+    "approval",
+    "operation"
+   ],
+   "regulator": "DWER / Economic Regulation Authority / Water Corporation",
+   "status": "In force",
+   "year": 2012,
+   "summary_en": "Licensing of water service providers, including seawater desalination.\n- Water Corporation operates the Perth (Kwinana) and Southern (Binningup) seawater desalination plants\n- A third plant at Alkimos is being delivered\n- Brine outfalls need EP Act approvals and licences",
+   "summary_zh": "供水服务商（含海水淡化）的许可制度。\n- Water Corporation运营珀斯（Kwinana）和南部（Binningup）海水淡化厂\n- Alkimos第三座海水淡化厂在建\n- 浓盐水排放口须取得《环境保护法》批准和许可",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.wa.gov.au/organisation/department-of-water-and-environmental-regulation"
+  },
+  {
+   "policy_id": "NT-01",
+   "jurisdiction_id": "NT",
+   "title": "Petroleum (Submerged Lands) Act 1981 (NT)",
+   "title_zh": "《1981年石油（水下土地）法》（北领地）",
+   "type": "Act",
+   "categories": [
+    "fossil"
+   ],
+   "stages": [
+    "access",
+    "title",
+    "safety",
+    "decom"
+   ],
+   "regulator": "NT Department of Mining and Energy",
+   "status": "In force",
+   "year": 1981,
+   "summary_en": "Petroleum regime for NT coastal waters (0–3 nm).\n- Mirrors Commonwealth title types for permits, leases, licences and pipelines\n- Main relevance: pipelines from Commonwealth-water fields (Ichthys, Barossa) crossing coastal waters to Darwin LNG and Ichthys LNG\n- NT Minister is a member of the Joint Authority for adjacent Commonwealth waters",
+   "summary_zh": "北领地沿海水域（0–3海里）油气制度。\n- 许可、租约、执照及管道权利与联邦制度对应\n- 主要涉及联邦海域气田（Ichthys、Barossa）经沿海水域通往达尔文LNG及Ichthys LNG的管道\n- 北领地部长是相邻联邦海域联合主管机构成员",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://legislation.nt.gov.au/Legislation/PETROLEUM-SUBMERGED-LANDS-ACT-1981"
+  },
+  {
+   "policy_id": "NT-02",
+   "jurisdiction_id": "NT",
+   "title": "Fisheries Act 1988 (NT)",
+   "title_zh": "《1988年渔业法》（北领地）",
+   "type": "Act",
+   "categories": [
+    "agri"
+   ],
+   "stages": [
+    "title",
+    "operation",
+    "fiscal"
+   ],
+   "regulator": "NT Department of Agriculture and Fisheries",
+   "status": "In force",
+   "year": 1988,
+   "summary_en": "Governs NT commercial and recreational fisheries and aquaculture.\n- Licensed fisheries include barramundi, mud crab, Spanish mackerel and offshore snapper\n- Aquaculture licences for barramundi, pearl oyster and prawn farms\n- Fishing in tidal waters over Aboriginal land also needs Traditional Owner permission after Blue Mud Bay",
+   "summary_zh": "规管北领地商业、休闲渔业及水产养殖。\n- 持证渔业包括尖吻鲈、泥蟹、西班牙鲭和外海鲷鱼\n- 尖吻鲈、珠母贝和对虾养殖须持养殖许可证\n- Blue Mud Bay案后，在原住民土地上方潮间带捕捞另须传统所有者许可",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://legislation.nt.gov.au/Legislation/FISHERIES-ACT-1988"
+  },
+  {
+   "policy_id": "NT-03",
+   "jurisdiction_id": "NT",
+   "title": "Environment Protection Act 2019 (NT)",
+   "title_zh": "《2019年环境保护法》（北领地）",
+   "type": "Act",
+   "categories": [
+    "fossil",
+    "mineral",
+    "agri",
+    "other"
+   ],
+   "stages": [
+    "approval"
+   ],
+   "regulator": "NT EPA / Minister for Environment",
+   "status": "In force",
+   "year": 2019,
+   "summary_en": "NT environmental impact assessment and approval law, replacing the Environmental Assessment Act 1982.\n- NT EPA assesses referred proposals; the Minister grants environmental approvals with conditions\n- Applies to coastal and onshore components of offshore projects (gas plants, pipelines, ports, aquaculture)\n- Bilateral assessment arrangement with the Commonwealth under the EPBC Act",
+   "summary_zh": "北领地环境影响评估与审批法，取代《1982年环境评估法》。\n- NT EPA评估申报项目，部长附条件授予环境批准\n- 适用于海上项目的沿海及陆上部分（气厂、管道、港口、养殖）\n- 与联邦签有EPBC双边评估安排",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://legislation.nt.gov.au/Legislation/ENVIRONMENT-PROTECTION-ACT-2019"
+  },
+  {
+   "policy_id": "NT-04",
+   "jurisdiction_id": "NT",
+   "title": "Mineral Titles Act 2010 and NT seabed mining prohibition",
+   "title_zh": "《2010年矿产权利法》及北领地海底采矿禁令",
+   "type": "Act",
+   "categories": [
+    "mineral"
+   ],
+   "stages": [
+    "access",
+    "title"
+   ],
+   "regulator": "NT Department of Mining and Energy",
+   "status": "In force (seabed mining banned)",
+   "year": 2010,
+   "summary_en": "Mineral titles law for the NT; seabed mining in NT coastal waters is banned.\n- Moratorium imposed in 2012, extended in 2015 and 2018\n- February 2021: NT Government decided to ban seabed mining by prohibition declaration\n- No seabed mining has occurred in the NT",
+   "summary_zh": "北领地矿权法；北领地沿海水域禁止海底采矿。\n- 2012年实施暂停令，2015年和2018年两次延期\n- 2021年2月：北领地政府决定以禁止声明形式禁止海底采矿\n- 北领地从未开展海底采矿",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://newsroom.nt.gov.au/mediaRelease/34139"
+  },
+  {
+   "policy_id": "NT-05",
+   "jurisdiction_id": "NT",
+   "title": "Territory Parks and Wildlife Conservation Act 1976 (marine parks)",
+   "title_zh": "《1976年领地公园与野生动物保护法》（海洋公园）",
+   "type": "Act",
+   "categories": [
+    "agri",
+    "other"
+   ],
+   "stages": [
+    "access"
+   ],
+   "regulator": "NT Parks and Wildlife Commission",
+   "status": "In force",
+   "year": 1976,
+   "summary_en": "Basis for NT parks and reserves, including marine areas.\n- Marine protected areas such as Limmen Bight Marine Park and the marine section of Garig Gunak Barlu National Park\n- Jointly managed with Traditional Owners\n- Protected species provisions apply to dugong, turtles and sawfish",
+   "summary_zh": "北领地公园及保护区（含海域）的法律依据。\n- 海洋保护区包括Limmen Bight海洋公园及Garig Gunak Barlu国家公园海域部分\n- 与传统所有者共同管理\n- 儒艮、海龟和锯鳐适用受保护物种条款",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://legislation.nt.gov.au/Legislation/TERRITORY-PARKS-AND-WILDLIFE-CONSERVATION-ACT-1976"
+  },
+  {
+   "policy_id": "NT-06",
+   "jurisdiction_id": "NT",
+   "title": "Ports Management Act 2015 (NT)",
+   "title_zh": "《2015年港口管理法》（北领地）",
+   "type": "Act",
+   "categories": [
+    "other",
+    "fossil"
+   ],
+   "stages": [
+    "title",
+    "operation"
+   ],
+   "regulator": "NT Government / Darwin Port operator",
+   "status": "In force",
+   "year": 2015,
+   "summary_en": "Port governance framework for Darwin Port.\n- Darwin Port leased for 99 years in 2015 to Landbridge\n- Port operator manages port waters, pilotage and marine services used by Darwin LNG, Ichthys LNG and offshore supply bases\n- Ownership of the lease remains a federal political issue",
+   "summary_zh": "达尔文港的港口治理框架。\n- 2015年以99年租约租予岚桥集团（Landbridge）\n- 港口运营方管理港区水域、引航及海事服务，服务达尔文LNG、Ichthys LNG和海上补给基地\n- 租约归属仍是联邦层面的政治议题",
+   "recent_change_en": "2025: Commonwealth stated intention to return Darwin Port to Australian ownership; outcome as of Oct 2026 not verified.",
+   "recent_change_zh": "2025年：联邦政府表示拟使达尔文港回归澳大利亚所有；截至2026年10月结果未核实。",
+   "url": "https://legislation.nt.gov.au/Legislation/PORTS-MANAGEMENT-ACT-2015"
+  },
+  {
+   "policy_id": "NT-07",
+   "jurisdiction_id": "NT",
+   "title": "Aboriginal Land Rights (Northern Territory) Act 1976 (Cth) — intertidal zone",
+   "title_zh": "《1976年原住民土地权利（北领地）法》（联邦）：潮间带",
+   "type": "Act",
+   "categories": [
+    "agri",
+    "fossil",
+    "other"
+   ],
+   "stages": [
+    "cross",
+    "access"
+   ],
+   "regulator": "Land councils (e.g. Northern Land Council)",
+   "status": "In force",
+   "year": 1976,
+   "summary_en": "Aboriginal freehold covers much of the NT coast down to low water mark.\n- Blue Mud Bay (High Court, 2008): Traditional Owners can control access to tidal waters over Aboriginal land\n- Commercial fishing in those waters needs permits or access agreements negotiated with land councils\n- Pipelines, cables and port works crossing Aboriginal land need land council consent",
+   "summary_zh": "原住民永久产权覆盖北领地大部分海岸至低潮线。\n- Blue Mud Bay案（高等法院，2008年）：传统所有者可控制原住民土地上方潮间水域的准入\n- 在相关水域商业捕捞须取得许可或与土地委员会谈判准入协议\n- 管道、电缆和港口工程穿越原住民土地须取得土地委员会同意",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.nlc.org.au/"
+  },
+  {
+   "policy_id": "QLD-01",
+   "jurisdiction_id": "QLD",
+   "title": "Petroleum (Submerged Lands) Act 1982 (Qld)",
+   "title_zh": "《1982年石油（水下土地）法》（昆州）",
+   "type": "Act",
+   "categories": [
+    "fossil"
+   ],
+   "stages": [
+    "access",
+    "title"
+   ],
+   "regulator": "DNRMMRRD (Resources)",
+   "status": "In force",
+   "year": 1982,
+   "summary_en": "Petroleum regime for Queensland coastal waters (0–3 nm).\n- Little activity: most Queensland coastal waters lie within the Great Barrier Reef region, where petroleum activity is prohibited\n- Queensland LNG is supplied by onshore coal seam gas, with marine-linked infrastructure at Curtis Island, Gladstone",
+   "summary_zh": "昆州沿海水域（0–3海里）油气制度。\n- 活动很少：昆州大部分沿海水域位于大堡礁区域，禁止油气活动\n- 昆州LNG气源为陆上煤层气，海上相关设施位于Gladstone的Curtis岛",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.business.qld.gov.au/industries/mining-energy-water/resources/petroleum-energy"
+  },
+  {
+   "policy_id": "QLD-02",
+   "jurisdiction_id": "QLD",
+   "title": "Petroleum and Gas (Production and Safety) Act 2004 — prospective gas production land reserve",
+   "title_zh": "《2004年石油与天然气（生产与安全）法》：预期天然气生产用地保留",
+   "type": "Act",
+   "categories": [
+    "fossil"
+   ],
+   "stages": [
+    "market",
+    "title"
+   ],
+   "regulator": "DNRMMRRD",
+   "status": "In force",
+   "year": 2004,
+   "summary_en": "Queensland's gas tenure law, including domestic supply conditions.\n- Land released into the prospective gas production land reserve carries an Australian market supply condition (gas sold only to the Australian market)\n- Used since 2017 to release acreage for domestic supply\n- Applies to onshore tenure feeding the Gladstone LNG export market",
+   "summary_zh": "昆州天然气权利法，含国内供应条件。\n- 纳入预期天然气生产用地保留的区块附带“澳大利亚市场供应条件”（仅可售予国内市场）\n- 自2017年起用于释放内销区块\n- 适用于为Gladstone LNG出口供气的陆上权利",
+   "recent_change_en": "2026: Queensland made a submission on the Commonwealth gas reservation draft design framework.",
+   "recent_change_zh": "2026年：昆州政府就联邦天然气保留机制设计框架草案提交意见。",
+   "url": "https://www.legislation.qld.gov.au/view/html/inforce/current/act-2004-025"
+  },
+  {
+   "policy_id": "QLD-03",
+   "jurisdiction_id": "QLD",
+   "title": "Fisheries Act 1994 (Qld)",
+   "title_zh": "《1994年渔业法》（昆州）",
+   "type": "Act",
+   "categories": [
+    "agri"
+   ],
+   "stages": [
+    "title",
+    "operation",
+    "access"
+   ],
+   "regulator": "Fisheries Queensland (Department of Primary Industries)",
+   "status": "In force",
+   "year": 1994,
+   "summary_en": "Principal Queensland law for fisheries and fisheries aspects of aquaculture.\n- Sustainable Fisheries Strategy 2017–2027: harvest strategies and individual transferable quota (e.g. coral reef fin fish, spanner crab)\n- Commercial gillnet fishing in the Great Barrier Reef to be phased out by mid-2027 under a 2023 Commonwealth–Queensland decision\n- Resource allocation authorities and development approvals for aquaculture in tidal waters",
+   "summary_zh": "昆州渔业及养殖相关事项的基本法。\n- 《2017–2027年可持续渔业战略》：捕捞策略及个人可转让配额（如珊瑚礁鱼类、蛙形蟹）\n- 依2023年联邦与昆州决定，大堡礁商业刺网捕捞于2027年中前退出\n- 潮间水域养殖须取得资源分配授权和开发批准",
+   "recent_change_en": "2023-06: GBR commercial gillnet phase-out announced (to mid-2027).",
+   "recent_change_zh": "2023年6月：宣布大堡礁商业刺网捕捞于2027年中前退出。",
+   "url": "https://www.legislation.qld.gov.au/view/html/inforce/current/act-1994-037"
+  },
+  {
+   "policy_id": "QLD-04",
+   "jurisdiction_id": "QLD",
+   "title": "Planning Act 2016 — aquaculture development approvals",
+   "title_zh": "《2016年规划法》：水产养殖开发审批",
+   "type": "Act",
+   "categories": [
+    "agri"
+   ],
+   "stages": [
+    "approval",
+    "access"
+   ],
+   "regulator": "SARA (State Assessment and Referral Agency) / Fisheries Queensland",
+   "status": "In force",
+   "year": 2016,
+   "summary_en": "Development approval pathway for marine and land-based aquaculture.\n- State Development Assessment Provisions apply to aquaculture and tidal works\n- Aquaculture Development Areas identify land suited to pond aquaculture near the Reef\n- Discharges to the Reef catchment must meet Reef water-quality rules under the EP Act",
+   "summary_zh": "海水及陆基养殖的开发审批路径。\n- 养殖及潮间工程适用州开发评估条款\n- 水产养殖发展区标示大堡礁附近适宜池塘养殖的土地\n- 向大堡礁流域排放须满足《环境保护法》下的水质规则",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.legislation.qld.gov.au/view/html/inforce/current/act-2016-025"
+  },
+  {
+   "policy_id": "QLD-05",
+   "jurisdiction_id": "QLD",
+   "title": "Environmental Protection Act 1994 (Qld)",
+   "title_zh": "《1994年环境保护法》（昆州）",
+   "type": "Act",
+   "categories": [
+    "fossil",
+    "mineral",
+    "agri",
+    "other"
+   ],
+   "stages": [
+    "approval",
+    "operation"
+   ],
+   "regulator": "Department of the Environment, Tourism, Science and Innovation (DETSI)",
+   "status": "In force",
+   "year": 1994,
+   "summary_en": "Queensland environmental authority and EIS law.\n- Environmental authorities for environmentally relevant activities, including LNG plants, ports, aquaculture and desalination\n- EIS process for major projects; Coordinator-General alternative for state development projects\n- Reef protection regulations limit nutrient and sediment loads",
+   "summary_zh": "昆州环境许可与环境影响报告法。\n- 环境相关活动（含LNG厂、港口、养殖、海水淡化）须取得环境授权\n- 重大项目执行环境影响报告程序；州开发项目可由协调总长评估\n- 大堡礁保护规定限制营养物和泥沙排放",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.legislation.qld.gov.au/view/html/inforce/current/act-1994-062"
+  },
+  {
+   "policy_id": "QLD-06",
+   "jurisdiction_id": "QLD",
+   "title": "Marine Parks Act 2004 (Qld)",
+   "title_zh": "《2004年海洋公园法》（昆州）",
+   "type": "Act",
+   "categories": [
+    "agri",
+    "mineral",
+    "other"
+   ],
+   "stages": [
+    "access"
+   ],
+   "regulator": "DETSI / Queensland Parks and Wildlife Service",
+   "status": "In force",
+   "year": 2004,
+   "summary_en": "Creates state marine parks in Queensland tidal waters.\n- Great Barrier Reef Coast Marine Park (mirrors federal zoning in state waters), Moreton Bay and Great Sandy marine parks\n- Zoning plans set green (no-take) zones and use permits\n- Overlaps with Commonwealth GBR Marine Park managed through the Reef intergovernmental agreement",
+   "summary_zh": "在昆州潮间水域设立州海洋公园。\n- 大堡礁海岸海洋公园（在州水域镜像联邦分区）、Moreton湾和Great Sandy海洋公园\n- 分区规划设定绿区（禁捕）及使用许可\n- 与联邦大堡礁海洋公园的重叠通过大堡礁政府间协议协调",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.legislation.qld.gov.au/view/html/inforce/current/act-2004-031"
+  },
+  {
+   "policy_id": "QLD-07",
+   "jurisdiction_id": "QLD",
+   "title": "Reef 2050 Long-Term Sustainability Plan",
+   "title_zh": "《大堡礁2050长期可持续计划》",
+   "type": "Plan",
+   "categories": [
+    "agri",
+    "fossil",
+    "other"
+   ],
+   "stages": [
+    "cross",
+    "operation"
+   ],
+   "regulator": "Commonwealth and Queensland governments / GBRMPA",
+   "status": "In force",
+   "year": 2015,
+   "summary_en": "Joint Commonwealth–Queensland plan for the Great Barrier Reef World Heritage Area.\n- Updated in 2021; sets targets for water quality, fishing, coastal development and climate response\n- Frames UNESCO World Heritage reporting\n- Underpins port limits, gillnet phase-out and Reef water-quality regulation",
+   "summary_zh": "联邦与昆州共同制定的大堡礁世界遗产区计划。\n- 2021年更新；设定水质、渔业、沿海开发和气候应对目标\n- 是向联合国教科文组织世界遗产报告的框架\n- 港口限制、刺网退出和大堡礁水质监管的依据",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.gbrmpa.gov.au/"
+  },
+  {
+   "policy_id": "QLD-08",
+   "jurisdiction_id": "QLD",
+   "title": "Mineral Resources Act 1989 (Qld)",
+   "title_zh": "《1989年矿产资源法》（昆州）",
+   "type": "Act",
+   "categories": [
+    "mineral"
+   ],
+   "stages": [
+    "title",
+    "access"
+   ],
+   "regulator": "DNRMMRRD",
+   "status": "In force",
+   "year": 1989,
+   "summary_en": "Mineral tenure law; seabed mining is effectively excluded along the Reef coast.\n- Mining is prohibited in the GBR Marine Park and restricted in state marine parks\n- Sand and quarry material in tidal waters is allocated under the Coastal Protection and Management Act\n- No seabed mineral projects in Queensland waters",
+   "summary_zh": "矿权法；大堡礁海岸实际上排除海底采矿。\n- 大堡礁海洋公园禁止采矿，州海洋公园受限制\n- 潮间水域砂石由《海岸保护与管理法》分配\n- 昆州水域无海底矿产项目",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.legislation.qld.gov.au/view/html/inforce/current/act-1989-110"
+  },
+  {
+   "policy_id": "QLD-09",
+   "jurisdiction_id": "QLD",
+   "title": "Greenhouse Gas Storage Act 2009 (Qld)",
+   "title_zh": "《2009年温室气体封存法》（昆州）",
+   "type": "Act",
+   "categories": [
+    "other"
+   ],
+   "stages": [
+    "title",
+    "access",
+    "approval"
+   ],
+   "regulator": "DNRMMRRD",
+   "status": "Amended 2024",
+   "year": 2009,
+   "summary_en": "Queensland GHG storage tenure law.\n- Exploration permits and injection and storage leases for CO2 storage\n- MEROLA Act 2024 permanently banned GHG storage, including CO2-enhanced recovery, in Queensland's part of the Great Artesian Basin\n- Storage outside the GAB remains possible under existing assessment",
+   "summary_zh": "昆州温室气体封存权利法。\n- 设CO2封存勘探许可及注入与封存租约\n- 《2024年矿产与能源资源及其他立法修订法》（MEROLA）永久禁止在昆州大自流盆地内封存温室气体，含CO2驱油\n- 大自流盆地以外仍可按现行程序评估",
+   "recent_change_en": "2024-06-18: MEROLA Act 2024 assented, ending GAB GHG permits; 2025: private member's bill on converting GHG wells to water bores.",
+   "recent_change_zh": "2024年6月18日：MEROLA法获御准，终止大自流盆地温室气体许可；2025年：议员提案拟将温室气体井改作水井。",
+   "url": "https://www.legislation.qld.gov.au/view/html/inforce/current/act-2009-003"
+  },
+  {
+   "policy_id": "QLD-10",
+   "jurisdiction_id": "QLD",
+   "title": "Sustainable Ports Development Act 2015",
+   "title_zh": "《2015年港口可持续发展法》",
+   "type": "Act",
+   "categories": [
+    "other",
+    "fossil",
+    "mineral"
+   ],
+   "stages": [
+    "access",
+    "approval"
+   ],
+   "regulator": "Department of Transport and Main Roads",
+   "status": "In force",
+   "year": 2015,
+   "summary_en": "Limits port development in the Great Barrier Reef World Heritage Area.\n- New port development restricted to four priority ports: Gladstone, Hay Point/Mackay, Abbot Point and Townsville\n- Bans sea-based disposal of capital dredge material in the World Heritage Area\n- Requires master plans for priority ports",
+   "summary_zh": "限制大堡礁世界遗产区内的港口开发。\n- 新港口开发仅限四个优先港口：Gladstone、Hay Point/Mackay、Abbot Point和Townsville\n- 禁止在世界遗产区内海上处置基建疏浚物\n- 优先港口须编制总体规划",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.tmr.qld.gov.au/business-industry/Transport-sectors/Ports"
+  },
+  {
+   "policy_id": "QLD-11",
+   "jurisdiction_id": "QLD",
+   "title": "Coastal Protection and Management Act 1995",
+   "title_zh": "《1995年海岸保护与管理法》",
+   "type": "Act",
+   "categories": [
+    "mineral",
+    "other",
+    "agri"
+   ],
+   "stages": [
+    "access",
+    "approval"
+   ],
+   "regulator": "DETSI",
+   "status": "In force",
+   "year": 1995,
+   "summary_en": "Regulates tidal works, coastal management districts and quarry material in tidal waters.\n- Approval for tidal works such as jetties, pipelines, cable landings and aquaculture structures\n- Allocation of quarry material (marine sand) below high-water mark\n- State tidal land tenure for coastal infrastructure",
+   "summary_zh": "规管潮间工程、海岸管理区及潮间水域砂石。\n- 码头、管道、电缆登陆点和养殖设施等潮间工程须审批\n- 高潮线以下砂石（海砂）分配\n- 沿海基础设施所涉州潮间土地权属",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.legislation.qld.gov.au/view/html/inforce/current/act-1995-041"
+  },
+  {
+   "policy_id": "QLD-12",
+   "jurisdiction_id": "QLD",
+   "title": "Transport Infrastructure Act 1994 (ports)",
+   "title_zh": "《1994年交通基础设施法》（港口）",
+   "type": "Act",
+   "categories": [
+    "other",
+    "fossil"
+   ],
+   "stages": [
+    "title",
+    "operation"
+   ],
+   "regulator": "Department of Transport and Main Roads / port GOCs",
+   "status": "In force",
+   "year": 1994,
+   "summary_en": "Framework for Queensland port authorities and port limits.\n- Government-owned port corporations include Gladstone Ports Corporation (LNG export via Curtis Island), North Queensland Bulk Ports and Port of Townsville\n- Port leases and port land for LNG terminals and resource export facilities\n- Maritime Safety Queensland handles pilotage and vessel traffic",
+   "summary_zh": "昆州港务机构及港界的管理框架。\n- 国有港口公司包括Gladstone港口公司（经Curtis岛出口LNG）、北昆士兰散货港和Townsville港\n- LNG码头及资源出口设施的港口租约与港口用地\n- 昆州海事安全局负责引航和船舶交通管理",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.legislation.qld.gov.au/view/html/inforce/current/act-1994-008"
+  },
+  {
+   "policy_id": "NSW-01",
+   "jurisdiction_id": "NSW",
+   "title": "Petroleum (Offshore) Act 1982 (NSW)",
+   "title_zh": "《1982年石油（海上）法》（新州）",
+   "type": "Act",
+   "categories": [
+    "fossil"
+   ],
+   "stages": [
+    "access",
+    "title"
+   ],
+   "regulator": "NSW Resources",
+   "status": "In force (exploration banned)",
+   "year": 1982,
+   "summary_en": "Petroleum regime for NSW coastal waters (0–3 nm).\n- No petroleum production in NSW waters\n- The 2024 seabed mining and exploration ban prohibits petroleum exploration and extraction in NSW coastal waters\n- Commonwealth permits off NSW (e.g. off Newcastle) remain under the OPGGS Act, but onshore infrastructure would be blocked by NSW law",
+   "summary_zh": "新州沿海水域（0–3海里）油气制度。\n- 新州水域无油气生产\n- 2024年海底采矿与勘探禁令禁止在新州沿海水域勘探和开采油气\n- 新州外海联邦许可（如Newcastle外海）仍适用OPGGS法，但相关陆上设施受新州法律禁止",
+   "recent_change_en": "2024-03: coastal-waters petroleum exploration and extraction banned via EP&A amendment.",
+   "recent_change_zh": "2024年3月：通过EP&A法修订禁止在沿海水域勘探和开采油气。",
+   "url": "https://legislation.nsw.gov.au/view/html/inforce/current/act-1982-023"
+  },
+  {
+   "policy_id": "NSW-02",
+   "jurisdiction_id": "NSW",
+   "title": "Offshore Minerals Act 1999 (NSW)",
+   "title_zh": "《1999年海上矿产法》（新州）",
+   "type": "Act",
+   "categories": [
+    "mineral"
+   ],
+   "stages": [
+    "title",
+    "access"
+   ],
+   "regulator": "NSW Resources",
+   "status": "In force (mining banned)",
+   "year": 1999,
+   "summary_en": "Mineral titles regime for NSW coastal waters.\n- Provides for exploration and mining licences mirroring the Commonwealth Offshore Minerals Act\n- Seabed mineral exploration and extraction now prohibited by the 2024 EP&A amendment\n- Coastal sand nourishment and certain dredging are exempt",
+   "summary_zh": "新州沿海水域矿权制度。\n- 设勘探及采矿许可证，与联邦《海上矿产法》对应\n- 2024年EP&A法修订已禁止海底矿产勘探与开采\n- 海岸补沙及部分疏浚作业豁免",
+   "recent_change_en": "2024-03: seabed mineral exploration and extraction prohibited.",
+   "recent_change_zh": "2024年3月：禁止海底矿产勘探与开采。",
+   "url": "https://legislation.nsw.gov.au/view/html/inforce/current/act-1999-042"
+  },
+  {
+   "policy_id": "NSW-03",
+   "jurisdiction_id": "NSW",
+   "title": "Environmental Planning and Assessment Amendment (Seabed Mining and Exploration) Act 2024",
+   "title_zh": "《2024年环境规划与评估修订（海底采矿与勘探）法》",
+   "type": "Act",
+   "categories": [
+    "fossil",
+    "mineral"
+   ],
+   "stages": [
+    "access",
+    "approval"
+   ],
+   "regulator": "Department of Planning, Housing and Infrastructure / NSW Resources",
+   "status": "In force",
+   "year": 2024,
+   "summary_en": "Bans offshore oil, gas and mineral exploration and extraction in NSW coastal waters.\n- Also prohibits development anywhere in NSW that supports seabed exploration or extraction, such as onshore pipelines or processing for offshore projects\n- Exemptions: coastal protection works and dredging unrelated to minerals, including for pipelines and submarine cables\n- Response to community opposition to exploration permit PEP-11 off the Central Coast and Newcastle",
+   "summary_zh": "禁止在新州沿海水域勘探和开采油气及矿产。\n- 同时禁止新州境内为海底勘探或开采配套的开发，如海上项目的陆上管道或处理设施\n- 豁免：海岸防护工程及与矿产无关的疏浚，包括管道和海底电缆施工\n- 回应社区对中央海岸和Newcastle外海勘探许可PEP-11的反对",
+   "recent_change_en": "2024-03: passed by NSW Parliament.",
+   "recent_change_zh": "2024年3月：新州议会通过。",
+   "url": "https://www.nsw.gov.au/media-releases/nsw-passes-legislation-to-ban-offshore-drilling-and-mining"
+  },
+  {
+   "policy_id": "NSW-04",
+   "jurisdiction_id": "NSW",
+   "title": "Fisheries Management Act 1994 (NSW)",
+   "title_zh": "《1994年渔业管理法》（新州）",
+   "type": "Act",
+   "categories": [
+    "agri"
+   ],
+   "stages": [
+    "title",
+    "operation",
+    "fiscal"
+   ],
+   "regulator": "NSW DPIRD (Fisheries)",
+   "status": "In force",
+   "year": 1994,
+   "summary_en": "Principal NSW law for fisheries and aquaculture.\n- Share management fisheries and restricted fisheries; quota for abalone, rock lobster and some species\n- Part 6: aquaculture permits and Crown aquaculture leases, mainly oysters in estuaries\n- Commercial fisheries business adjustment reforms linked shares to catch or effort",
+   "summary_zh": "新州渔业及水产养殖的基本法。\n- 股份管理渔业及限制性渔业；鲍鱼、岩龙虾等物种实行配额\n- 第6部分：养殖许可及皇家养殖租约，以河口牡蛎为主\n- 商业渔业调整改革将股份与渔获量或努力量挂钩",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://legislation.nsw.gov.au/view/html/inforce/current/act-1994-038"
+  },
+  {
+   "policy_id": "NSW-05",
+   "jurisdiction_id": "NSW",
+   "title": "NSW aquaculture permit and lease framework",
+   "title_zh": "新州水产养殖许可与租约框架",
+   "type": "Program",
+   "categories": [
+    "agri"
+   ],
+   "stages": [
+    "title",
+    "operation",
+    "decom"
+   ],
+   "regulator": "NSW DPIRD (Fisheries)",
+   "status": "In force",
+   "year": 1994,
+   "summary_en": "Administrative framework for estuarine, marine and land-based aquaculture.\n- Aquaculture permits plus Crown leases with standard lease conditions, fees and rehabilitation obligations\n- Oyster leases dominate; marine finfish and shellfish leases in Port Stephens and offshore of Providence Bay\n- Import and translocation protocols control disease risk (e.g. QX disease in Port Stephens)",
+   "summary_zh": "河口、海水及陆基养殖的行政管理框架。\n- 养殖许可证＋皇家租约，附标准租约条件、费用和场地恢复义务\n- 以牡蛎租约为主；Port Stephens及Providence湾外海设有海水鱼类和贝类租约\n- 引种与移养规程控制疫病风险（如Port Stephens的QX病）",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.dpird.nsw.gov.au/dpi/fishing/aquaculture"
+  },
+  {
+   "policy_id": "NSW-06",
+   "jurisdiction_id": "NSW",
+   "title": "Environmental Planning and Assessment Act 1979 (NSW)",
+   "title_zh": "《1979年环境规划与评估法》（新州）",
+   "type": "Act",
+   "categories": [
+    "fossil",
+    "renewable",
+    "mineral",
+    "agri",
+    "other"
+   ],
+   "stages": [
+    "approval",
+    "access"
+   ],
+   "regulator": "Department of Planning, Housing and Infrastructure",
+   "status": "In force",
+   "year": 1979,
+   "summary_en": "NSW planning and environmental assessment law.\n- State significant development and infrastructure pathways for ports, LNG import terminals, desalination and offshore wind grid connections\n- Coastal management controls through the Resilience and Hazards SEPP\n- Amended in 2024 to ban seabed mining and exploration",
+   "summary_zh": "新州规划与环境评估法。\n- 港口、LNG进口码头、海水淡化及海上风电并网适用州重大开发/基础设施程序\n- 通过《韧性与灾害州环境规划政策》实施海岸管理管控\n- 2024年修订禁止海底采矿与勘探",
+   "recent_change_en": "2024-03: amended by the Seabed Mining and Exploration Act.",
+   "recent_change_zh": "2024年3月：经《海底采矿与勘探》修订法修订。",
+   "url": "https://legislation.nsw.gov.au/view/html/inforce/current/act-1979-203"
+  },
+  {
+   "policy_id": "NSW-07",
+   "jurisdiction_id": "NSW",
+   "title": "Marine Estate Management Act 2014 (NSW)",
+   "title_zh": "《2014年海洋区域管理法》（新州）",
+   "type": "Act",
+   "categories": [
+    "agri",
+    "renewable",
+    "other"
+   ],
+   "stages": [
+    "access"
+   ],
+   "regulator": "Marine Estate Management Authority / NSW DPIRD",
+   "status": "In force",
+   "year": 2014,
+   "summary_en": "Integrated management of the NSW marine estate and marine parks.\n- Six marine parks: Cape Byron, Solitary Islands, Port Stephens–Great Lakes, Jervis Bay, Batemans and Lord Howe Island\n- Zoning plans with sanctuary zones; aquatic reserves\n- Marine Estate Management Strategy (2018–2028) guides threat-based management",
+   "summary_zh": "新州海洋区域及海洋公园综合管理法。\n- 六个海洋公园：Cape Byron、Solitary群岛、Port Stephens–Great Lakes、Jervis湾、Batemans和豪勋爵岛\n- 分区规划设保护区，另设水生保护区\n- 《海洋区域管理战略（2018–2028）》指导基于威胁的管理",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://legislation.nsw.gov.au/view/html/inforce/current/act-2014-072"
+  },
+  {
+   "policy_id": "NSW-08",
+   "jurisdiction_id": "NSW",
+   "title": "Electricity Infrastructure Investment Act 2020 (NSW)",
+   "title_zh": "《2020年电力基础设施投资法》（新州）",
+   "type": "Act",
+   "categories": [
+    "renewable"
+   ],
+   "stages": [
+    "market",
+    "access"
+   ],
+   "regulator": "EnergyCo / ASL (AEMO Services) / Infrastructure Planner",
+   "status": "In force",
+   "year": 2020,
+   "summary_en": "NSW Electricity Infrastructure Roadmap legislation.\n- Renewable energy zones, including Hunter–Central Coast REZ, which could connect Hunter offshore wind\n- Long-term energy service agreements (LTESAs) tendered for generation and storage\n- EnergyCo coordinates REZ transmission and access schemes",
+   "summary_zh": "新州电力基础设施路线图立法。\n- 设立可再生能源区，包括可接入Hunter海上风电的Hunter–Central Coast可再生能源区\n- 对发电和储能招标长期能源服务协议（LTESA）\n- EnergyCo统筹可再生能源区输电及接入机制",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.energyco.nsw.gov.au/"
+  },
+  {
+   "policy_id": "NSW-09",
+   "jurisdiction_id": "NSW",
+   "title": "Ports and Maritime Administration Act 1995 (NSW)",
+   "title_zh": "《1995年港口与海事管理法》（新州）",
+   "type": "Act",
+   "categories": [
+    "other",
+    "fossil",
+    "renewable"
+   ],
+   "stages": [
+    "title",
+    "operation"
+   ],
+   "regulator": "Transport for NSW / Port Authority of NSW",
+   "status": "In force",
+   "year": 1995,
+   "summary_en": "Port governance and navigation framework for NSW.\n- Port Authority of NSW handles harbour master and pilotage functions\n- Port Botany, Port Kembla and Newcastle operate under long-term private leases\n- Port Kembla is the site of NSW's LNG import terminal proposal and a candidate base for Illawarra offshore wind",
+   "summary_zh": "新州港口治理与航行管理框架。\n- 新州港务局负责港务长和引航职能\n- Port Botany、Port Kembla和Newcastle港以长期租约私有化运营\n- Port Kembla为新州LNG进口码头项目所在地，亦是Illawarra海上风电的候选基地港",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://legislation.nsw.gov.au/view/html/inforce/current/act-1995-013"
+  },
+  {
+   "policy_id": "NSW-10",
+   "jurisdiction_id": "NSW",
+   "title": "Water Industry Competition Act 2006 (Sydney Desalination Plant)",
+   "title_zh": "《2006年供水行业竞争法》（悉尼海水淡化厂）",
+   "type": "Act",
+   "categories": [
+    "other"
+   ],
+   "stages": [
+    "title",
+    "operation",
+    "fiscal"
+   ],
+   "regulator": "IPART / Sydney Water",
+   "status": "In force",
+   "year": 2006,
+   "summary_en": "Licensing of private water infrastructure operators, including the Sydney Desalination Plant.\n- Plant capacity up to 91.25 GL a year, about 15% of Sydney's average demand\n- Operates flexibly full-time (about 20–91.25 GL a year) under its WICA network operator's licence\n- Prices set by IPART; designed for possible capacity doubling",
+   "summary_zh": "私营供水基础设施运营商许可制度，含悉尼海水淡化厂。\n- 产能最高9,125万立方米/年（91.25 GL），约占悉尼平均用水15%\n- 依WICA网络运营许可证灵活全时运行（约20–91.25 GL/年）\n- 价格由IPART核定；设计预留产能翻倍空间",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.sydneydesal.com.au/"
+  },
+  {
+   "policy_id": "VIC-01",
+   "jurisdiction_id": "VIC",
+   "title": "Offshore Petroleum and Greenhouse Gas Storage Act 2010 (Vic)",
+   "title_zh": "《2010年海上石油与温室气体封存法》（维州）",
+   "type": "Act",
+   "categories": [
+    "fossil",
+    "other"
+   ],
+   "stages": [
+    "access",
+    "title",
+    "approval",
+    "safety",
+    "decom"
+   ],
+   "regulator": "DEECA (Earth Resources Regulation)",
+   "status": "Amended 2024",
+   "year": 2010,
+   "summary_en": "Petroleum and GHG storage regime for Victorian coastal waters (0–3 nm).\n- Mirrors the Commonwealth OPGGS Act; covers nearshore parts of Gippsland and Otway developments and pipeline crossings\n- GHG storage provisions support the CarbonNet project in the Gippsland Basin (2021 amendments)\n- Victorian Minister sits on the Joint Authority for adjacent Commonwealth waters",
+   "summary_zh": "维州沿海水域（0–3海里）油气与温室气体封存制度。\n- 与联邦OPGGS法对应；覆盖Gippsland和Otway开发项目的近岸部分及管道穿越\n- 温室气体封存条款支持Gippsland盆地CarbonNet项目（2021年修订）\n- 维州部长是相邻联邦海域联合主管机构成员",
+   "recent_change_en": "2024-11-07: latest consolidated version in force.",
+   "recent_change_zh": "2024年11月7日：最新汇编版本生效。",
+   "url": "https://www.legislation.vic.gov.au/in-force/acts/offshore-petroleum-and-greenhouse-gas-storage-act-2010"
+  },
+  {
+   "policy_id": "VIC-02",
+   "jurisdiction_id": "VIC",
+   "title": "Energy and Public Land Legislation Amendment (Enabling Offshore Wind Energy) Act 2024",
+   "title_zh": "《2024年能源与公共土地立法修订（推动海上风电）法》",
+   "type": "Act",
+   "categories": [
+    "renewable"
+   ],
+   "stages": [
+    "access",
+    "title",
+    "market"
+   ],
+   "regulator": "DEECA / Offshore Wind Energy Victoria",
+   "status": "In force",
+   "year": 2024,
+   "summary_en": "Victorian enabling law for offshore wind (Act No. 14/2024).\n- Legislates offshore wind targets: at least 2 GW by 2032, 4 GW by 2035 and 9 GW by 2040\n- Amends the Land Act 1958, Crown Land (Reserves) Act 1978, Forests Act 1958, National Parks Act 1975 and Electricity Industry Act 2000 to allow transmission through state waters and Crown land\n- Offshore wind provisions commenced 19 December 2024",
+   "summary_zh": "维州海上风电配套立法（2024年第14号）。\n- 立法确定海上风电目标：2032年至少2 GW，2035年4 GW，2040年9 GW\n- 修订《1958年土地法》《1978年皇家土地（保留地）法》《1958年森林法》《1975年国家公园法》《2000年电力行业法》，允许输电设施穿越州水域和皇家土地\n- 海上风电条款于2024年12月19日生效",
+   "recent_change_en": "2024-12-19: offshore wind provisions commenced.",
+   "recent_change_zh": "2024年12月19日：海上风电条款生效。",
+   "url": "https://www.legislation.vic.gov.au/as-made/acts/energy-and-public-land-legislation-amendment-enabling-offshore-wind-energy-act-2024"
+  },
+  {
+   "policy_id": "VIC-03",
+   "jurisdiction_id": "VIC",
+   "title": "Victorian offshore wind auction (Offshore Wind Energy Victoria)",
+   "title_zh": "维州海上风电拍卖（Offshore Wind Energy Victoria）",
+   "type": "Program",
+   "categories": [
+    "renewable"
+   ],
+   "stages": [
+    "market"
+   ],
+   "regulator": "Offshore Wind Energy Victoria / DEECA",
+   "status": "In progress (RFP open)",
+   "year": 2026,
+   "summary_en": "State procurement of the first 2 GW of offshore wind in the Gippsland area.\n- Support via contract-for-difference plus an availability payment after commercial operation\n- RFP launched 25 August 2026, open until August 2027; contract award expected 2028\n- Assessed on value for money, deliverability and local benefits (80% local content for operations and maintenance)",
+   "summary_zh": "维州采购Gippsland海域首批2 GW海上风电。\n- 支持方式为差价合约，加商业运营后的可用性付款\n- 招标书于2026年8月25日发布，开放至2027年8月；预计2028年授标\n- 评估维度为性价比、可交付性及本地收益（运维本地化率80%）",
+   "recent_change_en": "2026-08-25: RFP launched after a delay of nearly one year (originally targeted September 2025).",
+   "recent_change_zh": "2026年8月25日：招标启动，较原定2025年9月推迟近一年。",
+   "url": "https://offshorewind.biz/2026/08/25/victoria-govt-launches-australias-first-offshore-wind-auction"
+  },
+  {
+   "policy_id": "VIC-04",
+   "jurisdiction_id": "VIC",
+   "title": "Victorian Transmission Investment Framework / VicGrid (Gippsland offshore wind transmission)",
+   "title_zh": "维州输电投资框架/VicGrid（Gippsland海上风电输电）",
+   "type": "Program",
+   "categories": [
+    "renewable"
+   ],
+   "stages": [
+    "market",
+    "approval",
+    "access"
+   ],
+   "regulator": "VicGrid (DEECA)",
+   "status": "In force",
+   "year": 2024,
+   "summary_en": "State-led planning and procurement of transmission for renewable energy zones and offshore wind.\n- First-stage legislation passed May 2024; Victorian Transmission Plan published 2025\n- Preferred route chosen for a shared line connecting the first 2 GW of Gippsland offshore wind; ACCIONA appointed development partner\n- Access arrangements to support at least 2 GW offshore by 2032",
+   "summary_zh": "维州主导可再生能源区及海上风电的输电规划与采购。\n- 首阶段立法于2024年5月通过；2025年发布《维州输电规划》\n- 已确定连接Gippsland首批2 GW海上风电的共享线路首选路由；ACCIONA为开发合作方\n- 接入安排支持2032年前至少2 GW海上风电并网",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.vicgrid.com.au/"
+  },
+  {
+   "policy_id": "VIC-05",
+   "jurisdiction_id": "VIC",
+   "title": "Fisheries Act 1995 (Vic)",
+   "title_zh": "《1995年渔业法》（维州）",
+   "type": "Act",
+   "categories": [
+    "agri"
+   ],
+   "stages": [
+    "title",
+    "operation",
+    "access",
+    "fiscal"
+   ],
+   "regulator": "Victorian Fisheries Authority",
+   "status": "In force",
+   "year": 1995,
+   "summary_en": "Principal Victorian law for fisheries and aquaculture.\n- Quota management for rock lobster and abalone; access licences for other fisheries\n- Aquaculture licences and Crown leases in aquaculture fisheries reserves (e.g. Port Phillip Bay mussels)\n- Licence fees and levies fund management",
+   "summary_zh": "维州渔业及水产养殖的基本法。\n- 岩龙虾和鲍鱼实行配额管理；其他渔业实行准入许可证\n- 养殖渔业保留区（如Port Phillip湾贻贝）内的养殖许可证及皇家租约\n- 许可证费和征费用于管理经费",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.legislation.vic.gov.au/in-force/acts/fisheries-act-1995"
+  },
+  {
+   "policy_id": "VIC-06",
+   "jurisdiction_id": "VIC",
+   "title": "Environment Effects Act 1978 (Vic)",
+   "title_zh": "《1978年环境影响法》（维州）",
+   "type": "Act",
+   "categories": [
+    "fossil",
+    "renewable",
+    "agri",
+    "other"
+   ],
+   "stages": [
+    "approval"
+   ],
+   "regulator": "Department of Transport and Planning",
+   "status": "In force",
+   "year": 1978,
+   "summary_en": "Environment Effects Statement (EES) process for major projects.\n- Applied to offshore wind onshore transmission, the Port of Hastings renewable energy terminal and gas projects\n- Minister's assessment informs statutory approvals; accredited for EPBC bilateral assessment\n- Government committed to EES assessments within 18 months",
+   "summary_zh": "重大项目环境影响报告（EES）程序。\n- 适用于海上风电陆上输电、Port of Hastings可再生能源码头及天然气项目\n- 部长评估结论作为法定审批依据；获EPBC双边评估认可\n- 政府承诺EES评估在18个月内完成",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.legislation.vic.gov.au/in-force/acts/environment-effects-act-1978"
+  },
+  {
+   "policy_id": "VIC-07",
+   "jurisdiction_id": "VIC",
+   "title": "Marine and Coastal Act 2018 (Vic)",
+   "title_zh": "《2018年海洋与海岸法》（维州）",
+   "type": "Act",
+   "categories": [
+    "renewable",
+    "fossil",
+    "agri",
+    "other"
+   ],
+   "stages": [
+    "access",
+    "approval"
+   ],
+   "regulator": "DEECA",
+   "status": "In force",
+   "year": 2018,
+   "summary_en": "Framework for use and development of Victoria's marine and coastal Crown land.\n- Consent required for use or development on marine and coastal Crown land, e.g. offshore wind export cables, pipelines and cable landings\n- Marine and Coastal Policy and Strategy guide marine spatial planning\n- Applies seaward to the 3 nm limit",
+   "summary_zh": "维州海洋及海岸皇家土地使用与开发框架。\n- 在海洋及海岸皇家土地上使用或开发须取得同意，如海上风电送出电缆、管道及电缆登陆点\n- 《海洋与海岸政策》及战略指导海洋空间规划\n- 适用范围向海延伸至3海里线",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.legislation.vic.gov.au/in-force/acts/marine-and-coastal-act-2018"
+  },
+  {
+   "policy_id": "VIC-08",
+   "jurisdiction_id": "VIC",
+   "title": "National Parks Act 1975 (Vic) — marine national parks",
+   "title_zh": "《1975年国家公园法》（维州）：海洋国家公园",
+   "type": "Act",
+   "categories": [
+    "agri",
+    "renewable",
+    "fossil",
+    "other"
+   ],
+   "stages": [
+    "access"
+   ],
+   "regulator": "Parks Victoria / DEECA",
+   "status": "Amended 2024",
+   "year": 1975,
+   "summary_en": "Protects Victoria's marine national parks and marine sanctuaries.\n- 13 marine national parks and 11 marine sanctuaries (since 2002), all no-take\n- Pipelines and cables through parks need specific authority\n- Amended by the 2024 Enabling Offshore Wind Energy Act to accommodate offshore wind transmission",
+   "summary_zh": "保护维州海洋国家公园和海洋保护区。\n- 13个海洋国家公园和11个海洋保护区（2002年起），全部禁捕\n- 管道与电缆穿越公园须专门授权\n- 2024年《推动海上风电》法修订以容纳海上风电输电",
+   "recent_change_en": "2024: amended to allow offshore wind transmission authorisations.",
+   "recent_change_zh": "2024年：修订允许海上风电输电授权。",
+   "url": "https://www.legislation.vic.gov.au/in-force/acts/national-parks-act-1975"
+  },
+  {
+   "policy_id": "VIC-09",
+   "jurisdiction_id": "VIC",
+   "title": "Port Management Act 1995 (Vic)",
+   "title_zh": "《1995年港口管理法》（维州）",
+   "type": "Act",
+   "categories": [
+    "other",
+    "renewable",
+    "fossil"
+   ],
+   "stages": [
+    "title",
+    "operation"
+   ],
+   "regulator": "Ports Victoria / Department of Transport and Planning",
+   "status": "In force",
+   "year": 1995,
+   "summary_en": "Framework for Victorian commercial ports.\n- Port of Melbourne leased in 2016; Ports Victoria handles harbour master and channel functions\n- Port of Hastings planned as the Victorian Renewable Energy Terminal for offshore wind construction\n- Initial EPBC referral for the Hastings terminal was rejected, delaying the offshore wind auction",
+   "summary_zh": "维州商业港口管理框架。\n- 墨尔本港2016年出租；Ports Victoria负责港务长与航道职能\n- Port of Hastings规划为维州可再生能源码头，服务海上风电施工\n- Hastings码头首次EPBC申报被否，导致海上风电拍卖推迟",
+   "recent_change_en": "2026: Hastings state and EPBC decisions expected around end-2027; construction no earlier than 2028.",
+   "recent_change_zh": "2026年：Hastings码头州及EPBC决定预计约2027年底作出，最早2028年开工。",
+   "url": "https://www.legislation.vic.gov.au/in-force/acts/port-management-act-1995"
+  },
+  {
+   "policy_id": "VIC-10",
+   "jurisdiction_id": "VIC",
+   "title": "Water Act 1989 (Vic) — Victorian Desalination Plant",
+   "title_zh": "《1989年水法》（维州）：维州海水淡化厂",
+   "type": "Act",
+   "categories": [
+    "other"
+   ],
+   "stages": [
+    "title",
+    "operation",
+    "fiscal"
+   ],
+   "regulator": "DEECA / Melbourne Water",
+   "status": "In force",
+   "year": 1989,
+   "summary_en": "Water entitlement framework used to order water from the Victorian Desalination Plant at Wonthaggi.\n- Plant capacity 150 GL a year, built and operated under a public–private partnership\n- Minister places annual water orders; costs recovered through retail water bills\n- Seawater intake and brine outfall in Bass Strait under EPA licence",
+   "summary_zh": "维州通过该水权框架向Wonthaggi维州海水淡化厂下单购水。\n- 产能1.5亿立方米/年（150 GL），以公私合营模式建设运营\n- 部长每年下达购水指令；成本通过零售水费回收\n- Bass Strait取水口及浓盐水排放口持EPA许可",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.legislation.vic.gov.au/in-force/acts/water-act-1989"
+  },
+  {
+   "policy_id": "VIC-11",
+   "jurisdiction_id": "VIC",
+   "title": "Victoria's Gas Substitution Roadmap",
+   "title_zh": "维州天然气替代路线图",
+   "type": "Policy",
+   "categories": [
+    "fossil"
+   ],
+   "stages": [
+    "market"
+   ],
+   "regulator": "DEECA",
+   "status": "In force (updated 2025)",
+   "year": 2022,
+   "summary_en": "Demand-side gas policy shaping the market for Gippsland and Otway offshore gas.\n- New homes requiring a planning permit must be all-electric from 1 January 2024\n- Renewable Gas Directions Paper (December 2024); government response due 2026\n- Building electrification regulations phased in from 1 January 2027",
+   "summary_zh": "需求侧天然气政策，影响Gippsland和Otway海上天然气的市场。\n- 自2024年1月1日起，需规划许可的新建住宅须全电气化\n- 2024年12月发布可再生燃气方向文件，政府回应预计2026年完成\n- 建筑电气化法规自2027年1月1日起分阶段实施",
+   "recent_change_en": "2025: Roadmap update published; page updated 2026-07.",
+   "recent_change_zh": "2025年：路线图更新发布；2026年7月页面更新。",
+   "url": "https://www.energy.vic.gov.au/renewable-energy/victorias-gas-substitution-roadmap"
+  },
+  {
+   "policy_id": "TAS-01",
+   "jurisdiction_id": "TAS",
+   "title": "Petroleum (Submerged Lands) Act 1982 (Tas)",
+   "title_zh": "《1982年石油（水下土地）法》（塔州）",
+   "type": "Act",
+   "categories": [
+    "fossil"
+   ],
+   "stages": [
+    "access",
+    "title"
+   ],
+   "regulator": "Mineral Resources Tasmania",
+   "status": "In force",
+   "year": 1982,
+   "summary_en": "Petroleum regime for Tasmanian coastal waters (0–3 nm).\n- No petroleum production in Tasmanian waters\n- Three of five 2025 Otway acreage areas lie in the offshore area of Tasmania (Commonwealth waters)\n- Tasmanian Minister sits on the Joint Authority for adjacent Commonwealth waters",
+   "summary_zh": "塔州沿海水域（0–3海里）油气制度。\n- 塔州水域无油气生产\n- 2025年Otway招标5个区块中3个位于塔州外海（联邦海域）\n- 塔州部长是相邻联邦海域联合主管机构成员",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.mrt.tas.gov.au/"
+  },
+  {
+   "policy_id": "TAS-02",
+   "jurisdiction_id": "TAS",
+   "title": "Living Marine Resources Management Act 1995 (Tas)",
+   "title_zh": "《1995年海洋生物资源管理法》（塔州）",
+   "type": "Act",
+   "categories": [
+    "agri"
+   ],
+   "stages": [
+    "title",
+    "operation",
+    "fiscal"
+   ],
+   "regulator": "NRE Tasmania",
+   "status": "In force",
+   "year": 1995,
+   "summary_en": "Principal Tasmanian law for wild-catch fisheries.\n- Individual transferable quota for southern rock lobster and abalone\n- Management plans for scalefish, scallop and giant crab fisheries\n- Licence fees and royalties fund management and research",
+   "summary_zh": "塔州野生捕捞渔业的基本法。\n- 南方岩龙虾和鲍鱼实行个人可转让配额\n- 鳞鱼、扇贝和巨蟹渔业实行管理计划\n- 许可证费和资源费用于管理与科研",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.legislation.tas.gov.au/view/html/inforce/current/act-1995-025"
+  },
+  {
+   "policy_id": "TAS-03",
+   "jurisdiction_id": "TAS",
+   "title": "Marine Farming Planning Act 1995 (Tas)",
+   "title_zh": "《1995年海水养殖规划法》（塔州）",
+   "type": "Act",
+   "categories": [
+    "agri"
+   ],
+   "stages": [
+    "access",
+    "title",
+    "decom"
+   ],
+   "regulator": "NRE Tasmania / Marine Farming Planning Review Panel",
+   "status": "In force",
+   "year": 1995,
+   "summary_en": "Spatial planning and leasing for marine farming.\n- Marine farming development plans zone areas for salmon, shellfish and seaweed farming\n- Independent Review Panel assesses plans and amendments\n- Marine farming leases and licences set stocking, lease area and site rehabilitation conditions",
+   "summary_zh": "海水养殖空间规划与租赁制度。\n- 海水养殖开发规划为三文鱼、贝类和海藻养殖划定区域\n- 独立评审委员会审查规划及修订\n- 海水养殖租约及许可证规定放养量、租用面积和场地恢复条件",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://nre.tas.gov.au/sea-fishing-site/Pages/Marine-Farming-Development-Plans.aspx"
+  },
+  {
+   "policy_id": "TAS-04",
+   "jurisdiction_id": "TAS",
+   "title": "Finfish Farming Environmental Regulation Act 2017 (Tas)",
+   "title_zh": "《2017年鱼类养殖环境监管法》（塔州）",
+   "type": "Act",
+   "categories": [
+    "agri"
+   ],
+   "stages": [
+    "approval",
+    "operation"
+   ],
+   "regulator": "EPA Tasmania",
+   "status": "In force",
+   "year": 2017,
+   "summary_en": "Made the EPA the environmental regulator of salmon farming.\n- Environmental licences for finfish farms set biomass limits, monitoring and reporting\n- Covers marine and inland waters\n- Development assessment remains under the Marine Farming Planning Act",
+   "summary_zh": "确立塔州EPA为三文鱼养殖环境监管机构。\n- 鱼类养殖环境许可证规定生物量上限、监测和报告义务\n- 覆盖海水及内陆水域\n- 开发评估仍适用《海水养殖规划法》",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://epa.tas.gov.au/regulation/salmon-aquaculture"
+  },
+  {
+   "policy_id": "TAS-05",
+   "jurisdiction_id": "TAS",
+   "title": "Tasmanian Salmon Industry Plan 2023",
+   "title_zh": "《2023年塔州三文鱼产业计划》",
+   "type": "Plan",
+   "categories": [
+    "agri"
+   ],
+   "stages": [
+    "operation",
+    "access"
+   ],
+   "regulator": "NRE Tasmania",
+   "status": "In force",
+   "year": 2023,
+   "summary_en": "Ten-year plan for the Tasmanian salmon industry.\n- Covers environmental standards, biosecurity, transparency of farm data and community engagement\n- Supports moving farming to offshore and land-based systems over time\n- Macquarie Harbour operations shielded from EPBC reconsideration by the 2025 Commonwealth amendment",
+   "summary_zh": "塔州三文鱼产业十年计划。\n- 涵盖环境标准、生物安全、养殖数据公开和社区沟通\n- 支持养殖逐步转向离岸及陆基系统\n- Macquarie Harbour养殖经2025年联邦修订免于EPBC复议",
+   "recent_change_en": "2025-03: Commonwealth Reconsiderations Act protects Macquarie Harbour approvals.",
+   "recent_change_zh": "2025年3月：联邦《复议》修订法保护Macquarie Harbour既有批准。",
+   "url": "https://nre.tas.gov.au/sea-fishing-site/Pages/New-Salmon-Plan.aspx"
+  },
+  {
+   "policy_id": "TAS-06",
+   "jurisdiction_id": "TAS",
+   "title": "Environmental Management and Pollution Control Act 1994 (Tas)",
+   "title_zh": "《1994年环境管理与污染控制法》（塔州）",
+   "type": "Act",
+   "categories": [
+    "fossil",
+    "renewable",
+    "agri",
+    "other"
+   ],
+   "stages": [
+    "approval"
+   ],
+   "regulator": "EPA Tasmania",
+   "status": "In force",
+   "year": 1994,
+   "summary_en": "Tasmanian environmental assessment and pollution control law.\n- Level 2 activities (e.g. fish processing, ports, large infrastructure) assessed by the EPA Board\n- Environmental protection notices and permit conditions\n- Applies to onshore elements of offshore wind, interconnectors and port upgrades",
+   "summary_zh": "塔州环境评估与污染控制法。\n- 二级活动（如水产加工、港口、大型基础设施）由EPA委员会评估\n- 环境保护通知及许可条件\n- 适用于海上风电、互联线和港口改造的陆上部分",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.legislation.tas.gov.au/view/html/inforce/current/act-1994-044"
+  },
+  {
+   "policy_id": "TAS-07",
+   "jurisdiction_id": "TAS",
+   "title": "Nature Conservation Act 2002 (Tas) — marine reserves",
+   "title_zh": "《2002年自然保护法》（塔州）：海洋保护区",
+   "type": "Act",
+   "categories": [
+    "agri",
+    "other"
+   ],
+   "stages": [
+    "access"
+   ],
+   "regulator": "NRE Tasmania / Parks and Wildlife Service",
+   "status": "In force",
+   "year": 2002,
+   "summary_en": "Reserve classes include Tasmanian marine reserves in state waters.\n- Marine reserves such as Maria Island, Tinderbox, Ninepin Point, Governor Island and Port Davey\n- No-take restrictions in most reserves\n- Threatened species listing interacts with salmon farm and port approvals",
+   "summary_zh": "保护区类别包括塔州州水域海洋保护区。\n- 包括Maria岛、Tinderbox、Ninepin Point、Governor岛和Port Davey等海洋保护区\n- 多数保护区禁捕\n- 受威胁物种名录影响三文鱼养殖和港口审批",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.legislation.tas.gov.au/view/html/inforce/current/act-2002-063"
+  },
+  {
+   "policy_id": "TAS-08",
+   "jurisdiction_id": "TAS",
+   "title": "Aquaculture in adjacent Commonwealth waters (OCS arrangement)",
+   "title_zh": "相邻联邦海域水产养殖（海上宪政安排）",
+   "type": "Agreement",
+   "categories": [
+    "agri"
+   ],
+   "stages": [
+    "access",
+    "title",
+    "cross"
+   ],
+   "regulator": "NRE Tasmania / Commonwealth",
+   "status": "In force",
+   "year": null,
+   "summary_en": "Pathway for Tasmania to regulate marine farming beyond 3 nm.\n- Tasmanian marine farming law can apply in adjacent Commonwealth waters under OCS-style arrangements\n- Enables offshore salmon farming trials beyond the state limit\n- EPBC Act approval still required for impacts on national environmental matters",
+   "summary_zh": "塔州将海水养殖监管延伸至3海里以外的路径。\n- 依海上宪政类安排，塔州海水养殖法可适用于相邻联邦海域\n- 为州界以外的离岸三文鱼养殖试点提供依据\n- 涉及国家环境事项仍须取得EPBC批准",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://nre.tas.gov.au/sea-fishing-site/Pages/Aquaculture-in-Adjacent-Commonwealth-Waters.aspx"
+  },
+  {
+   "policy_id": "TAS-09",
+   "jurisdiction_id": "TAS",
+   "title": "Marine and Safety Authority Act 1997 and Tasmanian Ports Corporation Act 2005",
+   "title_zh": "《1997年海事安全局法》及《2005年塔斯马尼亚港口公司法》",
+   "type": "Act",
+   "categories": [
+    "other",
+    "renewable",
+    "agri"
+   ],
+   "stages": [
+    "safety",
+    "operation"
+   ],
+   "regulator": "MAST / TasPorts",
+   "status": "In force",
+   "year": 1997,
+   "summary_en": "Maritime safety and port governance in Tasmania.\n- MAST regulates recreational and some commercial vessel safety and moorings, including aquaculture vessel operations\n- TasPorts operates state ports including Bell Bay, Burnie and Devonport\n- Bell Bay is a candidate base for Bass Strait offshore wind and green hydrogen",
+   "summary_zh": "塔州海事安全与港口治理。\n- MAST规管休闲及部分商业船舶安全与系泊，包括养殖船作业\n- TasPorts运营Bell Bay、Burnie、Devonport等州属港口\n- Bell Bay是Bass Strait海上风电和绿氢的候选基地",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.mast.tas.gov.au/"
+  },
+  {
+   "policy_id": "TAS-10",
+   "jurisdiction_id": "TAS",
+   "title": "Mineral Resources Development Act 1995 (Tas)",
+   "title_zh": "《1995年矿产资源开发法》（塔州）",
+   "type": "Act",
+   "categories": [
+    "mineral"
+   ],
+   "stages": [
+    "title"
+   ],
+   "regulator": "Mineral Resources Tasmania",
+   "status": "In force",
+   "year": 1995,
+   "summary_en": "Mineral tenure for Tasmania, including state coastal waters.\n- Exploration and mining leases issued by MRT\n- No seabed mining projects in Tasmanian waters\n- Mining in reserves and marine reserves restricted",
+   "summary_zh": "塔州矿权制度，适用范围包括州沿海水域。\n- MRT核发勘探及采矿租约\n- 塔州水域无海底采矿项目\n- 保护区及海洋保护区内采矿受限",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.mrt.tas.gov.au/"
+  },
+  {
+   "policy_id": "SA-01",
+   "jurisdiction_id": "SA",
+   "title": "Petroleum (Submerged Lands) Act 1982 (SA)",
+   "title_zh": "《1982年石油（水下土地）法》（南澳）",
+   "type": "Act",
+   "categories": [
+    "fossil"
+   ],
+   "stages": [
+    "access",
+    "title"
+   ],
+   "regulator": "Department for Energy and Mining",
+   "status": "In force",
+   "year": 1982,
+   "summary_en": "Petroleum regime for South Australian coastal waters (0–3 nm).\n- No petroleum production in SA coastal waters\n- Commonwealth Bight Basin permits off SA were relinquished after exploration plans were withdrawn\n- SA Minister sits on the Joint Authority for adjacent Commonwealth waters",
+   "summary_zh": "南澳沿海水域（0–3海里）油气制度。\n- 南澳沿海水域无油气生产\n- 南澳外海联邦Bight盆地勘探许可在勘探计划撤回后已交回\n- 南澳部长是相邻联邦海域联合主管机构成员",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.legislation.sa.gov.au/lz?path=/c/a/petroleum%20(submerged%20lands)%20act%201982"
+  },
+  {
+   "policy_id": "SA-02",
+   "jurisdiction_id": "SA",
+   "title": "Energy Resources Act 2000 (SA) (formerly Petroleum and Geothermal Energy Act 2000)",
+   "title_zh": "《2000年能源资源法》（南澳）（原《石油与地热能源法》）",
+   "type": "Act",
+   "categories": [
+    "fossil",
+    "other"
+   ],
+   "stages": [
+    "title",
+    "approval",
+    "decom"
+   ],
+   "regulator": "Department for Energy and Mining",
+   "status": "Amended 2021",
+   "year": 2000,
+   "summary_en": "Onshore energy resources law covering petroleum, geothermal, hydrogen-related storage and GHG storage.\n- 2021 amendments renamed the Act and added GHG storage licensing\n- Enables the Moomba CCS project in the Cooper Basin\n- Objective-based environmental regulation through Statements of Environmental Objectives",
+   "summary_zh": "陆上能源资源法，覆盖油气、地热、氢相关储存及温室气体封存。\n- 2021年修订更名并新增温室气体封存许可\n- 为Cooper盆地Moomba碳捕集与封存项目提供依据\n- 通过环境目标声明实施目标导向的环境监管",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.legislation.sa.gov.au/lz?path=/c/a/energy%20resources%20act%202000"
+  },
+  {
+   "policy_id": "SA-03",
+   "jurisdiction_id": "SA",
+   "title": "Hydrogen and Renewable Energy Act 2023 (SA)",
+   "title_zh": "《2023年氢能与可再生能源法》（南澳）",
+   "type": "Act",
+   "categories": [
+    "renewable"
+   ],
+   "stages": [
+    "access",
+    "title",
+    "approval",
+    "decom"
+   ],
+   "regulator": "Department for Energy and Mining",
+   "status": "In force",
+   "year": 2023,
+   "summary_en": "Licensing regime for large-scale hydrogen and renewable energy projects on SA land and in SA coastal waters.\n- Release areas and competitive allocation; feasibility, generation and infrastructure licences\n- Regulations made in 2024 with fee notices\n- Only state regime that expressly covers renewable generation in state coastal waters",
+   "summary_zh": "南澳陆上及沿海水域大型氢能与可再生能源项目许可制度。\n- 设释放区及竞争性分配；可行性、发电及基础设施许可证\n- 2024年制定配套条例及收费通知\n- 目前唯一明确覆盖州沿海水域可再生能源发电的州级制度",
+   "recent_change_en": "2024: Hydrogen and Renewable Energy Regulations 2024 made.",
+   "recent_change_zh": "2024年：《2024年氢能与可再生能源条例》制定。",
+   "url": "https://www.legislation.sa.gov.au/lz?path=/c/a/hydrogen%20and%20renewable%20energy%20act%202023"
+  },
+  {
+   "policy_id": "SA-04",
+   "jurisdiction_id": "SA",
+   "title": "Fisheries Management Act 2007 (SA)",
+   "title_zh": "《2007年渔业管理法》（南澳）",
+   "type": "Act",
+   "categories": [
+    "agri"
+   ],
+   "stages": [
+    "title",
+    "operation",
+    "fiscal"
+   ],
+   "regulator": "PIRSA",
+   "status": "In force",
+   "year": 2007,
+   "summary_en": "Principal SA law for wild-catch fisheries.\n- Quota for rock lobster and abalone; Spencer Gulf and Gulf St Vincent prawn fisheries under harvest strategies\n- Marine scalefish fishery reformed with quota for key species\n- Licence fees recover management costs",
+   "summary_zh": "南澳野生捕捞渔业的基本法。\n- 岩龙虾和鲍鱼实行配额；Spencer湾和St Vincent湾对虾渔业实行捕捞策略\n- 海洋鳞鱼渔业改革后对主要物种实行配额\n- 许可证费回收管理成本",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.legislation.sa.gov.au/lz?path=/c/a/fisheries%20management%20act%202007"
+  },
+  {
+   "policy_id": "SA-05",
+   "jurisdiction_id": "SA",
+   "title": "Aquaculture Act 2001 (SA)",
+   "title_zh": "《2001年水产养殖法》（南澳）",
+   "type": "Act",
+   "categories": [
+    "agri"
+   ],
+   "stages": [
+    "access",
+    "title",
+    "approval",
+    "decom"
+   ],
+   "regulator": "PIRSA",
+   "status": "In force",
+   "year": 2001,
+   "summary_en": "Dedicated aquaculture planning and licensing law.\n- Aquaculture zone policies designate areas and capacity (e.g. Spencer Gulf, Eyre Peninsula)\n- Separate leases (tenure) and licences (operations), with rehabilitation obligations\n- Supports southern bluefin tuna ranching at Port Lincoln, oysters and yellowtail kingfish",
+   "summary_zh": "专门的水产养殖规划与许可法。\n- 养殖区政策划定区域及容量（如Spencer湾、Eyre半岛）\n- 租约（权属）与许可证（经营）分设，附场地恢复义务\n- 支撑Port Lincoln南方蓝鳍金枪鱼育肥、牡蛎和黄尾鰤养殖",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.legislation.sa.gov.au/lz?path=/c/a/aquaculture%20act%202001"
+  },
+  {
+   "policy_id": "SA-06",
+   "jurisdiction_id": "SA",
+   "title": "Environment Protection Act 1993 (SA)",
+   "title_zh": "《1993年环境保护法》（南澳）",
+   "type": "Act",
+   "categories": [
+    "fossil",
+    "renewable",
+    "agri",
+    "other"
+   ],
+   "stages": [
+    "approval",
+    "operation"
+   ],
+   "regulator": "EPA South Australia",
+   "status": "In force",
+   "year": 1993,
+   "summary_en": "SA pollution control and environmental licensing law.\n- Licences for prescribed activities, including desalination brine discharge, fish processing and port operations\n- Environment protection policies for water quality in gulfs\n- Works alongside the planning EIS process",
+   "summary_zh": "南澳污染控制与环境许可法。\n- 规定活动须持许可证，包括海水淡化浓盐水排放、水产加工和港口运营\n- 海湾水质环境保护政策\n- 与规划环评程序配合实施",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.legislation.sa.gov.au/lz?path=/c/a/environment%20protection%20act%201993"
+  },
+  {
+   "policy_id": "SA-07",
+   "jurisdiction_id": "SA",
+   "title": "Planning, Development and Infrastructure Act 2016 (SA)",
+   "title_zh": "《2016年规划、开发与基础设施法》（南澳）",
+   "type": "Act",
+   "categories": [
+    "fossil",
+    "renewable",
+    "mineral",
+    "agri",
+    "other"
+   ],
+   "stages": [
+    "approval",
+    "access"
+   ],
+   "regulator": "Department for Housing and Urban Development / State Planning Commission",
+   "status": "In force",
+   "year": 2016,
+   "summary_en": "SA planning system, including impact-assessed (EIS) development.\n- Major coastal projects (ports, desalination, hydrogen export facilities) assessed as impact-assessed development\n- Planning and Design Code coastal overlays\n- Aquaculture largely handled under the Aquaculture Act",
+   "summary_zh": "南澳规划体系，含需影响评估（EIS）的开发项目。\n- 大型沿海项目（港口、海水淡化、氢能出口设施）按影响评估开发处理\n- 《规划与设计准则》设海岸叠加管控\n- 水产养殖主要适用《水产养殖法》",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.legislation.sa.gov.au/lz?path=/c/a/planning%2C%20development%20and%20infrastructure%20act%202016"
+  },
+  {
+   "policy_id": "SA-08",
+   "jurisdiction_id": "SA",
+   "title": "Marine Parks Act 2007 (SA)",
+   "title_zh": "《2007年海洋公园法》（南澳）",
+   "type": "Act",
+   "categories": [
+    "agri",
+    "fossil",
+    "mineral",
+    "other"
+   ],
+   "stages": [
+    "access"
+   ],
+   "regulator": "Department for Environment and Water",
+   "status": "In force",
+   "year": 2007,
+   "summary_en": "Establishes SA's 19 marine parks in state waters.\n- Zoning: general managed use, habitat protection, sanctuary and restricted access zones\n- Sanctuary zones prohibit fishing and extraction\n- Constraint on aquaculture zones, ports and seabed activity",
+   "summary_zh": "设立南澳州水域19个海洋公园。\n- 分区：一般管理利用区、栖息地保护区、禁捕保护区及限制进入区\n- 禁捕保护区禁止捕捞及开采\n- 对养殖区、港口和海床活动构成约束",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.legislation.sa.gov.au/lz?path=/c/a/marine%20parks%20act%202007"
+  },
+  {
+   "policy_id": "SA-09",
+   "jurisdiction_id": "SA",
+   "title": "Offshore Minerals Act 2000 (SA)",
+   "title_zh": "《2000年海上矿产法》（南澳）",
+   "type": "Act",
+   "categories": [
+    "mineral"
+   ],
+   "stages": [
+    "title",
+    "access"
+   ],
+   "regulator": "Department for Energy and Mining",
+   "status": "In force",
+   "year": 2000,
+   "summary_en": "Mineral titles in SA coastal waters, mirroring the Commonwealth Offshore Minerals Act.\n- Exploration, retention and mining licences\n- No operating seabed mines in SA waters\n- Activity restricted in marine park sanctuary zones",
+   "summary_zh": "南澳沿海水域矿权制度，与联邦《海上矿产法》对应。\n- 设勘探、保留及采矿许可证\n- 南澳水域无在产海底矿山\n- 海洋公园禁捕区内活动受限",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.legislation.sa.gov.au/lz?path=/c/a/offshore%20minerals%20act%202000"
+  },
+  {
+   "policy_id": "SA-10",
+   "jurisdiction_id": "SA",
+   "title": "Harbors and Navigation Act 1993 (SA)",
+   "title_zh": "《1993年港口与航行法》（南澳）",
+   "type": "Act",
+   "categories": [
+    "other",
+    "fossil",
+    "renewable"
+   ],
+   "stages": [
+    "safety",
+    "operation"
+   ],
+   "regulator": "Department for Infrastructure and Transport",
+   "status": "In force",
+   "year": 1993,
+   "summary_en": "Governs SA harbors, navigation and marine safety.\n- Main commercial ports operated by private lessees (Flinders Ports)\n- Port Bonython and Whyalla relevant to hydrogen and resource export proposals\n- Vessel safety and harbour master powers",
+   "summary_zh": "规管南澳港口、航行及海事安全。\n- 主要商业港口由私营承租方（Flinders Ports）运营\n- Port Bonython和Whyalla涉及氢能及资源出口项目\n- 船舶安全与港务长职权",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.legislation.sa.gov.au/lz?path=/c/a/harbors%20and%20navigation%20act%201993"
+  },
+  {
+   "policy_id": "SA-11",
+   "jurisdiction_id": "SA",
+   "title": "Water Industry Act 2012 (SA) — Adelaide Desalination Plant",
+   "title_zh": "《2012年供水行业法》（南澳）：阿德莱德海水淡化厂",
+   "type": "Act",
+   "categories": [
+    "other"
+   ],
+   "stages": [
+    "title",
+    "operation",
+    "fiscal"
+   ],
+   "regulator": "ESCOSA / SA Water",
+   "status": "In force",
+   "year": 2012,
+   "summary_en": "Licensing and price regulation for SA water retailers, including SA Water's desalination assets.\n- Adelaide Desalination Plant at Lonsdale, capacity 100 GL a year\n- ESCOSA sets revenue determinations\n- Brine discharge to Gulf St Vincent licensed by the EPA",
+   "summary_zh": "南澳供水零售商许可与价格监管，包括SA Water的海水淡化资产。\n- Lonsdale阿德莱德海水淡化厂，产能1亿立方米/年（100 GL）\n- ESCOSA核定收入\n- 向St Vincent湾排放浓盐水须持EPA许可",
+   "recent_change_en": "No 2025–26 amendment verified.",
+   "recent_change_zh": "未核实到2025–2026年修订。",
+   "url": "https://www.legislation.sa.gov.au/lz?path=/c/a/water%20industry%20act%202012"
+  }
+ ],
+ "changes": [
+  {
+   "date": "2026-09",
+   "jurisdiction_id": "FED",
+   "categories": [
+    "fossil"
+   ],
+   "summary_en": "Gas reservation scheme revised (10 September): AER to set share up to 20%; start delayed to 1 January 2028; bill expected later in 2026.",
+   "summary_zh": "天然气保留机制修订（9月10日）：由AER设定比例、上限20%；起始日推迟至2028年1月1日；法案预计2026年内提交。",
+   "source": "https://www.miningweekly.com/article/australia-softens-gas-reserve-rule-for-lng-exporters-2026-09-10"
+  },
+  {
+   "date": "2026-09",
+   "jurisdiction_id": "FED",
+   "categories": [
+    "fossil",
+    "other"
+   ],
+   "summary_en": "Statutory reviews of NOPSEMA and NOPTA launched; Offshore Environmental Management Review key findings and next steps published.",
+   "summary_zh": "NOPSEMA与NOPTA法定评估启动；海上环境管理评估公布主要结论与后续安排。",
+   "source": "https://www.industry.gov.au/sites/default/files/2026-09/nopsema-review-2026-terms-of-reference.pdf"
+  },
+  {
+   "date": "2026-08",
+   "jurisdiction_id": "VIC",
+   "categories": [
+    "renewable"
+   ],
+   "summary_en": "Victoria launched Australia's first offshore wind auction (25 August) for 2 GW off Gippsland; RFP open to August 2027, award expected 2028.",
+   "summary_zh": "维州启动全国首轮海上风电拍卖（8月25日），Gippsland外海2 GW；招标开放至2027年8月，预计2028年授标。",
+   "source": "https://offshorewind.biz/2026/08/25/victoria-govt-launches-australias-first-offshore-wind-auction"
+  },
+  {
+   "date": "2026-07",
+   "jurisdiction_id": "FED",
+   "categories": [
+    "fossil",
+    "renewable",
+    "mineral",
+    "agri",
+    "other"
+   ],
+   "summary_en": "National Environmental Protection Agency commenced (1 July) with compliance, audit and stop-work order powers.",
+   "summary_zh": "国家环保署成立（7月1日），具备合规、审计及停工令权力。",
+   "source": "https://www.claytonutz.com/insights/2026/june/epbc-act-reforms-and-national-epa-commencing-soon-what-proponents-need-to-know-from-1-july-2026"
+  },
+  {
+   "date": "2026-05",
+   "jurisdiction_id": "FED",
+   "categories": [
+    "fossil"
+   ],
+   "summary_en": "Domestic Gas Reservation Scheme announced (7 May): LNG exporters to reserve 20% of exports from 1 July 2027; draft design framework released 27 May.",
+   "summary_zh": "国内天然气保留机制宣布（5月7日）：LNG出口商自2027年7月1日起保留出口量的20%；5月27日发布设计框架草案。",
+   "source": "https://www.gadens.com/insights/the-new-domestic-gas-reservation-scheme-what-it-means-for-lng-and-gas-supply-in-australia"
+  },
+  {
+   "date": "2026-01",
+   "jurisdiction_id": "WA",
+   "categories": [
+    "renewable"
+   ],
+   "summary_en": "Final feasibility licences offered to three Bunbury projects (about 4 GW); no licences in Illawarra; preliminary decision not to offer in Bass Strait.",
+   "summary_zh": "Bunbury三个项目获最终可行性许可证（约4 GW）；Illawarra无许可证；Bass Strait初步决定不发证。",
+   "source": "https://www.offshorewind.biz/2026/01/23/australian-govt-awards-final-feasibility-licences-to-three-offshore-wind-projects-in-bunbury-zone"
+  },
+  {
+   "date": "2026-01",
+   "jurisdiction_id": "VIC",
+   "categories": [
+    "renewable"
+   ],
+   "summary_en": "Gippsland Skies licence (FL-03) surrendered on 5 January, following Gippsland Dawn (Jul 2025) and Kent (Oct 2025); nine Gippsland licences remain.",
+   "summary_zh": "Gippsland Skies许可证（FL-03）于1月5日交回，此前Gippsland Dawn（2025年7月）和Kent（2025年10月）已交回；Gippsland剩余9个许可证。",
+   "source": "https://www.energy.vic.gov.au/renewable-energy/offshore-wind-energy/victorias-offshore-wind-farm-locations"
+  },
+  {
+   "date": "2025-12",
+   "jurisdiction_id": "FED",
+   "categories": [
+    "fossil",
+    "renewable",
+    "mineral",
+    "agri",
+    "other"
+   ],
+   "summary_en": "EPBC reform package assented (1 December) after passing on 28 November; National Environmental Standards framework commenced 2 December.",
+   "summary_zh": "EPBC改革法案11月28日通过、12月1日获御准；国家环境标准框架12月2日生效。",
+   "source": "https://www.mallesons.com/au/en/insights/latest-thinking/mark-your-calendars-epbc-act-reform-commencement-through-2026-and-beyond"
+  },
+  {
+   "date": "2025-12",
+   "jurisdiction_id": "VIC",
+   "categories": [
+    "fossil"
+   ],
+   "summary_en": "2025 Otway offshore petroleum acreage release gazetted (11 December): five areas, two off Victoria and three off Tasmania.",
+   "summary_zh": "2025年Otway海上油气区块招标公告（12月11日）：5个区块，维州外海2个、塔州外海3个。",
+   "source": "https://www.nopta.gov.au/media/news/2025/2025-acreage-release-offshore-areas-of-victoria-and-tasmania.html"
+  },
+  {
+   "date": "2025-11",
+   "jurisdiction_id": "FED",
+   "categories": [
+    "renewable"
+   ],
+   "summary_en": "OEI fee and levy remittal regulations registered (14 November), waiving or reducing offshore wind licence fees; fees expected to resume in 2027.",
+   "summary_zh": "OEI费用与征费减免条例登记（11月14日），免除或下调海上风电许可证费，预计2027年恢复。",
+   "source": "https://www.legislation.gov.au/F2025L01378/asmade/details"
+  },
+  {
+   "date": "2025-03",
+   "jurisdiction_id": "FED",
+   "categories": [
+    "agri"
+   ],
+   "summary_en": "EPBC Amendment (Reconsiderations) Act 2025 passed, shielding Macquarie Harbour salmon farming from reconsideration.",
+   "summary_zh": "《2025年EPBC修订（复议）法》通过，使Macquarie Harbour三文鱼养殖免于复议。",
+   "source": "https://www.edo.org.au/2025/03/31/national-nature-laws-weakened-as-final-move-of-the-47th-parliament/"
+  },
+  {
+   "date": "2025-02",
+   "jurisdiction_id": "VIC",
+   "categories": [
+    "renewable"
+   ],
+   "summary_en": "Southern Ocean feasibility licence granted to Alinta Energy (Spinifex, 1 GW+); Hunter licence for Novocastrian finalised in 2025.",
+   "summary_zh": "Southern Ocean可行性许可证授予Alinta Energy（Spinifex，1 GW以上）；Hunter区域Novocastrian许可证于2025年落定。",
+   "source": "https://www.energy.vic.gov.au/renewable-energy/offshore-wind-energy/victorias-offshore-wind-farm-locations"
+  },
+  {
+   "date": "2024-12",
+   "jurisdiction_id": "FED",
+   "categories": [
+    "renewable"
+   ],
+   "summary_en": "Amended OEI Regulations in force: management plans, design notification, financial security, safety zones, WHS and fees.",
+   "summary_zh": "OEI条例修订生效：管理计划、设计通知、财务担保、安全区、工作健康安全及收费。",
+   "source": "https://www.energymagazine.com.au/new-offshore-wind-regulations-in-effect/"
+  },
+  {
+   "date": "2024-09",
+   "jurisdiction_id": "WA",
+   "categories": [
+    "fossil"
+   ],
+   "summary_en": "WA Domestic Gas Policy updated (19 September): onshore reservation 80% to end-2030, then 100%; 15% for offshore LNG unchanged.",
+   "summary_zh": "西澳国内天然气政策更新（9月19日）：陆上保留比例2030年底前80%，此后100%；海上LNG 15%不变。",
+   "source": "https://wa.gov.au/government/announcements/domestic-gas-policy-updated-secure-was-energy-future"
+  },
+  {
+   "date": "2024-09",
+   "jurisdiction_id": "WA",
+   "categories": [
+    "renewable"
+   ],
+   "summary_en": "Bunbury offshore wind area declared (3,995 km², potential up to 11.4 GW).",
+   "summary_zh": "Bunbury海上风电区域宣布设立（3,995平方公里，潜在装机最高11.4 GW）。",
+   "source": "https://www.offshorewind.biz/2026/01/23/australian-govt-awards-final-feasibility-licences-to-three-offshore-wind-projects-in-bunbury-zone"
+  },
+  {
+   "date": "2024-07",
+   "jurisdiction_id": "VIC",
+   "categories": [
+    "renewable"
+   ],
+   "summary_en": "Twelve Gippsland offshore wind projects awarded feasibility licences from 37 applications.",
+   "summary_zh": "Gippsland 37份申请中12个海上风电项目获可行性许可证。",
+   "source": "https://www.energy.vic.gov.au/renewable-energy/offshore-wind-energy/victorias-offshore-wind-farm-locations"
+  },
+  {
+   "date": "2024-06",
+   "jurisdiction_id": "FED",
+   "categories": [
+    "fossil",
+    "other"
+   ],
+   "summary_en": "OPGGS Legislation Amendment (Safety and Other Measures) Act 2024 enacted (No. 43 of 2024).",
+   "summary_zh": "《2024年OPGGS立法修订（安全及其他措施）法》颁布（2024年第43号）。",
+   "source": "https://www.legislation.gov.au/C2024A00043/latest/details"
+  },
+  {
+   "date": "2024-06",
+   "jurisdiction_id": "QLD",
+   "categories": [
+    "other"
+   ],
+   "summary_en": "MEROLA Act 2024 assented (18 June), permanently banning GHG storage in Queensland's Great Artesian Basin.",
+   "summary_zh": "MEROLA法获御准（6月18日），永久禁止在昆州大自流盆地封存温室气体。",
+   "source": "https://www.nrmmrrd.qld.gov.au/mining-exploration/initiatives/greenhouse-gas-storage-in-queensland"
+  },
+  {
+   "date": "2024-06",
+   "jurisdiction_id": "WA",
+   "categories": [
+    "agri"
+   ],
+   "summary_en": "WA decided not to implement the Aquatic Resources Management Act 2016; FRMA 1994 and Pearling Act 1990 retained.",
+   "summary_zh": "西澳决定不实施《2016年水生资源管理法》，保留《1994年渔业资源管理法》及《1990年珍珠养殖法》。",
+   "source": "https://www.wa.gov.au/government/media-statements/Cook-Labor-Government/Implementation-of-fisheries-legislation-not-to-proceed-20240618"
+  },
+  {
+   "date": "2024-06",
+   "jurisdiction_id": "NSW",
+   "categories": [
+    "renewable"
+   ],
+   "summary_en": "Illawarra offshore wind area declared (Commonwealth waters off Wollongong).",
+   "summary_zh": "Illawarra海上风电区域宣布设立（Wollongong外海联邦海域）。",
+   "source": "https://www.dcceew.gov.au/energy/renewable/offshore-wind"
+  },
+  {
+   "date": "2024-05",
+   "jurisdiction_id": "FED",
+   "categories": [
+    "fossil",
+    "other"
+   ],
+   "summary_en": "Future Gas Strategy released (9 May), affirming gas demand to 2050 and support for new supply and CCS.",
+   "summary_zh": "《未来天然气战略》发布（5月9日），确认至2050年的天然气需求，支持新增供应和碳捕集与封存。",
+   "source": "https://www.industry.gov.au/publications/future-gas-strategy"
+  },
+  {
+   "date": "2024-05",
+   "jurisdiction_id": "VIC",
+   "categories": [
+    "renewable"
+   ],
+   "summary_en": "Enabling Offshore Wind Energy Act 2024 passed, legislating 2/4/9 GW offshore wind targets for 2032/2035/2040.",
+   "summary_zh": "《推动海上风电》法通过，立法确定2032/2035/2040年海上风电目标2/4/9 GW。",
+   "source": "https://www.legislation.vic.gov.au/as-made/acts/energy-and-public-land-legislation-amendment-enabling-offshore-wind-energy-act-2024"
+  },
+  {
+   "date": "2024-05",
+   "jurisdiction_id": "WA",
+   "categories": [
+    "other"
+   ],
+   "summary_en": "WA Petroleum Legislation Amendment passed (7 May), creating a CCS regime onshore and in coastal waters.",
+   "summary_zh": "西澳《石油立法修订》通过（5月7日），建立陆上及沿海水域碳捕集与封存制度。",
+   "source": "https://allens.com.au/insights-news/insights/2024/05/a-key-step-to-net-zero-in-wa"
+  },
+  {
+   "date": "2024-03",
+   "jurisdiction_id": "NSW",
+   "categories": [
+    "fossil",
+    "mineral"
+   ],
+   "summary_en": "NSW Parliament passed the EP&A Amendment (Seabed Mining and Exploration) Bill, banning oil, gas and mineral exploration and extraction in NSW coastal waters.",
+   "summary_zh": "新州议会通过EP&A修订（海底采矿与勘探）法案，禁止在新州沿海水域勘探开采油气及矿产。",
+   "source": "https://www.nsw.gov.au/media-releases/nsw-passes-legislation-to-ban-offshore-drilling-and-mining"
+  },
+  {
+   "date": "2024-03",
+   "jurisdiction_id": "VIC",
+   "categories": [
+    "renewable"
+   ],
+   "summary_en": "Southern Ocean offshore wind area (about 1,030 km², off Warrnambool and Port Fairy) declared.",
+   "summary_zh": "Southern Ocean海上风电区域（约1,030平方公里，Warrnambool及Port Fairy外海）宣布设立。",
+   "source": "https://www.energy.vic.gov.au/renewable-energy/offshore-wind-energy/victorias-offshore-wind-farm-locations"
+  },
+  {
+   "date": "2023-07",
+   "jurisdiction_id": "FED",
+   "categories": [
+    "fossil"
+   ],
+   "summary_en": "Gas Market Code commenced (11 July): A$12/GJ reasonable price for east coast wholesale gas, with exemption pathway.",
+   "summary_zh": "天然气市场准则生效（7月11日）：东海岸批发气合理价格12澳元/吉焦，设豁免路径。",
+   "source": "https://www.accc.gov.au/inquiries-and-consultations/gas-inquiry-2017-30"
+  },
+  {
+   "date": "2023-07",
+   "jurisdiction_id": "FED",
+   "categories": [
+    "fossil",
+    "other"
+   ],
+   "summary_en": "Reformed Safeguard Mechanism took effect: baselines decline 4.9% a year to 2030; tradable Safeguard Mechanism Credits.",
+   "summary_zh": "改革后的保障机制生效：基线每年下降4.9%至2030年；引入可交易的保障机制信用。",
+   "source": "https://www.cer.gov.au/schemes/safeguard-mechanism"
+  },
+  {
+   "date": "2023-07",
+   "jurisdiction_id": "FED",
+   "categories": [
+    "fossil"
+   ],
+   "summary_en": "PRRT deductions cap for LNG projects (90% of assessable receipts) applies from 1 July 2023.",
+   "summary_zh": "LNG项目PRRT扣除上限（应税收入的90%）自2023年7月1日起适用。",
+   "source": "https://www.ato.gov.au/businesses-and-organisations/gst-excise-and-indirect-taxes/petroleum-resource-rent-tax"
+  },
+  {
+   "date": "2023-07",
+   "jurisdiction_id": "NSW",
+   "categories": [
+    "renewable"
+   ],
+   "summary_en": "Hunter offshore wind area declared off the NSW coast (Commonwealth waters).",
+   "summary_zh": "Hunter海上风电区域宣布设立（新州外海联邦海域）。",
+   "source": "https://www.dcceew.gov.au/energy/renewable/offshore-wind"
+  },
+  {
+   "date": "2023-04",
+   "jurisdiction_id": "FED",
+   "categories": [
+    "fossil"
+   ],
+   "summary_en": "ADGSM reformed to quarterly assessment and extended to 1 January 2030.",
+   "summary_zh": "ADGSM改为按季度评估，有效期延至2030年1月1日。",
+   "source": "https://www.industry.gov.au/mining-oil-and-gas/oil-and-gas/australian-domestic-gas-security-mechanism"
+  }
+ ]
+}

@@ -1,0 +1,242 @@
+[
+ {
+  "category_id": "fossil",
+  "subcategory": null,
+  "name_en": "Fossil energy (offshore oil & gas)",
+  "name_zh": "化石能源（海上油气）",
+  "color_token": "--c-fossil",
+  "order": 1,
+  "overview_en": "Offshore oil and gas is the largest marine resource by value. Production is concentrated in the North West Shelf basins (Northern Carnarvon, Browse, Bonaparte); the south-east basins (Gippsland, Otway, Bass) supply the east coast domestic market.\n- Offshore basins produced 4,547 PJ of gas in 2024, 72% of national output; the Northern Carnarvon Basin alone produced 3,392 PJ\n- LNG export earnings were A$57bn in 2025-26; the Resources and Energy Quarterly (Sept 2026) forecasts A$70bn in 2026-27 as Scarborough and Barossa ramp up\n- Bass Strait fields are in decline; AEMO's Gas Statement of Opportunities flags seasonal shortfall risk in the southern states, and Otway exploration resumed in 2025-26\n- The asset base is ageing: the 2020 industry estimate put offshore decommissioning liability at US$40.5bn (real 2020), 48% of it in the Northern Carnarvon Basin",
+  "overview_zh": "海上油气是澳洲海洋资源产值的主体。产量集中在西北陆架的北卡那封、布劳斯和波拿巴盆地，东南部吉普斯兰、奥特韦和巴斯盆地主要供应东海岸内销市场。\n- 2024年海上盆地产气4,547 PJ，占全国天然气产量72%，其中北卡那封盆地3,392 PJ\n- 2025-26财年LNG出口收入570亿澳元；《资源与能源季报》（2026年9月）预测2026-27财年为700亿澳元，增量来自Scarborough和Barossa投产爬坡\n- 巴斯海峡老气田递减，AEMO《天然气供需展望》提示南部州存在季节性供应缺口风险；奥特韦盆地勘探于2025-26年重启\n- 资产步入后期：2020年行业估算海上油气弃置负债405亿美元（2020年不变价），北卡那封盆地占48%",
+  "subcategories": [
+   {
+    "category_id": "fossil",
+    "subcategory": "LNG",
+    "name_en": "LNG",
+    "name_zh": "液化天然气（LNG）",
+    "color_token": null,
+    "order": 1,
+    "overview_en": "Offshore gas fields feeding export liquefaction (onshore trains or floating LNG). Capacity in Mtpa of LNG.",
+    "overview_zh": "向出口液化设施（陆上液化线或浮式LNG）供气的海上气田，产能口径为百万吨/年（Mtpa）。"
+   },
+   {
+    "category_id": "fossil",
+    "subcategory": "Oil & condensate",
+    "name_en": "Oil & condensate",
+    "name_zh": "原油及凝析油",
+    "color_token": null,
+    "order": 2,
+    "overview_en": "Oil fields produced mainly through FPSOs on the North West Shelf; most are in late life or decommissioning.",
+    "overview_zh": "以西北陆架浮式生产储卸油装置（FPSO）开发的油田为主，多数处于生产后期或弃置阶段。"
+   },
+   {
+    "category_id": "fossil",
+    "subcategory": "Domestic gas",
+    "name_en": "Domestic gas",
+    "name_zh": "内销天然气",
+    "color_token": null,
+    "order": 3,
+    "overview_en": "Offshore gas sold into the WA domestic market or the east coast market (Gippsland, Otway, Bass, Carnarvon domestic gas hubs).",
+    "overview_zh": "供应西澳内销市场或东海岸市场的海上气田，包括吉普斯兰、奥特韦、巴斯盆地及卡那封内销气枢纽。"
+   },
+   {
+    "category_id": "fossil",
+    "subcategory": "Exploration & appraisal",
+    "name_en": "Exploration & appraisal",
+    "name_zh": "勘探与评价",
+    "color_token": null,
+    "order": 4,
+    "overview_en": "Discoveries and acreage without a selected development concept.",
+    "overview_zh": "已有发现或新区块，但尚未确定开发方案。"
+   }
+  ]
+ },
+ {
+  "category_id": "renewable",
+  "subcategory": null,
+  "name_en": "Renewable energy (marine)",
+  "name_zh": "可再生能源（海洋）",
+  "color_token": "--c-renew",
+  "order": 2,
+  "overview_en": "Offshore wind is at the licensing stage: no commercial licence has been granted and nothing is operating. Wave and tidal energy remain at demonstration scale.\n- The Offshore Electricity Infrastructure Act 2021 sets a three-step path: area declaration, feasibility licence (up to 7 years), commercial licence (up to 40 years); six areas have been declared\n- Gippsland is the core zone: 12 feasibility licences were granted in 2024, three have been surrendered, nine remain (about 18.5 GW of project capacity)\n- Victoria's legislated targets are 2 GW by 2032, 4 GW by 2035 and 9 GW by 2040; the first 2 GW auction opened its RFP on 26 Aug 2026 with contracts due in 2028\n- 2025-26 exits: BlueFloat left Australia, RWE and the Mainstream consortium surrendered licences, Equinor declined the Hunter licence; no licences were offered in Illawarra or Bass Strait North\n- Bunbury (WA) received final licence offers for about 4 GW in January 2026 (EDF, Ocean Winds)",
+  "overview_zh": "海上风电处于许可阶段，尚无商业许可证和在运项目；波浪能、潮汐能仍停留在示范规模。\n- 《2021年海上电力基础设施法》确立三段式路径：海域宣布、可行性许可证（最长7年）、商业许可证（最长40年）；全国已宣布6个海域\n- 吉普斯兰为核心海域：2024年发放12张可行性许可证，3张已交还，现存9张，对应项目装机约18.5 GW\n- 维州立法目标为2032年2 GW、2035年4 GW、2040年9 GW；首轮2 GW招标于2026年8月26日开放RFP，2028年授予合同\n- 2025-26年退出集中：BlueFloat退出澳洲，RWE及Mainstream联合体交还许可证，Equinor拒收猎人谷许可证；伊拉瓦拉和巴斯海峡北部海域未发放许可证\n- 西澳班伯里海域2026年1月获约4 GW最终许可证要约（EDF、Ocean Winds）",
+  "subcategories": [
+   {
+    "category_id": "renewable",
+    "subcategory": "Offshore wind",
+    "name_en": "Offshore wind",
+    "name_zh": "海上风电",
+    "color_token": null,
+    "order": 1,
+    "overview_en": "Projects holding (or having held) feasibility licences in declared areas, plus earlier proposals. Capacity in MW as proposed.",
+    "overview_zh": "在已宣布海域持有（或曾持有）可行性许可证的项目，以及早期提案。装机为开发商申报口径（MW）。"
+   },
+   {
+    "category_id": "renewable",
+    "subcategory": "Wave & tidal",
+    "name_en": "Wave & tidal",
+    "name_zh": "波浪能与潮汐能",
+    "color_token": null,
+    "order": 2,
+    "overview_en": "Pilot and demonstration projects; none has progressed to commercial scale.",
+    "overview_zh": "试点及示范项目，尚无项目进入商业规模。"
+   },
+   {
+    "category_id": "renewable",
+    "subcategory": "Other marine renewables",
+    "name_en": "Other marine renewables",
+    "name_zh": "其他海洋可再生能源",
+    "color_token": null,
+    "order": 3,
+    "overview_en": "Floating solar at sea, marine hydrogen and similar concepts with a real proponent.",
+    "overview_zh": "海上漂浮光伏、海上制氢等有实际开发主体的概念项目。"
+   }
+  ]
+ },
+ {
+  "category_id": "mineral",
+  "subcategory": null,
+  "name_en": "Mineral resources (marine)",
+  "name_zh": "矿产资源（海洋）",
+  "color_token": "--c-mineral",
+  "order": 3,
+  "overview_en": "Marine minerals are dominated by solar salt and seawater-derived potash. Seabed mining is prohibited or stalled in most jurisdictions.\n- Solar salt capacity sits on the Pilbara and Gascoyne coast: Dampier Salt (Rio Tinto), Shark Bay Salt (Mitsui), Onslow Salt\n- BCI Minerals' Mardie project (5.3 Mtpa salt nameplate plus sulphate of potash) was 85% built in June 2026, targeting first shipments in FY27\n- Seabed minerals: the Offshore Minerals Act 1994 provides an exploration framework in Commonwealth waters, but the NT bans seabed mining in its coastal waters, NSW prohibits mining in its coastal waters and the Great Barrier Reef Marine Park excludes mining\n- Marine sand is used for beach nourishment and channel works; the Sydney offshore sand licence has been contested for decades",
+  "overview_zh": "海洋矿产以海水晒盐及海水提钾为主，海底采矿在多数辖区被禁止或处于停滞状态。\n- 晒盐产能集中在皮尔巴拉和加斯科因海岸：Dampier Salt（力拓）、Shark Bay Salt（三井）、Onslow Salt\n- BCI Minerals的Mardie项目（铭牌产能530万吨/年盐，另产硫酸钾）2026年6月完工85%，目标FY27首批装船\n- 海底矿产：联邦《1994年海上矿产法》提供联邦海域勘探框架；北领地禁止沿海水域海底采矿，新州禁止沿海水域采矿，大堡礁海洋公园排除采矿活动\n- 海砂用于海滩养护和航道工程，悉尼外海采砂许可争议已持续数十年",
+  "subcategories": [
+   {
+    "category_id": "mineral",
+    "subcategory": "Sea salt & potash",
+    "name_en": "Sea salt & potash",
+    "name_zh": "海水盐及钾肥",
+    "color_token": null,
+    "order": 1,
+    "overview_en": "Solar evaporation of seawater for industrial salt, and potash (SOP) from the remaining bitterns. Capacity in Mtpa.",
+    "overview_zh": "以海水日晒蒸发生产工业盐，并从苦卤中提取硫酸钾（SOP），产能口径为百万吨/年。"
+   },
+   {
+    "category_id": "mineral",
+    "subcategory": "Seabed minerals",
+    "name_en": "Seabed minerals",
+    "name_zh": "海底矿产",
+    "color_token": null,
+    "order": 2,
+    "overview_en": "Exploration licences and proposals for minerals on or under the seabed (manganese, phosphate, heavy minerals).",
+    "overview_zh": "海床表层及海底以下矿产（锰、磷酸盐、重矿砂）的勘探许可及开发提案。"
+   },
+   {
+    "category_id": "mineral",
+    "subcategory": "Marine sand",
+    "name_en": "Marine sand",
+    "name_zh": "海砂",
+    "color_token": null,
+    "order": 3,
+    "overview_en": "Offshore sand extraction and sand bypassing for coastal management.",
+    "overview_zh": "用于海岸管理的外海采砂及输砂工程。"
+   }
+  ]
+ },
+ {
+  "category_id": "agri",
+  "subcategory": null,
+  "name_en": "Agricultural resources (fisheries & aquaculture)",
+  "name_zh": "农业资源（渔业与水产养殖）",
+  "color_token": "--c-agri",
+  "order": 4,
+  "overview_en": "Fisheries and aquaculture produce A$3.5-4.0bn a year, with growth coming from aquaculture.\n- Gross value of production was about A$3.56bn in 2023-24 (ABARES, nominal); ABARES forecasts A$4.0bn for 2026-27\n- Aquaculture now exceeds wild catch: A$2.31bn in 2024-25, about 58% of the sector\n- Tasmanian salmon is the largest single species (salmonids about A$1.32bn in 2023-24); FY2026 output was 74,249 t, with Huon (JBS) overtaking Tassal (Cooke)\n- Wild catch is led by high-value species: rock lobster, prawns, abalone, southern bluefin tuna; Commonwealth fisheries (AFMA) produced A$412m in 2022-23\n- Regulatory focus: Macquarie Harbour salmon farming and the Maugean skate, the Great Barrier Reef gillnet phase-out",
+  "overview_zh": "渔业与水产养殖年产值35亿至40亿澳元，增量来自水产养殖。\n- 2023-24年总产值约35.6亿澳元（ABARES，名义值）；ABARES预测2026-27年达40亿澳元\n- 水产养殖产值已超过野生捕捞：2024-25年为23.1亿澳元，约占行业58%\n- 塔州三文鱼为最大单一品种（2023-24年鲑鳟类约13.2亿澳元）；FY2026塔州三文鱼产量74,249吨，Huon（JBS）首次超过Tassal（Cooke）\n- 野生捕捞以高价值品种为主：岩龙虾、对虾、鲍鱼、南方蓝鳍金枪鱼；联邦渔业（AFMA管理）2022-23年产值4.12亿澳元\n- 监管焦点：麦夸里港三文鱼养殖与Maugean鳐保护，大堡礁刺网渔业退出",
+  "subcategories": [
+   {
+    "category_id": "agri",
+    "subcategory": "Finfish aquaculture",
+    "name_en": "Finfish aquaculture",
+    "name_zh": "鱼类养殖",
+    "color_token": null,
+    "order": 1,
+    "overview_en": "Sea-cage and land-based finfish farming: Atlantic salmon, southern bluefin tuna ranching, yellowtail kingfish, barramundi.",
+    "overview_zh": "海上网箱及陆基鱼类养殖：大西洋鲑、南方蓝鳍金枪鱼蓄养、黄尾鰤、尖吻鲈。"
+   },
+   {
+    "category_id": "agri",
+    "subcategory": "Shellfish & pearl aquaculture",
+    "name_en": "Shellfish & pearl aquaculture",
+    "name_zh": "贝类及珍珠养殖",
+    "color_token": null,
+    "order": 2,
+    "overview_en": "Oysters, mussels, abalone farms and South Sea pearls.",
+    "overview_zh": "牡蛎、贻贝、鲍鱼养殖及南洋珍珠。"
+   },
+   {
+    "category_id": "agri",
+    "subcategory": "Seaweed aquaculture",
+    "name_en": "Seaweed aquaculture",
+    "name_zh": "海藻养殖",
+    "color_token": null,
+    "order": 3,
+    "overview_en": "Commercial seaweed cultivation, including Asparagopsis for livestock methane reduction.",
+    "overview_zh": "商业化海藻养殖，包括用于降低牲畜甲烷排放的Asparagopsis。"
+   },
+   {
+    "category_id": "agri",
+    "subcategory": "Wild-catch fishery",
+    "name_en": "Wild-catch fishery",
+    "name_zh": "野生捕捞渔业",
+    "color_token": null,
+    "order": 4,
+    "overview_en": "The largest Commonwealth and state fisheries by value. Capacity is the total allowable catch where set.",
+    "overview_zh": "按产值排名靠前的联邦及州渔业，规模口径为总可捕量（TAC/TACC）。"
+   }
+  ]
+ },
+ {
+  "category_id": "other",
+  "subcategory": null,
+  "name_en": "Other resources (marine infrastructure)",
+  "name_zh": "其他资源（海洋基础设施）",
+  "color_token": "--c-other",
+  "order": 5,
+  "overview_en": "Infrastructure that depends on marine space: carbon storage, seawater desalination, subsea cables and interconnectors, ports and LNG terminals.\n- CCS: Gorgon is the only large operating project; the Commonwealth awarded several rounds of greenhouse gas assessment permits in 2021-2025, and Bayu-Undan's conversion depends on cross-border CO2 transport arrangements\n- Desalination: every mainland state capital has a large seawater plant; Alkimos (WA) and Eyre Peninsula (SA) are under construction\n- Cables: Marinus Link Stage 1 is under construction, Basslink operates; new international telecom cables are landing in Perth and Darwin\n- Ports and terminals: the three Curtis Island LNG plants (fed by onshore coal seam gas), east coast LNG import terminals, and ports preparing for offshore wind",
+  "overview_zh": "本类收录依托海域空间的基础设施：碳封存、海水淡化、海底电缆与互联、港口及LNG终端。\n- 碳封存：Gorgon为唯一在运的大型项目；联邦2021-2025年分多批发放温室气体评估许可，Bayu-Undan改造取决于跨境CO2运输安排\n- 海水淡化：大陆各州首府均建有大型海水淡化厂，西澳Alkimos、南澳Eyre Peninsula在建\n- 海缆：Marinus Link一期在建，Basslink在运；新的国际通信海缆集中在珀斯、达尔文登陆\n- 港口与终端：Curtis Island三座LNG厂（以陆上煤层气供气）、东海岸LNG进口终端、海上风电配套港口",
+  "subcategories": [
+   {
+    "category_id": "other",
+    "subcategory": "CCS & gas storage",
+    "name_en": "CCS & gas storage",
+    "name_zh": "碳封存与储气",
+    "color_token": null,
+    "order": 1,
+    "overview_en": "CO2 injection and greenhouse gas assessment permits in offshore reservoirs. Capacity in Mtpa CO2.",
+    "overview_zh": "海上储层CO2注入项目及温室气体评估许可，规模口径为百万吨CO2/年。"
+   },
+   {
+    "category_id": "other",
+    "subcategory": "Desalination",
+    "name_en": "Desalination",
+    "name_zh": "海水淡化",
+    "color_token": null,
+    "order": 2,
+    "overview_en": "Seawater reverse-osmosis plants for urban and industrial supply. Capacity in GL/yr or ML/d.",
+    "overview_zh": "供城市及工业用水的海水反渗透淡化厂，规模口径为吉升/年（GL/yr）或兆升/日（ML/d）。"
+   },
+   {
+    "category_id": "other",
+    "subcategory": "Subsea cables & interconnectors",
+    "name_en": "Subsea cables & interconnectors",
+    "name_zh": "海底电缆与互联",
+    "color_token": null,
+    "order": 3,
+    "overview_en": "HVDC interconnectors and international telecom cables landing in Australia.",
+    "overview_zh": "高压直流互联线路及在澳洲登陆的国际通信海缆。"
+   },
+   {
+    "category_id": "other",
+    "subcategory": "Ports & LNG terminals",
+    "name_en": "Ports & LNG terminals",
+    "name_zh": "港口与LNG终端",
+    "color_token": null,
+    "order": 4,
+    "overview_en": "LNG export plants not fed by offshore fields, LNG import terminals, major export ports and offshore wind ports.",
+    "overview_zh": "非海上气田供气的LNG出口厂、LNG进口终端、主要资源出口港及海上风电配套港口。"
+   }
+  ]
+ }
+]

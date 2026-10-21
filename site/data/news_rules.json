@@ -1,0 +1,357 @@
+[
+ {
+  "category": "fossil",
+  "subcategory": "LNG",
+  "keywords_en": [
+   "lng",
+   "liquefied natural gas",
+   "flng",
+   "gorgon",
+   "wheatstone",
+   "ichthys",
+   "prelude",
+   "pluto",
+   "scarborough",
+   "barossa",
+   "north west shelf",
+   "browse",
+   "sunrise"
+  ],
+  "keywords_zh": [
+   "液化天然气",
+   "lng",
+   "西北大陆架",
+   "高庚",
+   "惠斯通",
+   "伊克西斯"
+  ]
+ },
+ {
+  "category": "fossil",
+  "subcategory": "Oil & condensate",
+  "keywords_en": [
+   "fpso",
+   "oil field",
+   "crude oil",
+   "condensate",
+   "pyrenees",
+   "montara",
+   "stag",
+   "van gogh",
+   "okha"
+  ],
+  "keywords_zh": [
+   "原油",
+   "凝析油",
+   "油田"
+  ]
+ },
+ {
+  "category": "fossil",
+  "subcategory": "Domestic gas",
+  "keywords_en": [
+   "bass strait",
+   "gippsland gas",
+   "otway",
+   "domestic gas",
+   "east coast gas",
+   "gas shortfall",
+   "gas reservation",
+   "varanus",
+   "macedon",
+   "kipper",
+   "sole gas",
+   "thylacine"
+  ],
+  "keywords_zh": [
+   "内销气",
+   "东海岸天然气",
+   "天然气短缺",
+   "天然气保留"
+  ]
+ },
+ {
+  "category": "fossil",
+  "subcategory": "Exploration & appraisal",
+  "keywords_en": [
+   "exploration well",
+   "acreage",
+   "discovery",
+   "appraisal well",
+   "seismic survey",
+   "nopta"
+  ],
+  "keywords_zh": [
+   "勘探",
+   "区块招标",
+   "新发现"
+  ]
+ },
+ {
+  "category": "fossil",
+  "subcategory": null,
+  "keywords_en": [
+   "offshore gas",
+   "offshore oil",
+   "nopsema",
+   "decommissioning",
+   "petroleum resource rent",
+   "prrt",
+   "woodside",
+   "santos",
+   "chevron australia",
+   "inpex",
+   "esso"
+  ],
+  "keywords_zh": [
+   "海上油气",
+   "伍德赛德",
+   "桑托斯",
+   "雪佛龙",
+   "弃置"
+  ]
+ },
+ {
+  "category": "renewable",
+  "subcategory": "Offshore wind",
+  "keywords_en": [
+   "offshore wind",
+   "feasibility licence",
+   "wind farm off",
+   "star of the south",
+   "gippsland offshore",
+   "bunbury offshore",
+   "offshore infrastructure regulator"
+  ],
+  "keywords_zh": [
+   "海上风电",
+   "海上风电场",
+   "可行性许可证"
+  ]
+ },
+ {
+  "category": "renewable",
+  "subcategory": "Wave & tidal",
+  "keywords_en": [
+   "wave energy",
+   "tidal energy",
+   "tidal turbine",
+   "ceto",
+   "carnegie clean energy",
+   "wave swell",
+   "marine energy"
+  ],
+  "keywords_zh": [
+   "波浪能",
+   "潮汐能",
+   "海洋能"
+  ]
+ },
+ {
+  "category": "mineral",
+  "subcategory": "Sea salt & potash",
+  "keywords_en": [
+   "solar salt",
+   "salt field",
+   "mardie",
+   "dampier salt",
+   "shark bay salt",
+   "onslow salt",
+   "sulphate of potash",
+   "bci minerals"
+  ],
+  "keywords_zh": [
+   "海盐",
+   "晒盐",
+   "钾肥",
+   "硫酸钾"
+  ]
+ },
+ {
+  "category": "mineral",
+  "subcategory": "Seabed minerals",
+  "keywords_en": [
+   "seabed mining",
+   "offshore minerals",
+   "deep sea mining",
+   "seabed minerals"
+  ],
+  "keywords_zh": [
+   "海底采矿",
+   "深海采矿",
+   "海底矿产"
+  ]
+ },
+ {
+  "category": "mineral",
+  "subcategory": "Marine sand",
+  "keywords_en": [
+   "offshore sand",
+   "sand dredging",
+   "sand nourishment",
+   "sand bypass"
+  ],
+  "keywords_zh": [
+   "海砂",
+   "采砂"
+  ]
+ },
+ {
+  "category": "agri",
+  "subcategory": "Finfish aquaculture",
+  "keywords_en": [
+   "salmon",
+   "kingfish",
+   "barramundi",
+   "bluefin tuna ranching",
+   "sea cage",
+   "fish farm",
+   "tassal",
+   "huon aquaculture",
+   "petuna",
+   "macquarie harbour"
+  ],
+  "keywords_zh": [
+   "三文鱼",
+   "鲑鱼",
+   "金枪鱼养殖",
+   "网箱"
+  ]
+ },
+ {
+  "category": "agri",
+  "subcategory": "Shellfish & pearl aquaculture",
+  "keywords_en": [
+   "oyster",
+   "mussel",
+   "abalone farm",
+   "pearl",
+   "paspaley"
+  ],
+  "keywords_zh": [
+   "牡蛎",
+   "生蚝",
+   "贻贝",
+   "鲍鱼",
+   "珍珠"
+  ]
+ },
+ {
+  "category": "agri",
+  "subcategory": "Seaweed aquaculture",
+  "keywords_en": [
+   "seaweed",
+   "asparagopsis",
+   "kelp farm",
+   "sea forest"
+  ],
+  "keywords_zh": [
+   "海藻",
+   "海带"
+  ]
+ },
+ {
+  "category": "agri",
+  "subcategory": "Wild-catch fishery",
+  "keywords_en": [
+   "fishery",
+   "fisheries",
+   "rock lobster",
+   "prawn",
+   "afma",
+   "quota",
+   "total allowable catch",
+   "trawl",
+   "gillnet",
+   "toothfish"
+  ],
+  "keywords_zh": [
+   "渔业",
+   "龙虾",
+   "对虾",
+   "捕捞",
+   "配额"
+  ]
+ },
+ {
+  "category": "agri",
+  "subcategory": null,
+  "keywords_en": [
+   "aquaculture",
+   "seafood"
+  ],
+  "keywords_zh": [
+   "水产养殖",
+   "海产品",
+   "海鲜"
+  ]
+ },
+ {
+  "category": "other",
+  "subcategory": "CCS & gas storage",
+  "keywords_en": [
+   "carbon capture",
+   "carbon storage",
+   "ccs",
+   "co2 storage",
+   "greenhouse gas storage",
+   "carbonnet",
+   "bayu-undan ccs",
+   "sequestration"
+  ],
+  "keywords_zh": [
+   "碳封存",
+   "碳捕集",
+   "二氧化碳封存"
+  ]
+ },
+ {
+  "category": "other",
+  "subcategory": "Desalination",
+  "keywords_en": [
+   "desalination",
+   "desal plant",
+   "reverse osmosis"
+  ],
+  "keywords_zh": [
+   "海水淡化",
+   "淡化厂"
+  ]
+ },
+ {
+  "category": "other",
+  "subcategory": "Subsea cables & interconnectors",
+  "keywords_en": [
+   "subsea cable",
+   "submarine cable",
+   "marinus link",
+   "basslink",
+   "interconnector",
+   "cable landing"
+  ],
+  "keywords_zh": [
+   "海底电缆",
+   "海缆",
+   "互联线路"
+  ]
+ },
+ {
+  "category": "other",
+  "subcategory": "Ports & LNG terminals",
+  "keywords_en": [
+   "lng import",
+   "import terminal",
+   "regasification",
+   "port of hastings",
+   "curtis island",
+   "port hedland",
+   "port of newcastle",
+   "offshore wind port"
+  ],
+  "keywords_zh": [
+   "进口终端",
+   "接收站",
+   "港口"
+  ]
+ }
+]

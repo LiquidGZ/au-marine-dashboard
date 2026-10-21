@@ -1,0 +1,220 @@
+[
+ {
+  "source_id": "gn-lng",
+  "name": "Google News: LNG & offshore gas (AU)",
+  "type": "rss",
+  "url": "https://news.google.com/rss/search?q=%28LNG+OR+%22offshore+gas%22+OR+%22gas+field%22+OR+FPSO%29+Australia+%28Woodside+OR+Santos+OR+Chevron+OR+INPEX+OR+Shell+OR+%22Beach+Energy%22+OR+Esso+OR+Amplitude%29+when%3A7d&hl=en-AU&gl=AU&ceid=AU:en",
+  "language": "en",
+  "filter_keywords": [],
+  "default_category": "fossil",
+  "enabled": true
+ },
+ {
+  "source_id": "gn-gas-policy",
+  "name": "Google News: offshore petroleum regulation",
+  "type": "rss",
+  "url": "https://news.google.com/rss/search?q=%28NOPSEMA+OR+NOPTA+OR+%22acreage+release%22+OR+%22gas+reservation%22+OR+%22Gas+Market+Code%22+OR+%22offshore+petroleum%22%29+when%3A7d&hl=en-AU&gl=AU&ceid=AU:en",
+  "language": "en",
+  "filter_keywords": [],
+  "default_category": "fossil",
+  "enabled": true
+ },
+ {
+  "source_id": "gn-decom",
+  "name": "Google News: offshore decommissioning (AU)",
+  "type": "rss",
+  "url": "https://news.google.com/rss/search?q=decommissioning+%28offshore+OR+FPSO+OR+platform+OR+%22Northern+Endeavour%22%29+Australia+when%3A7d&hl=en-AU&gl=AU&ceid=AU:en",
+  "language": "en",
+  "filter_keywords": [],
+  "default_category": "fossil",
+  "enabled": true
+ },
+ {
+  "source_id": "gn-wind",
+  "name": "Google News: offshore wind (AU)",
+  "type": "rss",
+  "url": "https://news.google.com/rss/search?q=%22offshore+wind%22+%28Australia+OR+Gippsland+OR+Victoria+OR+Bunbury+OR+Hunter+OR+Illawarra%29+when%3A7d&hl=en-AU&gl=AU&ceid=AU:en",
+  "language": "en",
+  "filter_keywords": [],
+  "default_category": "renewable",
+  "enabled": true
+ },
+ {
+  "source_id": "gn-wave",
+  "name": "Google News: wave & tidal (AU)",
+  "type": "rss",
+  "url": "https://news.google.com/rss/search?q=%28%22wave+energy%22+OR+%22tidal+energy%22+OR+%22marine+energy%22%29+Australia+when%3A7d&hl=en-AU&gl=AU&ceid=AU:en",
+  "language": "en",
+  "filter_keywords": [],
+  "default_category": "renewable",
+  "enabled": true
+ },
+ {
+  "source_id": "gn-ccs",
+  "name": "Google News: CCS (AU)",
+  "type": "rss",
+  "url": "https://news.google.com/rss/search?q=%28%22carbon+capture%22+OR+%22carbon+storage%22+OR+CCS+OR+%22greenhouse+gas+storage%22+OR+%22CO2+storage%22%29+Australia+%28offshore+OR+Bayu-Undan+OR+Gorgon+OR+Bonaparte+OR+CarbonNet%29+when%3A7d&hl=en-AU&gl=AU&ceid=AU:en",
+  "language": "en",
+  "filter_keywords": [],
+  "default_category": "other",
+  "enabled": true
+ },
+ {
+  "source_id": "gn-aqua",
+  "name": "Google News: aquaculture (AU)",
+  "type": "rss",
+  "url": "https://news.google.com/rss/search?q=%28aquaculture+OR+%22salmon+farm%22+OR+%22salmon+farming%22+OR+oyster+OR+%22seaweed+farm%22+OR+kingfish+OR+%22bluefin+tuna%22%29+%28Australia+OR+Tasmania%29+when%3A7d&hl=en-AU&gl=AU&ceid=AU:en",
+  "language": "en",
+  "filter_keywords": [],
+  "default_category": "agri",
+  "enabled": true
+ },
+ {
+  "source_id": "gn-fish",
+  "name": "Google News: fisheries (AU)",
+  "type": "rss",
+  "url": "https://news.google.com/rss/search?q=%28fishery+OR+fisheries+OR+%22rock+lobster%22+OR+prawn+OR+abalone+OR+AFMA%29+Australia+when%3A7d&hl=en-AU&gl=AU&ceid=AU:en",
+  "language": "en",
+  "filter_keywords": [],
+  "default_category": "agri",
+  "enabled": true
+ },
+ {
+  "source_id": "gn-desal",
+  "name": "Google News: desalination (AU)",
+  "type": "rss",
+  "url": "https://news.google.com/rss/search?q=desalination+%28Australia+OR+Perth+OR+Sydney+OR+Adelaide+OR+Melbourne+OR+Queensland%29+when%3A7d&hl=en-AU&gl=AU&ceid=AU:en",
+  "language": "en",
+  "filter_keywords": [],
+  "default_category": "other",
+  "enabled": true
+ },
+ {
+  "source_id": "gn-cable",
+  "name": "Google News: subsea cables & interconnectors (AU)",
+  "type": "rss",
+  "url": "https://news.google.com/rss/search?q=%28%22subsea+cable%22+OR+%22submarine+cable%22+OR+%22Marinus+Link%22+OR+Basslink+OR+interconnector%29+Australia+when%3A7d&hl=en-AU&gl=AU&ceid=AU:en",
+  "language": "en",
+  "filter_keywords": [],
+  "default_category": "other",
+  "enabled": true
+ },
+ {
+  "source_id": "gn-ports",
+  "name": "Google News: LNG terminals & ports (AU)",
+  "type": "rss",
+  "url": "https://news.google.com/rss/search?q=%28%22LNG+import%22+OR+%22import+terminal%22+OR+%22Port+of+Hastings%22+OR+%22Curtis+Island%22+OR+%22Port+Hedland%22+OR+%22offshore+wind+port%22%29+Australia+when%3A7d&hl=en-AU&gl=AU&ceid=AU:en",
+  "language": "en",
+  "filter_keywords": [],
+  "default_category": "other",
+  "enabled": true
+ },
+ {
+  "source_id": "gn-minerals",
+  "name": "Google News: salt, potash, seabed minerals (AU)",
+  "type": "rss",
+  "url": "https://news.google.com/rss/search?q=%28%22solar+salt%22+OR+Mardie+OR+%22Dampier+Salt%22+OR+%22Shark+Bay+Salt%22+OR+%22seabed+mining%22+OR+%22offshore+minerals%22+OR+%22sulphate+of+potash%22%29+Australia+when%3A7d&hl=en-AU&gl=AU&ceid=AU:en",
+  "language": "en",
+  "filter_keywords": [],
+  "default_category": "mineral",
+  "enabled": true
+ },
+ {
+  "source_id": "gn-zh-energy",
+  "name": "Google News 中文：澳大利亚 海上油气 / LNG",
+  "type": "rss",
+  "url": "https://news.google.com/rss/search?q=%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A+%28%E6%B6%B2%E5%8C%96%E5%A4%A9%E7%84%B6%E6%B0%94+OR+LNG+OR+%E6%B5%B7%E4%B8%8A%E6%B2%B9%E6%B0%94+OR+%E4%BC%8D%E5%BE%B7%E8%B5%9B%E5%BE%B7+OR+%E6%A1%91%E6%89%98%E6%96%AF%29+when%3A7d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+  "language": "zh",
+  "filter_keywords": [],
+  "default_category": "fossil",
+  "enabled": true
+ },
+ {
+  "source_id": "gn-zh-wind",
+  "name": "Google News 中文：澳大利亚 海上风电 / 海洋能",
+  "type": "rss",
+  "url": "https://news.google.com/rss/search?q=%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A+%28%E6%B5%B7%E4%B8%8A%E9%A3%8E%E7%94%B5+OR+%E6%B5%B7%E4%B8%8A%E9%A3%8E%E7%94%B5%E5%9C%BA+OR+%E6%B3%A2%E6%B5%AA%E8%83%BD+OR+%E6%BD%AE%E6%B1%90%E8%83%BD%29+when%3A7d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+  "language": "zh",
+  "filter_keywords": [],
+  "default_category": "renewable",
+  "enabled": true
+ },
+ {
+  "source_id": "gn-zh-fish",
+  "name": "Google News 中文：澳大利亚 渔业 / 水产养殖",
+  "type": "rss",
+  "url": "https://news.google.com/rss/search?q=%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A+%28%E6%B8%94%E4%B8%9A+OR+%E6%B0%B4%E4%BA%A7%E5%85%BB%E6%AE%96+OR+%E4%B8%89%E6%96%87%E9%B1%BC+OR+%E9%BE%99%E8%99%BE+OR+%E9%B2%8D%E9%B1%BC+OR+%E6%B5%B7%E4%BA%A7%E5%93%81%29+when%3A7d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+  "language": "zh",
+  "filter_keywords": [],
+  "default_category": "agri",
+  "enabled": true
+ },
+ {
+  "source_id": "gn-zh-other",
+  "name": "Google News 中文：澳大利亚 碳封存 / 海水淡化 / 海缆",
+  "type": "rss",
+  "url": "https://news.google.com/rss/search?q=%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A+%28%E7%A2%B3%E5%B0%81%E5%AD%98+OR+%E7%A2%B3%E6%8D%95%E9%9B%86+OR+%E6%B5%B7%E6%B0%B4%E6%B7%A1%E5%8C%96+OR+%E6%B5%B7%E5%BA%95%E7%94%B5%E7%BC%86+OR+%E6%B5%B7%E7%BC%86%29+when%3A7d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+  "language": "zh",
+  "filter_keywords": [],
+  "default_category": "other",
+  "enabled": true
+ },
+ {
+  "source_id": "offshore-energy",
+  "name": "Offshore Energy (filtered to Australia)",
+  "type": "rss",
+  "url": "https://www.offshore-energy.biz/feed/",
+  "language": "en",
+  "filter_keywords": [
+   "Australia",
+   "Australian",
+   "Woodside",
+   "Santos",
+   "INPEX",
+   "Bass Strait",
+   "Timor Sea",
+   "Gippsland",
+   "Carnarvon",
+   "Browse",
+   "NOPSEMA"
+  ],
+  "default_category": "fossil",
+  "enabled": true
+ },
+ {
+  "source_id": "offshorewind-biz",
+  "name": "offshoreWIND.biz (filtered to Australia)",
+  "type": "rss",
+  "url": "https://www.offshorewind.biz/feed/",
+  "language": "en",
+  "filter_keywords": [
+   "Australia",
+   "Australian",
+   "Gippsland",
+   "Victoria",
+   "Bunbury",
+   "Hunter",
+   "Illawarra",
+   "Bass Strait"
+  ],
+  "default_category": "renewable",
+  "enabled": true
+ },
+ {
+  "source_id": "reneweconomy",
+  "name": "RenewEconomy (filtered)",
+  "type": "rss",
+  "url": "https://reneweconomy.com.au/feed/",
+  "language": "en",
+  "filter_keywords": [
+   "offshore wind",
+   "wave energy",
+   "tidal",
+   "Marinus",
+   "Basslink",
+   "desalination"
+  ],
+  "default_category": "renewable",
+  "enabled": true
+ }
+]
