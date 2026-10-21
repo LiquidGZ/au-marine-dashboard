@@ -1,77 +1,77 @@
 {
- "fetched_at": "2026-10-21T05:17:00Z",
- "added_this_run": 0,
- "total_items": 190,
+ "fetched_at": "2026-10-21T23:57:52Z",
+ "added_this_run": 39,
+ "total_items": 229,
  "earliest": "2026-09-30",
  "errors": [],
  "per_source": {
   "gn-lng": {
    "in_feed": 53,
-   "new": 0
+   "new": 13
   },
   "gn-gas-policy": {
-   "in_feed": 42,
-   "new": 0
+   "in_feed": 26,
+   "new": 2
   },
   "gn-decom": {
-   "in_feed": 7,
-   "new": 0
+   "in_feed": 8,
+   "new": 1
   },
   "gn-wind": {
-   "in_feed": 55,
-   "new": 0
+   "in_feed": 58,
+   "new": 9
   },
   "gn-wave": {
-   "in_feed": 7,
-   "new": 0
+   "in_feed": 9,
+   "new": 2
   },
   "gn-ccs": {
-   "in_feed": 34,
+   "in_feed": 30,
    "new": 0
   },
   "gn-aqua": {
-   "in_feed": 48,
-   "new": 0
+   "in_feed": 27,
+   "new": 3
   },
   "gn-fish": {
-   "in_feed": 53,
+   "in_feed": 43,
    "new": 0
   },
   "gn-desal": {
    "in_feed": 15,
-   "new": 0
+   "new": 1
   },
   "gn-cable": {
-   "in_feed": 20,
+   "in_feed": 22,
    "new": 0
   },
   "gn-ports": {
-   "in_feed": 38,
-   "new": 0
+   "in_feed": 30,
+   "new": 2
   },
   "gn-minerals": {
-   "in_feed": 6,
+   "in_feed": 8,
    "new": 0
   },
   "gn-zh-energy": {
-   "in_feed": 31,
-   "new": 0
+   "in_feed": 33,
+   "new": 4
   },
   "gn-zh-wind": {
-   "in_feed": 5,
+   "in_feed": 3,
    "new": 0
   },
   "gn-zh-fish": {
-   "in_feed": 53,
-   "new": 0
+   "in_feed": 60,
+   "new": 1
   },
   "gn-zh-other": {
-   "in_feed": 3,
+   "in_feed": 4,
    "new": 0
   },
   "offshore-energy": {
    "in_feed": 50,
-   "new": 0
+   "new": 1
   },
   "offshorewind-biz": {
    "in_feed": 50,
@@ -83,11 +83,488 @@
   }
  },
  "by_month": {
-  "2026-10": 189,
+  "2026-10": 228,
   "2026-09": 1
  },
  "note": "Append-only archive. meta.news_days_to_keep controls the site's default window, not storage.",
  "items": [
+  {
+   "title": "Australia's Santos trims 2026 output forecast on Alaska oilfield delays",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQjByMllyMnNjcl9WRjlzWXEzeTJUaG40WXJWanZpdzFrNUZvZk1wcnBqMktIRy1iaEJyNmVxSWExYXgtbmRuTFk0TFVDeTJyMGxNaGhOSl8xM0RTTkxqWVdjMDZQbnJFX0VkX0daY3UwNjJJaW9pclNqVDlJUVlWLXdlaUpsODhYTnlJNzhnX1V6Wl85QThxdlVBakZSZkdZZzF2eElmLXREWEZ0XzZuazVVdFA2MTI1M1dXXzNRWQ?oc=5",
+   "summary": "Australia's Santos trims 2026 output forecast on Alaska oilfield delays    StreetInsider",
+   "publisher": "StreetInsider",
+   "published": "2026-10-21T23:51:46Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Santos"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-10-21T23:57:52Z"
+  },
+  {
+   "title": "Santos Posts Record Quarterly Output on New LNG, Oil Projects",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS2xPQjMxaVB1VXkxUkgwN04xSm4tOUxBM1Aya0d2YlE1elFuVXBIRUxvQlcwR3JKMEVMWTVHaFNfN1pNZklwTDk4cHRPOGtTQXBJalk4YTN1OU5yRlZPZFF6bFFNYkI5RkNDUklHOFE1UEFoNXRxT1VuOVNYY3RBcjhzVU9VWEh6YUlkSWlpR09Fb096Y2g1Mko0TXNkcS1PaHQ0eFgwNDI2VmVTM3h3cg?oc=5",
+   "summary": "Santos Posts Record Quarterly Output on New LNG, Oil Projects    Bloomberg.com",
+   "publisher": "Bloomberg.com",
+   "published": "2026-10-21T23:09:53Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Santos"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-21T23:57:52Z"
+  },
+  {
+   "title": "Trump again targets offshore wind, risking deal to speed approvals of new energy projects",
+   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQcHJweXNQUTVfN3FqWTViSWFqNGZUemxLbmtqcEVhSEthSi0yLVdMMXBKRnZCb1NUa2FTblZ0SDlUbHI1aEFTbzhkS3p2Z1pXcDRmdGdDWXBSNXkwMkI5eXluWHVZZWNLTmczakpYalA1QmttRmFnRW9QSnJoSDUxaXM1ZnlhZ2RFdVBtX182V2VVSFV6ek5WVW1wbWhnclNXVVVpNUpULXlpNUJMalFNT1VFc3hpcnBNdmZfUkJDdW5tVUdvcnVNX2p4NXlXVndqTTQzbEdobTFIb19OeG5MRTZRS1pTTEx5U1kzQ01ZRFhJZGF2Z05KX3B6ZGw5THlfTWJuSG4yOUNUOEkt?oc=5",
+   "summary": "Trump again targets offshore wind, risking deal to speed approvals of new energy projects    The Batesville Daily Guard",
+   "publisher": "The Batesville Daily Guard",
+   "published": "2026-10-21T22:22:22Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-21T23:57:52Z"
+  },
+  {
+   "title": "Woodside’s Scarborough hits 99% complete, first LNG on track for Q4",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ3hPaVJuamd0ZWQ0dF9vQXMyZ0ljNUhoUU1jNE1zcko4ZXJpcFJKZC1qYk5HZE55aUhBcmlOSWpHdE5IWFFRaG1QaV80LVF3ZzU1ZE1oTGZPcENNYjNSdy1TZWdtdUVoSk5NMXBkM1dLX2psSkNvTHpfUlNiTmI5RXR5WHJXekhRZXk5SDk5S0ZfNUFHTXIxMFNVVHZQMmxyTi1yMUdxRWhWT00?oc=5",
+   "summary": "Woodside’s Scarborough hits 99% complete, first LNG on track for Q4    World Oil",
+   "publisher": "World Oil",
+   "published": "2026-10-21T16:41:12Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [
+    "FOS-003"
+   ],
+   "first_seen": "2026-10-21T23:57:52Z"
+  },
+  {
+   "title": "'This is how you blow up a permitting deal': Sen. Whitehouse slams Trump over offshore wind",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcFFVSzF6d19qT3BiUzhHR2I4VW5JV3JVSjZ5WUc3dHJrZloyYV9aa0s0cWxONmtWYTliYUVSSHQ2SHBGdUNORjFaZ0NLWDJ6c1lSNVc2aUZwaW03QUN3T2doYXp0U2d2YnNLZlpaWGVJa3ZXQkNqb2FKcUJJWmVBNElaRFBnRVhnYkRoR0VsOWc3ZFJneDh6MXdjODJnY0JKRmIzRzFtSmxydmc?oc=5",
+   "summary": "'This is how you blow up a permitting deal': Sen. Whitehouse slams Trump over offshore wind    Politico",
+   "publisher": "Politico",
+   "published": "2026-10-21T16:15:00Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-21T23:57:52Z"
+  },
+  {
+   "title": "Woodside trims output guidance, Scarborough LNG nears start date",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNajR5OFpMSnVsTVBlYWd2YkN5VG1sM2ppeVlaQW9Zazd2elNkV1Vvci1BMHNlMXcyci0tR1E3ajdmWGVrSVVPQ1VuQXNEMkVFVGY5UUFWUVJ0Q2M5V3NFQXV5R3ZDRlNCa1RtWXFaZmRTTllGNEdIUnFybVJaNHRtVGpFWlRIOENVc191Q1poaUtEemhhSDFMaDRMSjVXUExjU3BGaEdYWFBfZw?oc=5",
+   "summary": "Woodside trims output guidance, Scarborough LNG nears start date    Quantum Commodity Intelligence",
+   "publisher": "Quantum Commodity Intelligence",
+   "published": "2026-10-21T14:54:57Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [
+    "FOS-003"
+   ],
+   "first_seen": "2026-10-21T23:57:52Z"
+  },
+  {
+   "title": "KONGSBERG Wins 10-Year Vessel Traffic Service Contract At Port Hedland",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYkltQnNOWTJ2dXFMQmlTeU11Zy12RW51aHRLZ0Y5QmpPSTRpTVRJNmlMdjNmRjlXY0txV1B2TDhpT0VsM1N5TDlVaDFQZks3cXV0Sml4aWszTEFKbnlhQk9GMzRnRHBvZ3lHNGpnN3hxV1pucVVveXlrZG1SNjNnNnBXUVhQRUhjaUpKOTlsREh2R3dSSjEwUmVnaXFCS2NlQnFtNlk5bWZFNzk4VG11UXVPZDFBTEs5?oc=5",
+   "summary": "KONGSBERG Wins 10-Year Vessel Traffic Service Contract At Port Hedland    Ocean News & Technology",
+   "publisher": "Ocean News & Technology",
+   "published": "2026-10-21T13:36:19Z",
+   "source_id": "gn-ports",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "WA"
+   ],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Ports & LNG terminals"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-21T23:57:52Z"
+  },
+  {
+   "title": "Woodside Lowers the Upper End of Its Annual Production Guidance",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNakdHRmc5b0diSDN5ZkhERjR5bXJ1d3plaFNacEsxaS1lR2ZJVFZZNVNXTm1FZ1JzdDlXcjZiQ0xUQjBJcW1YcEVYUmZibnRWS1QxVWRjc0pyWVJxQjE5ZnJwa1BpUFgzR3JxenRGUGFPZTZfRnJXZ3c5bXZnVmcxWXBsWkpMcE9PUkdKX0V2cHpBd00?oc=5",
+   "summary": "Woodside Lowers the Upper End of Its Annual Production Guidance    energynews.pro",
+   "publisher": "energynews.pro",
+   "published": "2026-10-21T13:32:58Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-10-21T23:57:52Z"
+  },
+  {
+   "title": "Australian gas project enters home stretch as developments in Mexico and US Gulf make new inroads",
+   "link": "https://offshore-energy.biz/2026/10/21/australian-gas-project-enters-home-stretch-as-developments-in-mexico-and-us-gulf-make-new-inroads",
+   "summary": "Woodside’s Scarborough, Trion, and Louisiana LNG projects have hit new milestones, with the finish line in sight for the first one.",
+   "publisher": "",
+   "published": "2026-10-21T12:24:53Z",
+   "source_id": "offshore-energy",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [
+    "FOS-003"
+   ],
+   "first_seen": "2026-10-21T23:57:52Z"
+  },
+  {
+   "title": "LNG carrier quartet arrives at Novatek's Arctic terminals as route changes loom ahead",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMVQ1M21yTmVFY3p0cnhiUmNjLVQ0dzZKV0o0MXIzeUhUdjdTdGxheFpfaHl6cXdXSV9LaHNwanRpYzhzcjdzclJfc083TnBhamI1ZUJadlZHbVdGclJrZjRPeVFUbmRNbE9jbURXb0ktNEZOcDBzU3dtb3hyZC1GNWFxUnMtN1Z2TTBtSy02TGV3M1gzQTlmb3hhNXpGOWFvVmxDYnBibjlKa2pRQmVTSUtSV0dpQmI2WnN2bm5Ya25zWWFTdURVSkEyUQ?oc=5",
+   "summary": "LNG carrier quartet arrives at Novatek's Arctic terminals as route changes loom ahead    Upstream Online",
+   "publisher": "Upstream Online",
+   "published": "2026-10-21T12:18:10Z",
+   "source_id": "gn-decom",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-21T23:57:52Z"
+  },
+  {
+   "title": "Paspaley Plots a Calculated Expansion in America",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81Q3c2bG9KVGtMTGNOZVpxSGZ3VHBhdlRQbWFSX1JlTExKZF9KVXl0cXNEQVdITkM5TjdnV1UyY1piNzM2V19FSktZc0FLb3Y2cFV1MHFjeGdJaHZUMlNVUVRNVGVmcWZFc1djZ252a1dtTnVUNGxj?oc=5",
+   "summary": "Paspaley Plots a Calculated Expansion in America    JCK",
+   "publisher": "JCK",
+   "published": "2026-10-21T11:35:30Z",
+   "source_id": "gn-aqua",
+   "language": "en",
+   "operators": [
+    "Paspaley"
+   ],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Shellfish & pearl aquaculture"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-21T23:57:52Z"
+  },
+  {
+   "title": "Woodside Posts Higher Quarterly Revenue",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMzVmUXpzYTc3ZUFiT0tKTnZfUTN4NUZ5VmdNUEJ5MUR3TldCQmpmd0F0UEhCbDZQOGVyMl9TUmJVWFpDVGlJWVNhVmVIWHBfTzltZHdJWDZhaFZjS3pQcno1b01SVUh4S0o1S2xSLWhlb3loRzVpYk5QZjFlU2JvNTZPVWI2RmF1VXVzeWNmOEVNc2ctVzJsVEllSEc?oc=5",
+   "summary": "Woodside Posts Higher Quarterly Revenue    Rigzone",
+   "publisher": "Rigzone",
+   "published": "2026-10-21T11:01:00Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-10-21T23:57:52Z"
+  },
+  {
+   "title": "Woodside Resumes Scarborough Commissioning After Greenpeace Protest - News and Statistics",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR0dPSHdqUy00UC01WU1LNFl1ZmViWnIyMi1fbWVjaFlhUzB6V2pFR29RZkFDblMyU0lhWC00YnpWWWJWSnF5bDJWSEx3azNwU0RiZjktRGhfUlFwcWh3NjlCOEdSWlVWYXJqQ3JnYXRUSGpSM0lXNGN6QWtpcEh3ejVkczBqQmx2YXBBZWZ3UC1PZ2luYXlkM3BNSlBMaEdFbWFv?oc=5",
+   "summary": "Woodside Resumes Scarborough Commissioning After Greenpeace Protest - News and Statistics    IndexBox",
+   "publisher": "IndexBox",
+   "published": "2026-10-21T10:43:16Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [
+    "FOS-003"
+   ],
+   "first_seen": "2026-10-21T23:57:52Z"
+  },
+  {
+   "title": "绿色和平抗议后 Woodside 恢复斯卡伯勒项目调试 - 新闻和统计",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOElIWWVsTVZkMEh3UFpVSUQ2M1FkN0hBLTFjRnJNQ2tHcFhYUGh4ZVJtSHJBbll6b3RudFJMYUVVMEhUTUlYeEM5YzFyNWhuVTdzeUJnR0RGMXR0TkEtcWRlUVZ2TmF2dVFtVVFmWXZZeUZBMkdGUU82bFVUMkNiZlFDbGpRRDZLNVJWeVlYUWRTT2JIVXNxMllNYlRNNVhNWUlKbk8zMGxSTzRuY1E?oc=5",
+   "summary": "绿色和平抗议后 Woodside 恢复斯卡伯勒项目调试 - 新闻和统计    IndexBox",
+   "publisher": "IndexBox",
+   "published": "2026-10-21T10:43:16Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-10-21T23:57:52Z"
+  },
+  {
+   "title": "Woodside trims output forecast even as oil rally fuels revenue leap",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVVdDSU9RUGI0cVgzSGllZEZIUFRDUEUxLUNuZ2dzTHZjTGphUTc0VlVEck05UG1MQXRGZjFxZ2xUQ2h5aEZxc1hyOEQ5NzF3LXpaWDJSZG0yZkgwaG9GUWpCeU5XenYwR0xDU0JUOERqdktKSlRTb3k3eF9saVdoXzhROWNrZHRIZzZFZHE3RmdQVTR6RHg0MllYT3c4SzhlVm9NRGJ2X1FPYjlNVThlNmIyXzFSRmpsU0c0VklJaVRVbjhy0gHSAUFVX3lxTE1PdkVfOWlYOWFaLWp2TnpMNVdNbGtvYk1iZV9KRFEzMFRROVg3T3hnYVVaaXhfR2ExRXlpQ2tFanM1WWYtWDktaExBVC15dlRUa3JRZHYxNFdtaE1LdEk1VTV6dHVqT09xQTdYazhPUHNiVXBkWXNQRTc1ZFdwTHU2eTVPUUZJMkpqM01ydjVmTWRyRUhfeGs0ejh6N01Nb1BFTWJ3ZTJqQVVET3U0SU1MUmhYbkt6Zm43WkZLNEQzOWZOUmtOVHlBRTZPWk5qUkNIdw?oc=5",
+   "summary": "Woodside trims output forecast even as oil rally fuels revenue leap    Baird Maritime",
+   "publisher": "Baird Maritime",
+   "published": "2026-10-21T10:12:57Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-10-21T23:57:52Z"
+  },
+  {
+   "title": "Minesto selected for government-backed Sweden-Indonesia Sustainability Partnership to accelerate tidal energy development in Indonesia",
+   "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNd1E5OHBaSmNqZ3ptdlVXWHI3RkNNZndmVlRBM3ExSkNwelYtalpaMjVCWVVuS29BQWhlLXpGbXF3dE1xWVhIN1ptT1JFaHhsMGtCN28zOFRaNEdibDBlUE1ZSHN5RDZCNDRwSXBYYW1oM3laWXRrOTBxaXZSRFY4dkVjT0JjRmlnUVNMN0FlVjN2cE1sdGF6eTBpX1BSUEd1SF9UaDVpV1NuemZPYzI2TnRKYlhMci1qdVNBVXV5MUM1UWYzcm1qYWxtdFdQTEgtU0VJQl9nSk01QmVmQ0pValJLeFNvRkFvOHB3bFpjV1VZRXVWbUtyRjFpQlFIME9VU0pVV3p2MHVsX0ZFUWdGQmx2YTE1RHBIZmtXcFVVeU1EVnhyVkczS1BRSlNlTWhSQjNRM9IBtAJBVV95cUxNd1E5OHBaSmNqZ3ptdlVXWHI3RkNNZndmVlRBM3ExSkNwelYtalpaMjVCWVVuS29BQWhlLXpGbXF3dE1xWVhIN1ptT1JFaHhsMGtCN28zOFRaNEdibDBlUE1ZSHN5RDZCNDRwSXBYYW1oM3laWXRrOTBxaXZSRFY4dkVjT0JjRmlnUVNMN0FlVjN2cE1sdGF6eTBpX1BSUEd1SF9UaDVpV1NuemZPYzI2TnRKYlhMci1qdVNBVXV5MUM1UWYzcm1qYWxtdFdQTEgtU0VJQl9nSk01QmVmQ0pValJLeFNvRkFvOHB3bFpjV1VZRXVWbUtyRjFpQlFIME9VU0pVV3p2MHVsX0ZFUWdGQmx2YTE1RHBIZmtXcFVVeU1EVnhyVkczS1BRSlNlTWhSQjNRMw?oc=5",
+   "summary": "Minesto selected for government-backed Sweden-Indonesia Sustainability Partnership to accelerate tidal energy development in Indonesia    The Manila Times",
+   "publisher": "The Manila Times",
+   "published": "2026-10-21T10:08:30Z",
+   "source_id": "gn-wave",
+   "language": "en",
+   "operators": [
+    "Australian Government (DISR)"
+   ],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Wave & tidal"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-21T23:57:52Z"
+  },
+  {
+   "title": "South Australian oyster farmers face delayed production hit from algal bloom",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRXlqWUI4MGdTT3pFUUJlTVJoTndfNl9nZGNZLThGVDFpM3UxSjctcFhIZU9tTzZsVkR4VjUyTEh2c1M0Y2htb1h6Yzg0dzZZd2ROWmxmWS0zQkhtQ0IzUnhEUGI4bGtKUjM5SUdsdHcwZ3BBNndsbWFKd3dFUDBBSHVuNVBCdVJYUGpxOTZRcFBjYUdablZWQm1TdHRabGFUc2FQbWFyaTIzUW9pOE93V0ZsMEZIN1hnVG10YkRn?oc=5",
+   "summary": "South Australian oyster farmers face delayed production hit from algal bloom    Undercurrent News",
+   "publisher": "Undercurrent News",
+   "published": "2026-10-21T10:02:00Z",
+   "source_id": "gn-aqua",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "SA"
+   ],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Shellfish & pearl aquaculture"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-21T23:57:52Z"
+  },
+  {
+   "title": "Carnegie Clean Energy (ASX:CCE) Advances CETO Wave Energy Projects and Reports Interim Results",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRjBmMmNiOE5OQ2JNS1REYU9DSnBFZUY3aGE3ckJUS01ZekRocVRyYVRoZE9ERjRSZnFaWHJuNXU5RnVwWTI4V09qTWFmMURlZmktRDhJRTBqdXEwT1lleUl6XzBsWVZKUzZVMUhyWFp6NE9SSzN3Q28tSWxaYzBTdWJZX0hvZVNHMy1wSHI4MDczeVY2UmFCY3QxN3BTa1hGbC1VZkNLYmVNUUV6ZmxGUzdmQW1Wc2hwZWRlTFR2VmMwdk5z?oc=5",
+   "summary": "Carnegie Clean Energy (ASX:CCE) Advances CETO Wave Energy Projects and Reports Interim Results    Kalkine",
+   "publisher": "Kalkine",
+   "published": "2026-10-21T09:07:00Z",
+   "source_id": "gn-wave",
+   "language": "en",
+   "operators": [
+    "Carnegie Clean Energy"
+   ],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Wave & tidal"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-21T23:57:52Z"
+  },
+  {
+   "title": "Woodside resumes Scarborough work after Greenpeace protest",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQajVtTjlVNzdGWmRJOVNvUndvdVlsd0VmYmhJNWpsLXlWRmhDMkdWdmJ2TkJ2UE52cWRPTHF4RGM1WTFrQTFKV2ZRVEE0dEh5aXEtX2tERHFqWHBFejVBNlZ4djB2cUdEaVdmN2VETUlLVVZKY2dQYktGZnA1Zm9QRnVqekVPb2hP?oc=5",
+   "summary": "Woodside resumes Scarborough work after Greenpeace protest    Splash247",
+   "publisher": "Splash247",
+   "published": "2026-10-21T07:56:10Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [
+    "FOS-003"
+   ],
+   "first_seen": "2026-10-21T23:57:52Z"
+  },
+  {
+   "title": "Tunnelling completed for South Australia desalination plant",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUEpYTjFXcHZsd3A3dGFNOFJSaG14bmRSUGxlZXFqbDg2S2QzVktNS3otdFVMb2N5cG9VdTBZM0c5VFRKc3RkMW9mUlVXTWNpVWk1VkR5OE1qUk44SEFLalJZWUtISkR1aUZUZFpvNjlYRnptVUNlSjd2SjZjOXNkSmE4ZmtHcXR0S0VGczRUZ1Fzd0NqM2pjRi1qSzdhY3Mzd0MtYw?oc=5",
+   "summary": "Tunnelling completed for South Australia desalination plant    Tunnels and Tunnelling",
+   "publisher": "Tunnels and Tunnelling",
+   "published": "2026-10-21T06:57:28Z",
+   "source_id": "gn-desal",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "SA"
+   ],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Desalination"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-21T23:57:52Z"
+  },
+  {
+   "title": "Acciona selected for Gippsland offshore wind transmission link",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWkVaZTVaRjBQNHBIUXlraFl3TzhyN09mTFNSR3VwN18tQWF1emppT3I1MnUyUTlsUF9KYWppaE1Oc2xTc2w5WWhTbW5ubnkwbzAxanRfazBUcFhwb1VkaER1cjkxZkVjTzlwdlk0Nk5WZ3VzMkZiSGl4RDFQeG9YcGM0alN1cDY1andQajdaMk9CTGJRMUU1NEZxUkNiWkFVNElDdW8wcWJLYW05ZHlmZnY0Yw?oc=5",
+   "summary": "Acciona selected for Gippsland offshore wind transmission link    Heavy Lift & Project Forwarding International",
+   "publisher": "Heavy Lift & Project Forwarding International",
+   "published": "2026-10-21T06:52:37Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "VIC"
+   ],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-21T23:57:52Z"
+  },
+  {
+   "title": "Gas reservation scheme could scupper Woodside's four well, Bass Strait drilling program",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNEtkTG5zYjVPbW5EdkpiQjRVYXNXOWpVOGR3UFNQVFY0LXByUS1OR2NnSUstZ2JVVWpXTFJfeklKNF9yeFR6LTRjc0JNdVN3TW5ZX0pURk5DVFNKY2lTTHBSaW9Sd1diZnlvczZCSVJTb0xhbE9aeEVIX0FyQTlndEFyTlJGSkNMX0ZiSDIxeVlqT0gzaVdvRmdpY1pKZ0x3S1VrUk4yMU5qTXRoSGJNNjRNaHJTMTc2MkpaUmEyR1dHU1M5azZiUVBJWUpNUQ?oc=5",
+   "summary": "Gas reservation scheme could scupper Woodside's four well, Bass Strait drilling program    Energy News Bulletin",
+   "publisher": "Energy News Bulletin",
+   "published": "2026-10-21T06:29:28Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [
+    "VIC"
+   ],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-21T23:57:52Z"
+  },
+  {
+   "title": "Woodside Energy lifts Q3 revenue to US$4.28B",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdGFKZXA2aHBDTE4wbENIVzJpM0ZpY3hrNlJDRTVUZEJZTWtzWUJWWFRpdTI4RGExeUc1Ukd4b2JHMlhab3QwMWxnUlJkUzFXQzBULUtqLThYVVdsRVI2OFM3dG9ZNWxCSGpTUkREZ2N6ZUhLQXdHT1ZSSkZWM1Q3bFBVMjNhLTg?oc=5",
+   "summary": "Woodside Energy lifts Q3 revenue to US$4.28B    grafa.com",
+   "publisher": "grafa.com",
+   "published": "2026-10-21T05:13:28Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-10-21T23:57:52Z"
+  },
   {
    "title": "Woodside says gas scheme may delay Bass Strait investment",
    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNWFh4cXRFNVNQclhRY2hNMTBPOVRaa1dpOEhMVFhDa3ZmYjFaMVAxUU91bXVOMnZkdFdXUW45Tno5c3hoSkljOVZuSzhRVVdockJYbHlZZ1FaRUpOUzd5SHhoc0hoc2Z1TG4wM3NWVURkTzBlUmNLRWZqMW91TUJXM1Y3OUlhSl9STzFXb3V4eGU3NFBhSURkSGlRbmg0TU12N2hySjBObTBETXBfdXgzU2twRlpUdlktYXNrb1dycmpiV3RGc3NRYXlDUGJfTkFfSjhicTJQSzExMzBTQUNlSEUxb3BVX1g4NWVqc3g0MW5Qa1BfdDdtMw?oc=5",
@@ -110,6 +587,27 @@
    ],
    "projects": [],
    "first_seen": "2026-10-21T05:03:01Z"
+  },
+  {
+   "title": "What Does Woodside's Trimmed Guidance Mean for LNG (ASX:WDS)?",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSXRiZGtYQWxTWDJ0aTIxTWxnTWEyLUNfemFzNXBmNHkxd0tQMUYwRDNFc0RSejd1c1pJWnZvVy1TV3h4RFJ0M3Blck5HQXRRV0VvNmI1YUhYbGEyZGp6cnEtX19fYmZSbDd1bEdMU0hQdjQzV2dKQWdSMEROS09QOVVXMzFHR3IwQjFnUS1LLUpJRW5kX2J1QzR3c2hDLXNN?oc=5",
+   "summary": "What Does Woodside's Trimmed Guidance Mean for LNG (ASX:WDS)?    Kalkine Media",
+   "publisher": "Kalkine Media",
+   "published": "2026-10-21T04:32:00Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-21T23:57:52Z"
   },
   {
    "title": "Woodside secures Greater Sunrise PSC extension",
@@ -188,6 +686,30 @@
    "subcategories": [],
    "projects": [],
    "first_seen": "2026-10-21T05:03:01Z"
+  },
+  {
+   "title": "Woodside Production Jumps 12% as Scarborough LNG Start Nears",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeHNOanZzOUJXSDhveVVWemFzejRWbnVOczgzWnVlODJneE5IU1JWclV4VHFrYnQ3bUg5QXVFd1U1R1NjVDNSUGhRWW5jMTFRU3kyRVowOHZNdDJRcmFOOVhXc1pjNUd3NWtxMDlKQ0pkQnRPYldBcVdGT0ktWmFxSU44VGhXeHhnVTBYeFJ1cFIwSXhxV2JDMXVOYTZuWTTSAaQBQVVfeXFMTzZqQUlwTExCQ1FxZUhjdnZHcGRHVXlLM0xfTnF5Mk5CSkI5Q19aRGY4LTdaUGhLYmNQVnc3M3N5Z0kxbUNOZHQ1NXg0OWtSR1g1REtfQ3lIeC1DSWtpN3Jyc0tZNXBteWhtT282cWRsa3RRaG1DeHpzX2pXSTUzVm95YlVuelVGVlRDcWtKaWt2N0x4VTJOZGtEd2NCSWJoczJPN04?oc=5",
+   "summary": "Woodside Production Jumps 12% as Scarborough LNG Start Nears    Crude Oil Prices Today | OilPrice.com",
+   "publisher": "Crude Oil Prices Today | OilPrice.com",
+   "published": "2026-10-21T01:49:01Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG",
+    "Oil & condensate"
+   ],
+   "projects": [
+    "FOS-003"
+   ],
+   "first_seen": "2026-10-21T23:57:52Z"
   },
   {
    "title": "Woodside Production Jumps 12% as Scarborough LNG Start Nears",
@@ -350,6 +872,25 @@
    "first_seen": "2026-10-21T05:03:01Z"
   },
   {
+   "title": "Woodside Energy trims output forecast, to pull back from US ammonia project",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeTVOcmtBcDZsWnczN2JteVlzazdETXRGaEtySVFSN0Z0WjIxRGNkSHJnTGYwWEJJbmZpeFpKaHRRWmRqMkhPUnJHU1JESEdWeloyYlNGR3NuLUM3a2FrYmJ6TDZ6empKc2RmSTJsTlJJY2ZrSG10OE5NZ1o0bEZ3QkVoWFAxaHNULVBFOFpWRm44dGp1enFCX2dWM2x5aVB6VWdnTGI4SmJIZ0FKNlVHLUhkQjZjN3M2SVZYbWRkVlNsTWUxQTNpYQ?oc=5",
+   "summary": "Woodside Energy trims output forecast, to pull back from US ammonia project    Reuters",
+   "publisher": "Reuters",
+   "published": "2026-10-20T22:23:00Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-10-21T23:57:52Z"
+  },
+  {
    "title": "Marinus Link converter station to begin construction",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT0hOZ0xmMGgxalJTaVZDa1FJbm5rUk0tWl85WExoNXBKRmJ4ZkEtNGpyY1lSaHZ1RWRrazY3UEJ0YlRKcFJJUmpfUE5rYTRXZGFkRExLOEdaX0ZFM0V2SlRIOUxGZkpFUEFrdmJIVWhpV0F1OGd1dHVHREYtY1JVdDcyRXRMaHdfeWlyVg?oc=5",
    "summary": "Marinus Link converter station to begin construction    Utility Magazine",
@@ -373,6 +914,25 @@
     "OTH-029"
    ],
    "first_seen": "2026-10-21T05:03:01Z"
+  },
+  {
+   "title": "Press Release: Golar LNG Limited -- Q3 2026 Results Presentation",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVFRuUmtJYWVvYmNaVnNGTUpqLU5jS0ttNXlxSFpsMmkwVHY0MmlwaGM0Sm5BQ0RKaXBueXZiVnprVUdwRDd5OTVpMWF3MmdKX1VnSzlVMWpkbVBpTWRES2VKUGdaeExrZUlveWVKNVpVWGxFMm8tSUhiWWNsSFBuRUw5RjkyUmlKV1ZYS1ZRVlhXcC1zU0U5MXJjZmkzUE9zYzZHMTl5RW53YzYzcnc?oc=5",
+   "summary": "Press Release: Golar LNG Limited -- Q3 2026 Results Presentation    Moomoo",
+   "publisher": "Moomoo",
+   "published": "2026-10-20T20:13:39Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-21T23:57:52Z"
   },
   {
    "title": "ACCIONA selected as development partner Australian offshore wind transmission project",
@@ -579,6 +1139,27 @@
    "first_seen": "2026-10-21T05:03:01Z"
   },
   {
+   "title": "Port Hedland Turtle Interpretative Centre to officially open",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaWVNekJUZmh2MlEyV2t4OXZ4T3NMWTVGNDdYaXVGcWVVVWF4SFgzdFJkTkxaYnBaRVMweS1Vb0RyalNCUFhrN1NhOE9RM0ExSUJfV0tic1Y5d2FlUU5fZUZVcVVMb2FMM0FUTTltdl9sa2doaHZHMjZzMjdiTTVENFN5Y2RobE96UlRTdEpTdVdEbnJ4QjRNSDh2dDJmZVdoZ2J2bG92Y2xnV3NsX3BjN2lhb2JoZzB3aDY1ZU9ERlpKVlJJOEtDRGlaVy13ZWlo?oc=5",
+   "summary": "Port Hedland Turtle Interpretative Centre to officially open    North West Telegraph",
+   "publisher": "North West Telegraph",
+   "published": "2026-10-20T13:02:00Z",
+   "source_id": "gn-ports",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "WA"
+   ],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Ports & LNG terminals"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-21T23:57:52Z"
+  },
+  {
    "title": "POSCO-backed Port Hedland HBI project in Australia receives federal environmental approval",
    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdG9RM2VLWndWNTBrTTl2ZWQ3ZGZ1MkZTbDNaSUN5aW52WGFjaEdaQ01WaWRvYkVabFAzdjJPeTg1MUhJbGVFQTJvY2lJVXZfTVNJX2hzSEVHc1hBZ3E0azJaTFZ0ajh5NV9FbnBxcUJXV3dlOGtuc2k1Q3VRclhDV1FuYXRLWE5ObDlMX2dSNTAxa0J5dXZfUUhHNlNlbTJ3TU4wVmhPOFRya2FSMUF6RjRYN2ZzZ1RpdGY1QURoQzFlSk5oRy1Gc2tHNjU1cUk0OGNMRXFqVThfenZaNDJBMFZkbVg2R3M?oc=5",
    "summary": "POSCO-backed Port Hedland HBI project in Australia receives federal environmental approval    SteelOrbis",
@@ -752,6 +1333,25 @@
    ],
    "projects": [],
    "first_seen": "2026-10-21T05:03:01Z"
+  },
+  {
+   "title": "2.30am, an empty dance floor, and ‘Money for Nothing’: Inside Santos’s wild gas bill victory",
+   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNMnh0RG5pdDJteTRyMGJKZjNfMWJNcndQY1lCc2NkSWJ3dVJxajZzeGtpTW4xXzhNVmJXcmZBSFo1VER0dkZocENPNC12a3lzV25YdFdndVlWQ0lFWnVBVGN4WlVVSmoyOEpvRndVTUNBaTVYZ2NmdTIxSlNPbmp6a0lJYmM3MmdTUk9YX2laWkVuVk9KZnladFpSS2pLNVhMRnlpRG8zNmRVemJCTEhwUWdWbHlJVWtpNWQwd0ZPbFdLQ3p4OXJXdVFpcHNHdE1oQmpHQ2U0TWoxQWJObV9mdm54MC04ZU1Kc2VWMGU1WUVkSHJma2NlUEpNbklfWTFHSGVKMTZwQWlfN1hTdXdONmg4cG1Hdw?oc=5",
+   "summary": "2.30am, an empty dance floor, and ‘Money for Nothing’: Inside Santos’s wild gas bill victory    The Australian",
+   "publisher": "The Australian",
+   "published": "2026-10-20T03:04:00Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [
+    "Santos"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-10-21T23:57:52Z"
   },
   {
    "title": "BCI Minerals (ASX:BCI) Mardie 90% Complete With 266kt Salt Crystallised",
@@ -1020,6 +1620,25 @@
    ],
    "projects": [],
    "first_seen": "2026-10-21T05:03:01Z"
+  },
+  {
+   "title": "登上斯卡伯勒液化天然气平台，绿色和平组织活动人士被捕",
+   "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxObUlEeVI2d2hGZTN2VkZ5cTF6QWJGQ1FOZkJ2QWtsTFN6X2t5ZUlZeWxxNDNvc2U1SnNjV3ltQmNrUXZYT2xFV1FCWWFNQWdaZ3g0Ti1qazBUX2dlbGVvaXVFUkhCdkd2M2szNFBYeS1tdWhxQ2UtQUlWUGlhSjQ5TFZZWEh0eHBmRndJdkdMQUJVcVN6dFFtc2RvS0IzeHMxdHFrUGhWc21lb3RGa0o5OEdSc0hyQV9Pam9pdEdER0xaem4xbDlfNGhGemFKZFl4RlZWYjc1b0liMURKOTBqWDdLTUI0V0xiRmEzOXctUklqSmtrd1M0QlJodmdWSHNrMFhOU0Z4RGhsbi15ZkJVb1pQaktzOVRQbnBzTFNKRGVJOTByU3JKT1Q0OXpLTVdrZnhPNnJJdEY3eEJ6MWhqVGt0Sm10eGNPM2ZEOC1wYy01SzBicFBTOFNaejdZMjJUNGRTVHVJOFBWQUpJTUNNTnc5VHEzRFFXX3hpUUM3dGtrdGM?oc=5",
+   "summary": "登上斯卡伯勒液化天然气平台，绿色和平组织活动人士被捕    IDNFinancials",
+   "publisher": "IDNFinancials",
+   "published": "2026-10-19T13:40:00Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-21T23:57:52Z"
   },
   {
    "title": "Woodside restarts Scarborough LNG commissioning after Greenpeace protest",
@@ -1331,6 +1950,29 @@
    "first_seen": "2026-10-21T05:03:01Z"
   },
   {
+   "title": "Woodside Restarts Scarborough Gas Export Project After Greenpeace Protest",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc3RzTWlvckREcEp1ZHA5YUEwTjVTQ0tKSU9EcVBaX0lOaWFWeWdVTWcwamJjRkhHMVNCT0dPdFo4WHYwclpweEllTmRlR1pLSWQySEx1anExZkdIOXRONWR0cWpRSUREUzRiR3IyUmFmckM1UWktaFR4MUNZenJmdzhBbzBvYXpxMFhoNFdtVXhyTVRQbTFGc3hLbXU2ZV8wU28yWFZCQzZfRmc4TWtyWGh3ZWFHX2lNTHhITVloQWNuQQ?oc=5",
+   "summary": "Woodside Restarts Scarborough Gas Export Project After Greenpeace Protest    Bloomberg.com",
+   "publisher": "Bloomberg.com",
+   "published": "2026-10-19T07:15:31Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [
+    "FOS-003"
+   ],
+   "first_seen": "2026-10-21T23:57:52Z"
+  },
+  {
    "title": "Greenpeace protest suspends operations at Woodside LNG facility in Australia — OilPrice",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdXhJWUE0ZXlqNzJyWmpHX1ZKWU5iVm9aQ0F3TFFsaVprbzJPUjBVSHFwLWsybGlzUk45anBlZzU0RkNES3cyaDM5TXlhdWNpYk1zc0twX0FIRTBuelRZV1NFQktrT3Y4WEE0d1o1M0c0bUJNbUU1TE1UOGNRMy1vNjVWTFRCZm1iRmcwZ3RpMklpU0FXYlRZOUxUUE9kN05OZU1kX2NuMGZRcnE3UTNQczBEaElmWDQ?oc=5",
    "summary": "Greenpeace protest suspends operations at Woodside LNG facility in Australia — OilPrice    UA.NEWS",
@@ -1474,6 +2116,23 @@
    "first_seen": "2026-10-21T05:03:01Z"
   },
   {
+   "title": "Two Protesters Arrested for Boarding Offshore Gas Platform off Australia",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUjdnRU03QzYzZGhjdUpwcmY3U3huYzlic1dJODBjVGU2Z053UGNyTzNIa24yZFc5cWwwaW9hSmI0blZodDNiRDhJeEpXUlI1SkdoQUt0RG1JVnlUOUcybGdNS0Y1c1FxZ0d3TXI5Q2VYbXdTM3NhM2JINEJBYUJaSWdBbmVvRldra1VaV21CTEZkalI4NUpZb2xYb0ZKcEZwNGFEbXhzdnppQXJFdHdxNg?oc=5",
+   "summary": "Two Protesters Arrested for Boarding Offshore Gas Platform off Australia    The Maritime Executive",
+   "publisher": "The Maritime Executive",
+   "published": "2026-10-19T02:45:19Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-10-21T23:57:52Z"
+  },
+  {
    "title": "绿色和平抗议导致伍德赛德澳大利亚LNG设施暂停运营——OilPrice",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMkYwckZEUkN5M0ZCWTU4WTRGMlVMT2pRVWc0SExsNHpPTTFpbE9wVXpILVQ3eVVzVlBIVzA4NnVnYVQtQ3Q4Z0tKYldhN2t2WUp6WHBiWW81ckIweXhiand2cGw1VWcwVjg0SEZuWlNFalZUREJTdTduYTcwRzdpRXRIYmRWSGNuUDVyQTktRnhfOGY5d0ZfYU1vZlgzdDRaMXl6clNXSWJlUXhzNjBtRzhVUlNaZWM?oc=5",
    "summary": "绿色和平抗议导致伍德赛德澳大利亚LNG设施暂停运营——OilPrice    UA.NEWS",
@@ -1552,6 +2211,25 @@
    "subcategories": [],
    "projects": [],
    "first_seen": "2026-10-21T05:03:01Z"
+  },
+  {
+   "title": "Canada commits CAD 100 million to Wind West offshore wind in Nova Scotia",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVmhubndRakRiaXpxQjdYVDQ2OEFlb0V1WUxZLXRfQzZMT2FycDF3VllxaERFQ1pBcFpxcFN6eERUSkhzS0wwMzREWUNjSnVlWC1vbnZHLXF2c1FIYnlmX1B6TmJwS3JIUDlGQjJKV3JibWYyS0JOb2NWNl9jQlR3QkFjQkhFSmR2M0NqZjNqd1l2bndkOEZyV0dBLWhlTm8?oc=5",
+   "summary": "Canada commits CAD 100 million to Wind West offshore wind in Nova Scotia    energynews.pro",
+   "publisher": "energynews.pro",
+   "published": "2026-10-19T00:34:00Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-21T23:57:52Z"
   },
   {
    "title": "铜梁：稻虾共生助增收 小林镇庆云村澳洲龙虾喜获丰收",
@@ -1757,6 +2435,23 @@
    "subcategories": [],
    "projects": [],
    "first_seen": "2026-10-21T05:03:01Z"
+  },
+  {
+   "title": "伍德赛德因绿色和平抗议暂停斯卡伯勒天然气项目作业 提供者 Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QODVVdWxlVkpDN01NYlFlX1hkbkNxQ2ZCYzdmLTJ0cEdpT1VPZ0h5djlQVmV0bUNkVG9fNzdHbEpGN09mbjJKSzZ5UUpubnBSVGFjOWFhc1FJYllmaTNIZHRrVE5mZlJWdUE?oc=5",
+   "summary": "伍德赛德因绿色和平抗议暂停斯卡伯勒天然气项目作业 提供者 Investing.com    英为财情 Investing.com",
+   "publisher": "英为财情 Investing.com",
+   "published": "2026-10-18T05:01:00Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-10-21T23:57:52Z"
   },
   {
    "title": "他山之石｜内蒙古一地首次成功试养澳洲淡水龙虾！网友：在哪儿能买到？",
@@ -2341,6 +3036,25 @@
    "first_seen": "2026-10-21T05:03:56Z"
   },
   {
+   "title": "Northland Power commissions 1GW Hai Long offshore wind farm",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONkVkNmVZN3RCeWZ0UVNuZUtTWDdHV1Q3RFpNT2l6Wlg4UHFXY2wyb1lEOXZqTXhPS0JOck9xNTFzY0lrWUdYRlNMdlB6STRoeDY3czlacFpKdGhyWU5KdGZES0xNUUdEUjYyV0s2aGhFOXNuY1ZkNjRzOHo2RVRsV0FMTG1BZw?oc=5",
+   "summary": "Northland Power commissions 1GW Hai Long offshore wind farm    Power Technology",
+   "publisher": "Power Technology",
+   "published": "2026-10-16T07:32:30Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-21T23:57:52Z"
+  },
+  {
    "title": "Giving a Letter of Assignment (Minister of Agriculture, Forestry and Fisheries)",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE40a3A2Zy1JcEtMb3l5SWVLeXNpVHlyVk0tcGNHZ3dycXVZcXVLQ3M4b191NUlGTS02dGl5d2NjaXpjWXBoa1RZVDhkbTBkeGpOQm5ROHpZRWlwUmJvUVFGdFplRGZXS19VTzItaXRJcFUwdlJz?oc=5",
    "summary": "Giving a Letter of Assignment (Minister of Agriculture, Forestry and Fisheries)    Prime Minister's Office of Japan",
@@ -2377,6 +3091,25 @@
    ],
    "projects": [],
    "first_seen": "2026-10-21T05:03:01Z"
+  },
+  {
+   "title": "Australia's first offshore CCS project wins reservoir approval",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMTJUeERCeGhGQmV6TDQ5SlM3azh3VmYwY1BUNGIzamU4TVJqZ1JRdDhHZEtwVzFxLTFDdVlaaEJhU2xHM1RVdnA4R3BwTEZ3QkJfQkV6eGRkNG5KblZLckRkelg1bW5YYTFOVlBodkoyeFVuNHNxdlZkeVFxVjE0SmtSZTBDWER6S1FncFc3QW9hN1NfUGVlZlotRi1tdWZIRHVIQ2lOWmFCOFp6T1poM2wtUDB4eDljdGt3?oc=5",
+   "summary": "Australia's first offshore CCS project wins reservoir approval    Upstream Online",
+   "publisher": "Upstream Online",
+   "published": "2026-10-16T06:46:51Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "CCS & gas storage"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-21T23:57:52Z"
   },
   {
    "title": "Milestones stack as Marinus Link construction begins",
@@ -2495,6 +3228,26 @@
    ],
    "projects": [],
    "first_seen": "2026-10-21T05:03:01Z"
+  },
+  {
+   "title": "高端餐厅铁板烧料理，包含龙虾鲍鱼牛排等食材，视觉与味觉的盛宴",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJQkU4WFZRMU9ON1NMZWNiekNiOXBLc2RTcTRVcmRad24zZW81Umtack1sU1ZpMlFDMllnUVRoRklRYW1jODRnU1JzWVZNWThER3pPZDV3?oc=5",
+   "summary": "高端餐厅铁板烧料理，包含龙虾鲍鱼牛排等食材，视觉与味觉的盛宴    腾讯新闻",
+   "publisher": "腾讯新闻",
+   "published": "2026-10-16T03:23:00Z",
+   "source_id": "gn-zh-fish",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Shellfish & pearl aquaculture",
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-21T23:57:52Z"
   },
   {
    "title": "小沈阳路演现场演《不差钱》，问澳洲鲍鱼四只，一句没有梦回当年春晚！",
@@ -2682,6 +3435,25 @@
    ],
    "projects": [],
    "first_seen": "2026-10-21T05:03:01Z"
+  },
+  {
+   "title": "Canada Allocates C$100 Million to Nova Scotia Offshore Wind Development",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeWprcGZzNm5lSU42Ny1xaE01a19FX1RScXlCSTdYZnpRTjQwZTU4Q0ttTFF5ajVkMWlBZTVwVGlHalNqMnlCYS1ha0loN0dONGI1dHEyOW5QbFdMQU04dkRSSWF6aUxCTkJSV2NJTlpFVi1yNHFrUGM2eXNoc2c2M0IzdzRaQ2ttam83c3V5MW5JRjNiRDlfYzZCb18?oc=5",
+   "summary": "Canada Allocates C$100 Million to Nova Scotia Offshore Wind Development    energynews.pro",
+   "publisher": "energynews.pro",
+   "published": "2026-10-15T21:03:57Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-21T23:57:52Z"
   },
   {
    "title": "澳大利亚为Inpex牵头的Bonaparte碳封存项目指定海上场址",
@@ -2993,6 +3765,25 @@
    "subcategories": [],
    "projects": [],
    "first_seen": "2026-10-21T05:03:01Z"
+  },
+  {
+   "title": "South Korea’s first land-based salmon farm completes initial harvest",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNlRPNFA3eXgxYzBFcklWZFVMcXY2aVFPZXJUQ1pqR3RlMWc1S1V3eC1UWC1GYk1ibXMzbDNvR2k0QUJsa2pjb3U1SXRNa0dTcGl4Y1FwWUk2aXBFdVp4Mmh2VjJJcVhabGN4U0ZrdkxmMF9oaGtNcjBWTlpvQmJ3UEpkVHdHV0xKWnJENzdxSXRxQ0w5bHpNRVlhekpfTGMx?oc=5",
+   "summary": "South Korea’s first land-based salmon farm completes initial harvest    Salmon Business",
+   "publisher": "Salmon Business",
+   "published": "2026-10-15T08:07:58Z",
+   "source_id": "gn-aqua",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Finfish aquaculture"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-21T23:57:52Z"
   },
   {
    "title": "Acciona picked to develop 2-GW Gippsland offshore wind transmission",
