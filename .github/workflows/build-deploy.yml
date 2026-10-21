@@ -1,0 +1,115 @@
+name: Build data & deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    # 21:00 UTC = 07:00 AEST (08:00 AEDT) every day — refreshes news; map layers refresh on Mondays
+    - cron: "0 21 * * *"
+  workflow_dispatch:
+    inputs:
+      refresh_geo:
+        description: "Force re-download of map layers (offshore wind areas, submarine cables)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write     # to commit refreshed news.json / geo files back to the repo
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # The project can sit at the repository root, or one folder down if it was uploaded
+      # as a folder through the GitHub website. Find it rather than assuming.
+      - name: Locate project root
+        id: root
+        run: |
+          DIR=""
+          if [ -f scripts/build_data.py ]; then
+            DIR="."
+          else
+            for d in */; do
+              if [ -f "${d}scripts/build_data.py" ]; then DIR="${d%/}"; break; fi
+            done
+          fi
+          if [ -z "$DIR" ]; then
+            echo "::error::Could not find scripts/build_data.py anywhere in the repository."
+            echo "Repository contents:"; ls -la; exit 1
+          fi
+          echo "dir=$DIR" >> "$GITHUB_OUTPUT"
+          echo "Project root: $DIR"
+          ls -la "$DIR"
+
+      - name: Install dependencies
+        working-directory: ${{ steps.root.outputs.dir }}
+        run: |
+          if [ -f scripts/requirements.txt ]; then
+            pip install -r scripts/requirements.txt
+          else
+            pip install "openpyxl>=3.1"
+          fi
+
+      - name: Archive superseded workbook versions
+        working-directory: ${{ steps.root.outputs.dir }}
+        run: python scripts/archive_old_versions.py || echo "archive step skipped (script not present)"
+
+      - name: Build JSON from the newest master workbook
+        working-directory: ${{ steps.root.outputs.dir }}
+        run: python scripts/build_data.py
+
+      - name: Fetch daily news headlines
+        working-directory: ${{ steps.root.outputs.dir }}
+        run: python scripts/fetch_news.py || echo "news fetch failed — keeping the existing news.json"
+
+      - name: Fetch map layers (weekly, on first run, or when forced)
+        working-directory: ${{ steps.root.outputs.dir }}
+        run: |
+          DOW=$(date -u +%u)   # 1 = Monday
+          if [ "${{ inputs.refresh_geo }}" = "true" ] || [ ! -f site/data/geo/offshore_wind_areas.geojson ] || { [ "${{ github.event_name }}" = "schedule" ] && [ "$DOW" = "1" ]; }; then
+            python scripts/fetch_geo.py || echo "map layer fetch failed — keeping previous layers"
+          else
+            echo "GIS layers up to date — skipping"
+          fi
+
+      - name: Commit refreshed data back to the repository
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A "${{ steps.root.outputs.dir }}/site/data" "${{ steps.root.outputs.dir }}/data" || true
+          if git diff --cached --quiet; then
+            echo "No data changes"
+          else
+            git commit -m "chore(data): rebuild and refresh $(date -u +%Y-%m-%dT%H:%MZ) [skip ci]"
+            git push
+          fi
+
+      - name: Prepare Pages artifact
+        working-directory: ${{ steps.root.outputs.dir }}
+        run: touch site/.nojekyll
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: ${{ steps.root.outputs.dir }}/site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
