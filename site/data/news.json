@@ -1,6 +1,6 @@
 {
- "fetched_at": "2026-10-21T05:12:07Z",
- "added_this_run": 1,
+ "fetched_at": "2026-10-21T05:14:07Z",
+ "added_this_run": 0,
  "total_items": 190,
  "earliest": "2026-09-30",
  "errors": [],
@@ -11,10 +11,10 @@
   },
   "gn-gas-policy": {
    "in_feed": 42,
-   "new": 1
+   "new": 0
   },
   "gn-decom": {
-   "in_feed": 7,
+   "in_feed": 8,
    "new": 0
   },
   "gn-wind": {
@@ -30,7 +30,7 @@
    "new": 0
   },
   "gn-aqua": {
-   "in_feed": 47,
+   "in_feed": 48,
    "new": 0
   },
   "gn-fish": {
@@ -42,11 +42,11 @@
    "new": 0
   },
   "gn-cable": {
-   "in_feed": 22,
+   "in_feed": 20,
    "new": 0
   },
   "gn-ports": {
-   "in_feed": 38,
+   "in_feed": 17,
    "new": 0
   },
   "gn-minerals": {
@@ -62,7 +62,7 @@
    "new": 0
   },
   "gn-zh-fish": {
-   "in_feed": 52,
+   "in_feed": 51,
    "new": 0
   },
   "gn-zh-other": {
