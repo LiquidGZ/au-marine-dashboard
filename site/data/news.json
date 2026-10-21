@@ -1,81 +1,81 @@
 {
- "fetched_at": "2026-10-21T05:03:01Z",
- "added_this_run": 427,
- "total_items": 427,
+ "fetched_at": "2026-10-21T05:03:56Z",
+ "added_this_run": 6,
+ "total_items": 433,
  "earliest": "2026-09-30",
  "errors": [],
  "per_source": {
   "gn-lng": {
    "in_feed": 53,
-   "new": 53
+   "new": 0
   },
   "gn-gas-policy": {
    "in_feed": 42,
-   "new": 31
+   "new": 1
   },
   "gn-decom": {
-   "in_feed": 7,
-   "new": 7
+   "in_feed": 5,
+   "new": 1
   },
   "gn-wind": {
    "in_feed": 54,
-   "new": 51
+   "new": 2
   },
   "gn-wave": {
    "in_feed": 7,
-   "new": 6
+   "new": 0
   },
   "gn-ccs": {
-   "in_feed": 33,
-   "new": 16
+   "in_feed": 34,
+   "new": 0
   },
   "gn-aqua": {
    "in_feed": 47,
-   "new": 47
+   "new": 0
   },
   "gn-fish": {
-   "in_feed": 52,
-   "new": 44
+   "in_feed": 24,
+   "new": 0
   },
   "gn-desal": {
    "in_feed": 15,
-   "new": 12
+   "new": 0
   },
   "gn-cable": {
    "in_feed": 22,
-   "new": 21
+   "new": 0
   },
   "gn-ports": {
    "in_feed": 39,
-   "new": 38
+   "new": 1
   },
   "gn-minerals": {
    "in_feed": 9,
-   "new": 9
+   "new": 0
   },
   "gn-zh-energy": {
    "in_feed": 32,
-   "new": 31
+   "new": 1
   },
   "gn-zh-wind": {
    "in_feed": 5,
-   "new": 5
+   "new": 0
   },
   "gn-zh-fish": {
    "in_feed": 52,
-   "new": 52
+   "new": 0
   },
   "gn-zh-other": {
    "in_feed": 4,
-   "new": 2
+   "new": 0
   },
   "offshore-energy": {
    "in_feed": 50,
-   "new": 1
+   "new": 0
   },
   "offshorewind-biz": {
    "in_feed": 50,
-   "new": 1
+   "new": 0
   },
   "reneweconomy": {
    "in_feed": 10,
@@ -83,7 +83,7 @@
   }
  },
  "by_month": {
-  "2026-10": 426,
+  "2026-10": 432,
   "2026-09": 1
  },
  "note": "Append-only archive. meta.news_days_to_keep controls the site's default window, not storage.",
@@ -1982,6 +1982,27 @@
    "subcategories": [],
    "projects": [],
    "first_seen": "2026-10-21T05:03:01Z"
+  },
+  {
+   "title": "Activists charged after Greenpeace occupies Scarborough gas project - Daily Cargo News",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON3JSSlBiUmFlalFUUzNkaUMtYVY0N2tucTdSQzNDNTVFY200NGp5XzFiMGZBdUxwc2VKZTNRSVV4bERkRjJpc1dxdTdHNVJTaFNDT1pQM3JXUEdlVHpHUGVPVm5BeXhpY01yS2YyRHRUTlI3aGN4UG1PX2pLalNyU3JwZW9GdzNxZUtMLU5UUWtOV3hXSGoxTTdJamdhei140gGwAUFVX3lxTE9BdVB0eFRNQjNNLVpPRDlPVHh6TUV3SDBBeldubUhIZWxaTG53aVZTdWluY1JzY1ZtY2NHVUkyQ09nTXQtOGpRVFNEcGVJOU13WGdydExUMHc1ZU5KeGEzODZRV2U2cEZzSFpmTGc5Z0NRNFhnaEhiNl9aa0dtVEtUOEp1cF9fbGhpZ3JJNk1mNmxDXzRaTkJncTlxTHlfODl6Qi1BZ2pzbUVkY21NUjJo?oc=5",
+   "summary": "Activists charged after Greenpeace occupies Scarborough gas project    Daily Cargo News",
+   "publisher": "Daily Cargo News",
+   "published": "2026-10-19T22:45:59Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [
+    "FOS-003"
+   ],
+   "first_seen": "2026-10-21T05:03:56Z"
   },
   {
    "title": "‘Apology can’t bring my grandkids back’: grandmother - The Australian",
@@ -4019,6 +4040,25 @@
    "first_seen": "2026-10-21T05:03:01Z"
   },
   {
+   "title": "双龙出海！全国最大海上LNG能源岛新添两座15万吨级码头 - 凤凰网",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1yb0NVX05HS3ZzTjgwY09MdDdYSU5kSnlTX0hYMHl1ZXdSM0lJZGRQbFZmbmg2Z2U5a0FtTTZVR0xsUVJFdzFYdQ?oc=5",
+   "summary": "双龙出海！全国最大海上LNG能源岛新添两座15万吨级码头    凤凰网",
+   "publisher": "凤凰网",
+   "published": "2026-10-17T11:45:02Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-21T05:03:56Z"
+  },
+  {
    "title": "3 Australian Energy Stocks To Watch In October 2026 - Simply Wall Street",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcTZ3NkN3Uzhob2pDV2pjdFRiWlYwTWY4elNZSlBqaXlpdHhFOWN3bW40QnJaWlpoNVNESUdFRXo0amY3cVZjVXl2NnVmQkRfOWRoWDRkMUJUOVJjYVdpNkJBTmRTR2t2OTNvS2V5OXpXX1JSOHBqbkJwX3F5VUxLOVV4dVROM1pwLXpZVWE4QnotVVFOc3c4SHhnVEZGRXBwOGkxRFZwRzFRR1R6MEpIXzdDM21BT051XzRVZU1DUXF2cHV2MzhfUGIzZUJvZ9IBzgFBVV95cUxNcTZ3NkN3Uzhob2pDV2pjdFRiWlYwTWY4elNZSlBqaXlpdHhFOWN3bW40QnJaWlpoNVNESUdFRXo0amY3cVZjVXl2NnVmQkRfOWRoWDRkMUJUOVJjYVdpNkJBTmRTR2t2OTNvS2V5OXpXX1JSOHBqbkJwX3F5VUxLOVV4dVROM1pwLXpZVWE4QnotVVFOc3c4SHhnVEZGRXBwOGkxRFZwRzFRR1R6MEpIXzdDM21BT051XzRVZU1DUXF2cHV2MzhfUGIzZUJvZw?oc=5",
    "summary": "3 Australian Energy Stocks To Watch In October 2026    Simply Wall Street",
@@ -4319,6 +4359,23 @@
    ],
    "projects": [],
    "first_seen": "2026-10-21T05:03:01Z"
+  },
+  {
+   "title": "Australia Investigates Hidden Camera Found in Women’s Bathroom on Navy Ship - The Maritime Executive",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaVBRcWxnakdHLUcwU0d3WEstQ0Q4RUJsY0czTU12eUdRWWRaeWNSYjgtdk1vQlhfOEVmalpRZ1R0RlZITWNDUk5HRjZuMWV4VzNDdWFhclVzTXJneTF4dUpuMnZMMmhuOEIwd0tYVjZZV2JtUzlmR2hZakF1SjJjdFpUSktBa2Nha1dwSU9oN3hSWTU5SEJPVDdyMTVLVXBuakgwSXVaWTh2d0hyY2xNclJjWEw?oc=5",
+   "summary": "Australia Investigates Hidden Camera Found in Women’s Bathroom on Navy Ship    The Maritime Executive",
+   "publisher": "The Maritime Executive",
+   "published": "2026-10-16T22:34:01Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-10-21T05:03:56Z"
   },
   {
    "title": "昆州春季变寒冬！10月突现反常低温 气温偏低最多8℃ - yeeyi",
@@ -4935,6 +4992,27 @@
    "first_seen": "2026-10-21T05:03:01Z"
   },
   {
+   "title": "VIDEO: Inquest announced into death of Hawke children in Port Hedland - ABC News & Headlines – Australian Broadcasting Corporation",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRy10WjN2cVRVOXRuaWVCV0NkS2tkVzJqOU9wT3ZVdXJZS2psSTd1d2g1M0Zvd1hQVmlQOXRscDhoUWh4dUxiUS1OMi1kbXY3T0NtTElIRnlTODVIUUR2N1NjOXp2YWVvcF9lUUI1WHNDT1FKcjhyNG5Oa1pFRlRsSFJGMjFoV25QVjEwbzNzYW14QWxBX3gtcG9qVk1Jc3IybDZBWUNkVTZPQ2xTY29hLQ?oc=5",
+   "summary": "VIDEO: Inquest announced into death of Hawke children in Port Hedland    ABC News & Headlines – Australian Broadcasting Corporation",
+   "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "published": "2026-10-16T07:33:17Z",
+   "source_id": "gn-ports",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "WA"
+   ],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Ports & LNG terminals"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-21T05:03:56Z"
+  },
+  {
    "title": "VicGrid selects ACCIONA for 2GW Gippsland wind transmission project - Power Technology",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSjdESDhwZGJaRjhuajhqeXdnVDlVdGRvUnpvaGk2ZC1qZi05TU1vZW43XzZBd3RmRGhMZU10YWxnUFZ1THR2TElSS2ozaWY1eVNTeDlTZmF3M25KS1B0dUpoOTRrTnBQSXVDdUlXWXdGNlVBNG5rTWhSbG8zazlOQkxFRmcyZUxnYTZiSFF3?oc=5",
    "summary": "VicGrid selects ACCIONA for 2GW Gippsland wind transmission project    Power Technology",
@@ -5410,6 +5488,23 @@
    "first_seen": "2026-10-21T05:03:01Z"
   },
   {
+   "title": "Greencoat UK Wind Buys Remaining 20% of 96.4 MW Wind Portfolio From EDF Invest - energynews.pro",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONUJsVGpDcU43LTZIa09PRl9oc3Bta0d0UmYybWlhbXJ1Zll4OEd5dzBDRmZVRk5FNTVCVEwzNW1MeWpJNFJ4OHFTemNBbFZfNW9idjB3MnhURzJtQ2U3SUN5QllUSndLR0tISmY4cmJ4ZTczMWFHeXRwNElBN3dyWkZ5RV9xRVNNVS1FUVZ0aE54aWlsZ0RER3FiRjJSVGFWZFpJQg?oc=5",
+   "summary": "Greencoat UK Wind Buys Remaining 20% of 96.4 MW Wind Portfolio From EDF Invest    energynews.pro",
+   "publisher": "energynews.pro",
+   "published": "2026-10-16T01:03:48Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-10-21T05:03:56Z"
+  },
+  {
    "title": "Taste of Summer unveils food line-up with 11-baker bakery - Pulse Tasmania",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUmt0dEFFOHg3LUN2MUZFaklXSmgzOXpnZ2UySkpnOS1oRWYtdkt4Tzg2cGxnNjJTbTVaQVNIRV9tdTJHRlhJQ1FUZ1F5eW50cDFyMFFRMDBJMmZQNUpUOEVrSnJVLWJERjJfV1ZnLW1XXzdjU19DcW9yODBDbUE1UVVweURnNldnRzNDbm5TV3J1MEEyVUw0?oc=5",
    "summary": "Taste of Summer unveils food line-up with 11-baker bakery    Pulse Tasmania",
@@ -5777,6 +5872,23 @@
    "subcategories": [],
    "projects": [],
    "first_seen": "2026-10-21T05:03:01Z"
+  },
+  {
+   "title": "BP partnership takes over as operator of Iraq oilfields - Upstream Online",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSlZBWXBpM3ppZzhUTVdiSExOWTJxWC04aHdhYWQweHRvYzB5QWVlX01POVRMWml2VkFha3NNV2czOERoNTFQa3ZkRjVuVE14eFJCT3NlUkhKcDBFeDc0VkZkWkduVHQ5YTB3U21uNU9OUk1jSWNyS3dzdVk5MDdZMTk3T0tZZFZPVmkyQl84MUN5SjFpYTc3SEdWTHFRd1hWbndfZ3VnYmNjcHNLcHc?oc=5",
+   "summary": "BP partnership takes over as operator of Iraq oilfields    Upstream Online",
+   "publisher": "Upstream Online",
+   "published": "2026-10-15T17:31:09Z",
+   "source_id": "gn-decom",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-10-21T05:03:56Z"
   },
   {
    "title": "乘客被臭虫爬满双腿！客机停飞！ - yeeyi",
