@@ -1,20 +1,20 @@
 {
- "fetched_at": "2026-10-21T05:07:54Z",
+ "fetched_at": "2026-10-21T05:12:07Z",
  "added_this_run": 1,
- "total_items": 189,
+ "total_items": 190,
  "earliest": "2026-09-30",
  "errors": [],
  "per_source": {
   "gn-lng": {
    "in_feed": 27,
-   "new": 1
+   "new": 0
   },
   "gn-gas-policy": {
    "in_feed": 42,
-   "new": 0
+   "new": 1
   },
   "gn-decom": {
-   "in_feed": 8,
+   "in_feed": 7,
    "new": 0
   },
   "gn-wind": {
@@ -30,15 +30,15 @@
    "new": 0
   },
   "gn-aqua": {
-   "in_feed": 48,
+   "in_feed": 47,
    "new": 0
   },
   "gn-fish": {
-   "in_feed": 52,
+   "in_feed": 53,
    "new": 0
   },
   "gn-desal": {
-   "in_feed": 14,
+   "in_feed": 15,
    "new": 0
   },
   "gn-cable": {
@@ -46,7 +46,7 @@
    "new": 0
   },
   "gn-ports": {
-   "in_feed": 17,
+   "in_feed": 38,
    "new": 0
   },
   "gn-minerals": {
@@ -54,7 +54,7 @@
    "new": 0
   },
   "gn-zh-energy": {
-   "in_feed": 30,
+   "in_feed": 32,
    "new": 0
   },
   "gn-zh-wind": {
@@ -62,7 +62,7 @@
    "new": 0
   },
   "gn-zh-fish": {
-   "in_feed": 53,
+   "in_feed": 52,
    "new": 0
   },
   "gn-zh-other": {
@@ -83,7 +83,7 @@
   }
  },
  "by_month": {
-  "2026-10": 188,
+  "2026-10": 189,
   "2026-09": 1
  },
  "note": "Append-only archive. meta.news_days_to_keep controls the site's default window, not storage.",
@@ -1105,6 +1105,28 @@
    ],
    "projects": [],
    "first_seen": "2026-10-21T05:03:01Z"
+  },
+  {
+   "title": "Woodside Resumes Work at Australian LNG Project after Greenpeace Stunt",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOVhMM1lMWDZZTDd2ckpwdFozTTQzdTZIVTNUU19pUFFqby0xeGIxVDlEa3JyQk5zLU93NVhmdENBOE9HZWxGLWxYV3J6QnlrVVR4Y3ZyaUxON29rcFZENTVMa1pIdU53RTdfaVFrcTVSSU9yVlpyYmZkVHk5X3ZueTZienJnVkdhOEhTdC1ud242MkE0azFxQVNsbkpoNE9qZ0VoYTdqLWtncHh4bVNxNXA1d28wejlHeVVzSTBrR3pLN2dUOURSS3VB0gHKAUFVX3lxTE45WEwzWUxYNllMN3ZySnB0WjNNNDN1NkhVM1RTX2lQUWpvLTF4YjFUOURrcnJCTnMtT3c1WGZ0Q0E4T0dlbEYtbFhXcnpCeWtVVHhjdnJpTE43b2twVkQ1NUxrWkh1TndFN19pUWtxNVJJT3JWWnJiZmRUeTlfdm55NmJ6cmdWR2E4SFN0LW53bjYyQTRrMXFBU2xuSmg0T2pnRWhhN2ota2dweHhtU3E1cDV3bzB6OUd5VXNJMGtHeks3Z1Q5RFJLdUE?oc=5",
+   "summary": "Woodside Resumes Work at Australian LNG Project after Greenpeace Stunt    Crude Oil Prices Today | OilPrice.com",
+   "publisher": "Crude Oil Prices Today | OilPrice.com",
+   "published": "2026-10-19T11:30:00Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG",
+    "Oil & condensate"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-21T05:12:07Z"
   },
   {
    "title": "Pacific fisheries operation covers 30.5 million square kilometres",
