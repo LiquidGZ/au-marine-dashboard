@@ -1,81 +1,81 @@
 {
- "fetched_at": "2026-10-21T23:57:52Z",
- "added_this_run": 39,
- "total_items": 229,
+ "fetched_at": "2026-10-22T23:56:31Z",
+ "added_this_run": 38,
+ "total_items": 267,
  "earliest": "2026-09-30",
  "errors": [],
  "per_source": {
   "gn-lng": {
-   "in_feed": 53,
-   "new": 13
+   "in_feed": 54,
+   "new": 7
   },
   "gn-gas-policy": {
-   "in_feed": 26,
-   "new": 2
-  },
-  "gn-decom": {
-   "in_feed": 8,
+   "in_feed": 42,
    "new": 1
   },
+  "gn-decom": {
+   "in_feed": 11,
+   "new": 3
+  },
   "gn-wind": {
-   "in_feed": 58,
+   "in_feed": 54,
    "new": 9
   },
   "gn-wave": {
-   "in_feed": 9,
-   "new": 2
-  },
-  "gn-ccs": {
-   "in_feed": 30,
-   "new": 0
-  },
-  "gn-aqua": {
-   "in_feed": 27,
-   "new": 3
-  },
-  "gn-fish": {
-   "in_feed": 43,
-   "new": 0
-  },
-  "gn-desal": {
-   "in_feed": 15,
-   "new": 1
-  },
-  "gn-cable": {
-   "in_feed": 22,
-   "new": 0
-  },
-  "gn-ports": {
-   "in_feed": 30,
-   "new": 2
-  },
-  "gn-minerals": {
    "in_feed": 8,
    "new": 0
   },
+  "gn-ccs": {
+   "in_feed": 30,
+   "new": 2
+  },
+  "gn-aqua": {
+   "in_feed": 35,
+   "new": 2
+  },
+  "gn-fish": {
+   "in_feed": 41,
+   "new": 2
+  },
+  "gn-desal": {
+   "in_feed": 11,
+   "new": 0
+  },
+  "gn-cable": {
+   "in_feed": 21,
+   "new": 0
+  },
+  "gn-ports": {
+   "in_feed": 34,
+   "new": 1
+  },
+  "gn-minerals": {
+   "in_feed": 10,
+   "new": 1
+  },
   "gn-zh-energy": {
-   "in_feed": 33,
-   "new": 4
+   "in_feed": 27,
+   "new": 5
   },
   "gn-zh-wind": {
    "in_feed": 3,
-   "new": 0
+   "new": 1
   },
   "gn-zh-fish": {
-   "in_feed": 60,
+   "in_feed": 44,
    "new": 1
   },
   "gn-zh-other": {
-   "in_feed": 4,
-   "new": 0
+   "in_feed": 5,
+   "new": 2
   },
   "offshore-energy": {
    "in_feed": 50,
-   "new": 1
+   "new": 0
   },
   "offshorewind-biz": {
    "in_feed": 50,
-   "new": 0
+   "new": 1
   },
   "reneweconomy": {
    "in_feed": 10,
@@ -83,11 +83,526 @@
   }
  },
  "by_month": {
-  "2026-10": 228,
+  "2026-10": 266,
   "2026-09": 1
  },
  "note": "Append-only archive. meta.news_days_to_keep controls the site's default window, not storage.",
  "items": [
+  {
+   "title": "Woodside, Santos and Beach detail offshore Australia development, P&A and exploration activity",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOU19DdkxVczUtV3RjT3dLN1lrREMyVWVrUWhlVnJXakVxRjk3ek9SNUJGNmY5NEpUcFV0amplRWh0UThHUDlnMm9tUXFTZmhDRUZtTmtSZ3hndnY5b2Y2cUZiVUhvUkFCNEc0VE1PZ1lkNlJDTnVBcXFPU3A4b2dZa242ckJXY3JHV0FGaXNqN0J0Z3V6R1Q5ZUpiMXRJbVprNnJINGtDdUtycHF3NkRPZVV4OHJ6U0lJTTJOYVZ4bWtQOW9FRFlLLW1LZlNqejBDVWFhQjBwdkZlNFhGclBlcTJTTklKX3I3bjRRVFpOeDd6czNtWHRUcE4xM1ZWY1F1UXhJ?oc=5",
+   "summary": "Woodside, Santos and Beach detail offshore Australia development, P&A and exploration activity    Offshore Magazine",
+   "publisher": "Offshore Magazine",
+   "published": "2026-10-22T23:21:26Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Beach Energy",
+    "Santos",
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-10-22T23:56:31Z"
+  },
+  {
+   "title": "2026 Fishery Status Reports highlights importance of sustainability across fisheries",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMVBGeDZVbUlTd0tjdnhhcGdmVVBnN1ZhMy0wVExlQzJDZGtUQ0lHaktQeVVDbTZyeHNPbkt0aXQyWFlOVlBvZTF6N2xmRnRic1hPaF95Y1JjMHZHM3JHWFlITFdycVdFVlB1MDZUNXBEM2diY2ZjSXM5YTNaMHM3WjlUcW94d1hCV0dMWG9vT1E0cVRBaVd3LUxzUE80V3F4eUFMdG9zbmZnVi1FbXA4QzBPbEtEdWxPZzF1bQ?oc=5",
+   "summary": "2026 Fishery Status Reports highlights importance of sustainability across fisheries    The National Tribune",
+   "publisher": "The National Tribune",
+   "published": "2026-10-22T23:15:38Z",
+   "source_id": "gn-fish",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-22T23:56:31Z"
+  },
+  {
+   "title": "Is Australia’s gas reservation scheme really aimed at Santos?",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMkd4MWxydDJqRjRGZjVzWGxvaUxySnF3azB0Um93T1VpSHUxM0IxSjlLc3kxOU5tQzc1LVE2VTUyUGszb09VR09Qc2pjVGxXUjd0RENwbnJ3SUc5c3VYYzBoWF92Vi1fUUdydlk4cnpJZlBXczE0bTJBbE5Cc250T1A5dUUyNGZDM20xVVJKT1VGWDM3UkRnSUd3?oc=5",
+   "summary": "Is Australia’s gas reservation scheme really aimed at Santos?    The Conversation",
+   "publisher": "The Conversation",
+   "published": "2026-10-22T23:14:51Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Santos"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-22T23:56:31Z"
+  },
+  {
+   "title": "中东最大天然气出口国，锁定美国LNG长期供应",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pTmkwU0dCZjc5aE5tNnZtOXVDWkliRTFfbkx2NktkNVh6bl94M3RwREUtVDZNc3RaRC1uaUVqeTRUMUxsWkNuRHRncFlibHlramRqUy1sTXN6OWZZTkxtSQ?oc=5",
+   "summary": "中东最大天然气出口国，锁定美国LNG长期供应    东方财富",
+   "publisher": "东方财富",
+   "published": "2026-10-22T14:42:12Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-22T23:56:31Z"
+  },
+  {
+   "title": "CME pushes to lock in WA domestic gas exemption",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTDdvakUwOC1TZGpHaWFyakxrZFdKWlJDRU0wczF5eUVzNndwM3hhLWIyb0xoc3VIb0d6T0kteEVQSXdLdE8wQjJBY3N4dFA2V3g0NU42MUNabkJ3eGFQekpMNjlJZDNPSGpYRGoxcmMwNG9DR1BhRWgyUjd2YzVPUVpmcVB1WEdHbDlhUmZVbEl6bm90RjF0d2o5eXE2aFJCSHV4RmcxbDk4bmtnNldIck13MTRGbm1uMGhVQ0FyTXJQM3lqQTBfS2VnWXBOY3pKTUNR?oc=5",
+   "summary": "CME pushes to lock in WA domestic gas exemption    The West Australian",
+   "publisher": "The West Australian",
+   "published": "2026-10-22T14:00:00Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-22T23:56:31Z"
+  },
+  {
+   "title": "EU Seafood Vision 2040 faces industry calls for aquaculture targets and fisheries reform",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUm9hdXlUSXVESjRMczhJYXVTS2NKUXJSd1JtMXItb2hZQUNqOEZHTkx3WlhWemszNjdkWElJZ0hrYjBOR3RpN29neTdmaUpCWGFFc19sRmJCRnBuQm8yeWx5M1Z4WnhRR0VwakktOFg4YUtGRFpVMUhnNUh1TUpGclpESWQwdVdM?oc=5",
+   "summary": "EU Seafood Vision 2040 faces industry calls for aquaculture targets and fisheries reform    Food Ingredients First",
+   "publisher": "Food Ingredients First",
+   "published": "2026-10-22T13:49:45Z",
+   "source_id": "gn-aqua",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-22T23:56:31Z"
+  },
+  {
+   "title": "Procurement for phase 3b of the Northern Endeavour decommissioning program",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU2xLVjZoTXpRS2N1bkx1YlFJT0hHc0Z3Sm1IQXFwMzY0VnRTaGhQM2E2OWl6U2RPRW8wX3Zad3R3UUhNdlBPdWhsc1NWNUNVNVJFLWlPRThrM2ZIaHZOMkhWNVM5R2ptZGNIUF9IbDcyMUNaQ25WMEJoa0c4NjZRZmFZd0dzNlBWQjhzVE5DaTBiNW1vUmVyQjQ1UEE?oc=5",
+   "summary": "Procurement for phase 3b of the Northern Endeavour decommissioning program    Department of Industry Science and Resources",
+   "publisher": "Department of Industry Science and Resources",
+   "published": "2026-10-22T12:23:43Z",
+   "source_id": "gn-decom",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-10-22T23:56:31Z"
+  },
+  {
+   "title": "Santos Talks Up Papua LNG, Beetaloo Shale Potential",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9UUkNfRlMyMERFSWczSUdqc01EWmdQN1l5Z1VmTG13X2VMQmxtcjl4azE3YWdWOFBhMXZZdmk2YlR1MFpPVXRiYlFUUll3OWFpeGpETHhSZ0VfTGpFakhLWGJNOHFvMVJTazhQWEk5cmNpZw?oc=5",
+   "summary": "Santos Talks Up Papua LNG, Beetaloo Shale Potential    Energy Intelligence",
+   "publisher": "Energy Intelligence",
+   "published": "2026-10-22T11:47:52Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Santos"
+   ],
+   "states": [
+    "NT"
+   ],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-22T23:56:31Z"
+  },
+  {
+   "title": "PB for Aussie offshore wind concession",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdUdsNjU4Q2thOENra1V2cENxR05EbW9Kdkg5YW1samttb3FnVUNfVlRoYkNGRkRhbXZGQ3pFdHI5WmRpNXFHTDdURXg3OU1yNTVDdHNNTnVGWXRsQ3BNUWNoUDJnZjBJd3Rsb3lVN3d5WlJIS2I5NEJhamR3ZjBMU2ZlR1BUN1MyaWYzOFpqN1M?oc=5",
+   "summary": "PB for Aussie offshore wind concession    Partnerships Bulletin",
+   "publisher": "Partnerships Bulletin",
+   "published": "2026-10-22T10:54:05Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-22T23:56:31Z"
+  },
+  {
+   "title": "Santos trims 2026 output forecast after Alaska Pikka delays",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdkh1cHViOEVWeGNBTHFJU2Z3WU8wQ1dKd1FMQ3IxdFJjN0FnR0pzLVhldVppNERmNV93V0RNVEx0VzNfSWJOM1A5SXdYVmk1ampvOHJvMk1QSHZNUFdfbzV5QkFwdGdhekM3T2tDWHlXZlA5OUg0cFlYQmVoTm13N3lxbU5EMTMzTzhvaTAxVF85dThVdnJwQWM4RGtydVFMdGZ6Zg?oc=5",
+   "summary": "Santos trims 2026 output forecast after Alaska Pikka delays    Quantum Commodity Intelligence",
+   "publisher": "Quantum Commodity Intelligence",
+   "published": "2026-10-22T10:32:27Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Santos"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-10-22T23:56:31Z"
+  },
+  {
+   "title": "EnerMech takes on ‘major’ UK CCS gig but keeps project details under wraps",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdXFTWktJT0tpRi02QzU1YnVhRDRpVG94dEJhNWlQaXI3aF9iWDV2bURPejZVcXRpdHdJV09ZSFl4X2tibkhZU3ZYRnNlc1pDV1BkeDhwMFBIYmhqcmdrS2xvWldGNEhWUHVlRVN4LUhpc0ZTVW1IQkRtQlJSZWJlQk5FNVpYRTFBakF0dFNMNHEwYkRweFdTUWJSUWhRSEt0bGxZd2dpRmVBRWhlLXI4Ng?oc=5",
+   "summary": "EnerMech takes on ‘major’ UK CCS gig but keeps project details under wraps    Offshore Energy",
+   "publisher": "Offshore Energy",
+   "published": "2026-10-22T10:30:00Z",
+   "source_id": "gn-ccs",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "CCS & gas storage"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-22T23:56:31Z"
+  },
+  {
+   "title": "IFM Investors to Acquire Majority Stake in UK Port Operator ABP",
+   "link": "https://offshorewind.biz/2026/10/22/ifm-investors-to-acquire-majority-stake-in-uk-port-operator-abp",
+   "summary": "IFM Investors, owned by Australian and UK pension funds, is acquiring a 63.9 per cent stake in Associated British Ports (ABP), the UK’s largest...",
+   "publisher": "",
+   "published": "2026-10-22T10:00:22Z",
+   "source_id": "offshorewind-biz",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-10-22T23:56:31Z"
+  },
+  {
+   "title": "Trump Administration Targets Fourth Offshore Wind Project for Remand",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZnVfXzFmaEpEclJmd0o1OXltdjJ4NlFaMTluaFFEc2Y2Wmt2d3RaZ0Rsb3YxaHlrY3JiOV9PU1NidmlzU1NSWE90d3B4UXgyTkRFcDdORUw2bWhYaC1PeTVad3g5Z0dxUVpDLW1JdDJULVhmdWdCUl9tbXNMMUk1MEFTcVlzRnhsaUhoUlRHTXJ0bWN6aGJia3dtekU?oc=5",
+   "summary": "Trump Administration Targets Fourth Offshore Wind Project for Remand    Star Concord",
+   "publisher": "Star Concord",
+   "published": "2026-10-22T09:54:26Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-22T23:56:31Z"
+  },
+  {
+   "title": "澳大利亚IFM拟收购英国最大港口集团63.9%股权",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE51ZlRJSHAtR3RrcnhRSnA3OS04QlIxczM5Y3c5ZmJNYVRWamZSTXBhcTJBenNkUjlGY1dqTlFVYXFFbEZYZ2FBR3MyellmaTdwdHBISUJXN08?oc=5",
+   "summary": "澳大利亚IFM拟收购英国最大港口集团63.9%股权    维度网",
+   "publisher": "维度网",
+   "published": "2026-10-22T06:28:00Z",
+   "source_id": "gn-zh-wind",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Ports & LNG terminals"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-22T23:56:31Z"
+  },
+  {
+   "title": "第29届中国国际渔业博览会将于10月28日至30日在青岛举办",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxaXBzRFVScEhPVDJKTXdsYXR6ZzFMVG9teXBmTnAtX1NpMmZUbkYwdmtpR3Y3NkUya1FZRzdQNzltUTJ2TXA4U21iOXl6ajVPelkzTWRuU0dyVTg?oc=5",
+   "summary": "第29届中国国际渔业博览会将于10月28日至30日在青岛举办    https://www.haijingshe.com/",
+   "publisher": "https://www.haijingshe.com/",
+   "published": "2026-10-22T06:26:00Z",
+   "source_id": "gn-zh-fish",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-22T23:56:31Z"
+  },
+  {
+   "title": "17艘俄罗斯拖网渔船被记录到绘测连接美国与欧洲的海底电缆",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVTVMUWlGSi1jeTVLV1M2NXAwUUNZSVRiYXVrTGp6WkZaMmM2Q1c2ak5SakdSTTk5WTd2bmYzTDJvQThyVlk0bElBeURvcnY5YzJkVmZodzZPLVdURUdvbkZickpLVGdKRzRQcmh6aGpzd05mbXhHZVpGbHhnaXE5TEp0NUNNSmx2dVozcjBoLVFzcjBXU19WQThlRHBkWWs3MEZV?oc=5",
+   "summary": "17艘俄罗斯拖网渔船被记录到绘测连接美国与欧洲的海底电缆    Mezha.net",
+   "publisher": "Mezha.net",
+   "published": "2026-10-22T06:20:00Z",
+   "source_id": "gn-zh-other",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Subsea cables & interconnectors"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-22T23:56:31Z"
+  },
+  {
+   "title": "World’s biggest offshore wind farm battles CfD deadline as turbine troubles weigh",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTGw1OGdZT09MLXlENVpyWk4ybnFVQzNDSUZ6OHNlNXplcG94OXJyMG5fTHJVbHZIT2w4aHBZMjEwUVZvdlF6VVNYclVKcEF0aWV3S3VtY0JXY1ViQkd6YXlLTkd2bU5yaEJtaXlRQXF5aUJLM3JLTWlIczJRRkROQnRBYTlSaUtrYnVaZzlLdlBPem9Db2o0RFNrMlM0UjlOQWk2RWstTQ?oc=5",
+   "summary": "World’s biggest offshore wind farm battles CfD deadline as turbine troubles weigh    DredgeWire",
+   "publisher": "DredgeWire",
+   "published": "2026-10-22T06:04:58Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-22T23:56:31Z"
+  },
+  {
+   "title": "Guam and Northern Mariana Islands oppose US offshore seabed mining plans",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9SSTQ2YlZpeXczclhyQ3hYQVdfWDhOMEg5OXQzYjM4empqVzNNa19xV1M1QnNkR1hYb3d4WHVFX0c1bmpieURrSWRzSDNsUXdwaldJSU5scUZOY0pBbzJXMTNfeGxlVlI1NnBWaVZoeUxhX3V1dkVDbEJB?oc=5",
+   "summary": "Guam and Northern Mariana Islands oppose US offshore seabed mining plans    Mining.com.au",
+   "publisher": "Mining.com.au",
+   "published": "2026-10-22T05:34:01Z",
+   "source_id": "gn-minerals",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "mineral"
+   ],
+   "subcategories": [
+    "Seabed minerals"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-22T23:56:31Z"
+  },
+  {
+   "title": "随着韩国全面推进能源转型，液化天然气（LNG）在保障电力稳定供应的同时支持减少碳排放，其作用也在发生变化。在可再生能源和无碳发电不断扩大的背景下，为灵活应对电力需求变化、保障能源安全，LNG在可预见的..",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GVExZdGZ3VWZtNTFqMTFGeS1pb3VjeE1DVlU4UVdrR2VzZ3diUmNFRzZXZ2pRQjJ5ekV1YmFaWUswRFJZQWtUQ3l4MmFLdU0?oc=5",
+   "summary": "随着韩国全面推进能源转型，液化天然气（LNG）在保障电力稳定供应的同时支持减少碳排放，其作用也在发生变化。在可再生能源和无碳发电不断扩大的背景下，为灵活应对电力需求变化、保障能源安全，LNG在可预见的..    매일경제",
+   "publisher": "매일경제",
+   "published": "2026-10-22T05:05:52Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-22T23:56:31Z"
+  },
+  {
+   "title": "Kongsberg secures new 10-year contract for vessel traffic service system in Port Hedland",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPblB6OGgtZ0xURlVGRVBSclk1N3ZmYWZtR3d0TVFpQUhRT25GZHVOQnZtZ0FtTjJTWGFNcnR4TjhCU0VGSER2bjV1bE5JcU9kSGE5Q0tOYk1TYjhyU3hIZy1Uc0s5ODg3bTlBQlJzLVRWYlF6SkVoQ09iYmdzZ2VSRGtIeFFCbElYS052YzdoNC1jeENCbVZwR25HZVhTZjZSeVY3N3B4TVZ3Y1U1Y05fcXFLNzlIZDFDd3RnU2dDbW1SWjQzS2p0TVM0SVVHX1k?oc=5",
+   "summary": "Kongsberg secures new 10-year contract for vessel traffic service system in Port Hedland    www.defenceconnect.com.au",
+   "publisher": "www.defenceconnect.com.au",
+   "published": "2026-10-22T05:05:15Z",
+   "source_id": "gn-ports",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "WA"
+   ],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Ports & LNG terminals"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-22T23:56:31Z"
+  },
+  {
+   "title": "L3Harris tests Rock Lobster during RimPac 2026",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNUJxUDVvVi1nOFJxRVdVSUJHeWR4enN5SnNLSE95ZGJMNEdZbTYxVzR5UmtpWmF5NHhuWFlITkk5WGtCVElISUxGRjZjTUYtYnhHLWNTa0dYc2lvQTZWWjE4ZlUwSmZzN0s1c2Y4eVhWSk5HUFRFOVhRZHV3SGk1Vi11ZW5MWFp3VWVFOTFGRjR2OEFDNy1mcQ?oc=5",
+   "summary": "L3Harris tests Rock Lobster during RimPac 2026    Australian Defence Magazine",
+   "publisher": "Australian Defence Magazine",
+   "published": "2026-10-22T04:51:44Z",
+   "source_id": "gn-fish",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-22T23:56:31Z"
+  },
+  {
+   "title": "US oilfield woes fail to dampen Santos’ record production",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVXlTYnY0bDFKbjVuelVoaVFrUjJqMXppUWRJM2JfdXpMTGRsRWR2UFE4S1lLSjI0clFFdXlfcDNBNjB2OUtINWFVX19PaWcxeFVpaVFyb3ZDODdTelJhb21SRjZoeVRJOTVvSThnS28yeEg2ejM0TkU0WGRzZGZ0MVFKNTE3SjJfNW4ycm1xX2U1dDdCanpwMi01TzNfdTJaWkhYUnVlYVVJajBObzNn?oc=5",
+   "summary": "US oilfield woes fail to dampen Santos’ record production    Upstream Online",
+   "publisher": "Upstream Online",
+   "published": "2026-10-22T03:33:31Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Santos"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-10-22T23:56:31Z"
+  },
+  {
+   "title": "Australia’s Santos trims 2026 output forecast on Alaska oilfield delays - 95.7 KELO-FM",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY3hGekxYTGtRcmxmRjI1LV9BVHlLZjRVUHNiRjZYZlFuUENWcHgtV3lLZ2dYTUhRVVhXdmYtcFJsV19LS3c5cl9ZdUwwM3BYNUxVaVZlYVcwcVN4RndxNmU4dDRtNjdCclZCbDVtYXhpVDN3cVVEZHBQc3lFZVhsSll2RGs1cENHcE9PZGFOS25sQkdmVXNGRUlIdElpZjlpNHJR?oc=5",
+   "summary": "Australia’s Santos trims 2026 output forecast on Alaska oilfield delays    95.7 KELO-FM",
+   "publisher": "95.7 KELO-FM",
+   "published": "2026-10-22T00:50:03Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Santos"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-10-22T23:56:31Z"
+  },
+  {
+   "title": "美国支持的东南亚海底电缆将在NEC与Alcatel之间选择供应商",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQalN6SGl6SU9YRUFmbHYtTnV0VWExVHNIcHlWY3g5WXQyNXpUZ1pjcERuVHlhUHJtRUN1VVFmYktScFE3VTJNSG03RnU4ek9lS190bm10MjFpUzVreDJkRjdVOXBtSFNVZEllSDlmdDk4cTRVSlBxUk9scGJDMkQ5TW9zVVo1ZUVmbklCZmNSNjlfUzVHYnc?oc=5",
+   "summary": "美国支持的东南亚海底电缆将在NEC与Alcatel之间选择供应商    Mezha.net",
+   "publisher": "Mezha.net",
+   "published": "2026-10-22T00:44:00Z",
+   "source_id": "gn-zh-other",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Subsea cables & interconnectors"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-22T23:56:31Z"
+  },
+  {
+   "title": "澳大利亚桑托斯下调2026年产量预期至9900万—1.02亿桶油当量",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MdW1Pc3pCd2VHM0ZNamRZUjN6c0NndjdCYUJRcG5yOG5JaVdLVGc1cVpPY0FBUG1qMlBEa3VYNEo2QU1GMXlzalFCRHVTMVo3QlFPelc0MHg?oc=5",
+   "summary": "澳大利亚桑托斯下调2026年产量预期至9900万—1.02亿桶油当量    维度网",
+   "publisher": "维度网",
+   "published": "2026-10-22T00:38:00Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-10-22T23:56:31Z"
+  },
+  {
+   "title": "Santos posts record production but trims 2026 guidance on Pikka setbacks",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeVd2N3I0cU5QNUdjUmk3MHpBSkZEZUdJcDczRy1Fc2NBSG9fYjJKMGR0eG1QLXpCb2dIbXk0RTgxalpPeV83Wms2cGNKNlUyeDhxUy1NRGtRN19SMFVBdXFEcEJZei1ITlozbTdXNndRcFo5Z1U2UjlUYUdLcXM3QjVTUm90OGZ0ajlpV29B?oc=5",
+   "summary": "Santos posts record production but trims 2026 guidance on Pikka setbacks    Yahoo Finance Australia",
+   "publisher": "Yahoo Finance Australia",
+   "published": "2026-10-22T00:33:00Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Santos"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-10-22T23:56:31Z"
+  },
+  {
+   "title": "桑托斯发布第三季度产量及销售收入增长公告",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTThiRnhhdWtvcTJsOVlaWHMyQW94VjQzXy16MHcyMkFnZVNIUWtQWnNTN1dUWDNXWGhKYjlzVHRfVDNlWi1VZW5GTFhzZEZILVN2Z1Z0dE1YTXpLUUo0X01FZUI4bHJZc1lzMW9qOXNpbTNxaUpIV3VKcTlJaWtnY19MVktoZmNjdUJBUmRTWEQ4T0NLZ1pibVBaS0U?oc=5",
+   "summary": "桑托斯发布第三季度产量及销售收入增长公告    Moomoo",
+   "publisher": "Moomoo",
+   "published": "2026-10-22T00:31:16Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-10-22T23:56:31Z"
+  },
   {
    "title": "Australia's Santos trims 2026 output forecast on Alaska oilfield delays",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQjByMllyMnNjcl9WRjlzWXEzeTJUaG40WXJWanZpdzFrNUZvZk1wcnBqMktIRy1iaEJyNmVxSWExYXgtbmRuTFk0TFVDeTJyMGxNaGhOSl8xM0RTTkxqWVdjMDZQbnJFX0VkX0daY3UwNjJJaW9pclNqVDlJUVlWLXdlaUpsODhYTnlJNzhnX1V6Wl85QThxdlVBakZSZkdZZzF2eElmLXREWEZ0XzZuazVVdFA2MTI1M1dXXzNRWQ?oc=5",
@@ -146,6 +661,44 @@
    ],
    "projects": [],
    "first_seen": "2026-10-21T23:57:52Z"
+  },
+  {
+   "title": "Trump again targets offshore wind, risking deal to speed approvals of new energy projects",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTmpJaWxoWGhPTXNzWEN3T1NuQjlPMnJVbEY3ejg2S2ZxUk9xTHBUenhQMkk5d1V1dmxGdmVVYjh5X1NSV0lrd3ZMVzZyYkljT2tXdnBpZkRmeU1BaTh1aGltblhmcjloT0pmVzA1dVZSVlZMN05Tdk81ejhMV1VxdmJCSTBJR0gxRUNlc2VhM2FneU40YXpEMTJ4X2x1OC0wWlhveF8zSWhxSUdJblU5RWtrbzMxWVhGMWVJUGdnbEJzbHBjWWt0ZThQdFNmSUdsTGZNQ2tZTS1wLVFO?oc=5",
+   "summary": "Trump again targets offshore wind, risking deal to speed approvals of new energy projects    ClickOnDetroit | WDIV Local 4",
+   "publisher": "ClickOnDetroit | WDIV Local 4",
+   "published": "2026-10-21T21:29:53Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-22T23:56:31Z"
+  },
+  {
+   "title": "BMO资本市场维持Cheniere Energy(LNG.US)买入评级，维持目标价306美元",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMnY0TkdmWWpyTlJzTU0tVUZCajVVcmFOa3J1Nkpzcy1pcjliWEc2NUl5Qi1zOWhnM0NiNjc1LWxwd2FEYnJnUzZRTVQ2LU9pYkR1bFpQUnViUzFYb1MtN2gxVU5PeExPVVFlR2YxVnhlYWZZU3c0Z0pSTHJVQXgxQ2pteE1pRUQyRVpycG4wc1BjVDRnZmNUZ29CY0xKTFhTbU5pNkdPdUxDbWlBN0pBMWlKMlJpdE9ZRkE?oc=5",
+   "summary": "BMO资本市场维持Cheniere Energy(LNG.US)买入评级，维持目标价306美元    Moomoo",
+   "publisher": "Moomoo",
+   "published": "2026-10-21T16:45:33Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-22T23:56:31Z"
   },
   {
    "title": "Woodside’s Scarborough hits 99% complete, first LNG on track for Q4",
@@ -211,6 +764,25 @@
     "FOS-003"
    ],
    "first_seen": "2026-10-21T23:57:52Z"
+  },
+  {
+   "title": "27 people fall ill after Salmonella outbreak tied to raw oysters",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9NVjBlby11MVFHZTQwNkJKbGNNQTVBajc3RGFIa1JjSXNENVhfMXVEbUViYlZqNy0zNUpvXzBLZ3k2VHJEeFdTMmZBeWZ1RXhPWUxURS1XNWtOR2lxeTd2MnFwNEhXMEloeUViREN4RGJLUFpnWjZQVnhB?oc=5",
+   "summary": "27 people fall ill after Salmonella outbreak tied to raw oysters    Yahoo News Australia",
+   "publisher": "Yahoo News Australia",
+   "published": "2026-10-21T13:43:00Z",
+   "source_id": "gn-aqua",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Shellfish & pearl aquaculture"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-22T23:56:31Z"
   },
   {
    "title": "KONGSBERG Wins 10-Year Vessel Traffic Service Contract At Port Hedland",
@@ -480,6 +1052,25 @@
     "FOS-003"
    ],
    "first_seen": "2026-10-21T23:57:52Z"
+  },
+  {
+   "title": "China launches semi-submersible offshore wind-to-hydrogen platform",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWHk3XzZyWkVOMi1FRHN4NDNmTk1NWlIyTWZKY2x5ZXpodkJMYlZWOF93TEc1ZW94RV83aFU4WFdKVTFBclUxRW50SlQ4cWlPZ2YzY3VUQzdaVmVlc19HTEFkTmNRVGswNWhCb3kwZVUtQ19URVQxWGVwQXhtS01KOUFEU1BHQjNRbEV3ZzJ5U0hfd3JLbk56TjJ5cTNiVGpJZHJhc0U0VXdRZw?oc=5",
+   "summary": "China launches semi-submersible offshore wind-to-hydrogen platform    Renewables Now",
+   "publisher": "Renewables Now",
+   "published": "2026-10-21T07:08:52Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-22T23:56:31Z"
   },
   {
    "title": "Tunnelling completed for South Australia desalination plant",
@@ -891,6 +1482,25 @@
    "first_seen": "2026-10-21T23:57:52Z"
   },
   {
+   "title": "Three Asian contractors set to bid for Eni FPSO",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQck5XSUxTSWJfNmpBTXJkT1dwOW5wWTI5Q3ZYQ29YTDVFc3hoVTZFVEszbGpDOGZGcm42MDRjN0NlSlV6WEdDbkd1Mm9tZHZqZXVvNVlTZ0RkTWJKS1Via2JFOWNjUDNUNndOVll2M0UwSTRzZjNieEJ1bk50TnotTG1iT2U3d1lkOGluSEZBeXpWTVFGTmgzM2hzdmZRTm5mTkE?oc=5",
+   "summary": "Three Asian contractors set to bid for Eni FPSO    Upstream Online",
+   "publisher": "Upstream Online",
+   "published": "2026-10-20T21:34:04Z",
+   "source_id": "gn-decom",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Oil & condensate"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-22T23:56:31Z"
+  },
+  {
    "title": "Marinus Link converter station to begin construction",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT0hOZ0xmMGgxalJTaVZDa1FJbm5rUk0tWl85WExoNXBKRmJ4ZkEtNGpyY1lSaHZ1RWRrazY3UEJ0YlRKcFJJUmpfUE5rYTRXZGFkRExLOEdaX0ZFM0V2SlRIOUxGZkpFUEFrdmJIVWhpV0F1OGd1dHVHREYtY1JVdDcyRXRMaHdfeWlyVg?oc=5",
    "summary": "Marinus Link converter station to begin construction    Utility Magazine",
@@ -1200,6 +1810,25 @@
    "first_seen": "2026-10-21T05:03:01Z"
   },
   {
+   "title": "Dún Laoghaire Cruise Access Plans Linked to Offshore Wind Base",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ0V3aEpwdXdnbkZtaTBMMGUxaXZRcnBGRDR6MFRnTUVkcnN6THVWYW84bTVybE5Oem5fYk13LWhvSllZWEtmbkxNdDNTNjNjZkV5b2VrSk5XUUh6ZXg4czlBa09ITFl6dHZTUjYwNzJrSmQ1NS1ldGJGQmtubVNhQklFRno1dWNxU0ZHRTk5d3JXOWNwdUZrSFVmQW1mcURzVTJnLW5mMktlOUd0RkV3eEdoWmxuZU9vMXY3UA?oc=5",
+   "summary": "Dún Laoghaire Cruise Access Plans Linked to Offshore Wind Base    Afloat",
+   "publisher": "Afloat",
+   "published": "2026-10-20T09:14:23Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-22T23:56:31Z"
+  },
+  {
    "title": "DemoSATH extends floating offshore wind operations through 2027",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUjBvQ1pCb2J3ZjRXYjZ6M1Z2X2FjZ0tnX2hqTkM1dGtwRWhYclpxc0V3b2dzSGNYUmVKbUFmSWRld2x5YlB1UW9qWGFNczUxd2g5TFVZUjB3Yk5sMm9kTEVnbTg1VTJxdWVZV1VITGp6dGM0b09ZTFJ5UDJobkRBWUxGeVNCb1IzZnZmVTMtNnZhVmh1bUppbEExUWl2OEJFSFZNa2NKaUUxOXFuYjZ0TmNtemV5dEZGQUZqS2lrQlpLS00?oc=5",
    "summary": "DemoSATH extends floating offshore wind operations through 2027    Windtech International",
@@ -1236,6 +1865,27 @@
    ],
    "projects": [],
    "first_seen": "2026-10-21T05:03:01Z"
+  },
+  {
+   "title": "NEPA waves through investigations for Bunbury Offshore Wind Project",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRXE3eGZ2ZmltdVVwZjBpYXRNLUotbHI0cURCTHlmUTRzR1pKQjNfT0FaeGg1RHNDMU5HY1NfZWxYZ2JaU203cUF2RTk1QzZGNHV0b1M0eE43TGhwVUVnYWRTSUJJa1phMWxxbS1JV19RMHluUHdqaFpQQUVEckFtT2xDeWhjaGFZc2w3R3gxOVRYOFpSZGFmRlZXdXlfVjdQVU5SRE83eFhrYjlvN0c4eXFVR1RtcXNaejh0TEVWaHQ0eU1CQll2UWh3?oc=5",
+   "summary": "NEPA waves through investigations for Bunbury Offshore Wind Project    Energy News Bulletin",
+   "publisher": "Energy News Bulletin",
+   "published": "2026-10-20T08:21:51Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "WA"
+   ],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-22T23:56:31Z"
   },
   {
    "title": "L3Harris Tests Rock Lobster Underwater Communications Relay in AUKUS Exercise",
@@ -2053,6 +2703,25 @@
    "first_seen": "2026-10-21T05:03:01Z"
   },
   {
+   "title": "Hyundai E&C Signs Australian Grid, Offshore Wind Deals",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa2k4VmlPVmg1VjJYS1hHR2RNaklNVTdoT2NpbGpubzhsbTlVcldZeXpVV0h1RFlpdVc5bnI0TUczS0tXZmFfbjBCZTBhck1yNkRoN0VXYzdpbmlhb3JFZ3BteWJRVmdXbG1IS3ZUTmJOandvZ2FUc3UteGhiaHMzaVBVMERhS3ZVYUhkYWpuQ3o1clVqLTdWbg?oc=5",
+   "summary": "Hyundai E&C Signs Australian Grid, Offshore Wind Deals    Seoul Economic Daily",
+   "publisher": "Seoul Economic Daily",
+   "published": "2026-10-19T05:44:42Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-22T23:56:31Z"
+  },
+  {
    "title": "Raymond Pryce | Desalination and the water-energy-food nexus",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX0pGbWZYWXZlcGsyV3oyZUphRDhLNkhwLXAyWUgwUGVSTUpJRDJFclZmZzUxeWpGaW5LT0xoeVRhWDFKcF9DSGEtRThzcElXemRvRHBNY0NvUDBZQWNEUU5JLVR0ZEgzNlFkMndnc0Vrc1JiRVJ1T0hqT2FJMnRXVURyX2d2cWl6eXN4d0RSU1VZRnktQkFhdXBaNThLUWo0Y05VNWE3VTctTFM4c1E?oc=5",
    "summary": "Raymond Pryce | Desalination and the water-energy-food nexus    Jamaica Gleaner",
@@ -2780,6 +3449,25 @@
    "first_seen": "2026-10-21T05:03:01Z"
   },
   {
+   "title": "Uzbekistan seeking to raise interest in new acreage after BP farm-in",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQd3VMaEVsLTZwdUJrY0ZjODR1Qmcwb1Q2alhGbFpWd3JtZ2VMeEdySndQeVRmcS1RbzlyOXd3T3NEREY0QjM4UUp1a3NZZ3hUTkJPUDRXQmZvT2ZpTWtGamdUMUdtUHg5Q1VCUDFzOUxkZXNYUVBSaTlaN2dnOG50TjhSMk91dzNLMXd0UmtVd0xiTzhDVVQ0bVA0UkxqSU5qVnhKOUlrWS1aMm82OGxJTWxuWXdtSTZkLTVkVVRNZWM?oc=5",
+   "summary": "Uzbekistan seeking to raise interest in new acreage after BP farm-in    Upstream Online",
+   "publisher": "Upstream Online",
+   "published": "2026-10-16T15:31:34Z",
+   "source_id": "gn-decom",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Exploration & appraisal"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-22T23:56:31Z"
+  },
+  {
    "title": "Nexans begins subsea cable output for TenneT’s LanWin2 project",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSFJDUEVxV2RUV0Zva0lVQTlLMUVXalcya0t2SkgwQ29tUFdoWWQ0UW11b3BEeEx5MjgzT0F1dHRpNkhYTzRWQlR2Ry1FZy1uN0k5TFp6THFYYlFwN2htNlI2TllLVUhFUFhlZ0wxeGUwU1NUcWlPR1Uza29veUJ5bi1RWl9QcXMt?oc=5",
    "summary": "Nexans begins subsea cable output for TenneT’s LanWin2 project    Power Technology",
@@ -2856,6 +3544,31 @@
    ],
    "projects": [],
    "first_seen": "2026-10-21T05:03:01Z"
+  },
+  {
+   "title": "INPEX, TotalEnergies advance Bonaparte CCS project in Australia",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4yMk11SnBKanRnaGRDdWxlamROc3kwcGJhOWpMU2Z1ZDVRWlhLMGk5STE0XzlMX2Z6UE5aVkJOakVBNHlGdGNFSmxiQWVRNXJXOUI0OEk4OV8?oc=5",
+   "summary": "INPEX, TotalEnergies advance Bonaparte CCS project in Australia    Trend News Agency",
+   "publisher": "Trend News Agency",
+   "published": "2026-10-16T12:19:23Z",
+   "source_id": "gn-ccs",
+   "language": "en",
+   "operators": [
+    "INPEX",
+    "TotalEnergies"
+   ],
+   "states": [
+    "NT"
+   ],
+   "categories": [
+    "fossil",
+    "other"
+   ],
+   "subcategories": [
+    "CCS & gas storage"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-22T23:56:31Z"
   },
   {
    "title": "We're not feeding poultry byproducts to our fish, say Scottish salmon farmers",
@@ -3110,6 +3823,25 @@
    ],
    "projects": [],
    "first_seen": "2026-10-21T23:57:52Z"
+  },
+  {
+   "title": "ACCIONA to develop 2 GW offshore wind transmission project",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZE1yVEpwYW1uZHI2OUtoWHZoeTBmQUxKeF9wdm1ZUVZMU21qUmE4cW1uR3VyOXZZejBWa2oySDBKOU1MQlo0N2k0cUVJVmc2bFBPMElzSFdyaUFNM2haeGh6Umg2bDVfbHpFUG41eFBkQ0tGMlpEUWRRalZWbDRZZzZTWVRLV1V6YmFBMGg4NVpycXVEVXAyUEpLWUQ?oc=5",
+   "summary": "ACCIONA to develop 2 GW offshore wind transmission project    Renewable Watch",
+   "publisher": "Renewable Watch",
+   "published": "2026-10-16T06:46:37Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-22T23:56:31Z"
   },
   {
    "title": "Milestones stack as Marinus Link construction begins",
