@@ -1,37 +1,37 @@
 {
- "fetched_at": "2026-10-24T23:03:48Z",
- "added_this_run": 24,
- "total_items": 323,
+ "fetched_at": "2026-10-25T23:08:43Z",
+ "added_this_run": 12,
+ "total_items": 335,
  "earliest": "2026-09-30",
  "errors": [],
  "per_source": {
   "gn-lng": {
    "in_feed": 49,
-   "new": 1
+   "new": 2
   },
   "gn-gas-policy": {
-   "in_feed": 43,
-   "new": 1
+   "in_feed": 38,
+   "new": 0
   },
   "gn-decom": {
-   "in_feed": 14,
+   "in_feed": 9,
    "new": 0
   },
   "gn-wind": {
-   "in_feed": 50,
-   "new": 6
+   "in_feed": 51,
+   "new": 2
   },
   "gn-wave": {
-   "in_feed": 6,
+   "in_feed": 4,
    "new": 0
   },
   "gn-ccs": {
-   "in_feed": 21,
-   "new": 1
+   "in_feed": 28,
+   "new": 2
   },
   "gn-aqua": {
-   "in_feed": 36,
-   "new": 1
+   "in_feed": 35,
+   "new": 0
   },
   "gn-fish": {
    "in_feed": 50,
@@ -39,34 +39,34 @@
   },
   "gn-desal": {
    "in_feed": 7,
-   "new": 0
-  },
-  "gn-cable": {
-   "in_feed": 13,
    "new": 1
   },
+  "gn-cable": {
+   "in_feed": 17,
+   "new": 0
+  },
   "gn-ports": {
-   "in_feed": 45,
-   "new": 4
+   "in_feed": 40,
+   "new": 1
   },
   "gn-minerals": {
-   "in_feed": 9,
+   "in_feed": 10,
    "new": 0
   },
   "gn-zh-energy": {
-   "in_feed": 32,
-   "new": 7
+   "in_feed": 34,
+   "new": 1
   },
   "gn-zh-wind": {
    "in_feed": 3,
    "new": 0
   },
   "gn-zh-fish": {
-   "in_feed": 45,
-   "new": 0
+   "in_feed": 41,
+   "new": 1
   },
   "gn-zh-other": {
-   "in_feed": 9,
+   "in_feed": 11,
    "new": 2
   },
   "offshore-energy": {
@@ -83,11 +83,110 @@
   }
  },
  "by_month": {
-  "2026-10": 322,
+  "2026-10": 334,
   "2026-09": 1
  },
  "note": "Append-only archive. meta.news_days_to_keep controls the site's default window, not storage.",
  "items": [
+  {
+   "title": "研究显示，中国科考船在海底电缆附近停留的时间长于其他国家船只 - Indo-Pacific Defense FORUM",
+   "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOVUlMMmtmSWVtcVpMeWl4UE9TQVQ2Y01uZ1RaZm5qaFYxOUstWFY4SDY5QjJ0ZmZCTXRZZEtncjdqLXAtZDRmOE9Udk1JdkxQNXNaTVZkN3YzRmZNSk4yMGtNSXZxZWVzOGlOcVpqY1hOal8tdlVvX2dFVTFHRTg0MjRia2FMc2tHZDl2bktqSnNCUDZJRnNOcDByMFZudzkyWEl4ZXZJbUpHRVJXU2ZpVWUzcDNROVpROHF5eF9FdXNPOGh3OXRBX0VPR05NanI4LXI5UVpwb0kydVVDT3YzTWFkRFZxaVF6cVVUa1MyM2wxa0dveGtYSkxBNXh4VWpWcEpVWV9DWkxCUkZLQnNRV2pQNG9ZeFZOc0pGRUxOR3lvY0lFc21kUlNMbVRqRnVFSlVqMl9LMEpXRjJHV09KSE0yX2p4Um9kTEE4M2FWZTNfTEx1SzV4YlBoby1GUFU?oc=5",
+   "summary": "研究显示，中国科考船在海底电缆附近停留的时间长于其他国家船只    Indo-Pacific Defense FORUM",
+   "publisher": "Indo-Pacific Defense FORUM",
+   "published": "2026-10-25T14:00:22Z",
+   "source_id": "gn-zh-other",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Subsea cables & interconnectors"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-25T23:08:43Z"
+  },
+  {
+   "title": "Premier visits Port Hedland, meets no vulnerable families",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbXhHdG1pYU96NC1xZy1JNFhhd0ZrNlVUNG9VVkY2dENuODEtbzZfSjE3cjFUaENsYkd0TU1BX0lUQ3FiR002OXVMYUhSZFBRemFJaVcwcllpTkFBRWNmeTIxdnN0RG41ZThNejUzSmx4M2Q2ODQyNC10ZW5nNXhvdTBYdGE5MVpMR0xBTjU1TWNGR3p1ZEV2OEVoVXd3R1B4c1N6MldpVjhENE11VDVEeDlTT3d3OTNLOThaT0puSDNZOF8wdlVMV24ydGZldw?oc=5",
+   "summary": "Premier visits Port Hedland, meets no vulnerable families    The Australian",
+   "publisher": "The Australian",
+   "published": "2026-10-25T07:04:04Z",
+   "source_id": "gn-ports",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "WA"
+   ],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Ports & LNG terminals"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-25T23:08:43Z"
+  },
+  {
+   "title": "QatarEnergy in Talks to Buy Up to 3 Million Tons of LNG From Woodside",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS3ZDMXdGTVhtTTc4N3l1azA2c3dkdVZ0RG9NWmoyTmlwRU9zdHA0d1lObGZSdkp0TW5XX1V3V0tPcVRCZWdvYVB4X3pGTmlJd3ZJZHFlcWhqMENfbXRlRGx5eWoxRjlfYi1wdWh1UGVlSEwtRVJPMTJJc0NkT1JZTVJPQXZsLTlRODdpSVBwVzJ6Z0d3djdwQUFDNnhaeGQxLVE?oc=5",
+   "summary": "QatarEnergy in Talks to Buy Up to 3 Million Tons of LNG From Woodside    Egypt Oil & Gas",
+   "publisher": "Egypt Oil & Gas",
+   "published": "2026-10-25T06:18:37Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-25T23:08:43Z"
+  },
+  {
+   "title": "Singapore yards chase profit from Europe’s offshore wind push",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOVF1b3JiaGNDVUFNQU9DR29BRkNHREh1bUpNbVRNQWx4TjNiSXZSMzBlSlFpeTMxd2N0RUw5X0pzWmZDM0NXY01FV19jc3ktRURmNzd5WnhRZUV4WmNOaUlqbEY3Uy1VQzVNVVlfS1pjSWpYeVFoN09IUjNtaGtjNWxaNmwycnlQZDc1QjNHOGg2U21xaE92VnBWRm83aE0?oc=5",
+   "summary": "Singapore yards chase profit from Europe’s offshore wind push    The Edge Singapore",
+   "publisher": "The Edge Singapore",
+   "published": "2026-10-25T03:00:36Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-25T23:08:43Z"
+  },
+  {
+   "title": "澳大利亚龙虾48小时上餐桌，每天300万个包裹发往全球，全靠珠海这条跨境物流通道",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE14LW9EbEpnckV0bTUzc1BCM0xPQzJsU3dkNW93dk5td2s5WEhSTmYzckdVanAyWkJxM0FidXhtY3BmUlJTUTlPM0NaT0tsbWZmT3VJMzJ5ZFhfS2U4OHlOdkxZX1NWbjlQc3A4WFVhb1NTSU05UHdv?oc=5",
+   "summary": "澳大利亚龙虾48小时上餐桌，每天300万个包裹发往全球，全靠珠海这条跨境物流通道    珠海网",
+   "publisher": "珠海网",
+   "published": "2026-10-25T02:13:00Z",
+   "source_id": "gn-zh-fish",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-25T23:08:43Z"
+  },
   {
    "title": "Trump Targets $6.2 Billion Offshore Wind Project Nearing Completion",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc2M1aVV0MllHTXRGLWhraWVRV2ZQYWltcC1wNmNqLURIUUlNOVhmeTJYWGxzaVFmeDZMZFJRdXV0MHRPZHM4SGVoLWJzamE4SWZSbjNFelpvYkd0Zi1ETlZrcTRhcEd4ODc2M0RzdGJsVXhIRjJPSjZGMThHZXl5Z1hVTUhvQkFWSHA4TW1KRXZxZUxyMnBPUW9Sdi1mNXhGNXJzZlJfb2J3NUM1Y21IZlJ0N1BKeVhzRkVRYjBfSlpoeW_SAcMBQVVfeXFMTnNjNWlVdDJZR010Ri1oa2llUVdmUGFpbXAtcDZjai1ESFFJTTlYZnkyWFhsc2lRZng2TGRSUXV1dDB0T2RzOEhlaC1ic2phOElmUm4zRXpab2JHdGYtRE5Wa3E0YXBHeDg3NjNEc3RibFV4SEYyT0o2RjE4R2V5eWdYVU1Ib0JBVkhwOE1tSkV2cWVMcjJwT1FvUnYtZjV4RjVyc2ZSX29idzVDNWNtSGZSdDdQSnlYc0ZFUWIwX0paaHlv?oc=5",
@@ -146,6 +245,44 @@
    ],
    "projects": [],
    "first_seen": "2026-10-24T23:03:48Z"
+  },
+  {
+   "title": "塞浦路斯政府在抗议后为马佐托斯海水淡化计划辩护——Cyprus Mail",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMl9kV0xXNFZPWW94MC1ubTBudUNDMzJwOVp0SFhuaWVnQk9IdHhrZjkxLVBNRVVYY0JuUVBVLUR5Z1hqMmNvengza2dHM1ZoRUpjVy1tc0pCY2pqYmFWalh5SjJzWUZyQXlqSW9vRGttb0hZYU83ZjlVQ1dDY0owZlBtcF9SRUZ2TDNEZ2hJdHkwZFNWcUhnV280ODBnU3Z2ZVVaUS1nWQ?oc=5",
+   "summary": "塞浦路斯政府在抗议后为马佐托斯海水淡化计划辩护——Cyprus Mail    UA.NEWS",
+   "publisher": "UA.NEWS",
+   "published": "2026-10-24T08:02:00Z",
+   "source_id": "gn-zh-other",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Desalination"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-25T23:08:43Z"
+  },
+  {
+   "title": "LNG将于10月29日盘前发布财报，一图速览分析师最新预测",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaFZ1WGVJWUhtcnlfWVBvRFJfZzVPUFRBSUlrbEI2YWtyQ0tLSDkzWEdCQW1UclM0Nkd5MXNVdFo2bURYSmtrXy0ySG5xa0tSV1g0TE5VemhKWExtMHgtc29EN0hzWVVrWWhRQnhDaW5xamFsODVObWFvZTZOenZyV1hjOUxJenZmNGNNZTVxZmpxcV84RkRQbHNOZ0d4V09oOHJ2ekx6Rm1CZVpMOEpPeA?oc=5",
+   "summary": "LNG将于10月29日盘前发布财报，一图速览分析师最新预测    Moomoo",
+   "publisher": "Moomoo",
+   "published": "2026-10-24T06:35:28Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-25T23:08:43Z"
   },
   {
    "title": "China's Datang plans to build Caspian Sea offshore wind farm by 2030",
@@ -408,6 +545,25 @@
    ],
    "projects": [],
    "first_seen": "2026-10-23T23:48:45Z"
+  },
+  {
+   "title": "Woodside Energy Group Ltd (WDS.AX) Stock Price, News, Quote & History",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1CMHVab3JyMFQ2WXJXeVJ2ZlU3QktKWXdBTlliQjhyMHR5LVpmMHpSbHN4X3dEcnlIVUlCNW9JcGJjcnJEOGE1alluWWRxWHF3Vy1nNQ?oc=5",
+   "summary": "Woodside Energy Group Ltd (WDS.AX) Stock Price, News, Quote & History    Yahoo! Finance Canada",
+   "publisher": "Yahoo! Finance Canada",
+   "published": "2026-10-23T09:12:59Z",
+   "source_id": "gn-ccs",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-10-25T23:08:43Z"
   },
   {
    "title": "CIP, Petrovietnam advance USD-4bn Vietnamese offshore wind project",
@@ -1107,6 +1263,27 @@
    ],
    "projects": [],
    "first_seen": "2026-10-23T23:48:45Z"
+  },
+  {
+   "title": "A Self-Cleaning Solar Evaporator Based on MXene/Aramid Nanofiber Aerogels for Efficient Water Desalination",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xN0VvdnRoYjdkTFFwdl9oaFZ4VG9pM0JzRHh4T2NucGx3MlBpNE9HQ2hSYnFHU0xYa2lMNkJxMWVNbExjU05kaHEyVDIyaFNXZG1YaW9OYV9Vbml2dVh3Vk43VUZLVmRDOEYxaUJOMXE?oc=5",
+   "summary": "A Self-Cleaning Solar Evaporator Based on MXene/Aramid Nanofiber Aerogels for Efficient Water Desalination    Wiley & Sons",
+   "publisher": "Wiley & Sons",
+   "published": "2026-10-22T07:00:00Z",
+   "source_id": "gn-desal",
+   "language": "en",
+   "operators": [
+    "Water Corporation"
+   ],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Desalination"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-25T23:08:43Z"
   },
   {
    "title": "澳大利亚IFM拟收购英国最大港口集团63.9%股权",
@@ -1916,6 +2093,25 @@
     "FOS-003"
    ],
    "first_seen": "2026-10-21T23:57:52Z"
+  },
+  {
+   "title": "Aker BP and Höegh Evi secure EU funding for North Sea CO2 storage project",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLVJ5RU5qTlRfeDFRUUt0TWd6TDdpWF9PekhJMF9YdElkcDIyY1k4dFNFalZfVjdMNW84S01CNjBEQWhqVzByd3FiWDdScUpCYXFsdVlRbkVqV0lyV0RRRDJmTnhVcWlfX2NkYi1JZHZfVkRaeG84OUVNUUg5b3JRcTIxMVNzRncwY2xQc1lmWnU3TFQ1RGV0QkE3Rm8?oc=5",
+   "summary": "Aker BP and Höegh Evi secure EU funding for North Sea CO2 storage project    Splash247",
+   "publisher": "Splash247",
+   "published": "2026-10-21T07:15:41Z",
+   "source_id": "gn-ccs",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "CCS & gas storage"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-25T23:08:43Z"
   },
   {
    "title": "China launches semi-submersible offshore wind-to-hydrogen platform",
@@ -3435,6 +3631,29 @@
    "first_seen": "2026-10-23T23:48:45Z"
   },
   {
+   "title": "Woodside resumes Scarborough commissioning work after protests",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWng4anIzZG82MUVVRWJaR2xsWVphV3BHOGQzZGpPY2YtV1M5TWQxQ0oxNlByMmY5RE11ZTRGdi00NW5ob2M1ODFVTDUwa2hsUHJnc1BQVVFhcnItMkdRS2xCTEp6TTRwbGUzTE1nNHBaTHJ3bERLb3FwaHI4TkpyWVhJWmFoWUlDS1FUQXZtQ2llbU9XUkpxdDkxYTl2SFBHaUhfUEtSZU8?oc=5",
+   "summary": "Woodside resumes Scarborough commissioning work after protests    LNG Prime",
+   "publisher": "LNG Prime",
+   "published": "2026-10-19T10:04:05Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [
+    "FOS-003"
+   ],
+   "first_seen": "2026-10-25T23:08:43Z"
+  },
+  {
    "title": "High-impact well in Norway returns small discovery",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOVhvdnhZMXNmd3FibDFUcGYzZEJNSlphMS0zS0dXUG54RmJaU1Rldk9ZRUhIT1JYZGtTMWp0QnA1MUVMbThpTXFQcUlsMTJYY295X0RTWWY4XzZ4LVpyaVhXS0lBZmdSNW9Zdk1qQ0dCbVRHNjBDUzU3WGNLM09nWnR2TjdxUEZuaHJ0S19zRUl2ZDMyX2R4b3BNVGpTYXRBNkREcUtxR3E?oc=5",
    "summary": "High-impact well in Norway returns small discovery    Upstream Online",
@@ -3452,6 +3671,25 @@
    ],
    "projects": [],
    "first_seen": "2026-10-23T23:48:45Z"
+  },
+  {
+   "title": "EirGrid finishes 2026 surveys for offshore wind connection programme",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMW9XdlF4V3FjVFdIYThJYTgwdUcwcjRTWXAycUE3dlNVSWxzdVY0S1o1OHBxekotM2NIRDVzUWtsU3RnVUlJX0poaWIyMWZWbU1UNlRxeVVDS3FJc0tZVkpTZjk5eEdfWjRIMTBlaXAtY3REUlVJZ1NFcTQtTXQ0OURncmpMU2hBZlM1b21XU3ZaelZDd2x3dFdFRjdlSUp5QUpMeHRremNTZnpy?oc=5",
+   "summary": "EirGrid finishes 2026 surveys for offshore wind connection programme    Renewables Now",
+   "publisher": "Renewables Now",
+   "published": "2026-10-19T09:28:18Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-25T23:08:43Z"
   },
   {
    "title": "伍德赛德能源斯卡伯勒液化天然气项目恢复调试",
