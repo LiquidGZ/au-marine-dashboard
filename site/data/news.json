@@ -1,69 +1,69 @@
 {
- "fetched_at": "2026-10-29T00:45:04Z",
- "added_this_run": 48,
- "total_items": 465,
+ "fetched_at": "2026-10-30T00:45:47Z",
+ "added_this_run": 44,
+ "total_items": 509,
  "earliest": "2026-09-30",
  "errors": [],
  "per_source": {
   "gn-lng": {
    "in_feed": 56,
-   "new": 14
+   "new": 17
   },
   "gn-gas-policy": {
    "in_feed": 14,
-   "new": 1
+   "new": 2
   },
   "gn-decom": {
-   "in_feed": 12,
+   "in_feed": 10,
    "new": 0
   },
   "gn-wind": {
-   "in_feed": 56,
-   "new": 11
+   "in_feed": 31,
+   "new": 7
   },
   "gn-wave": {
-   "in_feed": 10,
-   "new": 3
+   "in_feed": 12,
+   "new": 1
   },
   "gn-ccs": {
-   "in_feed": 24,
-   "new": 1
+   "in_feed": 21,
+   "new": 3
   },
   "gn-aqua": {
-   "in_feed": 33,
-   "new": 1
-  },
-  "gn-fish": {
-   "in_feed": 50,
+   "in_feed": 36,
    "new": 2
   },
+  "gn-fish": {
+   "in_feed": 28,
+   "new": 4
+  },
   "gn-desal": {
-   "in_feed": 8,
-   "new": 1
+   "in_feed": 11,
+   "new": 3
   },
   "gn-cable": {
-   "in_feed": 11,
+   "in_feed": 8,
    "new": 0
   },
   "gn-ports": {
-   "in_feed": 40,
-   "new": 5
+   "in_feed": 17,
+   "new": 0
   },
   "gn-minerals": {
    "in_feed": 5,
-   "new": 1
+   "new": 0
   },
   "gn-zh-energy": {
-   "in_feed": 27,
-   "new": 5
+   "in_feed": 19,
+   "new": 3
   },
   "gn-zh-wind": {
    "in_feed": 1,
    "new": 0
   },
   "gn-zh-fish": {
-   "in_feed": 7,
-   "new": 3
+   "in_feed": 9,
+   "new": 2
   },
   "gn-zh-other": {
    "in_feed": 8,
@@ -83,11 +83,791 @@
   }
  },
  "by_month": {
-  "2026-10": 464,
+  "2026-10": 508,
   "2026-09": 1
  },
  "note": "Append-only archive. meta.news_days_to_keep controls the site's default window, not storage.",
  "items": [
+  {
+   "title": "Qatar becomes the largest customer for US LNG.",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTmxSRXlLaDJaYlh4MHVWVmhFRDM4ak9FU2gwN3NEcHJhQlptRENxYzRWZEpteDlySVVvNXFRbjJSaUpxZHNJZWZhcGdFaVdDVXMwUGpIRTZGRjVRMEVETU8tSWdlM0p1eEN6ME1GY0gwRGtoWVhLYlloQjlEb1F5MUlDWFhaQ0E?oc=5",
+   "summary": "Qatar becomes the largest customer for US LNG.    Vietnam.vn",
+   "publisher": "Vietnam.vn",
+   "published": "2026-10-29T23:53:41Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-30T00:45:47Z"
+  },
+  {
+   "title": "‘It’s a great catch’: Seafood sector backs EU free trade deal",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVmJtZHFYOXEyZ240QnAxY3hlMUdJUDR6UkUtTDV1cHBYbHNCZjZfZmdvazVDT25vR1ZGTGZfRHZtbnlpQXlweUptdzZ0Z2YtUzZEZ3F4MDU1V041RDE1NjdGSXppaU9UUVdickwzTDcwcU5qc1BpU2ZhcjUyWWtDMkFlRWhZQXl3UkM3emdoNWlBdzlqODU3WnhDUTdWeG5lOUpIc0xhS0l5ekIwWnRSN0hVWXl0TXNkcndLVkpkd0pRVGtLY1M4V29mQ2gyMU0wMTViaFBwWUs?oc=5",
+   "summary": "‘It’s a great catch’: Seafood sector backs EU free trade deal    The Australian",
+   "publisher": "The Australian",
+   "published": "2026-10-29T23:33:31Z",
+   "source_id": "gn-aqua",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-10-30T00:45:47Z"
+  },
+  {
+   "title": "Australia's Santos slammed after flaring during offshore hook-up and commissioning at Barossa field development",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWXA1dHdlRlZXdDVrV1lIQkJQRlByRF91Qm4xNnd3cWRUWjRjczJON210X0Via05BRDhYNEdaa1RKR0JsT2Q1Wm9zR0RwTWVYb0thMl9wR0thOVRHYU1UdWlzTWcxS3BhZE9pUWVxcS10Qlpxa3k2MC16dGh5NnF1cnVESmpBLWJkY2RVa3paa0RYOF8yNTYwR3RleWJOUEo0SURmUmNBUk5WUHJRMXlhWHRkMHg5dWJrU0txejdKYW96UQ?oc=5",
+   "summary": "Australia's Santos slammed after flaring during offshore hook-up and commissioning at Barossa field development    Upstream Online",
+   "publisher": "Upstream Online",
+   "published": "2026-10-29T21:43:06Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Santos"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [
+    "FOS-014"
+   ],
+   "first_seen": "2026-10-30T00:45:47Z"
+  },
+  {
+   "title": "霍尔木兹海峡中断事件：卡塔尔成为美国液化天然气最大买家 - Al-Monitor",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYTlYRlNOb0QycEh5alJPeDY3THk5RnhKa01VWE50U3RBRlhoenBPeVRjV1NDdTBhaDFCX3JrSFpQVkVQU3BEdkhXTUI2dlBsbFZNMVJRMGs4V0Q5NjAzQjRfX25KMFhZWG1OVklzR2lBdWpRbHlSVG94Yk8yclg2OU9SbjBnR3BaSERlbmhCNlYwVjZXZTB3ZXd0QXJ6SEtjLXlrRXRoVHdUcjk3RWZTaDJ3ejVqZ0I1MWRSMmtWTm96bUt2NnVRNQ?oc=5",
+   "summary": "霍尔木兹海峡中断事件：卡塔尔成为美国液化天然气最大买家    Al-Monitor",
+   "publisher": "Al-Monitor",
+   "published": "2026-10-29T20:36:05Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-30T00:45:47Z"
+  },
+  {
+   "title": "Qatar becomes largest buyer of LNG from US amid Hormuz disruption - Al-Monitor",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQkZTVHdpcUV6bGl3ZTJUN1BZdjNsc2N2YWdSemFrSkNOSDVDeFFkRmtlX19UeHZpT2VhaUVleDBCRWhUdnByZDNBSEV4V29VZ3JyMFBVYTNlQk1obGxTLThWOTRRbWlQUjlkTXJ2cURYZUR1SkJqOHR1Vnk2MHFXMGZmMGpkd1BLZloyZnZsZllleGFwYWUyblM3NGViY0l4ZW5JVA?oc=5",
+   "summary": "Qatar becomes largest buyer of LNG from US amid Hormuz disruption    Al-Monitor",
+   "publisher": "Al-Monitor",
+   "published": "2026-10-29T19:54:39Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-30T00:45:47Z"
+  },
+  {
+   "title": "Staggering multibillion-dollar riches desal plant can bring to SA",
+   "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPSEU3Y1I5RldPUzJ2aFZZR2dDVE5ib0E2SUtpdXFVWjhVNmZWUXA3SDRKLS1QcUNWZTZldlhERFlVbEkwYldLVGhJdTNLeHNKMEVJUGZKRDF1S2NBSGwxb1hzV1dhQjgwRnJsNkFyUl9TQU5oWGZWNlJlLWpBZUc2dkhadjRtcXNsUW96X1FXN2ozYmhDMUxfSFB2ZVE2LUdPVVlSRzc0T2JpNGE5cmdnUEk1aHpLMVBQZHk2XzBZY28xS05HVmtfODdxMWhHcWJRUkxGU1BUbWJSUEtyYjBCRGdxSDZaS2I4RTJVOHhsWGtUY3RQSjZ5RWxFWl9hYW04ZnFPQkJTN0Nzb1dhMTkwN3Zfc1Rtb3gyRHBNbA?oc=5",
+   "summary": "Staggering multibillion-dollar riches desal plant can bring to SA    Adelaide Now",
+   "publisher": "Adelaide Now",
+   "published": "2026-10-29T18:32:34Z",
+   "source_id": "gn-desal",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "SA"
+   ],
+   "categories": [
+    "fossil",
+    "other"
+   ],
+   "subcategories": [
+    "Oil & condensate",
+    "Desalination"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-30T00:45:47Z"
+  },
+  {
+   "title": "QatarEnergy Reportedly Buys US LNG To Hedge Against Hormuz Risks",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc0NPV3RwS18xNWstUy1CSUlibkt5MExkbXRKSVFsSnVOOE41TDg1Q3JtRXdIblFjS3diMEs1VUMtWk55dU44QzZIaFdQaFA4RWk2MmdUU0JYbl9JSXFqLUZGVTlNMVhzbHQ3UnkzSGR1MGlMUGlLNlZJQ0pRbHJkaXRTbExLU2g4VVo5UkNOT3A2UEtXQTlvTl9XVU9uWFd5aGdGSGFlRDN1Y2hYQmlOWms0OUxmZw?oc=5",
+   "summary": "QatarEnergy Reportedly Buys US LNG To Hedge Against Hormuz Risks    Forbes Middle East",
+   "publisher": "Forbes Middle East",
+   "published": "2026-10-29T17:02:07Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-30T00:45:47Z"
+  },
+  {
+   "title": "QatarEnergy Expands US LNG Portfolio With Woodside Deal",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZaEM3V2lOMDBxcGpLQm9OX3MxaHktWWlhWVdVQXlSTEdOaWsxQmNyNzF6OWdBZm9qRExfaDFlbmYwOTVEVjNlVWNtcGlOa3VFenhNS3phTUc5aEpLOGNHS05zSWFDVzB3SVpnYU9HelJ4UQ?oc=5",
+   "summary": "QatarEnergy Expands US LNG Portfolio With Woodside Deal    Energy Intelligence",
+   "publisher": "Energy Intelligence",
+   "published": "2026-10-29T15:56:36Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-30T00:45:47Z"
+  },
+  {
+   "title": "QatarEnergy to Buy 3 Million Tons of US LNG Annually From Woodside",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWERHQW84UW9JTHRhMUsxVGcwRUlhSXVjY0V6aUI1aGZicUs3ZEdxYXFLVUJUbko3dk9UR2ctRy0wb085YVI2NnBOUURjb2xKNzJrajJ2cHByajNyZC02X3YzYkF1U1Y3V1puUFVkeG8xQTZDbVNNOU8yM1BfZzI2QV81ejRnQ0t5cnBBRmhDWVhsLXcwOGQwNnNBd2R0dw?oc=5",
+   "summary": "QatarEnergy to Buy 3 Million Tons of US LNG Annually From Woodside    Egypt Oil & Gas",
+   "publisher": "Egypt Oil & Gas",
+   "published": "2026-10-29T14:00:48Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-30T00:45:47Z"
+  },
+  {
+   "title": "QatarEnergy to buy up to 3 million tonnes of LNG per year from Woodside in the US — The National",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd3lSTUc5eGRhX2NQektoRjFyelNqS2lnX1RjVGhRTXpMQzM1eUZuek1IOEFrNzUwbFgzaFlnWDBmMjl2Z3hSd2JsTFh5Yi12OGs2Y3FMRUVDQTZobGdBM19hUDRRUV9NOWtBYjdRTHBvZ0d5a3NZUXlyNGtISndnbFhZZXFOUkw4VVo2T2czTWJLM01sYWpuallQb25oRUh0a285Y0tmaWl1Qm8zb191aDVoU0d0YUk?oc=5",
+   "summary": "QatarEnergy to buy up to 3 million tonnes of LNG per year from Woodside in the US — The National    UA.NEWS",
+   "publisher": "UA.NEWS",
+   "published": "2026-10-29T13:33:16Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-30T00:45:47Z"
+  },
+  {
+   "title": "Woodside signs very long-term LNG supply deal with QatarEnergy",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPLXN5REM4SnhEZEdvYllKc09KLUo1bENUQ0JpOFdvR0ZKUlRTTTh2TldnVmNCRGdIUi1ueW9ZUkROWFFxM0dXa05CaTZiVUIxNFEtMjl6dFQtUkVBb2J6NG85NTdaTTloUGEyZWZxQ0hSc0t5VDQyUkxLUS1aR0VyUXpPS3c3bmwzVGJtdkROWWRZdw?oc=5",
+   "summary": "Woodside signs very long-term LNG supply deal with QatarEnergy    energynews.pro",
+   "publisher": "energynews.pro",
+   "published": "2026-10-29T13:17:17Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-30T00:45:47Z"
+  },
+  {
+   "title": "QatarEnergy signs 20-year deal to buy US LNG from Woodside",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcEF2bEdiUVZLaXE2QTNsZjVaZDBqVVR0T3NIMmQzYXU0VGRFaWQ0clUzU0lscHRWWVVzczhCREVLbTA1ZzRlVktHM1JFYlFNOXp5XzdUNURCX0xKdE9INjNwa3IycWt6WWxSeHgzWldkeUlrNk5GMzE2b0xjNUtGeDFodEwwLU42WW1LNEZnNktvTkxEeXJ6aVNUZXVhZlFjWEM3MnhPVdIBrwFBVV95cUxNLXFsblJnWnBrdnFSa0tGazVOeWJ5X0dBcWlNdG9ySC0wOFRlUkFacUh4Mk9HOWJlTlVpMzJjTFUyMEg0clJveGtjR1JvQVBEMlVWNlQ1cmU1OWdoR0djQ1k0NU45WE9jNGlOQmR5UXJSV2QzU09HVjBxQkpXTXFKRWd4cVF2X1owLUoybmJKVHZDQWdxSWdXTlRmR2thS1FXcklPVnNSRlBRRlRJQ0hF?oc=5",
+   "summary": "QatarEnergy signs 20-year deal to buy US LNG from Woodside    Anadolu Ajansı",
+   "publisher": "Anadolu Ajansı",
+   "published": "2026-10-29T12:34:17Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-30T00:45:47Z"
+  },
+  {
+   "title": "Japan Joins Forces with Siemens Energy for Floating Offshore Wind",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQM1NxMnAwNTdUeG1CUGFNb1JiN0QydDJBa2NLeFE4dkVXWkd0cC1Sd09oSUV1M1BpSnk4UEZLN3V6QTlLVFIwZzlEa20xd0NueU5uSmNzMVVwbDFmOTNxZmlkbHBxSXB1SzV1ZEhqVWZnY3p6cFhERG83UFFWa2VSWndkNktIcUY1SVhUY2JHZlVmRnlnT1liTnUyc1laUkhMclRPZmVR?oc=5",
+   "summary": "Japan Joins Forces with Siemens Energy for Floating Offshore Wind    Offshore Engineer Magazine",
+   "publisher": "Offshore Engineer Magazine",
+   "published": "2026-10-29T12:17:50Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-30T00:45:47Z"
+  },
+  {
+   "title": "Woodside seals 20-year US LNG deal with QatarEnergy as Hormuz remains blocked",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMDM1V29hemFob0FaZ0M4VDBqNXpzbTM4NHk0MFBOcGg0NmE5alpHVWVnSjVWUHYyZFJJWlBkQVZ2OEZkeGZyTklnci1Cb0NmZHFHMmkwN3h4bFE1OEY2YkdEWnh6ektJWXBPNnR2UTlEdnZlMWtCUlo3eC1udzBmTzZqeFViRkloR3plYlRUTG5qUUx1Q0RqNDlKSHVHVkpILVFsNjB0cU5OZlh4YlpZNEJFdzNWZ3JEcnB4VVJRV19RcG9fZFlj0gHUAUFVX3lxTE03alJCLVJhN01BSVNfcGVNbDdfWHY1LW42MEJxNkk3Y2l5Z1VZcUhVa292RlpmdlhWSGhjNnQtcGMxZUU3LWJJOG5kRFlaWXZLaHF5dXJRSVNnY1NDWFdJTWp5SlA2czRrOGxsTF9OQ0VOWWxnR2VsVUVRSG5ZUGVURmF3X291SEcwcWpoM0tOdDVaVlZzUjhyWS00YkxIMzB2ckY1UWc2Y2N6aXR3M0RUSEV4QzRldkZDZHh4UF9lOU9abTlUTk95TWZaS2c0eFlNeEZP?oc=5",
+   "summary": "Woodside seals 20-year US LNG deal with QatarEnergy as Hormuz remains blocked    Baird Maritime",
+   "publisher": "Baird Maritime",
+   "published": "2026-10-29T11:43:43Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-30T00:45:47Z"
+  },
+  {
+   "title": "QatarEnergy signs 20-year LNG supply deal with Australia’s Woodside",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVzRxOWx5bUR1VWZMS0tONnRrMk5fVmxZeWpPd0pFbFJFbXRza0xfVm4zWmRPdmpFY2UxVWxjN0xCc2J3V0ZvMkhzRGZqUFFLRHFGcVJXbkkwWm5OU2k4bnBTZ2tlamZ2LTFIRjg4WkFlV25lUzM3WU5MTWEzejQ4MGRvTnltb1pEeWlZMi1fajA?oc=5",
+   "summary": "QatarEnergy signs 20-year LNG supply deal with Australia’s Woodside    Doha News",
+   "publisher": "Doha News",
+   "published": "2026-10-29T11:00:26Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-30T00:45:47Z"
+  },
+  {
+   "title": "East Timor seeking new partners for gas field after Woodside exit",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZE5abHg5ZklGODFja2RiNDJPNk1PNXVuVWJpLVJuamVjSGdWMWFmNF9rUFZTclJ3UkJxRjRWSTJYdnV3ejN3R243bHJwVzJlWk5TNThOZ3FtdkxEYlZ5Vy15QlNhVmFKMWdYbDZ3OEJUcFc1M1REZzJxOTJzMWYyOXV2Tk1DdGlETlh4ZDhjVWJuN3pOUld0TkFoWHBRa2ZXWmY5M2NOSXRhdGlXUkZFNy1sYw?oc=5",
+   "summary": "East Timor seeking new partners for gas field after Woodside exit    Reuters",
+   "publisher": "Reuters",
+   "published": "2026-10-29T10:59:43Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-10-30T00:45:47Z"
+  },
+  {
+   "title": "Woodside与QatarEnergy签署为期20年的液化天然气承购协议",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWjdkYUxwLXV3Zmw2bVI2Sm5ieDFfVkFUcDhjR1pFRzY5UVVzTW5SWDZqeXZDOTN4UTNQVWhIVGJfMkE3Z3R5aWhQNkE2TUY5N3YxWGtyQ0NoOUdJYUtrZTh3b3ppeEFlY3c1LUJVM3pXRlQ0a0VLV1Z6Qll0OXJnaGdTRC1ubm9FWmplRElveTV4YXRGdWpoZTFsRXdZd3BEZW1wUGZOU2huRGdMMnRB?oc=5",
+   "summary": "Woodside与QatarEnergy签署为期20年的液化天然气承购协议    Moomoo",
+   "publisher": "Moomoo",
+   "published": "2026-10-29T10:38:40Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-30T00:45:47Z"
+  },
+  {
+   "title": "QatarEnergy secures 20-year US LNG supply from Woodside amid Hormuz blockade",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZlJsZ1paSVVKMEhPR216c2tCUEhhd29KbWpVZ0xhSnl1c3huNXFEQkZGWEFrVm9DMDh5TUlnd0FjWGZORmNId2NUbWtnQUhfWUluWU5ZQXVfQWlWcG1VeXcxR0lhUWRDV3FkeWkxSGlOcTBfcEZaeFIzalJTWWl5X3ZsZFA1TGZiOFZ1dzByM0lzT0hNbXJ2bi1RYW1ROERYdFRkeUQyVV9OUEhaUGxLUUhicTZhYlUyZmd3WnBxMA?oc=5",
+   "summary": "QatarEnergy secures 20-year US LNG supply from Woodside amid Hormuz blockade    Reuters",
+   "publisher": "Reuters",
+   "published": "2026-10-29T10:32:42Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-30T00:45:47Z"
+  },
+  {
+   "title": "QatarEnergy locks in more US LNG through 20-year deal with Woodside",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWWc2U1BGWloxdzhjai1NR0QxaVJUN2Z4R1kxbDdSYmlQZ0dQZkNpclJ3X2lKYkZvR0xKNG5tM3hHZWxzbkNpVC0tMXU3LXZscnNsTHBmTXFUU09JazY5bmNHam9OVm9nME9QQXZwRzdxZWVkQ09zSUx3ZzNUSDhNN1R6Tkd2ZTRsM2dUVG43bHA3bkxxRGgxdFk3TkJKaW45VHRhMTh0eWhUWXZvODlN?oc=5",
+   "summary": "QatarEnergy locks in more US LNG through 20-year deal with Woodside    Offshore Energy",
+   "publisher": "Offshore Energy",
+   "published": "2026-10-29T10:10:07Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-30T00:45:47Z"
+  },
+  {
+   "title": "Industry calls for national safety reset as road deaths rise - Australasian Fleet Management Association - AfMA",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYTE1MXh3T1dwNFpNVzgtVjdUMm9ueEZyQklXN2ZkaTRxaW1PUEU1SWJxWExfWDREV1YydTFUYlVrTm1sUWtxUlBKeDBzMTBHZl84ejhPNm94NWlUVS1OSDBZOUpqTkc5eUZDUnZySnlkenFKa0I0VVFTYUZEVUw1NG5YXzN4ckdO?oc=5",
+   "summary": "Industry calls for national safety reset as road deaths rise    Australasian Fleet Management Association - AfMA",
+   "publisher": "Australasian Fleet Management Association - AfMA",
+   "published": "2026-10-29T10:09:34Z",
+   "source_id": "gn-fish",
+   "language": "en",
+   "operators": [
+    "AFMA (Commonwealth)"
+   ],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-30T00:45:47Z"
+  },
+  {
+   "title": "Practical ways to improve your fleet fuel efficiency - Australasian Fleet Management Association - AfMA",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90dXZDVnd2UEcwdEx5ZkI2WjRXQUE4Sk9CWVNoa1BHSGJuNTdfQVJQVFpmR2FYM1d2QWJCcFM5dFdwR2gyMGlzZFlFdXM1cGJ2eHBUWkoxTWZVa09sd1k2U3R6RTJKVi1jMFVoTjNORUdnQmVsbEZaNFl0YTVYZw?oc=5",
+   "summary": "Practical ways to improve your fleet fuel efficiency    Australasian Fleet Management Association - AfMA",
+   "publisher": "Australasian Fleet Management Association - AfMA",
+   "published": "2026-10-29T10:09:34Z",
+   "source_id": "gn-fish",
+   "language": "en",
+   "operators": [
+    "AFMA (Commonwealth)"
+   ],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-30T00:45:47Z"
+  },
+  {
+   "title": "Australia's Woodside inks 20-year LNG deal with QatarEnergy",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNODFuSzUwRXNobzMyanIxU2pNb3d0SUpKakhPdTJOemZGSjdwTS1za1VRQ2hvZl9PcEVFYWpLMzZBQjgtbzlueG9FWWV6OTM1dU1aUkdDcjBmSEdGaGtMTUtudWVGRTVfWFJldGtSRzU3cjZrNHVKcEdBQS1vcVpEdWlmVlpRcHI0TXJrM2RkTHJoVkxNWmRaTnRybENIcTIwYjk4TzRvR211ZjZyWlhLQ0x3?oc=5",
+   "summary": "Australia's Woodside inks 20-year LNG deal with QatarEnergy    marketscreener.com",
+   "publisher": "marketscreener.com",
+   "published": "2026-10-29T09:34:41Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-30T00:45:47Z"
+  },
+  {
+   "title": "Japfa expands tropical aquaculture research through Singapore partnership",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMUZKYUNZdXoxajZ4Q3NhZldtZGRNcEZHRGVGeEE2SjVFTGVZV1BETGpmcWNyWWhKcHh4TE9TVFhPdVE4cXlyRHlLMkZxNVRzaHNUdTdsNDlFUTNzRDlUWm5TNWlmOFM4V2xaNVlzc3o4UkctMzdmVEZCVTVWRDhEdjFZMld5bHZGTUt4M3ZoaS1mX0tiZXBBek53YTE2Umhub0ZGRW1uOEJXT3FmbmlMcWFB?oc=5",
+   "summary": "Japfa expands tropical aquaculture research through Singapore partnership    Aquafeed.com",
+   "publisher": "Aquafeed.com",
+   "published": "2026-10-29T09:33:53Z",
+   "source_id": "gn-aqua",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-10-30T00:45:47Z"
+  },
+  {
+   "title": "Woodside Signs 20-Year LNG Supply Agreement With QatarEnergy",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa2ZhY09oLVliSFV1cG9pVkdERlJ5QWtIZkF1Rm5uNmkwM2ZWTmtVcldTTjc5ZGcyRTMyS3VtV0R0X0RnVTNsQ2N0UWp5bXhXZ21nVGpFNHpnZW8yVmJBS1h6Qk41NllrZjZxY3FpMEk3bHlnc2stMDVZY01nYkxzX0xPRkl2aHF5azdDT2ZJZTVnVW4xdWlhWGlqcEdRS2ozZUZROGNhekFWNkNBZFBNbzVGYko1Q2dW?oc=5",
+   "summary": "Woodside Signs 20-Year LNG Supply Agreement With QatarEnergy    Business Wire",
+   "publisher": "Business Wire",
+   "published": "2026-10-29T09:12:00Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-30T00:45:47Z"
+  },
+  {
+   "title": "Australia's Woodside to supply QatarEnergy with Louisiana LNG in 20-year deal",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSWVwRlNlVXN6WGxpeTR0SFhIVnpyV1FxbmxESktfSVNNeDY3ck1KT1g5cGxmWUxwZlpzcGRndzNmaVFlTGpGYkFQTENmTm9iR1ZuN3pZeGlWWk1BWWhKRzhWWVJ3aTBnajM1Nnh6OG5OWm9Eb0pXeGpEemt5MGNwY3BFdXI4N0Z4R3ZQRG82RnM4N2NFdERhQmZEcTNrSzhSZ1JxWDJGZ3Bpc3ROTF9McWdUTUt1MUp3N0phSWluUWhmQXFmcEpjcnc5NGlfV3hqZ25iZGdSZVROSHdXV2tNcw?oc=5",
+   "summary": "Australia's Woodside to supply QatarEnergy with Louisiana LNG in 20-year deal    TradingView",
+   "publisher": "TradingView",
+   "published": "2026-10-29T08:31:02Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-30T00:45:47Z"
+  },
+  {
+   "title": "Germany Considers Letting Developers Return Awarded Offshore Wind Areas",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNM0g1UzVjWDhhZThIekROajBzQzByRkJPNURRbllzc2djdnJab2ltUVpOczB1akVsRHlmNU9hd0JZdnhJWFVXNXJFdGlUQzBWVlVIcUl1M1VvU1Znc0tHZ2xKemtfcTlfM0RSZ1RUT19nTlE5SnRONVdTNVhEYXlPN1VldmVtbmtsSy01Y2NjS0lhaHYxb1I4Y2o2bWlEQQ?oc=5",
+   "summary": "Germany Considers Letting Developers Return Awarded Offshore Wind Areas    energynews.pro",
+   "publisher": "energynews.pro",
+   "published": "2026-10-29T07:32:07Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-30T00:45:47Z"
+  },
+  {
+   "title": "卡塔尔能源将每年从伍德赛德购买最多300万吨美国液化天然气——《国民报》",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMnM4SkU2RW5MMGNxMVh4SnFEdUQtYS1zeGpXblZGZnRPcG8tZUNOOV9ZdnRVM1RRaFZ0Qm9YTDU2RnJ4WUxxVjJ5RVRLeTJac3FBZnhBLXJyT0VGRGtSeWlIVjhVQmxhM0ZjVFAxdjdnT0NSWm9wNXM1N25HQ1dQaWdrSHA0QnNncXZ3Nm95SDFXUDg4azlEb0Y0TldHT2xSSU1ZTTJsR05rX3RrUHlPN19sNTBteVk?oc=5",
+   "summary": "卡塔尔能源将每年从伍德赛德购买最多300万吨美国液化天然气——《国民报》    UA.NEWS",
+   "publisher": "UA.NEWS",
+   "published": "2026-10-29T07:17:00Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-30T00:45:47Z"
+  },
+  {
+   "title": "EXPLAINER-How could the oil spill off the UAE coast affect desalination plants?",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTmRLa2gwTGNKR2dVcUFDWEZ0cDVkRUxiTlpIdWVsZW42ZVRCdFF3UFRYdTlfRTBHd0g5Vl9ndE4tNmJGWXNRWXZzUmdpRUd2RXNOdE5LdkpvNnhmT2JYOE5tNUZFRzdiRHJJM3NNVUo2TktmeEtXOENGNVhRdFJ4RnBsWmpQWDg4WUFXUXFnYUx5Rjc4dXZKQ3MxRDZ5a3psWkJoTEw4MGpZZThPRDl6UG9KcU1iWUtmTi1ncHpGbi1kdHB5dmNaaW9CUEdKUEJBcmhoRVBkSVXSAdgBQVVfeXFMTU5kS2toMExjSkdnVXFBQ1hGdHA1ZEVMYk5aSHVlbGVuNmVUQnRRd1BUWHU5X0UwR3dIOVZfZ3ROLTZiRllzUVl2c1JnaUVHdkVzTnROS3ZKbzZ4Zk9iWDhObTVGRUc3YkRySTNzTVVKNk5LZnhLVzhDRjVYUXRSeEZwbFpqUFg4OFlBV1FxZ2FMeUY3OHV2SkNzMUQ2eWt6bFpCaExMODBqWWU4T0Q5elBvSnFNYllLZk4tZ3B6Rm4tZHRweXZjWmlvQlBHSlBCQXJoaEVQZElV?oc=5",
+   "summary": "EXPLAINER-How could the oil spill off the UAE coast affect desalination plants?    Devdiscourse",
+   "publisher": "Devdiscourse",
+   "published": "2026-10-29T06:00:21Z",
+   "source_id": "gn-desal",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Desalination"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-30T00:45:47Z"
+  },
+  {
+   "title": "Bonaparte CCS enters FEED as INPEX agrees to buy Woodside’s 21% stake",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDczlRMUlEV1ZfeDVrZThZMG5hVG9rMlJfMG9yMmJhZXBFdlNaMTh5NjNDekdlcGw0bENwNDhuWjhXQVNmRXE0cGNDRnVGSlZZZTk2NHB1RXZ0U0xLajdiZnBmc09majdfNXFGTHB6UngzUS1CZVNaaw?oc=5",
+   "summary": "Bonaparte CCS enters FEED as INPEX agrees to buy Woodside’s 21% stake    Oil & Gas Middle East",
+   "publisher": "Oil & Gas Middle East",
+   "published": "2026-10-29T05:56:51Z",
+   "source_id": "gn-ccs",
+   "language": "en",
+   "operators": [
+    "INPEX",
+    "Woodside Energy"
+   ],
+   "states": [
+    "NT"
+   ],
+   "categories": [
+    "fossil",
+    "other"
+   ],
+   "subcategories": [
+    "CCS & gas storage"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-30T00:45:47Z"
+  },
+  {
+   "title": "Govt faces battle to keep WA in national gas reservation scheme",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZE9lTWoxVEJyZG8tbkk3YTZVMHVmZjJvREIzUEQ3V1M5bkJsczZiZVR4MGR6YmdpTThwR09SV0dlZHlXNkx4XzgwVDFCRnFVVHQ0SEJyUm9LQ2xQRFNENWo3NUl0WTZnU2JZT3BnSEpBUDJQdk9IOFZUVG1FSkprVWttN282SnFRYzNVc3BWVXNzSzJOQmw2ZEtlcTZrX3lwTFJPNktMam9CS2hPT3BV?oc=5",
+   "summary": "Govt faces battle to keep WA in national gas reservation scheme    Energy News Bulletin",
+   "publisher": "Energy News Bulletin",
+   "published": "2026-10-29T05:43:56Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-30T00:45:47Z"
+  },
+  {
+   "title": "Bonaparte CCS project offshore Australia enters FEED as INPEX moves to increase stake",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTGFmWkV2eW9vYXVaMXpfRW5LRFp5elZqSm5HRUdUSEV6U0ZzdzY0VjZ6NVNVV0F2NWROYkM5U3B5MEE1eFlXa1U0X21Pa3l4bXNtMjExci1nY2ppWW9oOEpqUHoxZnZuUEhFWW9STWpZVU9OeG9nQlQyTDl6SlZKLTAxNEZ2azExRFlKRUdKMllsOTB2T1BSMDlOdHBXUjJyWm9RckxndUg0THpyNzU3bFZQUE5nZGZEa0Y5LU8zWEw0cGlKN2ltQWVST3FxLTA4QnJrbWxNby00RTNPN3gxQk1mYnlaaTA?oc=5",
+   "summary": "Bonaparte CCS project offshore Australia enters FEED as INPEX moves to increase stake    Offshore Magazine",
+   "publisher": "Offshore Magazine",
+   "published": "2026-10-29T04:56:50Z",
+   "source_id": "gn-ccs",
+   "language": "en",
+   "operators": [
+    "INPEX"
+   ],
+   "states": [
+    "NT"
+   ],
+   "categories": [
+    "fossil",
+    "other"
+   ],
+   "subcategories": [
+    "CCS & gas storage"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-30T00:45:47Z"
+  },
+  {
+   "title": "Australia to launch its largest commercial V2G deployment - Australasian Fleet Management Association - AfMA",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS2QyVDB0M3VNMHVGYW9YQ0FOc1JZVVo1M3dKbkVQRGlNTHA1V0R1ZlRNM29VRGFqU0tnTWg0LW5VY0RSWkQzZXUwb1h3RTlvbGRmRk1YWGpaaWU1QVlZR2VzVnI4QnVLMzNjT0RrZjZnakQ0R2J1M1JqdWtfN2pIR0c4c08?oc=5",
+   "summary": "Australia to launch its largest commercial V2G deployment    Australasian Fleet Management Association - AfMA",
+   "publisher": "Australasian Fleet Management Association - AfMA",
+   "published": "2026-10-29T04:33:42Z",
+   "source_id": "gn-fish",
+   "language": "en",
+   "operators": [
+    "AFMA (Commonwealth)"
+   ],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-30T00:45:47Z"
+  },
+  {
+   "title": "INPEX Takes Control of Bonaparte CCS as Woodside Walks Away",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcENlSW1rM1NWXzBZTkxoY29pZjlQT3I1VzdiMC1oSDBzd0tLUG5NWTFDZF92LWR1VWN5S3djZjVmcmJNS2diLTlkZ3Q0SzNkNFlHNEEtQnBZZUE3NkdYbXZET2loUUlDLUw1TmJMQUVISmlRbkZVcmhDTjdqa0RGNlFlLUlETTg?oc=5",
+   "summary": "INPEX Takes Control of Bonaparte CCS as Woodside Walks Away    Discovery Alert",
+   "publisher": "Discovery Alert",
+   "published": "2026-10-29T02:55:18Z",
+   "source_id": "gn-ccs",
+   "language": "en",
+   "operators": [
+    "INPEX",
+    "Woodside Energy"
+   ],
+   "states": [
+    "NT"
+   ],
+   "categories": [
+    "fossil",
+    "other"
+   ],
+   "subcategories": [
+    "Exploration & appraisal",
+    "CCS & gas storage"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-30T00:45:47Z"
+  },
+  {
+   "title": "Carnegie Clean Energy Prepares for First-Stage Deployment of CETO Buoyant Actuator Offshore Spain",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPT3FFR0Q5Q2RRczMtWHRJVnVXdy1ObTJjUG1LU1FwWlZONGFrcDZSSjlrV1hFVGE3NWJEM20tblJXYl82aGM1SFhMa0w3THpacE5iTnhiaUJUa0Y4TjNleF9OT0pBVVpVbFpyTXhjVnM1akJ6YXhER29VQ0lMS3FhUjNXSUtOMWktLWFkRjZGOUdENl9WR1I5ZTNFZVF4RlFwdXEwOHduTFpDZFkxOW10djR6VjlMYTEwMEVIQlpnbWVoRWNkcllfTkNB?oc=5",
+   "summary": "Carnegie Clean Energy Prepares for First-Stage Deployment of CETO Buoyant Actuator Offshore Spain    Small Caps",
+   "publisher": "Small Caps",
+   "published": "2026-10-29T02:52:02Z",
+   "source_id": "gn-wave",
+   "language": "en",
+   "operators": [
+    "Carnegie Clean Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil",
+    "renewable"
+   ],
+   "subcategories": [
+    "Oil & condensate",
+    "Wave & tidal"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-30T00:45:47Z"
+  },
+  {
+   "title": "Alkimos desalination plant installs 18m Torishima intake pumps",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVTA2bEVhS0lUR09zNG51UkpWaXV1a3o0VTU2eW5XQVBYazVZZHo2aEZ4TndMNEdvcFdxalBJcU13UFRZQ0lOSFlUeUlDM3kybU9wLUkwWTBwOElVZEN3NWxjekN1cVhxRjEzS09oSXM2TXdfX293UTIyc3hBRXFHa3FuNzZfQjB5WXlUVjJMbTBDOENLdF96UXc4X2phUQ?oc=5",
+   "summary": "Alkimos desalination plant installs 18m Torishima intake pumps    https://megaproject.com/",
+   "publisher": "https://megaproject.com/",
+   "published": "2026-10-29T02:34:33Z",
+   "source_id": "gn-desal",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Desalination"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-30T00:45:47Z"
+  },
+  {
+   "title": "Comet Ridge (ASX:COI) Advances Mahalo Plans as Gas Reservation Rules Take Shape",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRWNqSkdYNHhqb2dOOWRLWHhkRGxpa2VwY3NJN1pLOEp1Rm5tWVZBZU9jM2VCVDdLTFY0TDJlMHF1a3NZMXYxMHhkU2plTjFnT0pRZWFCU0lmbEdwUm4xNzZ6MW9rZkdub052dzFNRHB0RXd4Vl9rLXNZWGtNZFBWTmNTRExsZEpCcmhWUjBXdExSN3ZtNEp1LVBrN2VSUGlQZ1Y2NlIycDYwWmlLTDBHYQ?oc=5",
+   "summary": "Comet Ridge (ASX:COI) Advances Mahalo Plans as Gas Reservation Rules Take Shape    Kalkine",
+   "publisher": "Kalkine",
+   "published": "2026-10-29T02:31:00Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-30T00:45:47Z"
+  },
+  {
+   "title": "第29 届中国国际渔业博览会在青开幕",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wdjBIbG9pZndGUnNJZHZXX21DZ0ZwSXF3d21KekNvaWtiWGIyOFJ1V1h6YlR2MHZHMkRWWEdDcGVqQXUtRDlXS2I0cXBUcV9YRlNB?oc=5",
+   "summary": "第29 届中国国际渔业博览会在青开幕    國際日報",
+   "publisher": "國際日報",
+   "published": "2026-10-29T00:47:33Z",
+   "source_id": "gn-zh-fish",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-30T00:45:47Z"
+  },
+  {
+   "title": "South Australia Eyes Snapper Fishery Reopening",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBHRjRXdllIQ0kyU2c0V3RBTGhfYXZ2WnVfdk9KeE40TmdqT1F5b2JxU0FtYWRHR1VUaEFydWNrWUdmYk9nREUwVzNJeUYyeUxZOWsxdFBTSW9tTWZqS3pVeXBNem1UeS0xOHVlOFplVnRUZzNyYW1v?oc=5",
+   "summary": "South Australia Eyes Snapper Fishery Reopening    Oz Arab Media",
+   "publisher": "Oz Arab Media",
+   "published": "2026-10-29T00:03:20Z",
+   "source_id": "gn-fish",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "SA"
+   ],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-30T00:45:47Z"
+  },
   {
    "title": "Carnegie Advances ACHIEVE Wave Energy Deployment with CETO Actuator Completion",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOamlHNE9oT1lra3FBQ2hnelJLclBPMVdSOWNWVWZINmFVLXJxVmFHT3JvWkh2dG1qZGNpZ2JlX2pzaFRKSFFnU0ZFTGU0ZDNiMDRhZk9jMDZOenNVR1pEQllBdVg3WjZPUno3Xzd3YXF1TXlybVJqdGt0LTdNZGk5aUs0SGYyVWVwUjJPeGYweTExUnhPczJfTmVNbHpncnJGVl8xMU1xQWlXS19YTEJpMmFwcGFvVXgycm1ZSmdOaEFBSnhaUHNUcXlB?oc=5",
@@ -188,6 +968,25 @@
    "first_seen": "2026-10-29T00:45:04Z"
   },
   {
+   "title": "Fraunhofer IFAM Establishes Validation Chain for Autonomous Systems in Offshore Wind",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNU9fN2FWcU9faldQZUdKZ0VwX2UxVTgwemEzQzNxYlRDMXJiRUpKcElmQ08xaWgtMkJoak9YMG1BdngxME5nLS1UX1NiQlYwWFlXSDNHN2pxV1RsVUQ2OWtlTEpwcjZIVklrS2xiV09vNVdaTFJWclVpVGptTnFGcmZLR2tad01SWktSVnVHTXRTVThqcnozV2ZYRS1SUTl0bTRNU1hUam00N0pQbUZrMHdKVVhlajNFQ29WbGxScw?oc=5",
+   "summary": "Fraunhofer IFAM Establishes Validation Chain for Autonomous Systems in Offshore Wind    Offshore Engineer Magazine",
+   "publisher": "Offshore Engineer Magazine",
+   "published": "2026-10-28T21:01:33Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-30T00:45:47Z"
+  },
+  {
    "title": "Woodside's Australian NGL output rises 5.4% in Q3 despite annual decline",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1SFBKcm1VUEh0NXFCcGVucnJrNXlFWkFwdEFFbnltaFFnTVRqc3RwdnpLQjAyd0JfOUZvNWpfNFVFZWZ4YUJDMlFNVEZwRHdU?oc=5",
    "summary": "Woodside's Australian NGL output rises 5.4% in Q3 despite annual decline    Trend News Agency",
@@ -247,6 +1046,25 @@
    "subcategories": [],
    "projects": [],
    "first_seen": "2026-10-29T00:45:04Z"
+  },
+  {
+   "title": "Germany Welcomes Back Offshore Wind Companies Despite Increasing Costs",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVzFvQ3NKZ1E2QWN4MjJfZnd3VjFsMHhYOGhVRlNjZWlDZGlGNXlRWG9ITzlydWRZbHZiZkJUTGxjRW9EYTRSVTYtOWN5THlhVTVmMjFMSGRhZDNydFN1Q0UtcjVQSG4wYW9vTHRIcHRkTGFMU1h0S3pjSUZydkR6TnFLY2NkQ25BUHdaRElOai1kMm5HdTk2XzEteVUyUjFwYjNUck4zNGdqOEhx?oc=5",
+   "summary": "Germany Welcomes Back Offshore Wind Companies Despite Increasing Costs    Offshore Engineer Magazine",
+   "publisher": "Offshore Engineer Magazine",
+   "published": "2026-10-28T17:13:46Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-30T00:45:47Z"
   },
   {
    "title": "Calls For Continued Government Support for Tidal Energy",
@@ -557,6 +1375,23 @@
    "first_seen": "2026-10-29T00:45:04Z"
   },
   {
+   "title": "视频｜海鲜、大闸蟹、鲟鱼……塔克拉玛干沙漠水产大盘点- 经济",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PN0ljSEo3TWVEbHN3RzRhVmowY3pKcXNHTGNrZ1Nxa0Y3eS04Y2RZRXlMdjlESUtkanpLY3dya05vTmk0SUFfb05uZjhTRmF5ZGVZNzNuRkx2LVA2eE5V?oc=5",
+   "summary": "视频｜海鲜、大闸蟹、鲟鱼……塔克拉玛干沙漠水产大盘点- 经济    中工网",
+   "publisher": "中工网",
+   "published": "2026-10-28T07:49:00Z",
+   "source_id": "gn-zh-fish",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-10-30T00:45:47Z"
+  },
+  {
    "title": "Woodside’s Australian crude and condensate output falls 25.7% in Q3",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1JbVNwOFRadzZuSGZWRG1aalVXOWZydU9XenNIUzFkMVllSkx6VjI0TkZDYnhMNkR6REIwZTh6aVVqNk9sNXd4R0FMR3p0Y19j?oc=5",
    "summary": "Woodside’s Australian crude and condensate output falls 25.7% in Q3    Trend News Agency",
@@ -753,6 +1588,25 @@
    ],
    "projects": [],
    "first_seen": "2026-10-28T00:24:00Z"
+  },
+  {
+   "title": "IUCN, RGI and Bluedot launch Offshore Wind Nature-Positive Contributions Framework at CBD COP17",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeC1STGdxUDhpdkF3UFh1VkRSZ3hCSmN4NDBaS1RWLVM4amkyWF9fZnc5eGFRMTBYRXRaRVllRGIxUGI4YmtadmlGdEcwQi0tcVp2VkhYT2M4WkpRVkVPSXp2VGZNX2dTNmtWTDNpVE95UnA0OWcwU3FHbUtYazVjNXlfazB3a1FKUHBkOExHWGJXQ2tlbEZyQmE2LWUya2d2TUkwckhRcVRlWURLR0ZLZGRjSW4?oc=5",
+   "summary": "IUCN, RGI and Bluedot launch Offshore Wind Nature-Positive Contributions Framework at CBD COP17    International Union for Conservation of Nature",
+   "publisher": "International Union for Conservation of Nature",
+   "published": "2026-10-27T18:21:37Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-30T00:45:47Z"
   },
   {
    "title": "Woodside Energy (WDS) Sells 33.44% Stake in Greater Sunrise LNG Project to East Timor",
@@ -1079,6 +1933,25 @@
    "subcategories": [],
    "projects": [],
    "first_seen": "2026-10-28T00:24:00Z"
+  },
+  {
+   "title": "Offshore wind turbines built for storms may be designed using forecasts that never truly “spoke the same language” until now",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPN2lhcExTY2ZEZVdaTDcyREVGWVpQUXQtZHZfd0hjRE8yb25kWFlDTFFwb1V3OGFPdjRmZFEzZWRHWGhxVzRhVXZ4Z0NPMVlKMjZlV0VTWDhhdGJjWDA1MThlZXFDcldMUk5NTGNIamNHc1d1aHZreEw4WnQ5d3pPUnRXT0s1a3lCN1NKbFNBdDQtcktQUkhBakN0V1FCcnpUZTVzV1R4N3NaNW9EbDYzaWZzYzN4RkRtSlhfMDBBNFltNDZWZ1BONDdCWDNhLVdpYmo1LXRtVlhmXzVRN3Rn?oc=5",
+   "summary": "Offshore wind turbines built for storms may be designed using forecasts that never truly “spoke the same language” until now    DredgeWire",
+   "publisher": "DredgeWire",
+   "published": "2026-10-27T05:21:59Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-30T00:45:47Z"
   },
   {
    "title": "Woodside abandons 25-year Sunrise LNG quest in sale to Timor-Leste",
@@ -2211,6 +3084,27 @@
    ],
    "projects": [],
    "first_seen": "2026-10-24T23:03:48Z"
+  },
+  {
+   "title": "Trump Targets $6.2 Billion Offshore Wind Project Nearing Completion",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMG1wS3JIay0tbmh3UjFyMGxtQTUyWm5GWnpyZ1ZBMF9iNWdUTFBCVWU1dDJBNHlmcDMtb2lJbW1maTNLREJDSDNycXh4SGlaRmk2YmVQclppQ3ZmRmZxNWNjcFllRXlrc1lFRXluUjQxQjBrNk1Za1h1Q09PUUJTb3c4c25HUTNkcnhQU2g0UTlpZDd6OWl5SU43bzJ1bm5BSXF2NTlaQnRmd0x5YjlXdVNMVkRzNlpWU1pkV1dn0gHDAUFVX3lxTE5zYzVpVXQyWUdNdEYtaGtpZVFXZlBhaW1wLXA2Y2otREhRSU05WGZ5MlhYbHNpUWZ4NkxkUlF1dXQwdE9kczhIZWgtYnNqYThJZlJuM0V6Wm9iR3RmLUROVmtxNGFwR3g4NzYzRHN0YmxVeEhGMk9KNkYxOEdleXlnWFVNSG9CQVZIcDhNbUpFdnFlTHIycE9Rb1J2LWY1eEY1cnNmUl9vYnc1QzVjbUhmUnQ3UEp5WHNGRVFiMF9KWmh5bw?oc=5",
+   "summary": "Trump Targets $6.2 Billion Offshore Wind Project Nearing Completion    Crude Oil Prices Today | OilPrice.com",
+   "publisher": "Crude Oil Prices Today | OilPrice.com",
+   "published": "2026-10-24T15:00:00Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil",
+    "renewable"
+   ],
+   "subcategories": [
+    "Oil & condensate",
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-30T00:45:47Z"
   },
   {
    "title": "伊朗官员称若再遭袭 将打击海湾海底电缆",
