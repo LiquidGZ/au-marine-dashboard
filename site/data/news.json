@@ -1,72 +1,72 @@
 {
- "fetched_at": "2026-10-31T00:38:00Z",
- "added_this_run": 35,
- "total_items": 544,
+ "fetched_at": "2026-10-31T23:59:46Z",
+ "added_this_run": 16,
+ "total_items": 560,
  "earliest": "2026-09-30",
  "errors": [],
  "per_source": {
   "gn-lng": {
-   "in_feed": 29,
-   "new": 4
+   "in_feed": 56,
+   "new": 0
   },
   "gn-gas-policy": {
-   "in_feed": 15,
-   "new": 3
+   "in_feed": 16,
+   "new": 0
   },
   "gn-decom": {
-   "in_feed": 10,
+   "in_feed": 8,
    "new": 0
   },
   "gn-wind": {
-   "in_feed": 31,
-   "new": 7
+   "in_feed": 30,
+   "new": 4
   },
   "gn-wave": {
-   "in_feed": 11,
-   "new": 1
+   "in_feed": 10,
+   "new": 0
   },
   "gn-ccs": {
    "in_feed": 11,
    "new": 0
   },
   "gn-aqua": {
-   "in_feed": 27,
-   "new": 1
+   "in_feed": 23,
+   "new": 0
   },
   "gn-fish": {
-   "in_feed": 28,
-   "new": 2
+   "in_feed": 52,
+   "new": 3
   },
   "gn-desal": {
-   "in_feed": 10,
+   "in_feed": 12,
    "new": 1
   },
   "gn-cable": {
-   "in_feed": 7,
-   "new": 1
+   "in_feed": 11,
+   "new": 0
   },
   "gn-ports": {
-   "in_feed": 17,
-   "new": 0
+   "in_feed": 28,
+   "new": 1
   },
   "gn-minerals": {
-   "in_feed": 4,
-   "new": 0
+   "in_feed": 5,
+   "new": 1
   },
   "gn-zh-energy": {
-   "in_feed": 24,
-   "new": 9
+   "in_feed": 38,
+   "new": 6
   },
   "gn-zh-wind": {
    "in_feed": 3,
-   "new": 1
+   "new": 0
   },
   "gn-zh-fish": {
-   "in_feed": 32,
-   "new": 4
+   "in_feed": 8,
+   "new": 0
   },
   "gn-zh-other": {
-   "in_feed": 5,
+   "in_feed": 7,
    "new": 0
   },
   "offshore-energy": {
@@ -79,15 +79,196 @@
   },
   "reneweconomy": {
    "in_feed": 10,
-   "new": 1
+   "new": 0
   }
  },
  "by_month": {
-  "2026-10": 543,
+  "2026-10": 559,
   "2026-09": 1
  },
  "note": "Append-only archive. meta.news_days_to_keep controls the site's default window, not storage.",
  "items": [
+  {
+   "title": "Northern Water desalination plan near Whyalla could add $3.3 billion a year to SA’s economy",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeDJHQ3daQ2t6RS1pVGtsUlRMNzNTOVpqZDN2NGlDb2Y5N19HRUhYd1ppYzVoS0RtRDc5aExzcmUxREFZMHhZODg5SEUtektXOVdsbDljYXo2ZmxncFptZlRldDJGUXpueFd0bmpwZ3ZwNEhkRjlpaE1JSi02ZFY1N0JTNU5HMmRhcE9RN3JBZmhCRHoxY1FuLTNqYWV0a0hTcURleHU4YlMxak5nRE9QNkc3TzFiWnJOaGc?oc=5",
+   "summary": "Northern Water desalination plan near Whyalla could add $3.3 billion a year to SA’s economy    Glam Adelaide",
+   "publisher": "Glam Adelaide",
+   "published": "2026-10-31T23:52:23Z",
+   "source_id": "gn-desal",
+   "language": "en",
+   "operators": [
+    "Water Corporation"
+   ],
+   "states": [
+    "SA"
+   ],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Desalination"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-31T23:59:46Z"
+  },
+  {
+   "title": "Skipper who champions Cornish sardines gets award",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tcHl6c0Zrclp2UVhXbEtfMEJ3ZGtsUzF1cVV5QmFFQ1F4eDB4Tl83bnlnZ2l3WmVFMmloUjNhTFpFQlU1VVIyMDZ2MVczdnZ1ZzJpOWMtcjlvTlE?oc=5",
+   "summary": "Skipper who champions Cornish sardines gets award    BBC",
+   "publisher": "BBC",
+   "published": "2026-10-31T15:16:08Z",
+   "source_id": "gn-fish",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-31T23:59:46Z"
+  },
+  {
+   "title": "Healey to veto new offshore wind projects if they will not lower bills",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa2g3djBCenVsa3BNdk1TazFXMUlHZ3FUQ3dBM1daRWVsOFJ2TXk3SlNTWUMtdmQ0VzF5TjJKVkRSUVJEWjNuOEZJcEQ4eEtDSnhIOXI2NjFIVzlfZU1FMzlYNFZjQngtRFBHdUoteTNwcU0tcVdOeTJEQ0dHUjUwMTAzbDhtQzBweXhuRjdPTXItR3l5UzFTZzNaOXhoWE1BTC1UOQ?oc=5",
+   "summary": "Healey to veto new offshore wind projects if they will not lower bills    The Guardian",
+   "publisher": "The Guardian",
+   "published": "2026-10-31T12:16:00Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-31T23:59:46Z"
+  },
+  {
+   "title": "Will Mardie Project Progress Change BCI Minerals' (ASX:BCI) Stock Narrative",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOR3pHbVBCSFkwZ1hmOGRIaXNKSW9fUjNRMVhHWEVWTVBkdmNZVnJGa3VoZ0NwVHJTQ1pRMHZ0dldkRTFJcUZHZ3o3QlRFTmk3STJCM2RYc3M3VG5MWGg5QzdaYkpNU0p4RzRSd2hEU2dwN2hqTEQxb3QzSjQ4OEtlNjJ2eUtOaDJWNzhHcElZVDlRaThJeU1tZ19xV3RxLUJiNUFkbTZZVTQwZUFxYTEtOFMyUlVxV2ZoWkEyb2REQVQ1SEI0NFBQY0pweGJhUlRF0gHWAUFVX3lxTE04dXU2QlpnTmxpdkExTDJvbzVzZmZMWlo0LW9lLTQ2ZHpCWEgxZXp6T3ZFT19iZUJzSE1oUkpVZW02dzFSQ0FQRklaQ3pGVFJKLUZZRmRvcHFGNHVpVFpJWlpaNVBBZXhVdnJrbENYd0Z5YVdpOVo3aWF2eXBUbHJDRWZ1RGRadTEyM19hVHBwNFZjdE9naEg1REJqOURWQ0dDVUdES09ZNHVSSE5JYk1zQm1YOWVLcWg3OU93VW9KdThpWkZlYUZsSWNYT1dldXpVckwtSVE?oc=5",
+   "summary": "Will Mardie Project Progress Change BCI Minerals' (ASX:BCI) Stock Narrative    Simply Wall St",
+   "publisher": "Simply Wall St",
+   "published": "2026-10-31T11:43:11Z",
+   "source_id": "gn-minerals",
+   "language": "en",
+   "operators": [
+    "BCI Minerals"
+   ],
+   "states": [],
+   "categories": [
+    "mineral"
+   ],
+   "subcategories": [
+    "Sea salt & potash"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-31T23:59:46Z"
+  },
+  {
+   "title": "Pakistan's Offshore Wind Potential – The Arabian Sea Opportunity",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbWpGQnM0UkE2REp4UTJhNGJlUFI2U0FBSGl1VkFwMVJ5RzZIaVlHZGhGaC1kZXlwcm4tVGRuUzdkekE1T2hVTTJOZ1pxYUJpc0xEcjN0R2E0QmNhaTQ1ZloxTmtZdlFha2NJYTB4VWNoUEhLS3J1bG1QVWpFTjlHS2dyOVFoNUQ0RGpMUUZMTFhGbVNZS21ReTVGdHp0WHlSQ0x3?oc=5",
+   "summary": "Pakistan's Offshore Wind Potential – The Arabian Sea Opportunity    The Friday Times",
+   "publisher": "The Friday Times",
+   "published": "2026-10-31T09:05:32Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-31T23:59:46Z"
+  },
+  {
+   "title": "New policy may curtail Scottish offshore wind farms",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY0RjTlUybVJCV3NDV1NIUEJfeE9kUmh4c2E1T1F0ZV9UZHNyVXN2SWtualQweFM3dEtLckR1S2hDSl92NEZyOW5XLUplY1JDUTVrZVd2RXQ0ZlF5QXo2S0NXOEVLdWV3UjZiZFN6blJJQUlBLWptMmRxMWs5LUswMFBpM09Tb2p5cVhISjZYM3BXMnN2SGRYWA?oc=5",
+   "summary": "New policy may curtail Scottish offshore wind farms    Daily Business",
+   "publisher": "Daily Business",
+   "published": "2026-10-31T08:17:42Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-31T23:59:46Z"
+  },
+  {
+   "title": "能源贸工部：虽由本地公司交易 液化天然气不经我国直送目的地",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVbmUwc1N6cllTa3htUjI1c25meExpUlFoa1ZPUDJLVWlmUVNvVzlVcm5RV011N015S0FaMkozN0dLWmFaLUhrWXNvZ24xamZpSGFERjQtR3plaXh0VzZrRi1ZaU16and5WEQw?oc=5",
+   "summary": "能源贸工部：虽由本地公司交易 液化天然气不经我国直送目的地    8world",
+   "publisher": "8world",
+   "published": "2026-10-31T00:36:37Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-31T23:59:46Z"
+  },
+  {
+   "title": "Power, fertiliser fuel LNG import surge",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVFhqVWVuNzU5c2dUS0NNZnRfS3dWdlk0cVQwejQ4RHZGVEwtdWIwcF9oanFDN0FPTlFMZzlERGM4Z2xrSlAwUzl4ZnZNRUVZOV9OdTNOTnpRZDRUd3kyTkVDemdyclhwNndkQXVkakZQWU51ODB6WjZ6a2t0X093clNxNmk4aHl2T0NOYWhDZWNWLW5DcjZ5STlLUmdPaFVPNWZfTXMzQ1A5YWdGUkJoQlBpdmVGVUlOQXBnUHFzRDdzQdIBxwFBVV95cUxQSHY5Z0NLNWtJeWFGVThqUGFUWURuR0hrZl9EcENsQ1ExbHFSbFdKOGNhSEpRSjlwV0Fydko5S3o2LTdLUWM2M2tac1Z6bjFrRkdoUFpCaWZIbkVYc0hKamFEWFltUHllaUFJbmpWdVd3ZjhIbjFPYmxsb0FOUy1IZV9lRU1CSEMteHI4RDNKU3VNLS1mbkx5TDBJOERQMTByRDFGaU9hMzcyZE1WMW5zZjlGWlE3X0YyVmo1UkJ6bkVsbzBaamdJ?oc=5",
+   "summary": "Power, fertiliser fuel LNG import surge    The Times of India",
+   "publisher": "The Times of India",
+   "published": "2026-10-30T22:24:00Z",
+   "source_id": "gn-ports",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil",
+    "other"
+   ],
+   "subcategories": [
+    "LNG",
+    "Ports & LNG terminals"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-31T23:59:46Z"
+  },
+  {
+   "title": "Rock Lobster Meaning: The B-52’s Beach Party That Caught John Lennon’s Ear",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1nTEtpQVRxclh4RmJhUmU0NE5NUzhGanROd2xRR01PZTRUQ3REOWh0d0dJc0hpYnhHdXpic3ZJY3cwQUFfZjkxYnRQdEF1bUFkTW4wWkF1OA?oc=5",
+   "summary": "Rock Lobster Meaning: The B-52’s Beach Party That Caught John Lennon’s Ear    Neon Music",
+   "publisher": "Neon Music",
+   "published": "2026-10-30T20:49:06Z",
+   "source_id": "gn-fish",
+   "language": "en",
+   "operators": [
+    "Beach Energy"
+   ],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-31T23:59:46Z"
+  },
   {
    "title": "澳大利亚Carnegie完成80千瓦CETO波浪能装置浮力执行器制造",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xVW9ZYjhRLUdfNy1MRkhtaHZZekdPV3pVZzQtZUJyZWlrd2hhWXp6SGVKTlBuOEZvVEJ2ZFpBNWU5WEtnTTdIRTh3VFQ3LWJKYXVwRlphdG4?oc=5",
@@ -144,6 +325,25 @@
    ],
    "projects": [],
    "first_seen": "2026-10-31T00:38:00Z"
+  },
+  {
+   "title": "South Korea announces 2.2-GW offshore wind auction, 2nd for 2026",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWjFUNmpLZEhkOXp1bjVNaUxwdEcwLTltaDl6YlVRT0hleENkb2xEMW1fdkdJaFlUU1FPM3ZCcjNLd3R3QmE1SGJheUlybWdrLUNmeUZsNlNQYU1nRGhTU0JMMS1BbEZpZWNnY1FibV95NHZ0RUFCS3hna1JnX0J5Sjk2azhjWnFOS1N0dktWNjA0QWNYSS1YN296akgwZjk4b0FCUW9B?oc=5",
+   "summary": "South Korea announces 2.2-GW offshore wind auction, 2nd for 2026    Renewables Now",
+   "publisher": "Renewables Now",
+   "published": "2026-10-30T13:19:45Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-31T23:59:46Z"
   },
   {
    "title": "市场传闻：埃克森美孚将莫桑比克液化天然气项目的持股比例提高至50%",
@@ -382,6 +582,23 @@
    "first_seen": "2026-10-31T00:38:00Z"
   },
   {
+   "title": "#曼联[超话]##曼联# 巴西国家队公布最新一期国际比赛日大名单桑托斯再次入选，库尼亚再次落选。 ​",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1OaTFVMFNfUzBQNE56S2ZzVkQ3bk11Z2lqWGhpSUdiWElyVnFPZEZFSE5MWE5HclUxUmc5SEFNNGV1TGpFS3FaY0x1d0daM1JDM1Y2ajM4Mmx2RzExeWZENERvRQ?oc=5",
+   "summary": "#曼联[超话]##曼联# 巴西国家队公布最新一期国际比赛日大名单桑托斯再次入选，库尼亚再次落选。 ​    新浪网",
+   "publisher": "新浪网",
+   "published": "2026-10-30T05:27:00Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-10-31T23:59:46Z"
+  },
+  {
    "title": "Emperor Energy Secures VALARIS 107 Rig and NOPSEMA Approval for Judith-2 Appraisal Well Ahead of April 2027 Target",
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPeUVKcnlTdmEyaDBwbG5KUUhQVnJkSnNBQ3k1Z3BjSUQxVHlPaUhxX3U0dTVBTUlJeGp2Zy1KOVBodDNNcTFCSHNoZ2h4NzdOcC11OHNCT0VHQkxHQndXbmRkN3R3X3pyWHU1RmlmN0I2ajRtWmlyWU43M1lvOG5OSmJqSmlkbEdQSDZraHBkTEoxaFNHN3A2UnlRbXAzTTcxUDdERUJ5QnQ3R0lGS2xMVDlubWZHLTVPWndvT0sxWTF6QUNhV3ZhRFFEZWR2Q2dWYzV1OVlWeTFWZUpMeTA5T0ZmcXFZczNfanlrSg?oc=5",
    "summary": "Emperor Energy Secures VALARIS 107 Rig and NOPSEMA Approval for Judith-2 Appraisal Well Ahead of April 2027 Target    Kalkine",
@@ -460,6 +677,44 @@
    "first_seen": "2026-10-31T00:38:00Z"
   },
   {
+   "title": "新加坡称本地企业交易的液化天然气直接装运，回应印尼部长言论",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWlE2OU12dFpnX0lLa0tIMFhURkhxLTFoNWUtZDdCU2V1X3k1ZlpYeHFrLUFWZUdwT0lobUdEY3lFZTE5VHdQMFEweHEzZ1NCZU1iRExJenVvV2dCSXdXS25OcGZOMC1zdnRzYjU5NUhXQ0FBMmZacFFybk9sbVZMUWVVR0twWXpiOFhGa1h2SmVnNEwwYTZielVDYTBDR3F5XzVjYmdQQXJzaFp4WllRRmJnb1JkOE9RajZBMTN2cEZ3eHhJSUhBS1dxb0UzWk9pdktIVlhkVkQ?oc=5",
+   "summary": "新加坡称本地企业交易的液化天然气直接装运，回应印尼部长言论    The Straits Times",
+   "publisher": "The Straits Times",
+   "published": "2026-10-30T02:09:00Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-31T23:59:46Z"
+  },
+  {
+   "title": "新加坡称本地企业交易的液化天然气通常直接运输，回应印尼部长言论",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaWNtUFJHLW5BRkMyUHRQWWlaRW9MYWJkZlhXZHcxaU00X19NZHkzdGNibDFqLUo2V184aTYybzlOQjR5OUlueFZReEpYRXdpdldWQ3NtSnJRR3RQQkw5Q0ZsNF9Wb21KVnRDSEZKdGs5LTF5VlFwR0FsN1hPQ280RGJWZm1Ra2dLbVhBdmVMMWhXS0dXLXhVYzJUU2dMSG5veG02aFVXMWc3R1d3M3BjcElVajVrOU52VDhtbE4teVJCY01QanZ3N3huVnNkQUQ1aURkUldiblRIeFFxOFhKQWZtMDI?oc=5",
+   "summary": "新加坡称本地企业交易的液化天然气通常直接运输，回应印尼部长言论    The Straits Times",
+   "publisher": "The Straits Times",
+   "published": "2026-10-30T02:09:00Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-31T23:59:46Z"
+  },
+  {
    "title": "“Tipping point”: Australia’s appeal to global offshore wind farm investors hangs in the b...",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRklpVlV0bEVhcHNSTDlSZVZQZ2ktejlpd1VuU29HTW10VGxYcncyRlZkUFZ6dTN2dWNqSkluSDZzZnpGN2VQWTB5QTJ1UjcyeWp6ZnhHT3V4WlJJT21MVk9qN2x6TUw2RGhmNE9ZUldfMXZFbDRaLXhvNHktRkhVRkx6OFFWUUt2U28xTXRfRXdTUWVQbi1HYVhrM192YmZSb1A2UXAzTTZzUXJkRE8wS2tIckR0U0ktLTN4bHdiZEN1TmsydDdoQVlQcXk5M2tldldB0gHYAUFVX3lxTE93WXE5TlMtbzdKekEwV00yeDlEaFBqeFlBRk9wcHBfVHEwTF9EUHRvS0NaZC16ZzFpUnh6VkVEaFU2azNFSE0tX2JOWjBwQ2twaTR6ZXY3WlpXWGFZMDBCNFhkcjYwamZmNEpTeThGeUZPbDNzWHZjNlNDOGhzZlROaDBtZVNOOHQ4SGFVSEdkbFBOcjZhUjlnOEpERmZxSHJBdUtBdU5WSzBFR3NxXy04b2xrUGNtQ0RWdDNsMnI3aG1mZGF4SnJvcTR5U091Qk9vN1V0OC1QSQ?oc=5",
    "summary": "“Tipping point”: Australia’s appeal to global offshore wind farm investors hangs in the b...    Renew Economy",
@@ -536,6 +791,25 @@
    "first_seen": "2026-10-31T00:38:00Z"
   },
   {
+   "title": "卡塔尔成为美国液化天然气的最大客户。",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOR3RHOEhZRGpjd01oa25DS0w5LWVpUG52T0RhWERfQlQ1UFhSOXFJcnVaSGV4clRsVXJEOTNWcmVLQU5tdnByOWJ6Qmx5cXA4OWptM2hIcS1UWUNhWjliRzZTYW15UzM4R0FsenpVWEw0SUVUelJzY2FxeEljbFA4QkFYRW9rQ3FmclpN?oc=5",
+   "summary": "卡塔尔成为美国液化天然气的最大客户。    Vietnam.vn",
+   "publisher": "Vietnam.vn",
+   "published": "2026-10-30T00:45:39Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-31T23:59:46Z"
+  },
+  {
    "title": "卡塔尔能源签署美国300万吨液化天然气年购协议",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14UUZvTGM2WVQ0YUJwWUdEbUZwVnZpN0kyVkRjYVZmaEVtN3BIdjlwS3h2YkNfU1ItejBiVWZzMS1nSjBYOElMZzV3OWxyYWxtUVZXbFRhb1k?oc=5",
    "summary": "卡塔尔能源签署美国300万吨液化天然气年购协议    维度网",
@@ -608,6 +882,25 @@
    "subcategories": [],
    "projects": [],
    "first_seen": "2026-10-30T00:45:47Z"
+  },
+  {
+   "title": "Famed oceanographer calls for ending krill catch near Antarctica as governments debate fishing quota",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNc2ZPY19BWG1USExOdVV0YTdTdmJfa3REcEdqRWhrd0ViT0dLaGFqTmpyOGh3MmJsellocFFJMjIxYWNFaFNrM1FtbEJRc0tQQ1E5YS1OcWFZQTJKbWF1dWNDVm5nblFld1JfaHBFWmFxYWlGV3NjdEpnNjd2Q3lackpZM2c2bzJ5UjMxaWkwNVVzdzBHTzZnZXgxZTZRNU1FVVV2YTRua2VxNFduQk1sZ1EySjVnX0VZLVRvUmFzNklWT3prczBvSl9VbVlvdw?oc=5",
+   "summary": "Famed oceanographer calls for ending krill catch near Antarctica as governments debate fishing quota    The Washington Post",
+   "publisher": "The Washington Post",
+   "published": "2026-10-29T23:28:19Z",
+   "source_id": "gn-fish",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-31T23:59:46Z"
   },
   {
    "title": "Carnegie Clean Energy Advances CETO Wave Energy Deployment and Secures Additional Funding",
@@ -3564,6 +3857,25 @@
    ],
    "projects": [],
    "first_seen": "2026-10-25T23:08:43Z"
+  },
+  {
+   "title": "Samsung Heavy获得KRW3,860亿液化天然气订单",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNck1GUDQyYVdobS05cWlQX19USTZMejlpbTdjTmpQUXpzeVpHb2JKdG9PUjEzSzM5Y1FjWWRFUEUyTlVHZ1g1aUN6dFVMRzNlN3hoamtFeDUxUkQtY0QwQWhmMFBicE5QNktlajBscFVXZFBpUkRpM0loeUlLbGN1NU0yYVRlSmNCQVhjSnM1cTJNejl3ekV5N3ctdXdLNFpBMy1MWE9SSXV5b3hRRlJsSkU0NjhSNVRLbHUzNTdidEZRVDItZnpZ?oc=5",
+   "summary": "Samsung Heavy获得KRW3,860亿液化天然气订单    Moomoo",
+   "publisher": "Moomoo",
+   "published": "2026-10-25T13:16:00Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-10-31T23:59:46Z"
   },
   {
    "title": "Inpex launches FEED for Australian offshore CCS project",
