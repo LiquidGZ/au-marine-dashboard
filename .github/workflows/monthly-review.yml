@@ -24,9 +24,9 @@ jobs:
   review:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
 
@@ -81,12 +81,46 @@ jobs:
             git push
           fi
 
+      # GitHub refuses an issue body over 65,536 characters. A busy news month can produce a brief
+      # larger than that, so the issue carries a trimmed copy and always links to the complete file,
+      # which the step above has just committed.
       - name: Open the review issue
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRIEF_PATH: ${{ steps.brief.outputs.path }}
+          BRIEF_MONTH: ${{ steps.brief.outputs.month }}
         run: |
           gh label create data-review --color 0E8A16 --description "Monthly workbook review queue" 2>/dev/null || true
+
+          python - <<'PY'
+          import os
+
+          LIMIT = 60000                       # GitHub's hard ceiling is 65,536 characters
+          src   = os.environ["BRIEF_PATH"]
+          path  = src.removeprefix("./")
+          url   = "{}/{}/blob/main/{}".format(
+              os.environ["GITHUB_SERVER_URL"], os.environ["GITHUB_REPOSITORY"], path)
+
+          text   = open(src, encoding="utf-8").read()
+          header = "Full brief, always complete: [`{}`]({})\n\n".format(path, url)
+          body   = header + text
+
+          if len(body) > LIMIT or len(body.encode("utf-8")) > LIMIT:
+              note = ("\n\n---\n\n*Trimmed to fit GitHub's issue size limit. "
+                      "The rest of this month's queue is in the file linked at the top.*\n")
+              room = LIMIT - len(note)
+              cut  = body[:room]
+              if len(cut.encode("utf-8")) > room:           # keeps CJK-heavy briefs safe too
+                  cut = cut.encode("utf-8")[:room].decode("utf-8", "ignore")
+              cut  = cut[: cut.rfind("\n")]
+              body = cut + note
+
+          with open("issue-body.md", "w", encoding="utf-8") as fh:
+              fh.write(body)
+          print("issue body: {} characters (brief was {})".format(len(body), len(text)))
+          PY
+
           gh issue create \
-            --title "Monthly data review — ${{ steps.brief.outputs.month }}" \
-            --body-file "${{ steps.brief.outputs.path }}" \
+            --title "Monthly data review — ${BRIEF_MONTH}" \
+            --body-file issue-body.md \
             --label data-review
