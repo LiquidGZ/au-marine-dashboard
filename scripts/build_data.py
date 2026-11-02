@@ -50,6 +50,18 @@ def newest_workbook():
     return sorted(files, key=key)[-1]
 
 
+def workbook_date(path):
+    """AMR_Master_20261102[_0730].xlsx -> '2026-11-02'. None when the name carries no stamp."""
+    m = TS_RE.search(os.path.basename(path))
+    if not m:
+        return None
+    d = m.group(1)
+    try:
+        return dt.date(int(d[:4]), int(d[4:6]), int(d[6:8])).isoformat()
+    except ValueError:
+        return None
+
+
 def rows(ws):
     """Yield dicts keyed by header row; skip fully-empty rows."""
     it = ws.iter_rows(values_only=True)
@@ -133,6 +145,14 @@ def main():
         if k in meta:
             meta[k] = num(meta[k])
     meta.update(kv(wb["Policy_Notes"]))
+    # The header's database stamp is the live workbook's own version, not a cell anyone has to
+    # remember to edit: upload <PREFIX>_<YYYYMMDD>.xlsx and the site follows it. The Meta cell
+    # stays as a fallback for a workbook whose filename carries no stamp.
+    meta["workbook"] = os.path.basename(path)
+    stamp = workbook_date(path)
+    if stamp:
+        meta["data_as_of"] = stamp
+    meta.setdefault("data_as_of", None)
     dump("meta.json", meta)
 
     # ---- Categories
