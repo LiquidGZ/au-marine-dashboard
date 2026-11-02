@@ -1,7 +1,7 @@
 {
- "fetched_at": "2026-11-02T00:30:36Z",
- "added_this_run": 10,
- "total_items": 570,
+ "fetched_at": "2026-11-02T07:01:37Z",
+ "added_this_run": 15,
+ "total_items": 585,
  "earliest": "2026-09-30",
  "errors": [],
  "per_source": {
@@ -11,42 +11,42 @@
   },
   "gn-gas-policy": {
    "in_feed": 12,
-   "new": 1
+   "new": 0
   },
   "gn-decom": {
-   "in_feed": 8,
+   "in_feed": 5,
    "new": 0
   },
   "gn-wind": {
-   "in_feed": 30,
-   "new": 1
+   "in_feed": 63,
+   "new": 11
   },
   "gn-wave": {
    "in_feed": 11,
    "new": 0
   },
   "gn-ccs": {
-   "in_feed": 9,
-   "new": 1
+   "in_feed": 8,
+   "new": 0
   },
   "gn-aqua": {
-   "in_feed": 26,
+   "in_feed": 25,
    "new": 1
   },
   "gn-fish": {
-   "in_feed": 54,
-   "new": 1
-  },
-  "gn-desal": {
-   "in_feed": 13,
-   "new": 1
-  },
-  "gn-cable": {
-   "in_feed": 10,
+   "in_feed": 26,
    "new": 0
   },
+  "gn-desal": {
+   "in_feed": 12,
+   "new": 0
+  },
+  "gn-cable": {
+   "in_feed": 11,
+   "new": 1
+  },
   "gn-ports": {
-   "in_feed": 29,
+   "in_feed": 13,
    "new": 0
   },
   "gn-minerals": {
@@ -54,15 +54,15 @@
    "new": 0
   },
   "gn-zh-energy": {
-   "in_feed": 31,
-   "new": 3
+   "in_feed": 37,
+   "new": 2
   },
   "gn-zh-wind": {
    "in_feed": 4,
-   "new": 1
+   "new": 0
   },
   "gn-zh-fish": {
-   "in_feed": 24,
+   "in_feed": 30,
    "new": 0
   },
   "gn-zh-other": {
@@ -83,12 +83,50 @@
   }
  },
  "by_month": {
-  "2026-11": 4,
-  "2026-10": 565,
+  "2026-11": 6,
+  "2026-10": 578,
   "2026-09": 1
  },
  "note": "Append-only archive. meta.news_days_to_keep controls the site's default window, not storage.",
  "items": [
+  {
+   "title": "E-Gas系统：10月26日-11月1日当周中国LNG进口量约161万吨",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HRDRyVEpEMjRfcllEcldvdVlGU0ZVckZrektlcnMwN29NcjRaZWl1NmxkY0IxUGxmZFBMSV8wejJCZzhZMmFNZ2ZXeU9tMzlKcGdZbGpRRzlidTdFVXcwaUNPblFPRDROaDJrbGVQVHFIUQ?oc=5",
+   "summary": "E-Gas系统：10月26日-11月1日当周中国LNG进口量约161万吨    中国金融信息网",
+   "publisher": "中国金融信息网",
+   "published": "2026-11-02T06:41:00Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-02T07:01:37Z"
+  },
+  {
+   "title": "Press Release: Blackstone and Leading Canadian Institutional Investors Announce $3.1B Investment in Mitsubishi Corporation's Interest in LNG Canada",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdGtHY0dvUXhienZfNWhZczJ1NFA2YV83Sjd0SVpTTmZDY3dOWjk2bnUtQ05KUVc1dGtsdjFuaWJ1SldHdEZONnBoZXQzeXV0V054SzhpMkFEVmtFbFFuT185Q1hISEdtaWxTcjc4V1dYcnMwRmhLQmRBaDh6ZDQxUG5tbF92R3hLaC13ZXpncmNWenl1U1FyTTBPOTN4Rkx6Rm00U3hhUV9lSXhldldhbWxHN0w1Q1hFUmRYQ0ExckJEUFV0S3hlWA?oc=5",
+   "summary": "Press Release: Blackstone and Leading Canadian Institutional Investors Announce $3.1B Investment in Mitsubishi Corporation's Interest in LNG Canada    Moomoo",
+   "publisher": "Moomoo",
+   "published": "2026-11-02T06:30:00Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-02T07:01:37Z"
+  },
   {
    "title": "Oyster farm barney: councillors reject their own expert planning advice",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaGNVdEQyRVZuODlRTUZfTWpIUS12NXJ4UWxTLTFCNGU5T0hSN19jZ1pDZjhETDZJSHIxbC12enhiS0ZFZW4tZzJJWG00cEpwTUExTFVKRGQ5YlRQRjB1SUZrMEZVQld3dVZrSVZsVTFnWHlid1VIYk16MFlIMVZ5eGhxMl8xbGpRT2ZIWWlIZnRjSFdmQlZJOU1wdGNhek1xN3ZTeg?oc=5",
@@ -206,6 +244,25 @@
    ],
    "projects": [],
    "first_seen": "2026-10-31T23:59:46Z"
+  },
+  {
+   "title": "Chancellor Healey to block offshore wind farms without lower bills — The Guardian",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUXlFeEhfR21NUk0wMndOZlVmMnlBN01hZHRvQUFmWVNxQXlvbnFWZUY5SDE5YnBNc0ZnRTI2b2Q4eS1hVlRBWmJuYUc3NDQ0OU1NT1VSaTVnbFR1OUF4bUhKNzJWY1VESXg4ODBsN19jOGxXeUo2UnVNbFJHaDlqWlpENXBRNWZOU083ZEJQdjdiNVpqRlZBaUVkbW1HanJnMWlmcnY5eWFLdw?oc=5",
+   "summary": "Chancellor Healey to block offshore wind farms without lower bills — The Guardian    UA.NEWS",
+   "publisher": "UA.NEWS",
+   "published": "2026-10-31T12:19:59Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-02T07:01:37Z"
   },
   {
    "title": "Healey to veto new offshore wind projects if they will not lower bills",
@@ -577,6 +634,25 @@
    "first_seen": "2026-10-31T00:38:00Z"
   },
   {
+   "title": "Norway grants support for two floating offshore wind test projects",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOVA1c2MxOHhUcHEwbTV6VThRSkF1NE1tZDY4blV5M2hXU3ZoYTZTSmFqTWJBNUlsN3BHa282OXhtdi1IWk50eTkyS01NMlRSNzk2SEdMNE1KZjBXVnlISW1ISmJSbm50aEVNY2l3Q2xmM2huRGxmb1RnZmIxeC1NVnRYUk1hR3BoWnVleVNwQmh5cXpQaEE?oc=5",
+   "summary": "Norway grants support for two floating offshore wind test projects    Traders Union",
+   "publisher": "Traders Union",
+   "published": "2026-10-30T08:56:26Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-02T07:01:37Z"
+  },
+  {
    "title": "Woodside Energy (ASX:WDS) Progresses Global LNG Portfolio as Scarborough Project Nears Production",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOEVDSU1ZR0M2enVlSW5VenFQMDI5UFN6RXpwTGNPQURESkI1dGlDMjI4clpzZjVoWGhLZ0x4UFVKbjNrSEgxZ2JBNDJsVWJiYzV4dUwwT3ZRaHVuUXlCOHFSTEdfSWdHTDVKdkZ0cmE1ZkFnc3VLWjBQWExPR1pqY29jaWwtbVlFWElVelc5ZFdzVVFLc2M1MWU4OUlWT2VxRVRSMjZIcmV3Y0pFYWRUc1Q1NWdJaUR0NVFjSWJBa3RFVHRyODJldw?oc=5",
    "summary": "Woodside Energy (ASX:WDS) Progresses Global LNG Portfolio as Scarborough Project Nears Production    Kalkine",
@@ -600,6 +676,25 @@
    "first_seen": "2026-10-31T00:38:00Z"
   },
   {
+   "title": "Norway grants $428 million for two floating offshore wind test projects",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVUJ6YTlYSWl1T2Y0a09jcG44SC1xUGFmd0lvVFYzVVFUSUdlelBiT0tiU1lkOC0ta05WWmtVUHR3M0VpYjZpczVEM3dTWmlVVURGd2RtVDRLN0dVWTlUdHB4Ri1PUnJCZTU2Y0M4bmRmVnhqVnRxSk1JZWxlZ2JxWlBLdEtzeUlaNFRuSVRORFBacERsVGZoWWh3TzFiUkNDWkNuanl3MlhVOEJxY0NrZnVQQnVPMmJnVkw2ZktIOS0?oc=5",
+   "summary": "Norway grants $428 million for two floating offshore wind test projects    marketscreener.com",
+   "publisher": "marketscreener.com",
+   "published": "2026-10-30T08:43:33Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-02T07:01:37Z"
+  },
+  {
    "title": "Fugro Q3 EBITDA slumps 30% as offshore wind weakness and higher costs hit margins",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQd0FEYmtuZFM0SnQtMW9pT2Z1eHZHR1BabGdqSDhONnFTbFI0SktmZnZQbFJ2c09OZmF3cDl6Rlpuams5Q1FhOUdXX09PTFN6NUN3OEk5TFVQRWZEYkJTSnNnZTVEcGtyRmFlUklNRmg0b0Zhcl9Ec2UxSUcyT092THEwU3Nyckg4MVpoZy1iR3FzNUJvajBjbUFhTDE4RFY5R2U4RlZ2LXQwcUQ1ckpCVmZwbG5na2t2TXM2ZnVfcXI3Z2N6Vkxz?oc=5",
    "summary": "Fugro Q3 EBITDA slumps 30% as offshore wind weakness and higher costs hit margins    Investing.com",
@@ -617,6 +712,25 @@
    ],
    "projects": [],
    "first_seen": "2026-10-31T00:38:00Z"
+  },
+  {
+   "title": "iX Challenge: Vibration Monitoring of Offshore Wind Turbine Foundations - fundsforNGOs - Grants and Resources for Sustainability",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdU1xbUlXUEpxZW40WUQyR003WGNyeFg0MUhia0ZpZ1UxajRCMFBocUVDdnFra0Q4bGh3ZUVlaGRZSmwxWE0zYm9mZXF1UWFGMlF6bUMyRVJoMEMzS1AxQldrcThzVzZDT01fMDdzaWtUQjE0RmRBbGNlTVhPbEtqS2x2VzlTN0EydGM4cEIxX0s3cTk1anpIWXpTX1BsaUMzU0NKaEFOdWl5cDlOUmxxQm03bGnSAboBQVVfeXFMTlpsTUNSbk1NVVN1dHVJX2ZfNGhGdmhGbFZTSHRIS2x5YUVtUWNZUTVmT3RrUzNPQTQ1YjN1RUZNYjJHY3RlZFVRcnBTcEZhVThTLUpRQklHbUtTWS1HNDBKdUtCN0txUk1rUFhHemN3RFc2MjRlVFU4aFNzMzN3c1RXWkM5LUhTQ24tS01FZWhRdE0xaHJDOGdiWjd3ZGxHRTNiZnNkTnRfejF4aklNUHJiUkt4X0h5cVZR?oc=5",
+   "summary": "iX Challenge: Vibration Monitoring of Offshore Wind Turbine Foundations    fundsforNGOs - Grants and Resources for Sustainability",
+   "publisher": "fundsforNGOs - Grants and Resources for Sustainability",
+   "published": "2026-10-30T07:00:00Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-02T07:01:37Z"
   },
   {
    "title": "PetroVietnam and CIP advance 1 GW offshore wind project in Vietnam",
@@ -1306,6 +1420,25 @@
    "first_seen": "2026-10-30T00:45:47Z"
   },
   {
+   "title": "Northland Power Inc. (TSX:NPI): Can Its Cash and Liquidity Carry a Large Offshore Wind Build-Out After a Dividend Reset?",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUEU4M2dzWDBLVGxWeXNQeFlZYkRtaGpqejk2bjNFR2djTFl1LWkybWl2WVZjYkZlXzhTeTNCZE1uU1lIemxCNUVfSHI5Wlhlbzk2dm54akFCX1NMclg2Z0hjak9tLWUyUFN2V1JYWnJFc1V4ODI3TDZDRFNZYTJWSTR5SE9zcm14dW94a29wNDVNLWhRNENnWmhmWmJpYTctb0lHZE1OSndIM1l3OEhKVnpuSExUYXpIV2VfR0VndXpNRUQ2ZE51U3VscGxOdDdiMExlMEVieUhZTVkxUVUwbVpR?oc=5",
+   "summary": "Northland Power Inc. (TSX:NPI): Can Its Cash and Liquidity Carry a Large Offshore Wind Build-Out After a Dividend Reset?    kalkine.ca",
+   "publisher": "kalkine.ca",
+   "published": "2026-10-29T11:33:00Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-02T07:01:37Z"
+  },
+  {
    "title": "QatarEnergy signs 20-year LNG supply deal with Australia’s Woodside",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVzRxOWx5bUR1VWZMS0tONnRrMk5fVmxZeWpPd0pFbFJFbXRza0xfVm4zWmRPdmpFY2UxVWxjN0xCc2J3V0ZvMkhzRGZqUFFLRHFGcVJXbkkwWm5OU2k4bnBTZ2tlamZ2LTFIRjg4WkFlV25lUzM3WU5MTWEzejQ4MGRvTnltb1pEeWlZMi1fajA?oc=5",
    "summary": "QatarEnergy signs 20-year LNG supply deal with Australia’s Woodside    Doha News",
@@ -1363,6 +1496,25 @@
    ],
    "projects": [],
    "first_seen": "2026-10-30T00:45:47Z"
+  },
+  {
+   "title": "Papastavrou says Great Sea Interconnector is proceeding according to plan — Cyprus Mail",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbGdjWFdOZ0Nnb1hvWGxKWW1EcW9CN0lUY1FCeHFoaExOQnhNNTNZLVdXUTIzNUl0a182ZUV5RDNHYk1wa0h2UjRoYzhZVnc2Tkx2ZmI3Nm16MldEbllnU0pMSnl4clBiVkVGYTVSQTZzVXdYcTNUYTBfZDhBc1F5eE05MEgtSnM4end3Ul9rYk81TG4xN3o4eUp3bThZdW1VMXVTWm1vdFBnTU1UM0ZuS3EtbmdBZw?oc=5",
+   "summary": "Papastavrou says Great Sea Interconnector is proceeding according to plan — Cyprus Mail    UA.NEWS",
+   "publisher": "UA.NEWS",
+   "published": "2026-10-29T10:38:39Z",
+   "source_id": "gn-cable",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Subsea cables & interconnectors"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-02T07:01:37Z"
   },
   {
    "title": "QatarEnergy secures 20-year US LNG supply from Woodside amid Hormuz blockade",
@@ -1506,6 +1658,23 @@
    "first_seen": "2026-11-02T00:30:36Z"
   },
   {
+   "title": "Carlyle, EBRD Agree to Sell Romanian Offshore Gas Producer to Mazarine",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN0lhbE0zU1hWNkhXdUIxNUFjTE1QVmJkcGpUTjRRRUVMV1lxb3BCazZkVkZKYWxDUDg2bElISVZLaGl5YVFkZW9NMUdRc0xYX0NqeW9ObFpaekFJbjBRYmVzVjBJMmZhYWU1T3otWWU2LVdoclRWOU5OUElNa2V1WFhVZGlObW5TajJQU3JNN01WZGxhV2tEaUFRMEluUVNxNHoxbnRyWER3aEk?oc=5",
+   "summary": "Carlyle, EBRD Agree to Sell Romanian Offshore Gas Producer to Mazarine    Offshore Engineer Magazine",
+   "publisher": "Offshore Engineer Magazine",
+   "published": "2026-10-29T09:35:36Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-11-02T07:01:37Z"
+  },
+  {
    "title": "Australia's Woodside inks 20-year LNG deal with QatarEnergy",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNODFuSzUwRXNobzMyanIxU2pNb3d0SUpKakhPdTJOemZGSjdwTS1za1VRQ2hvZl9PcEVFYWpLMzZBQjgtbzlueG9FWWV6OTM1dU1aUkdDcjBmSEdGaGtMTUtudWVGRTVfWFJldGtSRzU3cjZrNHVKcEdBQS1vcVpEdWlmVlpRcHI0TXJrM2RkTHJoVkxNWmRaTnRybENIcTIwYjk4TzRvR211ZjZyWlhLQ0x3?oc=5",
    "summary": "Australia's Woodside inks 20-year LNG deal with QatarEnergy    marketscreener.com",
@@ -1586,6 +1755,44 @@
    "first_seen": "2026-10-30T00:45:47Z"
   },
   {
+   "title": "Vattenfall reports higher nine-month profit and advances offshore wind projects",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORGRCeTkwYWl5WWUyMlZ4dHNPWWNoWWY1Q0dFSFA2WERiUGlCeXdSbXpKalBISERDVWl0MGlqOGVDQTh5MUxOYXc4cmEzdl9mcHpRMXU1dG1NRzQ0X3lqMlU5bHlQT2U0czVHXzdUNHNKUDFQR1R5YXZWTllFR1J3Y3ZDMC13RjhzaE9aS0cyV0tINzZnV204UjBOeUxGZVd0OVYxZHpVYWVMVFgtVkxMNWlIblFFT2kwNThvQm5GUUV0bnhIdC1PU2JFTQ?oc=5",
+   "summary": "Vattenfall reports higher nine-month profit and advances offshore wind projects    Windtech International",
+   "publisher": "Windtech International",
+   "published": "2026-10-29T08:18:55Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-02T07:01:37Z"
+  },
+  {
+   "title": "Equitix raises Beatrice offshore wind stake as TRIG exits",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcElYOFRPWVlob1pjeHlTbFo3RklYWmZsaTNIUll2OEVMZWVQSlBBMXJMcmlLQzJfMmRsSlRrbGNuNkk2Wjh3ZS16MWxNNnlJU09LZ1RUM0g5WW40dkJNd3FpQTFqSUFIWEpobTZIbEozRTdxNWNXUFNpTEZ4Tmd4MmNFcHh3ZDJTQnY0RzQyaXFON28yaVliZng5cmphQQ?oc=5",
+   "summary": "Equitix raises Beatrice offshore wind stake as TRIG exits    Renewables Now",
+   "publisher": "Renewables Now",
+   "published": "2026-10-29T08:17:08Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-02T07:01:37Z"
+  },
+  {
    "title": "Germany Considers Letting Developers Return Awarded Offshore Wind Areas",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNM0g1UzVjWDhhZThIekROajBzQzByRkJPNURRbllzc2djdnJab2ltUVpOczB1akVsRHlmNU9hd0JZdnhJWFVXNXJFdGlUQzBWVlVIcUl1M1VvU1Znc0tHZ2xKemtfcTlfM0RSZ1RUT19nTlE5SnRONVdTNVhEYXlPN1VldmVtbmtsSy01Y2NjS0lhaHYxb1I4Y2o2bWlEQQ?oc=5",
    "summary": "Germany Considers Letting Developers Return Awarded Offshore Wind Areas    energynews.pro",
@@ -1641,6 +1848,46 @@
    ],
    "projects": [],
    "first_seen": "2026-11-02T00:30:36Z"
+  },
+  {
+   "title": "The Best Spots for Oysters in Melbourne – September 2026",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aREwzbjE4U0ZuNlQ4R3pDT3VmNDVvR1NZWjdhVFBfMzF5QmdObm5zN2F4dHZJSkprMUctMkFSdHJ0c0I4R21HdFJheURzVEptY3ZLb1BnOWk5RlZsX3Z5UzFRMktHNl9zenpB?oc=5",
+   "summary": "The Best Spots for Oysters in Melbourne – September 2026    Broadsheet",
+   "publisher": "Broadsheet",
+   "published": "2026-10-29T07:00:00Z",
+   "source_id": "gn-aqua",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "VIC"
+   ],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Shellfish & pearl aquaculture"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-02T07:01:37Z"
+  },
+  {
+   "title": "Concerted effort required to add momentum to offshore wind",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcFEtNGdsaGh2UlBvTWV2RzVPM24zMXF5bkMtUl9NRzF0WDUyY01MMTE0eXZXRUgzNHBsVUtJUEw2YzE3Qmg5ek1TaEswREpObzhydkdDS0lqZ1RReUE1ZGhZRXJlY2xyTjltcXNKSjVQVUpDLUs5RkhfZHVBTHhtTnRncF9ZVnlXYTFrbnpSR2FUYUJhREozZW82aEtxWGF5NU81Uzk1SDB3S1BpVlVKd3gtMA?oc=5",
+   "summary": "Concerted effort required to add momentum to offshore wind    The Irish Times",
+   "publisher": "The Irish Times",
+   "published": "2026-10-29T06:08:13Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-02T07:01:37Z"
   },
   {
    "title": "EXPLAINER-How could the oil spill off the UAE coast affect desalination plants?",
@@ -2359,6 +2606,25 @@
    "first_seen": "2026-10-29T00:45:04Z"
   },
   {
+   "title": "Promotion: Offshore wind powering new careers for workers across East Anglia",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLWh5a1l1LUROWW1wYWxQeW1vcF9BS0pYTUdjdmNiZUoxN2xKWGVDNExUdGJWMHRWLTkzQjR4R1NUTlBOUHZLWWdTWWM3SUhBcEd6QkFTVFFJcGstNnAxMVZEdUt5MjEwT0UwTjBFS1VaaXBFOXpGWTFPV2hvaUJ5bHo4Rk5lUnNYN3VfaklVb1FibndfVTRMbkdoQkN3UEt4cnAwRw?oc=5",
+   "summary": "Promotion: Offshore wind powering new careers for workers across East Anglia    Ipswich Star",
+   "publisher": "Ipswich Star",
+   "published": "2026-10-28T09:02:00Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-02T07:01:37Z"
+  },
+  {
    "title": "Offshore Wind Manufacturing Hub Planned at Gunsan Shipyard",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVm85RENuUVk2ODVsdXdlcjRtTFFDZGVaRnc0cmZhc2F4cjU2U1NaTnFiYm0ybW5aUjJqa2U2Y2c2YU00c2lVdHFIRDBHWWNDRzlIbWg2b01aU2tvYlE5cXVFS3dJZnhiTkdsM2pkbnZDRnI4ekhFRUZjNFlhelpVS0NjLVpZYmZkcnl2OUlRTFI2YzZRcXlsWTUxLWtGNktfTVE?oc=5",
    "summary": "Offshore Wind Manufacturing Hub Planned at Gunsan Shipyard    Seoul Economic Daily",
@@ -3020,6 +3286,25 @@
    ],
    "projects": [],
    "first_seen": "2026-10-29T00:45:04Z"
+  },
+  {
+   "title": "UK offshore wind build-out hinges on grid links and market reforms, says GlobalData",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX1Zuc0hjZ3VGeEZad3FXTUV1enFibEg0OWpjUVpGZkFUSi1LbUdHWHZWaGNIWkxmd0VVZW03bmE4LV8tbW9mdjBHV2RyUmNOdlJjSGItN2tLbFd6WGRVRlBZWjNhUUhuWlN6ZlJkd0VrQnV2YUNKMURUNGVyS3NpOTM1ck1HTnhBX0MxOXRJNjJPQTRHcXlj?oc=5",
+   "summary": "UK offshore wind build-out hinges on grid links and market reforms, says GlobalData    Power Technology",
+   "publisher": "Power Technology",
+   "published": "2026-10-27T07:00:00Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-02T07:01:37Z"
   },
   {
    "title": "Survey: what do you think of the domestic gas reservation scheme?",
