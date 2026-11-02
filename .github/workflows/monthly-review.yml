@@ -69,15 +69,26 @@ jobs:
           echo "month=$MONTH" >> "$GITHUB_OUTPUT"
           echo "path=${{ steps.root.outputs.dir }}/review/${MONTH}.md" >> "$GITHUB_OUTPUT"
 
-      - name: Keep the brief in the repository
+      # A new edition of the workbook is how the database advances a version, and the site's
+      # "Database as of" stamp follows the live workbook's filename. The roll copies the current
+      # workbook to today's name and records the queue against it; it changes no data. It is
+      # skipped when the review queued nothing, so the stamp never moves on an unchanged database.
+      - name: Open the new workbook edition
+        id: roll
+        working-directory: ${{ steps.root.outputs.dir }}
+        run: python scripts/roll_workbook.py --review "review/${{ steps.brief.outputs.month }}.json"
+
+      # Committed without [skip ci] so the ordinary build picks this up: it archives the superseded
+      # workbook, rebuilds the JSON from the new edition and deploys. One writer per job.
+      - name: Keep the brief and the new edition in the repository
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add "${{ steps.root.outputs.dir }}/review" || true
+          git add "${{ steps.root.outputs.dir }}/review" "${{ steps.root.outputs.dir }}/data" || true
           if git diff --cached --quiet; then
             echo "No review changes"
           else
-            git commit -m "chore(review): monthly brief ${{ steps.brief.outputs.month }} [skip ci]"
+            git commit -m "chore(review): monthly brief ${{ steps.brief.outputs.month }}${{ steps.roll.outputs.rolled == 'true' && format(' + workbook {0}', steps.roll.outputs.workbook) || '' }}"
             git push
           fi
 
@@ -89,6 +100,8 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRIEF_PATH: ${{ steps.brief.outputs.path }}
           BRIEF_MONTH: ${{ steps.brief.outputs.month }}
+          ROLLED: ${{ steps.roll.outputs.rolled }}
+          NEW_WORKBOOK: ${{ steps.roll.outputs.workbook }}
         run: |
           gh label create data-review --color 0E8A16 --description "Monthly workbook review queue" 2>/dev/null || true
 
@@ -103,6 +116,10 @@ jobs:
 
           text   = open(src, encoding="utf-8").read()
           header = "Full brief, always complete: [`{}`]({})\n\n".format(path, url)
+          if os.environ.get("ROLLED") == "true":
+              header += ("**Edit this month's changes into `data/source/{}`** — it is a fresh copy of "
+                         "last month's workbook, already live, with the previous edition archived.\n\n"
+                         ).format(os.environ.get("NEW_WORKBOOK", ""))
           body   = header + text
 
           if len(body) > LIMIT or len(body.encode("utf-8")) > LIMIT:
