@@ -1,0 +1,37 @@
+{
+ "since": "2026-10-01",
+ "until": "2026-11-01",
+ "headlines": 565,
+ "projects": {
+  "FOS-003": 21,
+  "FOS-014": 4,
+  "FOS-012": 7,
+  "FOS-004": 2,
+  "FOS-015": 2,
+  "OTH-029": 6,
+  "FOS-006": 3,
+  "REN-005": 1,
+  "FOS-033": 1
+ },
+ "operators": {
+  "Water Corporation": 10,
+  "BCI Minerals": 6,
+  "Beach Energy": 5,
+  "Woodside Energy": 93,
+  "Carnegie Clean Energy": 3,
+  "Santos": 28,
+  "AFMA (Commonwealth)": 9,
+  "INPEX": 21,
+  "Australian Government (DISR)": 6,
+  "Chevron Australia": 3,
+  "Ørsted": 1,
+  "TotalEnergies": 5,
+  "Paspaley": 1,
+  "Marinus Link Pty Ltd": 6,
+  "SA Water": 1,
+  "ExxonMobil Australia (Esso)": 1,
+  "Shell Australia": 2,
+  "Pilot Energy": 1
+ },
+ "stale": []
+}
