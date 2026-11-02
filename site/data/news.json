@@ -1,17 +1,17 @@
 {
- "fetched_at": "2026-10-31T23:59:46Z",
- "added_this_run": 16,
- "total_items": 560,
+ "fetched_at": "2026-11-02T00:30:36Z",
+ "added_this_run": 10,
+ "total_items": 570,
  "earliest": "2026-09-30",
  "errors": [],
  "per_source": {
   "gn-lng": {
-   "in_feed": 56,
+   "in_feed": 28,
    "new": 0
   },
   "gn-gas-policy": {
-   "in_feed": 16,
-   "new": 0
+   "in_feed": 12,
+   "new": 1
   },
   "gn-decom": {
    "in_feed": 8,
@@ -19,54 +19,54 @@
   },
   "gn-wind": {
    "in_feed": 30,
-   "new": 4
+   "new": 1
   },
   "gn-wave": {
-   "in_feed": 10,
+   "in_feed": 11,
    "new": 0
   },
   "gn-ccs": {
-   "in_feed": 11,
-   "new": 0
+   "in_feed": 9,
+   "new": 1
   },
   "gn-aqua": {
-   "in_feed": 23,
-   "new": 0
+   "in_feed": 26,
+   "new": 1
   },
   "gn-fish": {
-   "in_feed": 52,
-   "new": 3
+   "in_feed": 54,
+   "new": 1
   },
   "gn-desal": {
-   "in_feed": 12,
+   "in_feed": 13,
    "new": 1
   },
   "gn-cable": {
-   "in_feed": 11,
+   "in_feed": 10,
    "new": 0
   },
   "gn-ports": {
-   "in_feed": 28,
-   "new": 1
-  },
-  "gn-minerals": {
-   "in_feed": 5,
-   "new": 1
-  },
-  "gn-zh-energy": {
-   "in_feed": 38,
-   "new": 6
-  },
-  "gn-zh-wind": {
-   "in_feed": 3,
+   "in_feed": 29,
    "new": 0
   },
+  "gn-minerals": {
+   "in_feed": 4,
+   "new": 0
+  },
+  "gn-zh-energy": {
+   "in_feed": 31,
+   "new": 3
+  },
+  "gn-zh-wind": {
+   "in_feed": 4,
+   "new": 1
+  },
   "gn-zh-fish": {
-   "in_feed": 8,
+   "in_feed": 24,
    "new": 0
   },
   "gn-zh-other": {
-   "in_feed": 7,
+   "in_feed": 6,
    "new": 0
   },
   "offshore-energy": {
@@ -83,11 +83,88 @@
   }
  },
  "by_month": {
-  "2026-10": 559,
+  "2026-11": 4,
+  "2026-10": 565,
   "2026-09": 1
  },
  "note": "Append-only archive. meta.news_days_to_keep controls the site's default window, not storage.",
  "items": [
+  {
+   "title": "Oyster farm barney: councillors reject their own expert planning advice",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaGNVdEQyRVZuODlRTUZfTWpIUS12NXJ4UWxTLTFCNGU5T0hSN19jZ1pDZjhETDZJSHIxbC12enhiS0ZFZW4tZzJJWG00cEpwTUExTFVKRGQ5YlRQRjB1SUZrMEZVQld3dVZrSVZsVTFnWHlid1VIYk16MFlIMVZ5eGhxMl8xbGpRT2ZIWWlIZnRjSFdmQlZJOU1wdGNhek1xN3ZTeg?oc=5",
+   "summary": "Oyster farm barney: councillors reject their own expert planning advice    The Advocate | Burnie, TAS",
+   "publisher": "The Advocate | Burnie, TAS",
+   "published": "2026-11-01T18:01:55Z",
+   "source_id": "gn-aqua",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Shellfish & pearl aquaculture"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-02T00:30:36Z"
+  },
+  {
+   "title": "Naidiri village in Fiji restores fishery with coral",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVzh1VnBPODFqTTNSRWE5eWlrcWVoeUFzT243RTd6VTZXZW1jLU9HSXRyNTlONWpQbERGY0FtVXpUbE5WMG1JRlNGZ1VHRGdMWmhWT2Y4anpwdnBVN201am1UUzE5NldXaXVzOUdRdHBqMWlzZm1zQnlsUWEtX2NuNlNwN05BQVF0b0c3QmRwNHRJVko4czlqZlRrdWZEcTBzMWw2bg?oc=5",
+   "summary": "Naidiri village in Fiji restores fishery with coral    South China Morning Post",
+   "publisher": "South China Morning Post",
+   "published": "2026-11-01T15:30:00Z",
+   "source_id": "gn-fish",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-02T00:30:36Z"
+  },
+  {
+   "title": "针对转售部分印尼液化天然气指控 新加坡政府作出直接澄清与回应",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sbHdKMl9NZEpJcDJHTDRuRERfdFdkblJnR29jVEhpcEJGNFBoSGxXRkZNRGtIN0pkNkpnZTE3c0pCWG1QT1N1ekRSZ2llMXZBd3EyUWppR2pLQ3pSRDZMVG5zSVp0WmVzS2IybXV6RUZpWUJNOVNB?oc=5",
+   "summary": "针对转售部分印尼液化天然气指控 新加坡政府作出直接澄清与回应    Shangbao Indonesia",
+   "publisher": "Shangbao Indonesia",
+   "published": "2026-11-01T08:59:00Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-02T00:30:36Z"
+  },
+  {
+   "title": "Bahlil 怀疑新加坡充当印尼液化天然气中间商，政府对此作出回应",
+   "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxOYkpocU5VSGZLYnFkV3ZSbzhsTFhEckF5M3ZEbzZOaWJtcHFiTjBCMjdVQzlGODVCYzBBWjZEOE8yWnIxRm93RzZTY2tWSkRFTHBQUFV3MF9DUlNMYmNBMDBtU2t1TV9fQkRwdnFXVmN3TWdWMlowWG56cEhjd3liNDl4c2pPUDkzSVZyeVJzM0RTR1JHTU51VGNxbW1EclRjN2hnaElvZ2xFNllvWkdGMld0akNwTXljS2s2T09JSFE4S1l2TDlZa1NjajJmbE9zdkVCXzdsRU1EYUxiaFh0RENjZWNqQ3Bud1dad3Z4blo2Yk5lZWxiVDVUem5PVzlTbkN2aTFzT25oZEEzOHJTbWJnaF9meTZCWmJzNHZJV1VHOUsyYllkUjVMNEV0al9lT3p4NXRUM0FoNjNoWFVpdDUwR3lzdExneW9CVjJwWW00eXlFWGFGUmJacmxWNHBOc0dTd3l4S3dFSmh0VnJGZHdMeWNRWG15ZTBLeERySUEyWUN1UzBvTEFPZE4?oc=5",
+   "summary": "Bahlil 怀疑新加坡充当印尼液化天然气中间商，政府对此作出回应    IDNFinancials",
+   "publisher": "IDNFinancials",
+   "published": "2026-11-01T04:00:00Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-02T00:30:36Z"
+  },
   {
    "title": "Northern Water desalination plan near Whyalla could add $3.3 billion a year to SA’s economy",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeDJHQ3daQ2t6RS1pVGtsUlRMNzNTOVpqZDN2NGlDb2Y5N19HRUhYd1ppYzVoS0RtRDc5aExzcmUxREFZMHhZODg5SEUtektXOVdsbDljYXo2ZmxncFptZlRldDJGUXpueFd0bmpwZ3ZwNEhkRjlpaE1JSi02ZFY1N0JTNU5HMmRhcE9RN3JBZmhCRHoxY1FuLTNqYWV0a0hTcURleHU4YlMxak5nRE9QNkc3TzFiWnJOaGc?oc=5",
@@ -209,6 +286,25 @@
    "first_seen": "2026-10-31T23:59:46Z"
   },
   {
+   "title": "希利大臣将阻止无法降低账单的海上风电项目——《卫报》",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMXlMdnV3Z1AyYlRWZWlvZGExV3M5N2UtNTIwZGJ0OE0tbFFUWGtiSVNZX2JKcDB2QnhkMWthbWxNelg0UWZBWWRIYWZEMVFjWGxiWnJfaEp6Z3dDSUNHS3FIY1daZExfSUtvVGZScXd2ME9kRnZnRzVMOWVZaDlOTnhhZGtDYm4xVnpXTDk4NDBkWGRDWEdMemVLNDBITTJxQ0lKMHlOUjZBQQ?oc=5",
+   "summary": "希利大臣将阻止无法降低账单的海上风电项目——《卫报》    UA.NEWS",
+   "publisher": "UA.NEWS",
+   "published": "2026-10-31T06:13:00Z",
+   "source_id": "gn-zh-wind",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-02T00:30:36Z"
+  },
+  {
    "title": "能源贸工部：虽由本地公司交易 液化天然气不经我国直送目的地",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVbmUwc1N6cllTa3htUjI1c25meExpUlFoa1ZPUDJLVWlmUVNvVzlVcm5RV011N015S0FaMkozN0dLWmFaLUhrWXNvZ24xamZpSGFERjQtR3plaXh0VzZrRi1ZaU16and5WEQw?oc=5",
    "summary": "能源贸工部：虽由本地公司交易 液化天然气不经我国直送目的地    8world",
@@ -247,6 +343,25 @@
    ],
    "projects": [],
    "first_seen": "2026-10-31T23:59:46Z"
+  },
+  {
+   "title": "Albufeira announces embargo on desalination plant",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ3ZlOXlaZldjSDFQMzA3RnJJRE9Ma1FtWVNzR0tpLVJJcVBvb2d3Z01LZHBSdk40UURYUlllcUNHYzlWNjkwcXEyNlFfWkUzdXZWbUExUEUtNnAxTDVFMWNCX1cyQVFacjBTNEhZZGM4Wi1IRHRLQkQyN19EQkhSVEdZX3JZOFpYQnI4?oc=5",
+   "summary": "Albufeira announces embargo on desalination plant    Portugal Resident",
+   "publisher": "Portugal Resident",
+   "published": "2026-10-30T21:10:06Z",
+   "source_id": "gn-desal",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Desalination"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-02T00:30:36Z"
   },
   {
    "title": "Rock Lobster Meaning: The B-52’s Beach Party That Caught John Lennon’s Ear",
@@ -1290,6 +1405,25 @@
    "first_seen": "2026-10-31T00:38:00Z"
   },
   {
+   "title": "盈利速报(LNG) Cheniere Energy公布第三季度每股收益$5.65",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWGh0QUUwN1RQTlJZaVVzUGI0WUcwMU5OblFhTG9aMkhUeVRSaGxLbmVMMkVQV2JKWW9OZUNBLWJPekpmcnE1QndtSUNPd0NQTzJIcTVOdXNjY0lHLXlGT1ZkcU5OVGV6TzJ6NS1CMUVjbUhOVE44ZzBKM0pvOHMyRXF4b0thRWtMZjdxMk5tQU5Ub1hvZlVLajY3U0VxZVJUZE5N?oc=5",
+   "summary": "盈利速报(LNG) Cheniere Energy公布第三季度每股收益$5.65    Moomoo",
+   "publisher": "Moomoo",
+   "published": "2026-10-29T10:10:23Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-02T00:30:36Z"
+  },
+  {
    "title": "QatarEnergy locks in more US LNG through 20-year deal with Woodside",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWWc2U1BGWloxdzhjai1NR0QxaVJUN2Z4R1kxbDdSYmlQZ0dQZkNpclJ3X2lKYkZvR0xKNG5tM3hHZWxzbkNpVC0tMXU3LXZscnNsTHBmTXFUU09JazY5bmNHam9OVm9nME9QQXZwRzdxZWVkQ09zSUx3ZzNUSDhNN1R6Tkd2ZTRsM2dUVG43bHA3bkxxRGgxdFk3TkJKaW45VHRhMTh0eWhUWXZvODlN?oc=5",
    "summary": "QatarEnergy locks in more US LNG through 20-year deal with Woodside    Offshore Energy",
@@ -1351,6 +1485,25 @@
    ],
    "projects": [],
    "first_seen": "2026-10-30T00:45:47Z"
+  },
+  {
+   "title": "Siemens Energy, Japan to partner on floating offshore wind",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONEQ0a083S3RYeVd2ZllWT01zLThEcXhTdVMyRHhhdXZtQzFYY3dYTkoyanJ1WUVpWVhCUFZSSFdGRU5oWDdjdG5MRUVHVnBOSlVRcW1ScllXZDVVblRYUVpoM3pzR1ZGUTg0YlhXVVUwYkh0TFp5c2NxOXdZTk9yb0M0RklQOUdBZWN6dlJkRHdrXzktdzB1LWhwYTFIQQ?oc=5",
+   "summary": "Siemens Energy, Japan to partner on floating offshore wind    Renewables Now",
+   "publisher": "Renewables Now",
+   "published": "2026-10-29T10:06:14Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-02T00:30:36Z"
   },
   {
    "title": "Australia's Woodside inks 20-year LNG deal with QatarEnergy",
@@ -1469,6 +1622,25 @@
    ],
    "projects": [],
    "first_seen": "2026-10-30T00:45:47Z"
+  },
+  {
+   "title": "Institute of Public Affairs submission to the inquiry into the Domestic Gas Reservation Bill 2026 and related bills - The Institute Of Public Affairs - IPA",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQU1lrN3hSTmRJaVhCZkx3WE96MmVnUUR2NzdTTnNVcXVRbzU0Wm9rM3NSVnVKNW1PdXV6QVZ5cEdnMUlpT2c3MzBIbVp6N3lqeGRnWHFHSWFTaVhzN2V0SWxzSE5KalJJZ3Q3UVZZbzUtRG43MGpMQ2V1VENJbjJib0pMdmxLRWl6cm5NVUNrakMyYlpvbTdsUE5jN1hJaFlnV0RGQjBUbjI2Rk12OENpWV95TVZOdUFSdWFkSHAzakVjQWRhZ29BZkltT2VnYXBMVFZpVTd3?oc=5",
+   "summary": "Institute of Public Affairs submission to the inquiry into the Domestic Gas Reservation Bill 2026 and related bills    The Institute Of Public Affairs - IPA",
+   "publisher": "The Institute Of Public Affairs - IPA",
+   "published": "2026-10-29T07:00:00Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-02T00:30:36Z"
   },
   {
    "title": "EXPLAINER-How could the oil spill off the UAE coast affect desalination plants?",
@@ -2499,6 +2671,25 @@
    ],
    "projects": [],
    "first_seen": "2026-10-30T00:45:47Z"
+  },
+  {
+   "title": "Ozona, Marubeni Make Final Investment Decision on Texas Carbon Storage Project",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdXl3VHF0amMtU1RHdTVjdlFUR3hfTTJ3VkMyRlVLTFV6dmRFalh1a29lMlVZbWU2UGtieV9malpnWHV0ZUFlVklseV8tQXZsWjNCRVlYb2t3SkVlUGtoc3VrbWd4VU1QNlI3d21IZlVpcldMWmVadWl2bzlVMUFmdzB0T0ROc2NqdEpKcUtsbF9PbkFWSXQ4eWVfcFp6UQ?oc=5",
+   "summary": "Ozona, Marubeni Make Final Investment Decision on Texas Carbon Storage Project    Yahoo Finance",
+   "publisher": "Yahoo Finance",
+   "published": "2026-10-27T16:45:00Z",
+   "source_id": "gn-ccs",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "CCS & gas storage"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-02T00:30:36Z"
   },
   {
    "title": "Woodside Energy (WDS) Sells 33.44% Stake in Greater Sunrise LNG Project to East Timor",
