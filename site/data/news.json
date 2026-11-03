@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-11-02T07:01:37Z",
- "added_this_run": 15,
- "total_items": 585,
+ "fetched_at": "2026-11-03T02:51:40Z",
+ "added_this_run": 35,
+ "total_items": 620,
  "earliest": "2026-09-30",
  "errors": [],
  "per_source": {
   "gn-lng": {
-   "in_feed": 28,
-   "new": 0
+   "in_feed": 56,
+   "new": 6
   },
   "gn-gas-policy": {
    "in_feed": 12,
@@ -19,54 +19,54 @@
   },
   "gn-wind": {
    "in_feed": 63,
-   "new": 11
+   "new": 12
   },
   "gn-wave": {
-   "in_feed": 11,
-   "new": 0
+   "in_feed": 8,
+   "new": 1
   },
   "gn-ccs": {
-   "in_feed": 8,
-   "new": 0
+   "in_feed": 10,
+   "new": 5
   },
   "gn-aqua": {
-   "in_feed": 25,
+   "in_feed": 22,
    "new": 1
   },
   "gn-fish": {
-   "in_feed": 26,
-   "new": 0
+   "in_feed": 54,
+   "new": 1
   },
   "gn-desal": {
    "in_feed": 12,
-   "new": 0
+   "new": 1
   },
   "gn-cable": {
    "in_feed": 11,
-   "new": 1
+   "new": 0
   },
   "gn-ports": {
-   "in_feed": 13,
+   "in_feed": 27,
    "new": 0
   },
   "gn-minerals": {
-   "in_feed": 4,
-   "new": 0
+   "in_feed": 5,
+   "new": 1
   },
   "gn-zh-energy": {
-   "in_feed": 37,
-   "new": 2
+   "in_feed": 46,
+   "new": 6
   },
   "gn-zh-wind": {
-   "in_feed": 4,
+   "in_feed": 3,
    "new": 0
   },
   "gn-zh-fish": {
-   "in_feed": 30,
-   "new": 0
+   "in_feed": 6,
+   "new": 1
   },
   "gn-zh-other": {
-   "in_feed": 6,
+   "in_feed": 3,
    "new": 0
   },
   "offshore-energy": {
@@ -83,12 +83,341 @@
   }
  },
  "by_month": {
-  "2026-11": 6,
-  "2026-10": 578,
+  "2026-11": 25,
+  "2026-10": 594,
   "2026-09": 1
  },
  "note": "Append-only archive. meta.news_days_to_keep controls the site's default window, not storage.",
  "items": [
+  {
+   "title": "美国10月LNG出口攀升至历史次高，欧洲需求占比跃升至六成",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94WVFYb0k5ZUdLVl84ODFyTHFGUXFkUFExcllqWkJRakJ1TEw5MkNtaEpQaEFwanhHSlBVMGNFbFdvNmIxeTJZdmduSW9La3BFZEpv?oc=5",
+   "summary": "美国10月LNG出口攀升至历史次高，欧洲需求占比跃升至六成    华尔街见闻",
+   "publisher": "华尔街见闻",
+   "published": "2026-11-02T22:19:39Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-03T02:51:40Z"
+  },
+  {
+   "title": "Dominion Energy Installs 44 Turbines at Virginia Offshore Wind Project",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaHF4MVJCUzlwNUFVOGp1di1aYTBPdVMza3p4djNQWXBRQVFVd3RGelNqQlBEMmtnVzIyM1BDWS1GbEMzbXZvcnZwRDdINVNXN0J4RDhieUZkQ2J0MGRIdDBQSDJxTFYwbTQybGZwbTJyaDdVZlYza04tcTJtUm84YnlNWUExWlNua0I0UjhxZlpuR2Y4M3JLMk9lT3pmMEFITkN6SWFnT0MzUzdEdFR1T3FNakw?oc=5",
+   "summary": "Dominion Energy Installs 44 Turbines at Virginia Offshore Wind Project    Brazil Energy Insight",
+   "publisher": "Brazil Energy Insight",
+   "published": "2026-11-02T18:42:57Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-03T02:51:40Z"
+  },
+  {
+   "title": "Scotland: Shetland pilot opens door to salmon farms further offshore",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLW00X3VHaVBEbE9TT0NFQVllRGJodG5RVkhmbXB4VmY4WXNrRFRKMmtVbHNfUHhtNzMweTFBS0tvLXlBOWxxYWVMTUNDal9GTW1Gc1R2em5QTWlpRVdMSzcwb2ltVEt5X0FOVW9xRWxrN1A3eTd2QVUzNEljajhaTmgtaU8xTWx6b3B0S3lWdTBCWDBrbWpyZ1dhM2R5c184?oc=5",
+   "summary": "Scotland: Shetland pilot opens door to salmon farms further offshore    Salmon Business",
+   "publisher": "Salmon Business",
+   "published": "2026-11-02T17:49:52Z",
+   "source_id": "gn-aqua",
+   "language": "en",
+   "operators": [
+    "Pilot Energy"
+   ],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Finfish aquaculture"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-03T02:51:40Z"
+  },
+  {
+   "title": "Blackstone-Led Group to Invest $3.1 Billion in Mitsubishi Corp.'s Interest in LNG Canada",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORUJpb1JHcEJiaUwxR3NjendtUkw1dWVacFdXZVA0VVBZRXY1TjUyX3NNR0UwUWtfbHR5MURlaGlDRFRLOERjWVRLVk1CVzVxU0lCNW43TmlaUmZCalhLZ3FRdzUxVjV6NWJFQk1MNlVoR3d0MGhZN21xN3JOSTE4Vnk2UFZsTU03bFlqeVl0VGdEMTJkWHY3cElvYWgzSnNnMjk1dlF2WHFXUlotNzNYakFQZFlUemktakpHdFBUNWJYdC1zaHRQMmVmY09ZTzRISG93WDBlNA?oc=5",
+   "summary": "Blackstone-Led Group to Invest $3.1 Billion in Mitsubishi Corp.'s Interest in LNG Canada    Moomoo",
+   "publisher": "Moomoo",
+   "published": "2026-11-02T17:29:59Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-03T02:51:40Z"
+  },
+  {
+   "title": "成都引进养殖 “澳洲蓝龙虾”抢鲜上市",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZzY1ZENrZ1Z5S29reGMxYzBSV25nZFEtUEhsOTlma2J2Zm5EbUdZOGFlNWdhcHQwSjdRektReXNoaDhFMjJ0OEszcVNzakxIZGZNUzlkSVR5ZlhNcENqVTVNZm9pUmFlVnRxamViVnRiY2ZSY1VwZll0VzdWWTdlTUZqbGdRaFpsWWRzMw?oc=5",
+   "summary": "成都引进养殖 “澳洲蓝龙虾”抢鲜上市    搜狐网",
+   "publisher": "搜狐网",
+   "published": "2026-11-02T16:00:00Z",
+   "source_id": "gn-zh-fish",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-03T02:51:40Z"
+  },
+  {
+   "title": "埃尼与合作伙伴启动莫桑比克海上液化天然气项目钻探活动",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVlB0bFVPTlBmM042QmQ4bVQ2X0VKWWhZY1dnbkM4R0RSZUtWRUFacVlhQ1FQOElkbnUtSHNVN1lfeFlVTXl4TklicDl2LTh4cml5bmQ5cklRemlMVkd6OW5CcEZBckhtVnFrRGFockdmVnFuU01uNDQ4a1ozckpVX1JuV3haNDc2UmhKblRuQ3NDN0o1WUJmczZNN2JPc1pGbF9OMERFNFRGdWgxQWE1M1Itbw?oc=5",
+   "summary": "埃尼与合作伙伴启动莫桑比克海上液化天然气项目钻探活动    Moomoo",
+   "publisher": "Moomoo",
+   "published": "2026-11-02T15:49:28Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-03T02:51:40Z"
+  },
+  {
+   "title": "All foundations installed at 980-MW Nordlicht I offshore wind farm",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORllyYlhIYXdYekVsaFp4MjdRczEtU0VEbmFKVjJ4eXA2QWZpMUFZNjRhUUQxWTI5WVJVMUxpRVQtNlpBNVVPdnJuNnA5S05FM3I1bWhDRFRaZWNmOGtPM3ZoQUU0bjZmYk9uSmNLdHBOdzBuR1BXMDUtcklrWkYxamp1bWhWbFRLbXpSRzFQektRT0lvQnViQy13ZnV0NE44VjVkLWVrcXNSZw?oc=5",
+   "summary": "All foundations installed at 980-MW Nordlicht I offshore wind farm    Renewables Now",
+   "publisher": "Renewables Now",
+   "published": "2026-11-02T14:23:47Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-03T02:51:40Z"
+  },
+  {
+   "title": "Boskalis Secures Second UXO Clearance Contract for 976.5 MW Gennaker Offshore Wind Farm in Germany",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeVFwWTZDRVhWWWRqZ2RpWlBURXVNYng4ZEpUeWZ2V2JlQm1LWnJia0VGWlBfQ1Z5T19YbHAteDJKWmFFX0pFNkh1aXNNbU83VlRWYTZ5aWhPZXZUU1ljQXJ4STU3Wm1oQnV0RmpHSkM3Q3dKTVRHNVdIdHo1eE5mRk9hVlVkTFVCSFZ1ZDdVVGZycS15QnZ3UVBjZmxHS0o2OXlyaEdBZ3p2V1hpNC1NYTc5UVdXdXkxZmZNeDdiNA?oc=5",
+   "summary": "Boskalis Secures Second UXO Clearance Contract for 976.5 MW Gennaker Offshore Wind Farm in Germany    DredgeWire",
+   "publisher": "DredgeWire",
+   "published": "2026-11-02T13:41:23Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-03T02:51:40Z"
+  },
+  {
+   "title": "DEME and Prysmian Begin High-Voltage Cable Installation in Netherlands’ Veerse Meer for TenneT Offshore Wind Grid Connections",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQV3JPbmpBQXJHcG9PSVBLc2JYZktWdmhxNEo3M1pydDhxMWpSN0ktUW1sUmdBTHNMS0VhLXNyUXZBN2RlbTh3TzB5UTNWN3ZfOWNGd3ExMXhOMTRHUGVuak1iUWFnVFpkbjNDbnNzZE1EbnNxZUJxZWlxOU12cU14V3VhV2J3MmFyYzU2ckZqdUJvQ1E4Tzc1cFlUTVZ4UHc0X2NuMkhLV0tvS2htcXhxMmM2Q3Q2S0FIU1YtX1RXcG9LNlZSREpTaGtUdzRCOEZXR3BOZUhnUFNBQ0JHRHFNRzd3?oc=5",
+   "summary": "DEME and Prysmian Begin High-Voltage Cable Installation in Netherlands’ Veerse Meer for TenneT Offshore Wind Grid Connections    DredgeWire",
+   "publisher": "DredgeWire",
+   "published": "2026-11-02T13:31:11Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-03T02:51:40Z"
+  },
+  {
+   "title": "Can the US build a competitive offshore wind industry amid growing policy uncertainty?",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVmtYeVRWYW9BZ21qVTd1YkpoWXhGOHhmOF9CWUtKNld3VTFjQWwzbkgydFdHUGNmeVRXRVVOaE1ZdXhJNGdBVEtlb2ZMTTViZjJaWXJzNENEWkJTRTl1Tlo5MU9pOGhrbG5yV1VBMmNobnRpdFVnOUpFWkhzUVBoZVdyQWxtUnowdnhsc3RfODBZcUF3MHF3MEozamRPbFBoZjV5by1CZWZnX0R2alE?oc=5",
+   "summary": "Can the US build a competitive offshore wind industry amid growing policy uncertainty?    DredgeWire",
+   "publisher": "DredgeWire",
+   "published": "2026-11-02T12:29:57Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-03T02:51:40Z"
+  },
+  {
+   "title": "Gdansk opens T5 offshore wind installation terminal",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOW5iTzN5SU9oMVJfNkdpTWdKamNJbTBwWnpRTEdFZ1Z2X19CRG01bjAzVmJ6dzEwd3ZtdEw5dDgtZy04bHJQTGdLZFducUM0ZHZoQ3htWlB6VWV4SHRFNlk4VnRhTF9kRktCVk05SlNvNzZISTdDTV9tbGNMaV8wX0pjRjZJdGhQajlLMnYwTHFqdU8xU2ZfY2xTOWFnTllHRlk2NG80SElTWURnbFc5amMzWnpoUQ?oc=5",
+   "summary": "Gdansk opens T5 offshore wind installation terminal    WorldCargo News",
+   "publisher": "WorldCargo News",
+   "published": "2026-11-02T10:43:03Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-03T02:51:40Z"
+  },
+  {
+   "title": "Norway to fund two floating offshore wind demonstrations in fresh push to drive down costs",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSkxPVC1yMTZXSFJFV1N5cWJFMFpxblJLRW5jay1WbXNSTnFod1J0Wi0ydjdsbUtETzNEdWIybDAwa2VGdW52T1lJcjBjZ1ZWejBCT3JsVkl5R095VzlWMlpLZW00YWhNbVB0b1FIU2g2Q0o4RzNMRDdaQU1DbFZRNFcyWUVjME9oR2lsNkxCTlpIdDFHTjdyTzZrbEdUTVZDLV9IZXU0cWhWZWRmV1BwSE1keDl3dkQ5NGlzempzWGTSAcABQVVfeXFMTkpMT1QtcjE2V0hSRVdTeXFiRTBacW5SS0VuY2stVm1zUk5xaHdSdFotMnY3bG1LRE8zRHViMmwwMGtlRnVudk9ZSXIwY2dWVnowQk9ybFZJeUdPeVc5VjJaS2VtNGFoTW1QdG9RSFNoNkNKOEczTEQ3WkFNQ2xWUTRXMllFYzBPaEdpbDZMQk5aSHQxR043ck82a2xHVE1WQy1fSGV1NHFoVmVkZldQcEhNZHg5d3ZEOTRpc3pqc1hk?oc=5",
+   "summary": "Norway to fund two floating offshore wind demonstrations in fresh push to drive down costs    Renew Economy",
+   "publisher": "Renew Economy",
+   "published": "2026-11-02T10:38:21Z",
+   "source_id": "gn-wave",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-03T02:51:40Z"
+  },
+  {
+   "title": "Vattenfall completes foundation installation at Nordlicht I offshore wind farm",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWmEyZ2xMTmJwS1c0bFBoeGVRRVlKSndLcW1aVTlwR0tYWkxDalhQY1BycTVjMTQ0aVlqMV9BUnEwSDhlUVAxYjJ1R0dsTHlRZnozRXR5NElYX0N5eTRrVmZiMnJnNlFvZ2RLaUdqNnFReEN2N3M0YnpYZEtTRG80THRRLTlweUJOUE9XU3JJUkk4MTRiNW5fakdiODE5UjN3aFc1QXd2QlMzblBhZ0VuSEwxODUtVWxRUHlYREpDMzlyeWYzcWZHQ1hMOGNER2xhRFpYcnZVMA?oc=5",
+   "summary": "Vattenfall completes foundation installation at Nordlicht I offshore wind farm    Windtech International",
+   "publisher": "Windtech International",
+   "published": "2026-11-02T09:36:10Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-03T02:51:40Z"
+  },
+  {
+   "title": "Enova allocates funding to two floating offshore wind projects in Norway",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaUZlc25aRUR1Z19sUEdZaU9EQ3ZsMDZCODJNYnNVUVdSMVpmc3B5cE1KclBGVUhlTlF1UGFRWF8ybDRoWWxkQ1UwZHhQYlFiWU5wdkdNdUpidFk2ME1KWFpIQmItX1JvNXZ3aGpsRkxWVDduLXRLamVKWlNCaFNpZXZ2b0dDSDl0UDI3NWdWeXVnR1ZDNDlaWGlmTEZQeUtDcm8xN01DVXE5OUVjMXIzRmJ1VXlEQkNiQmtobl9Wekt5d29FUTl2QjJiUzRyNjg?oc=5",
+   "summary": "Enova allocates funding to two floating offshore wind projects in Norway    Windtech International",
+   "publisher": "Windtech International",
+   "published": "2026-11-02T09:11:28Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-03T02:51:40Z"
+  },
+  {
+   "title": "Star of the South undertakes additional feasibility studies",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOLXQ2SjFHV2dpMlNBOWd1MkJSWVZpczk4a2NTOXdhWU5ZSHIxYjhXZHozSVhmMjFkeldReE16VldrV0xZM0VJQVM1V0ZrNDJvR2FRdnk1NV9ncGtlQ1lsU1dGczJNVmxNbzRWbWhHRmVXUXozUTdvRF9ZakJXRXRsdlk1QmlkSHBSM29vVzJyT0hTbVcyczcxcXVkRFlxSExmMGU2ckFHUTNvY2FZZWxRTGdQbXlHb3M1N2RDNWMyYkViUlB0N3c?oc=5",
+   "summary": "Star of the South undertakes additional feasibility studies    Energy News Bulletin",
+   "publisher": "Energy News Bulletin",
+   "published": "2026-11-02T09:03:05Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [
+    "REN-001"
+   ],
+   "first_seen": "2026-11-03T02:51:40Z"
+  },
+  {
+   "title": "美国批准Power LNG年出口517.5亿立方英尺天然气当量",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43UDFGSTA4WTEzQktJM0xMR0hZOWJrUmQ1SDVVdnFJcngtbmlXRV9iZGZWZ05tSHhicDVPX2ZoQ0NjVnlQRmI1SVRWUkV1ZVJKSldvTHdYdFg?oc=5",
+   "summary": "美国批准Power LNG年出口517.5亿立方英尺天然气当量    维度网",
+   "publisher": "维度网",
+   "published": "2026-11-02T07:49:00Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-03T02:51:40Z"
+  },
+  {
+   "title": "BCI Minerals (ASX:BCI) Shares Rise as Mardie Development Keeps Project Delivery in the Spotlight",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOXlPdW52aVJVVmR5TUJmcElkTmd4M0I0MHpVai0zRnduX2dRS2pmMV9xelB0QkY4dmoyQXcyMUh1OHBpVWtNTmctM1NOb3ZocmJOTEJuNy1XSFBSYXY1ell3bENndVlYV1h0XzFkM3RqU3NYOFNRWU1lWW8xckZhTlZVeC1hSDVfRTZRem9Kc2hRbjVaZHVHN21KcnBCaEpVZXR2OGtvbmFaT2tQOHRuN0VtX2RQR01lU1I5UnRBejcwelhRTEJr?oc=5",
+   "summary": "BCI Minerals (ASX:BCI) Shares Rise as Mardie Development Keeps Project Delivery in the Spotlight    Kalkine",
+   "publisher": "Kalkine",
+   "published": "2026-11-02T07:00:00Z",
+   "source_id": "gn-minerals",
+   "language": "en",
+   "operators": [
+    "BCI Minerals"
+   ],
+   "states": [],
+   "categories": [
+    "mineral"
+   ],
+   "subcategories": [
+    "Sea salt & potash"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-03T02:51:40Z"
+  },
   {
    "title": "E-Gas系统：10月26日-11月1日当周中国LNG进口量约161万吨",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HRDRyVEpEMjRfcllEcldvdVlGU0ZVckZrektlcnMwN29NcjRaZWl1NmxkY0IxUGxmZFBMSV8wejJCZzhZMmFNZ2ZXeU9tMzlKcGdZbGpRRzlidTdFVXcwaUNPblFPRDROaDJrbGVQVHFIUQ?oc=5",
@@ -128,6 +457,25 @@
    "first_seen": "2026-11-02T07:01:37Z"
   },
   {
+   "title": "Texas desalination plan promises drought relief for millions but sparks fears over salty discharge",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOWxKRVRxQVZhNXl4Q0FOVFpLc3Uya0JNb1NiZUtjTkFkVGtvQWhZZjVyUXRfQlNZdC1MdmxXajJCWk1IQ21wc0F2QTZQNldWRXFrRVRCYWJGVGdpN3dsVkwzR0Q2NzlQTlJsS3hxMTJadW1ZVzJXbE9xWHE2c3EtMEJJbHBHSnp0RTJNZTJRX2FsMFk?oc=5",
+   "summary": "Texas desalination plan promises drought relief for millions but sparks fears over salty discharge    The Cool Down",
+   "publisher": "The Cool Down",
+   "published": "2026-11-02T06:15:00Z",
+   "source_id": "gn-desal",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Desalination"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-03T02:51:40Z"
+  },
+  {
    "title": "Oyster farm barney: councillors reject their own expert planning advice",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaGNVdEQyRVZuODlRTUZfTWpIUS12NXJ4UWxTLTFCNGU5T0hSN19jZ1pDZjhETDZJSHIxbC12enhiS0ZFZW4tZzJJWG00cEpwTUExTFVKRGQ5YlRQRjB1SUZrMEZVQld3dVZrSVZsVTFnWHlid1VIYk16MFlIMVZ5eGhxMl8xbGpRT2ZIWWlIZnRjSFdmQlZJOU1wdGNhek1xN3ZTeg?oc=5",
    "summary": "Oyster farm barney: councillors reject their own expert planning advice    The Advocate | Burnie, TAS",
@@ -164,6 +512,25 @@
    ],
    "projects": [],
    "first_seen": "2026-11-02T00:30:36Z"
+  },
+  {
+   "title": "A Fisheries Scientist Calls Costco’s Frozen Seafood Selection “Unbeatable” — Here Are 4 Finds She Loves",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN1ZSOWRQNXJHT3ZpZ3g0OTBXMzRhZU5zZ0hqRkx1LXZLZXdZYjR5VGNJaFo2bG5nLTladzNGTkhpeXA5WUplekF5OWZkWTVLY0dkenZ3U2tyeHV3TTNJNGhnN3pOTjJkbWZ5bndJdENJMFNmZGxPTTJiS0ZmOXJWdlZDMDFqWDl3ak4tOXhKbi0?oc=5",
+   "summary": "A Fisheries Scientist Calls Costco’s Frozen Seafood Selection “Unbeatable” — Here Are 4 Finds She Loves    Food & Wine",
+   "publisher": "Food & Wine",
+   "published": "2026-11-01T10:01:00Z",
+   "source_id": "gn-fish",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-03T02:51:40Z"
   },
   {
    "title": "针对转售部分印尼液化天然气指控 新加坡政府作出直接澄清与回应",
@@ -244,6 +611,25 @@
    ],
    "projects": [],
    "first_seen": "2026-10-31T23:59:46Z"
+  },
+  {
+   "title": "QatarEnergy signs second deal in a week to buy U.S. LNG",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbDUzTG1zTC1kVzh2aFJHcjZVZmRpcEhGQk50TGwtWGYtUzRPNXNDaGpkU0EyWG9PUmFTN2R5ZE13dWNsVU03WmYwY2NKUVd3bFk4bzBaMVlWQTh5QkxkQXcwaVBFSFpZMy14TWxZRUVUTEVQeG1qcUU0MnRFY2U5OFhKc1hFMXNIMHJTUUpYS3ZqRmItOHlZSXAxQdIBmwFBVV95cUxPbDUzTG1zTC1kVzh2aFJHcjZVZmRpcEhGQk50TGwtWGYtUzRPNXNDaGpkU0EyWG9PUmFTN2R5ZE13dWNsVU03WmYwY2NKUVd3bFk4bzBaMVlWQTh5QkxkQXcwaVBFSFpZMy14TWxZRUVUTEVQeG1qcUU0MnRFY2U5OFhKc1hFMXNIMHJTUUpYS3ZqRmItOHlZSXAxQQ?oc=5",
+   "summary": "QatarEnergy signs second deal in a week to buy U.S. LNG    The Center Square",
+   "publisher": "The Center Square",
+   "published": "2026-10-31T13:00:00Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-03T02:51:40Z"
   },
   {
    "title": "Chancellor Healey to block offshore wind farms without lower bills — The Guardian",
@@ -381,6 +767,25 @@
    "first_seen": "2026-10-31T23:59:46Z"
   },
   {
+   "title": "UN scientists’ secret carbon capture vote set back climate policy",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcDJJTE5sWENzdWlrMUVaN25mZ2daTzV4U2NoRll6d3REQzhEcy1mZThRbkVLY2RXb2ZpQWN4cTVkeUgyWFhkTGthaE1VeDhUeGpBMGVRU08tWHdaNGZ1LUI4Qm4yWFJPUVgtSk5QTVJ6S0tUWE1XT3lzSnNEbnFnbTZiSHY5cEpDNmE4WGtfa0RpTWIyZGVQUEIwdw?oc=5",
+   "summary": "UN scientists’ secret carbon capture vote set back climate policy    Asia Times",
+   "publisher": "Asia Times",
+   "published": "2026-10-30T22:38:37Z",
+   "source_id": "gn-ccs",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "CCS & gas storage"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-03T02:51:40Z"
+  },
+  {
    "title": "Power, fertiliser fuel LNG import surge",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVFhqVWVuNzU5c2dUS0NNZnRfS3dWdlk0cVQwejQ4RHZGVEwtdWIwcF9oanFDN0FPTlFMZzlERGM4Z2xrSlAwUzl4ZnZNRUVZOV9OdTNOTnpRZDRUd3kyTkVDemdyclhwNndkQXVkakZQWU51ODB6WjZ6a2t0X093clNxNmk4aHl2T0NOYWhDZWNWLW5DcjZ5STlLUmdPaFVPNWZfTXMzQ1A5YWdGUkJoQlBpdmVGVUlOQXBnUHFzRDdzQdIBxwFBVV95cUxQSHY5Z0NLNWtJeWFGVThqUGFUWURuR0hrZl9EcENsQ1ExbHFSbFdKOGNhSEpRSjlwV0Fydko5S3o2LTdLUWM2M2tac1Z6bjFrRkdoUFpCaWZIbkVYc0hKamFEWFltUHllaUFJbmpWdVd3ZjhIbjFPYmxsb0FOUy1IZV9lRU1CSEMteHI4RDNKU3VNLS1mbkx5TDBJOERQMTByRDFGaU9hMzcyZE1WMW5zZjlGWlE3X0YyVmo1UkJ6bkVsbzBaamdJ?oc=5",
    "summary": "Power, fertiliser fuel LNG import surge    The Times of India",
@@ -499,6 +904,25 @@
    "first_seen": "2026-10-31T00:38:00Z"
   },
   {
+   "title": "Mitsui & Co stock advances Malaysia offshore CCS project - ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcG9ZUWJnZzc0TTQ2VklKeWkzbUFEMWVkMEpkNzBIcUxHUzF1dERtcnFxMGxDQnY3VHdHZ29tMmUxMWZ2b0RDaGdxT3VrNUNaMkhyQ3pwczJXYW00V3VBUGJocDBxZDEwRGxsWUpCSmJFZFIxVFcxazhmeHN3X1QzYmx1MWZSc1YxdWZUM3ZEU3pyRU9PTFIySm1SQmF6cEtuN0dVMmN5c2JkUW1Mc2l0d2xuTjhaRS1V?oc=5",
+   "summary": "Mitsui & Co stock advances Malaysia offshore CCS project    ad-hoc-news.de",
+   "publisher": "ad-hoc-news.de",
+   "published": "2026-10-30T14:39:52Z",
+   "source_id": "gn-ccs",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "CCS & gas storage"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-03T02:51:40Z"
+  },
+  {
    "title": "South Korea announces 2.2-GW offshore wind auction, 2nd for 2026",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWjFUNmpLZEhkOXp1bjVNaUxwdEcwLTltaDl6YlVRT0hleENkb2xEMW1fdkdJaFlUU1FPM3ZCcjNLd3R3QmE1SGJheUlybWdrLUNmeUZsNlNQYU1nRGhTU0JMMS1BbEZpZWNnY1FibV95NHZ0RUFCS3hna1JnX0J5Sjk2azhjWnFOS1N0dktWNjA0QWNYSS1YN296akgwZjk4b0FCUW9B?oc=5",
    "summary": "South Korea announces 2.2-GW offshore wind auction, 2nd for 2026    Renewables Now",
@@ -535,6 +959,25 @@
    ],
    "projects": [],
    "first_seen": "2026-10-31T00:38:00Z"
+  },
+  {
+   "title": "卡塔尔能源一周内签署两笔美国LNG长期采购协议，产气大国反向采购应对霍尔木兹海峡供应中断",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96a1I2aWVSRFRiT0lLWWI1WENxMl82Q3lUZk82LW04MlRNZ3dfTk4yekd2Wk9wOV9IcWpFUVhINDNLWENpT2ZCeE9SclBGUHRFSEpJMmVxUTM2bzE4U1NB?oc=5",
+   "summary": "卡塔尔能源一周内签署两笔美国LNG长期采购协议，产气大国反向采购应对霍尔木兹海峡供应中断    虎嗅网",
+   "publisher": "虎嗅网",
+   "published": "2026-10-30T11:03:40Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-03T02:51:40Z"
   },
   {
    "title": "Woodside Energy Group (ASX:WDS): Brent Oil Supply Risks and LNG Exposure",
@@ -809,6 +1252,29 @@
    ],
    "projects": [],
    "first_seen": "2026-10-31T00:38:00Z"
+  },
+  {
+   "title": "Will ASX 20 Energy Producer Woodside Ship Debut Scarborough LNG This Year (ASX:WDS)?",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc2ppQ0ZBYVZkaU50Zmk4MlRqS0JMLVpkQ19HSXd3aUUzd3dELUwyR29mcDFNY0o3M2J1TnBKQW1EOGNVcWVLS3pNREl4RG9BMElDN3FBNmVncHlqa3VPcFA4T2dLM0ZPNk1fajBaM2IwLWxJZlFhdVk5UF9rYm9HNV9MaGxYclo5bjhEUUd3aDNkcmRKQkE1OGlTdldfN1lrOC1odlpzNERCMEh2c0RPaEsweVJzZV9UNkU3YWs0NU8?oc=5",
+   "summary": "Will ASX 20 Energy Producer Woodside Ship Debut Scarborough LNG This Year (ASX:WDS)?    Kalkine Media",
+   "publisher": "Kalkine Media",
+   "published": "2026-10-30T05:46:00Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [
+    "FOS-003"
+   ],
+   "first_seen": "2026-11-03T02:51:40Z"
   },
   {
    "title": "#曼联[超话]##曼联# 巴西国家队公布最新一期国际比赛日大名单桑托斯再次入选，库尼亚再次落选。 ​",
@@ -1214,6 +1680,25 @@
    "first_seen": "2026-10-30T00:45:47Z"
   },
   {
+   "title": "A 57-ton wind turbine blade snapped off Nantucket and covered the island's beaches in fiberglass, and 72 more of the 351-foot blades had to come down off the towers at sea before all 62 turbines on America's first big offshore wind farm could spin",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTnZlNENMSXNrcko3Z21teWNzTjRXZ1hnQnRSeWNXVDlHQWowS01YVjgwWWdlTTNjN3hQVWJGS1gwQ3dUVFhjT1VLTDdwbVc2MHB1Sjg3UVVwMC1QWWdGRFhOMWt1VnJVRTBRaUgyOFdSa0RRRHlXQjIzRS1zc2U5MUh4aHlwNV9vNlNNeGpKTjZ4bzY5OGpDNnE1LU41czZMNElVeTctX2dHMEhT?oc=5",
+   "summary": "A 57-ton wind turbine blade snapped off Nantucket and covered the island's beaches in fiberglass, and 72 more of the 351-foot blades had to come down off the towers at sea before all 62 turbines on America's first big offshore wind farm could spin    Autonocion.com",
+   "publisher": "Autonocion.com",
+   "published": "2026-10-29T20:30:00Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-03T02:51:40Z"
+  },
+  {
    "title": "Qatar becomes largest buyer of LNG from US amid Hormuz disruption - Al-Monitor",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQkZTVHdpcUV6bGl3ZTJUN1BZdjNsc2N2YWdSemFrSkNOSDVDeFFkRmtlX19UeHZpT2VhaUVleDBCRWhUdnByZDNBSEV4V29VZ3JyMFBVYTNlQk1obGxTLThWOTRRbWlQUjlkTXJ2cURYZUR1SkJqOHR1Vnk2MHFXMGZmMGpkd1BLZloyZnZsZllleGFwYWUyblM3NGViY0l4ZW5JVA?oc=5",
    "summary": "Qatar becomes largest buyer of LNG from US amid Hormuz disruption    Al-Monitor",
@@ -1296,6 +1781,25 @@
    "first_seen": "2026-10-30T00:45:47Z"
   },
   {
+   "title": "NEP Completes CO2 Storage Appraisal in Southern North Sea - News and Statistics",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbTgxRjJPMXhReWdNOG1UY3JUX2RyNXczUmxnSURDekM3ZHhaTTRiUmktNDlLYmE3NkRmZHFFOWFralBCOEplRHAzM2k3T2x4cVY3NU0xa29NY3Uwd040dDgwWlpPa2dRT2Jqd0pWY05PUjVsX0VYNDk4SnlNSnVSZlR2RFUwekx4ZFJMT0NNSDlsZXkxLUFuT3hUVS1SVlg2NkZfYWJBMA?oc=5",
+   "summary": "NEP Completes CO2 Storage Appraisal in Southern North Sea - News and Statistics    IndexBox",
+   "publisher": "IndexBox",
+   "published": "2026-10-29T14:10:44Z",
+   "source_id": "gn-ccs",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "CCS & gas storage"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-03T02:51:40Z"
+  },
+  {
    "title": "QatarEnergy to Buy 3 Million Tons of US LNG Annually From Woodside",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWERHQW84UW9JTHRhMUsxVGcwRUlhSXVjY0V6aUI1aGZicUs3ZEdxYXFLVUJUbko3dk9UR2ctRy0wb085YVI2NnBOUURjb2xKNzJrajJ2cHByajNyZC02X3YzYkF1U1Y3V1puUFVkeG8xQTZDbVNNOU8yM1BfZzI2QV81ejRnQ0t5cnBBRmhDWVhsLXcwOGQwNnNBd2R0dw?oc=5",
    "summary": "QatarEnergy to Buy 3 Million Tons of US LNG Annually From Woodside    Egypt Oil & Gas",
@@ -1317,6 +1821,25 @@
    "first_seen": "2026-10-30T00:45:47Z"
   },
   {
+   "title": "QatarEnergy signs 20-year US LNG deal amid Hormuz blockade",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15OHVkYmpCRGk2ZDBQZ0NQZ1ducE1FaTJoNHhVR2Y4czBKRV8wRnM2SVlKZm1HemZGWGpvVFYyMWNUTGduazc3VW1HUVplakFfUWc?oc=5",
+   "summary": "QatarEnergy signs 20-year US LNG deal amid Hormuz blockade    Iran International",
+   "publisher": "Iran International",
+   "published": "2026-10-29T13:44:14Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-03T02:51:40Z"
+  },
+  {
    "title": "QatarEnergy to buy up to 3 million tonnes of LNG per year from Woodside in the US — The National",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd3lSTUc5eGRhX2NQektoRjFyelNqS2lnX1RjVGhRTXpMQzM1eUZuek1IOEFrNzUwbFgzaFlnWDBmMjl2Z3hSd2JsTFh5Yi12OGs2Y3FMRUVDQTZobGdBM19hUDRRUV9NOWtBYjdRTHBvZ0d5a3NZUXlyNGtISndnbFhZZXFOUkw4VVo2T2czTWJLM01sYWpuallQb25oRUh0a285Y0tmaWl1Qm8zb191aDVoU0d0YUk?oc=5",
    "summary": "QatarEnergy to buy up to 3 million tonnes of LNG per year from Woodside in the US — The National    UA.NEWS",
@@ -1336,6 +1859,25 @@
    ],
    "projects": [],
    "first_seen": "2026-10-30T00:45:47Z"
+  },
+  {
+   "title": "QatarEnergy makes further deal for US LNG",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRms2eXpIV0p5S3owM3hjSWlOYU54MjItRXlQMnoyRjUtZktOSXNXbm5DYXJIRXBzOWxWN3lOUmh4M255VFpJTC04Wk9McV82U3NSUnNxdC1tMjdvU2NWSHhlUlRnbENiRzJwUS1kQW9IdzFyN19wcWhSTXJneWI4QjRoQjk0TGRjU1M4?oc=5",
+   "summary": "QatarEnergy makes further deal for US LNG    Arabian Gulf Business Insight | AGBI",
+   "publisher": "Arabian Gulf Business Insight | AGBI",
+   "published": "2026-10-29T13:24:00Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-03T02:51:40Z"
   },
   {
    "title": "Woodside signs very long-term LNG supply deal with QatarEnergy",
@@ -1658,6 +2200,27 @@
    "first_seen": "2026-11-02T00:30:36Z"
   },
   {
+   "title": "Woodside wins big LNG contract from Qatar",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQakM4b1drZEpVaUtHNkJHRTBjaGxrWENvSkJKMUh2MzlDOGdCbUxERV90a1dMaDJva2lEVG1PWnI1RW9FRHhfbUtnYjM3RWNvNFE1TURJMXhDYmhnY1NXT3RXdkV3T3BOREduNFo3dTdaTUd1VWRkWVprOUZnbW5ETTZwNDExdEdhQWRwQzZmTjR5TTZuMl93eDdaM0Uwb0g1YnBNbWlDMEZCVmtaWEh0bS1LUUVoV0NOZ3lNMW1GNA?oc=5",
+   "summary": "Woodside wins big LNG contract from Qatar    The West Australian",
+   "publisher": "The West Australian",
+   "published": "2026-10-29T10:00:00Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-03T02:51:40Z"
+  },
+  {
    "title": "Carlyle, EBRD Agree to Sell Romanian Offshore Gas Producer to Mazarine",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN0lhbE0zU1hWNkhXdUIxNUFjTE1QVmJkcGpUTjRRRUVMV1lxb3BCazZkVkZKYWxDUDg2bElISVZLaGl5YVFkZW9NMUdRc0xYX0NqeW9ObFpaekFJbjBRYmVzVjBJMmZhYWU1T3otWWU2LVdoclRWOU5OUElNa2V1WFhVZGlObW5TajJQU3JNN01WZGxhV2tEaUFRMEluUVNxNHoxbnRyWER3aEk?oc=5",
    "summary": "Carlyle, EBRD Agree to Sell Romanian Offshore Gas Producer to Mazarine    Offshore Engineer Magazine",
@@ -1753,6 +2316,25 @@
    ],
    "projects": [],
    "first_seen": "2026-10-30T00:45:47Z"
+  },
+  {
+   "title": "Cable installation begins in Lake Veere for Dutch offshore wind connections",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTVRjR0lCelU1Y3k0S0Z0Njc2SjB0TmNWQzJpNl92YnlrM3BoaVJnOTY1VWJQWG44ZDQybi1DRktZX3pzUmIyWUdEMnZWdU4zSlNyWjFGd0VEUEpxRC1XLThEYlhtNlJ5N0tZNjJnRkRKVVFSYjBhUG0zTm9WSkxQcXp2VUI2OERQaXpDSTF1ekR4eGlmT2FDdWtXcHJXaHNPRGpsME1UOTV5eThGa216cWt1QjJXMmtPZVZUc2x3MFh0REMwMThpemhNc3A5OWk1Z2h3?oc=5",
+   "summary": "Cable installation begins in Lake Veere for Dutch offshore wind connections    Windtech International",
+   "publisher": "Windtech International",
+   "published": "2026-10-29T08:26:09Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-03T02:51:40Z"
   },
   {
    "title": "Vattenfall reports higher nine-month profit and advances offshore wind projects",
@@ -2296,6 +2878,25 @@
    "first_seen": "2026-10-29T00:45:04Z"
   },
   {
+   "title": "New concerns over controversial Morgan and Morecambe Offshore Wind Farm cabling plans amid wildlife worries",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQd3dQbWtSeXpmV3Rhajc4SGUxVHhmbkZFU2drMjZHMWV1SmJIZ040NEJ4QkVoNjAyX3Y0aVhoYVRReXgwNS1fUkJPYks2RG5rTXduLTRiaFhqY043QWlIZExrYmNLek0xWlpqQzlSb3NVWDFvSkJmOW1oU2dQZ0FZZlA5SURETFI5R09IVGpVdDlaZWk0Z1FwNHJ0eTVMeElzbFZjVmJlcVgyQWh6MjRGMmh1cU5hTDFsTTlLS2dYMlhkRVJTTERnNmZOVE9OTmJlMXF1MkU4N04wWTVzeEVtS3RNckc5NWNBZnBR?oc=5",
+   "summary": "New concerns over controversial Morgan and Morecambe Offshore Wind Farm cabling plans amid wildlife worries    Blackpool Gazette",
+   "publisher": "Blackpool Gazette",
+   "published": "2026-10-28T19:00:00Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-03T02:51:40Z"
+  },
+  {
    "title": "CSIRO faces transparency questions over Santos Darwin LNG leak role",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSnBVcFR1cUtwN0RMSm9yd1pjalNHX2NlQVZ4ZEcteDhSTFlFTW81X2s3SXNfU0lGZ1l2T0Rsa3Z2SHJ5UVctYlIwbndFT3VwSzcyeXRJVjc1MkFoUndPcE05Y3Q2WG1RRFpGS1A2WHFEM2JVWVAyQVdOaXRZNzJ0czNGa25lbmhhcVktcTlwb1RuRHFfdGdhc0ZuTQ?oc=5",
    "summary": "CSIRO faces transparency questions over Santos Darwin LNG leak role    Traders Union",
@@ -2722,6 +3323,25 @@
    "first_seen": "2026-10-30T00:45:47Z"
   },
   {
+   "title": "OilPrice：卡塔尔能源公司将液化天然气供应不可抗力延长至2026 年底",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTERqdGQzcGkycERvVDhtRTBVZ2pRdHZkV0tILTVzYlh3d0pQYkN6SGdIV1QySzNYcmREMVhkbTEzamxKU3l1bkZaUmNJTUx1dHIyemVfWWVjTFhjek1rekotNVJHeWF5R2o4SXp6N29SbTg0WnI3QmlEc1AySEVFcjU4V1I2bGVFTzBwWEdnNFV5cXFwY0VSemo5SkRpX2FmbXJMS3ZvUkl6cC1pT1BqMw?oc=5",
+   "summary": "OilPrice：卡塔尔能源公司将液化天然气供应不可抗力延长至2026 年底    UA.NEWS",
+   "publisher": "UA.NEWS",
+   "published": "2026-10-28T07:33:00Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-03T02:51:40Z"
+  },
+  {
    "title": "Woodside’s Australian crude and condensate output falls 25.7% in Q3",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1JbVNwOFRadzZuSGZWRG1aalVXOWZydU9XenNIUzFkMVllSkx6VjI0TkZDYnhMNkR6REIwZTh6aVVqNk9sNXd4R0FMR3p0Y19j?oc=5",
    "summary": "Woodside’s Australian crude and condensate output falls 25.7% in Q3    Trend News Agency",
@@ -2897,6 +3517,46 @@
     "FOS-012"
    ],
    "first_seen": "2026-10-29T00:45:04Z"
+  },
+  {
+   "title": "Homeward Bound – Shell Returns to Production Growth With Focus on Deepwater, LNG and Montney",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU3JaNVFHNDFaQUR2cVItYTBJVml5WVBuNG5NR2c3Q1pYejlsbmR1QlB0R281eE8wck44bTN6OE1udjRkTXdCRnA3MGdaZjdqYkJmUlpOSVZUU2E3U0pPT0l0UjdZbzB6ZW02dkFyUGs0eGtWZ056RWIyVG5fWUhkT05JSVRMQlV6WFRhME5oRi1WTHd2Sm1FUVMxTWpvX0gyUFIwUA?oc=5",
+   "summary": "Homeward Bound – Shell Returns to Production Growth With Focus on Deepwater, LNG and Montney    RBN Energy",
+   "publisher": "RBN Energy",
+   "published": "2026-10-27T20:01:08Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Shell Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-03T02:51:40Z"
+  },
+  {
+   "title": "United States Carbon Capture and Sequestration (CCS) Market",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYjNzZm9naTEyeV85emZGWmx4RVZBZUdKZmZsSXh2UVhPT1pGV25qenVSajFFUFdUd2hyd3hkSmluUnZ1SW1IOXZuaXBzd3JVNWRuVVZ3bVg3NktoQ3FzMk9Wb0VSY0phcFNiOFVoTHhmV0pVc3gxNkdjYkt3XzZ5UDJ0RktjYS1qRjJ1Z05uSTZWTkVsUEpuYw?oc=5",
+   "summary": "United States Carbon Capture and Sequestration (CCS) Market    openPR.com",
+   "publisher": "openPR.com",
+   "published": "2026-10-27T18:31:24Z",
+   "source_id": "gn-ccs",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "CCS & gas storage"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-03T02:51:40Z"
   },
   {
    "title": "'Critical habitat' decision could affect Macquarie Harbour salmon farms - ABC News & Headlines – Australian Broadcasting Corporation",
@@ -3208,6 +3868,25 @@
    ],
    "projects": [],
    "first_seen": "2026-10-31T00:38:00Z"
+  },
+  {
+   "title": "Browse risks \"irreversible consequences\" to Scott Reef, unveiled WA EPA letter writes",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTTRLSTI4dm9vS2hzdkd2MVNQQWd1bncxZVNhNDhDdGltT2lncUhaQUtxZjJDVGxXb3NGZEVOdzlkMURQMFpmbk14RzhOVzBjS1AzcXZyYVR2QzJPdWNIUERMSkxUWkk2bUpxMkNVUkNnSG16YWFCRWdiclpJWHYyX09oNEVralZLenVPV1dVSUFyUi1JdV9BaDZSbWVHRFBYRi1rZ3ZJRkliWHFGVGJhVUVpR1VLMjBkWVJxeGVwMTJQcG5jMlFIaWg5S3Rha0s5WlRjVWJiNXJTVGt3WGQ2Rg?oc=5",
+   "summary": "Browse risks \"irreversible consequences\" to Scott Reef, unveiled WA EPA letter writes    Energy News Bulletin",
+   "publisher": "Energy News Bulletin",
+   "published": "2026-10-27T08:10:08Z",
+   "source_id": "gn-ccs",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-03T02:51:40Z"
   },
   {
    "title": "Minesto targets the Maldives for new tidal energy development",
