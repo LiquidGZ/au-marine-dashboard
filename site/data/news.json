@@ -1,72 +1,72 @@
 {
- "fetched_at": "2026-11-03T02:51:40Z",
- "added_this_run": 35,
- "total_items": 620,
+ "fetched_at": "2026-11-04T01:12:06Z",
+ "added_this_run": 68,
+ "total_items": 688,
  "earliest": "2026-09-30",
  "errors": [],
  "per_source": {
   "gn-lng": {
-   "in_feed": 56,
-   "new": 6
+   "in_feed": 63,
+   "new": 35
   },
   "gn-gas-policy": {
-   "in_feed": 12,
-   "new": 0
+   "in_feed": 13,
+   "new": 1
   },
   "gn-decom": {
-   "in_feed": 5,
+   "in_feed": 7,
    "new": 0
   },
   "gn-wind": {
-   "in_feed": 63,
-   "new": 12
+   "in_feed": 58,
+   "new": 10
   },
   "gn-wave": {
-   "in_feed": 8,
-   "new": 1
+   "in_feed": 13,
+   "new": 4
   },
   "gn-ccs": {
-   "in_feed": 10,
-   "new": 5
-  },
-  "gn-aqua": {
-   "in_feed": 22,
-   "new": 1
-  },
-  "gn-fish": {
-   "in_feed": 54,
-   "new": 1
-  },
-  "gn-desal": {
-   "in_feed": 12,
-   "new": 1
-  },
-  "gn-cable": {
-   "in_feed": 11,
+   "in_feed": 6,
    "new": 0
   },
-  "gn-ports": {
+  "gn-aqua": {
    "in_feed": 27,
    "new": 0
   },
-  "gn-minerals": {
-   "in_feed": 5,
+  "gn-fish": {
+   "in_feed": 51,
+   "new": 2
+  },
+  "gn-desal": {
+   "in_feed": 9,
+   "new": 0
+  },
+  "gn-cable": {
+   "in_feed": 18,
    "new": 1
   },
+  "gn-ports": {
+   "in_feed": 15,
+   "new": 5
+  },
+  "gn-minerals": {
+   "in_feed": 7,
+   "new": 2
+  },
   "gn-zh-energy": {
-   "in_feed": 46,
-   "new": 6
+   "in_feed": 55,
+   "new": 7
   },
   "gn-zh-wind": {
-   "in_feed": 3,
+   "in_feed": 2,
    "new": 0
   },
   "gn-zh-fish": {
-   "in_feed": 6,
+   "in_feed": 7,
    "new": 1
   },
   "gn-zh-other": {
-   "in_feed": 3,
+   "in_feed": 0,
    "new": 0
   },
   "offshore-energy": {
@@ -83,12 +83,1242 @@
   }
  },
  "by_month": {
-  "2026-11": 25,
-  "2026-10": 594,
+  "2026-11": 91,
+  "2026-10": 596,
   "2026-09": 1
  },
  "note": "Append-only archive. meta.news_days_to_keep controls the site's default window, not storage.",
  "items": [
+  {
+   "title": "Fortescue's First \"Green\" Bulker Bunkers Ammonia at Port Hedland",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVkszenJPSUxYY2FUYWRqNkl2c0NLbkpoYVliUWJtb05kWVpmTWRnOFprV01WWkpHME9Tb0Y0UW5fbTlQTEZNb043SjVVZjlRZmFLYmNHTkNCR29IWGEyNm5pcXhsZlZsYXJTSUlULWpxRmNGbGFwTmtDQjU5RWEwcUdIcTZyMHdqdUs4amtEc1JXX2RXc09iRml6OEptR2Z4dURj?oc=5",
+   "summary": "Fortescue's First \"Green\" Bulker Bunkers Ammonia at Port Hedland    The Maritime Executive",
+   "publisher": "The Maritime Executive",
+   "published": "2026-11-04T00:49:08Z",
+   "source_id": "gn-ports",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "WA"
+   ],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Ports & LNG terminals"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "BCI Minerals (ASX:BCI) Share Price, Forecast & Analysis",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpS29wcS0xMUhuLU05bE50WW1idzZIT08xaUFpZnRqT3k0eTdjOHp1X2VUMU5LSmh6a2h6YkF4OXB4dmt1X2VLcmJuZ1JZSnNqWEE?oc=5",
+   "summary": "BCI Minerals (ASX:BCI) Share Price, Forecast & Analysis    Stocks Down Under",
+   "publisher": "Stocks Down Under",
+   "published": "2026-11-03T22:27:02Z",
+   "source_id": "gn-minerals",
+   "language": "en",
+   "operators": [
+    "BCI Minerals"
+   ],
+   "states": [],
+   "categories": [
+    "mineral"
+   ],
+   "subcategories": [
+    "Sea salt & potash"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "XRG to buy Shell's North West Shelf LNG stake for $1.45 B in first Australian LNG investment",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeXFKblNrTTFqNTdVdmJyUDVQOGJlOTZkSVRnbDl4WFJ3eldfT0RmTmc1NjJsaVBSVGpYOHk0am4wZ1VGc1FlNVJJWGN2THMyTjBXNUZBZHcxbTRGVGFVU2liVmdfX2oxcTRjVDJibXdHcEg3QW9BNHgwUGJrZ1g4aVphN251NFBHR2s1clVCOWEtdlVoUkYyWTE0d25vY1lJOXRyd0tvdVJzaGFqTDNYcVI5NklIbUJ0ZHpVZzk1Slo0TmZ5bUxBbzR3?oc=5",
+   "summary": "XRG to buy Shell's North West Shelf LNG stake for $1.45 B in first Australian LNG investment    Pipeline and Gas Journal",
+   "publisher": "Pipeline and Gas Journal",
+   "published": "2026-11-03T20:46:04Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Shell Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [
+    "FOS-001"
+   ],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "WVSI HAND OVER FISHERY STORAGE FACILITY TO STRENGTHEN LIVELIHOODS IN KOLOMBANGARA",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN1VhNFpGV3dINGRkTEtSVVRVN0QtU05xOVNRdENMVVZwQWNxeHRWYmd0bTF1bDRYbThkTEVDZTJnUXBqNmRVUFdHRlNSWHg5Q3hwWnk3Tl9HM1JXeGUyYlFFcUo5QkdDeVhxVXIwNUNKWHhTMkhxeVlyOGFxZFNkUGtKcTRPZkZJOHpMUnAzdHk2cnpETS0xMXA1SUpKOU1ITzZqVXJnc25jbGNCYUItNHdxNG8?oc=5",
+   "summary": "WVSI HAND OVER FISHERY STORAGE FACILITY TO STRENGTHEN LIVELIHOODS IN KOLOMBANGARA    Solomon Star News",
+   "publisher": "Solomon Star News",
+   "published": "2026-11-03T20:00:30Z",
+   "source_id": "gn-fish",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "Australia first as green ammonia is bunkered to ammonia-powered bulk carrier at the Port of Port Hedland",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOEVvVnNFdmRNbVgxa1N1cm52TDd3ZmJKSFhKNEw5dnBLZ09RVGNGTzVvaHlwOE1yTXl1VzBGUThfWWg5TmpyVS00eHVXVXVkUS0teTJtTDZlM1Z3QjZyTDQ4UDFoa3RkaHZUb1pXd1dlUHhPLWU1bDNjQU1VWTZmQ280Y0lMeXQxaHplRmJuYW1ER21sMk5TUXhMUjliSjRNdDlkdUwtT0gzTlpZODR5VTFESm1QTnJGOTdkYnFSLXQ?oc=5",
+   "summary": "Australia first as green ammonia is bunkered to ammonia-powered bulk carrier at the Port of Port Hedland    Fortescue",
+   "publisher": "Fortescue",
+   "published": "2026-11-03T19:26:46Z",
+   "source_id": "gn-ports",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "WA"
+   ],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Ports & LNG terminals"
+   ],
+   "projects": [
+    "OTH-056"
+   ],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "Shell to sell North West Shelf LNG stake to ADNOC’s XRG for $1.45 billion",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcDV0X2plSVlmSGRRV0p1dEVqcFIyMXRGR0ZvSFRHRVdjYUlMQk05SWhCV2pJMTJYeEMyRGh5Z29jS0lMZnJzaEtHU1pSZUdIYlFEQWZYSzg4aFBaZHlXa1ZHTUlBdzNtOWxFejJhbDhZaGFaVWR0b3NjWER6STQ5QU1kNkJNSllRMmVjeU5rbllkOVpDUEpPY2JIb1FBWVJiQm5IelRCRnplQ1h4S2c?oc=5",
+   "summary": "Shell to sell North West Shelf LNG stake to ADNOC’s XRG for $1.45 billion    World Oil",
+   "publisher": "World Oil",
+   "published": "2026-11-03T18:46:02Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Shell Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [
+    "FOS-001"
+   ],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "Why Is Shell (LSE:SHEL) Exiting Australia’s North West Shelf For $1.45 Billion?",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOS2FqMVRYUzVHdVZocEczUks0bERGMVFieThmN0tWVEFfejZNYVdfaUE5a0FWaFRyZWpWcHNOMXFfNGpBODUxZGZKclRtUFZwZWo2eUZaMnRfRjNLZ2NFcGo5ZGFmNjNqaldSTEZVU1hMTTVWd29lcV80SVd5NW9VVk9oOEI4NndnSmZQUXZ1bmJvWVIzaEt4T0hvOU5MbFozVTVnT05PZVBNdldhZTZmVG9IUnI5VXNuVGxwS1lNc09ncEMzREZEVjFn0gHKAUFVX3lxTE5LYWoxVFhTNUd1VmhwRzNSSzRsREYxUWJ5OGY3S1ZUQV96Nk1hV19pQTlrQVZoVHJlalZwc04xcV80akE4NTFkZkpyVG1QVnBlajZ5RloydF9GM0tnY0VwajlkYWY2M2pqV1JMRlVTWExNNVZ3b2VxXzRJV3k1b1VWT2g4Qjg2d2dKZlBRdnVuYm9ZUjNoS3hPSG85TkxsWjNVNWdPTk9lUE12V2FlNmZUb0hScjlVc25UbHBLWU1zT2dwQzNERkRWMWc?oc=5",
+   "summary": "Why Is Shell (LSE:SHEL) Exiting Australia’s North West Shelf For $1.45 Billion?    Simply Wall St",
+   "publisher": "Simply Wall St",
+   "published": "2026-11-03T18:21:32Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Shell Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [
+    "FOS-001"
+   ],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "ADNOC’s XRG expands into Australian LNG in $1.45-billion deal with Shell",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNY3FrRGNMOTJKRGtCXzlMUHI5Zk5OZ0ZpaVpUS0RXeXo5WkVJd2QzWmFXVWtpTUhiM0NnVlMxZHoyQks5cUQ1MWFJTnk2em10LUdQREJwaHdPU2FaVjhEWWZtUjhJT3hMMXVfaUx2N2tKUWc4QjY5YnBaTWo2RDdaemEzSVFOY0ZaTlR0NDZjRDZuMFFQVVNMb1RHX1NWYXBCMG1KdjdhZUJkVlNoSzgwMFd2V01rY3ZKZmUwWkFVLUdON2VpZDFrU1RBOTM?oc=5",
+   "summary": "ADNOC’s XRG expands into Australian LNG in $1.45-billion deal with Shell    Oil & Gas Journal",
+   "publisher": "Oil & Gas Journal",
+   "published": "2026-11-03T17:06:10Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Shell Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "Shell Sells North West Shelf Stake for $1.45 Billion to ADNOC Unit",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbF96cTNyajZlb3JraEc2a0VoRWNEWkpiekpZYmxlV3FDMlZRak55ZjU5R3JmTVhmOVpfRXV0WlE1TWhIWXdKcmdINkJxY0VWU1ZYaXpRc01sdVA5X0VvZkxUZFpwMTRkY0lWemNqME1yT0NsSVoxVTRScUlCcHlxTWRJQjNfSHh1LVkyZVMteWJXWlRWUnRSdVZiVm1JdzlvYVI3aE1VZlJFQ1hrX0NkNC1vOEVhQUlwTHQ0?oc=5",
+   "summary": "Shell Sells North West Shelf Stake for $1.45 Billion to ADNOC Unit    ChemAnalyst",
+   "publisher": "ChemAnalyst",
+   "published": "2026-11-03T16:58:35Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Shell Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [
+    "FOS-001"
+   ],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "ADNOC’s XRG to Buy $1.45 Bn Stake in Australian LNG Project from Shell",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcEhSVnZWS1VodHpLaFVkeWU5akJhUllDVEF1cWVrdmNqZy1zRzJSV05yQ0dzdVRIT1NJMWNYNWtQT3dsVzZyUHVONThsMjNhOXRGWEFhVjE5SWlrV0JEOVN2dm5YQkZubllNOWhEdkwtTDg0dVZqOVkwSUEzSHhoWjNmV3h1STExRXhlR2gzQnU1ZTAxZTNydnFvci0?oc=5",
+   "summary": "ADNOC’s XRG to Buy $1.45 Bn Stake in Australian LNG Project from Shell    Egypt Oil & Gas",
+   "publisher": "Egypt Oil & Gas",
+   "published": "2026-11-03T15:46:04Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Shell Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "ADNOC's XRG To Buy Shell's Australian LNG Stake For $1.45B",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSmxrSXBUSkRFWndrcGRYOG5FYkU1SnBqTVRLZzBHLWdUaVNTQmRHeE5MdjB2aWl2WWNKSzFyRnRES2dZcjB3dWRISHN6aEJyTTJnSkZnVGtfQTdadExsRno0RllsQ182SEwxM3BwUGRuRWhCZXdJUVh5QzBnakFGbmZCOW5rdjE5ckJrbWtKVjRsLVpzWHBOazJpVzA1eTBOU2hzQkFnNXlqZw?oc=5",
+   "summary": "ADNOC's XRG To Buy Shell's Australian LNG Stake For $1.45B    Forbes Middle East",
+   "publisher": "Forbes Middle East",
+   "published": "2026-11-03T15:31:03Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Shell Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "Anchors Market Forecast to 2035: Demand to Accelerate on Offshore Wind and Port Modernization",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ2xPakI0bHVwM09yWVNaTUxPMVJtTlp5RncyVHFGWFltNU5DLXRrRks4N2VfNVNWeTROX3prb2JIZXJxTTR0ZnBsRlRQZFhpTVRzRUIydm1qaGJpcHd3Y0hRUWhnU0o5UVN1R24xQ3Z5NXY1cHdPaU5DdXI4ZnpRa0xSY3h0WDJVbEswMmozTno4ZWliYTdGSUluRWlVdEd0RkllMGpuVFM1cjdmWjZub0dzS1FmR2ZZSE55ellUZw?oc=5",
+   "summary": "Anchors Market Forecast to 2035: Demand to Accelerate on Offshore Wind and Port Modernization    IndexBox",
+   "publisher": "IndexBox",
+   "published": "2026-11-03T15:11:04Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "Van Oord and Vestas install final turbine at Ecowende offshore wind farm",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5fWW8wTmF4blZrM0s1LS1FN1c0MDRobXl1b3Q5WW1qdzdzUTRkODJDZi1fcW92SC1UWjVrMko3cGVnR2o5RWF0enc1bw?oc=5",
+   "summary": "Van Oord and Vestas install final turbine at Ecowende offshore wind farm    PortNews IAA",
+   "publisher": "PortNews IAA",
+   "published": "2026-11-03T15:04:00Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "2026 News items - Members review 34 notifications, share experiences at Fisheries Subsidies Committee",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtU2FpMUM1WFhMbTR0bDY4blZHbjVrTFNMOHRTU2RLQmU0eUh1TFlMTTFuVmlCc2s3Q2t2dnFhMVhCZlI2WENYdFRhaUxyWGVQRURUTFJyVEI2QWhnQUszU0EyM3hUcEZRSHkweEVLc3RfM2VH?oc=5",
+   "summary": "2026 News items - Members review 34 notifications, share experiences at Fisheries Subsidies Committee    World Trade Organization",
+   "publisher": "World Trade Organization",
+   "published": "2026-11-03T13:58:24Z",
+   "source_id": "gn-fish",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "XRG agrees to acquire Shell's interest in Australia's North West Shelf project",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQVFiVnR0bjZBc3JrVW9jNHdRUFp4ZWZ0MGVwUGZSOWVhOU11cnkyN0c5WGczSjJCLU8wMjZ5d250RlZLYk9UbC1ZOEpuMEY2Mkk4Q1dENTJqSUt5NUFiMXhxVkxGMHNxMW1EYnNpcTctc05ZS3pKVVZ2NDZDRXQzcWc0MXB2MTR0ZTFZQ1M3cHNUeVl2TVBMTDE0LTkzQnp4VE53WU1pRGZMalowZ2E3UTZPUWo4THpSeUFMRQ?oc=5",
+   "summary": "XRG agrees to acquire Shell's interest in Australia's North West Shelf project    Big News Network.com",
+   "publisher": "Big News Network.com",
+   "published": "2026-11-03T13:41:00Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Shell Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [
+    "FOS-001"
+   ],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "Shell Agrees to Sell Australian LNG Project Stake for $1.45 Billion",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTi1jMEVfaFl3Ql9PVnU1N0hwZFpNb1hYYkhYRnR5Q1pvTGZ6cVUwWkgwcHJzMVBjQWU0Y0JfN0RpLXluWTdnd3pyT1NKNTNualZVSFBxbFNKajJmdGI1Uk11alhlelNlaDg3V0p4eVJ5UzhTcXRYVHBjZkQ3a2NadXRSSWNsdy1SLVdVRnlNRlVvS0tVWlc1ZExKa01pTjg5b0hVbzhYd3VNSFhCRVdlSzVaTWpWaGJmX093dENORXd1YUU?oc=5",
+   "summary": "Shell Agrees to Sell Australian LNG Project Stake for $1.45 Billion    TradingView",
+   "publisher": "TradingView",
+   "published": "2026-11-03T13:33:17Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Shell Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "Shell Australia to Sell 16.67% North West Shelf Interest to XRG for $1.45 Billion",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb1pIU2VjMTRfUVlFeE1COVBxOFVDRDBUeUp6dGEzSmJRS2l2dU5zNzkxVVAyS3Rnd1pnTDl1VVd0ZHk0RU1GMzIxTWNsVGJ5blJtbHhiV0NmekZUTDFpeGZ5dXYtZHZ5Q2d6aWJNMkR5eXg4U2o5YTd5LTZ5bUdiMXVPZV9iYnBUYWRuaF9DeFdFMENmYkJ3Q2ttdG4tYlAydWdCbmlWWHZxMVU?oc=5",
+   "summary": "Shell Australia to Sell 16.67% North West Shelf Interest to XRG for $1.45 Billion    IndexBox",
+   "publisher": "IndexBox",
+   "published": "2026-11-03T13:22:23Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Shell Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [
+    "FOS-001"
+   ],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "Adnoc zones in on LNG with XRG’s North West Shelf stake buy",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM01ONV9lSmY2SUlLZkFYRk9BeExaYTUzUFNrdm9CUnl4T0dsMjBiOUxjVEEtU05PNUphRXoxdDdRNDNHZ2p3a3dVd01keXRhancwX0F5YzR0c0oyS1hMMzJlTThZallLQWswLXBHRVVOR0FUV21QakQ3SnRTZEwyYTJsZDFLWWNjZkxuTlFUTDlyOUVfdjdPRHVGSU1VVDVYNmJ6QS1aQ0xhZw?oc=5",
+   "summary": "Adnoc zones in on LNG with XRG’s North West Shelf stake buy    TradeWinds News",
+   "publisher": "TradeWinds News",
+   "published": "2026-11-03T13:22:16Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [
+    "FOS-001"
+   ],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "Eco Wave Power Advances AI Digital Twin for Wave Energy Systems",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYXlaWENBSWJ2cF9MX3hpZ0piUUUxMnNqbGJuQ3RhbldQd01EcmJMN0Qwd3JETFM2d2FPZTliYlpDMFVfaS03Wm1UckdNODBjeXZzRlR2WmdDY3BqZ3ZqN184VThlVUlEa09mQlljRU44bTJQQkdVcUtBOEtteFNXeGFDSVpaV1V1UVUxMTB5R0tienMtOWNlLVdkSVdWUUhSSHlB?oc=5",
+   "summary": "Eco Wave Power Advances AI Digital Twin for Wave Energy Systems    Offshore Engineer Magazine",
+   "publisher": "Offshore Engineer Magazine",
+   "published": "2026-11-03T13:09:22Z",
+   "source_id": "gn-wave",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Wave & tidal"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "India, Denmark explore deeper cooperation in offshore wind, green hydrogen and renewable energy",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSUpKWkp4NUZyMDUyR1lMQzA2V2VjMGRtM0lLWURzbEpqV1RpMGljT0xCNV9HdXRUN0l6N2psRDlOQmVwcWpGZDUxc2hZODlhdmJOVFF5WHoycjZGcGR5d0lrdGloTkU3UjVsVnptSFhUZXQ3Q3lfZ1pNcXJ2SUxtZjVZRWdUeWRtMDgxRlhpVFJFZ2FpZGNoelVIbGZEVXQ3M2JrR0QyTFZUbTRySk52ZGZBMlhQTEI2bTFKMTFEa2VnWkhsMmJQb3NOQzE0aDBzSTBFT3h3?oc=5",
+   "summary": "India, Denmark explore deeper cooperation in offshore wind, green hydrogen and renewable energy    Big News Network.com",
+   "publisher": "Big News Network.com",
+   "published": "2026-11-03T13:02:00Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "Shell sells North West Shelf LNG stake to XRG for $1.45bn",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQc3c0QWZfSEFocTU1ZjJHblZoV3gxNDc0eklMV1htc2Z5cmN0bjFRUlcxMWZHeUZyaVI3MkoxTkZXblRLLWFYQ2NENXFmeF9jaHpQazdReW1qS2kzRnBsTTZmT3lOX3hjYjB5ajJxeU11b0w4U2RCQTdSbnhlUjkzVGozYTFrcTVuc0pTVUdiT0k4SEdkWlNESUpmazU4Y1Ay?oc=5",
+   "summary": "Shell sells North West Shelf LNG stake to XRG for $1.45bn    Quantum Commodity Intelligence",
+   "publisher": "Quantum Commodity Intelligence",
+   "published": "2026-11-03T12:52:43Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Shell Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [
+    "FOS-001"
+   ],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "Australia completes first green ammonia bunkering at Port Hedland",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTEQ4X1hvREc3Tms2R1ZMNTdfTW1hdVgxeFAtYnlZaGJFZ3VTQVdldDVkbVpTUmxsTWQwejlrbWtrc3ZOWUh4US1XbWxxLWNRTElBZGVpcmcwbTVySElSbHFaeV9mcHlTYjJFZDlDdGtFdW1tcWx3OU5wOVlYVDNRNHB4UnJyTmFLNGhVWExxM3JJX1k?oc=5",
+   "summary": "Australia completes first green ammonia bunkering at Port Hedland    safety4sea",
+   "publisher": "safety4sea",
+   "published": "2026-11-03T12:30:36Z",
+   "source_id": "gn-ports",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "WA"
+   ],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Ports & LNG terminals"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "Shell agrees to sell interest in North West Shelf project",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaUs0ODlzYmlaZWtXRGM0T0lvVm4tazZYSkRFcmxRa09rbU1BeWZnZEZCcUltMWdGWE9BZEFsdzRJTG13dGdQcVNxOEdBZGNnQ3NEQnFmUmd1UGtIZmhLVENjZUlfUzV5OXg5T1FWZXIyNVo1T1B5MWRRZjM4NkwydjItTXpVM0ZiTExRWDFiNVZJZmFpNlFSZGxmVEExbEhlYnRuVVpBZ0N4SUQ1V29DdE9JaXlfUmQ3T0RVOVloZWQ1VUpZMmNPYjI0RDVoaTJGai1IN1JMZw?oc=5",
+   "summary": "Shell agrees to sell interest in North West Shelf project    Shell Global",
+   "publisher": "Shell Global",
+   "published": "2026-11-03T12:30:00Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Shell Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [
+    "FOS-001"
+   ],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "壳牌将以14.5亿美元向阿布扎比XRG出售澳大利亚天然气项目股权|大陆架|能源|战略|伍德赛德|开发商_手机新浪网",
+   "link": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxOMmVKS1hxSFdmSmhRYVlPZlFoVzMwa1Y0RlIyVjdiRFNaZWt0dldJaktHYW9oM1RvNWl6R3F5bl9jVFZZMDhnZTUzazU3YVY2QklqUkhVS1BsQTBvdVNUYlg3MFlfRWZGRTN0Slp3QU93U0xuOGkxU2tKbmdLV3ZSY3JQdmFMMHNjdDk4eFhjQlJvZmZ4NWhzOVdUNVhkN1ZSR2k1cV9KSWxTWlgwRENoTVBiM2xBN1AxRG5ZQ2ZOa3dxR2NrdzVDcUtxRWd0d3JVWGVmMHpnVW5fem14SElnVElTUE8zbHNSTUdYcm1QQnowbmtMOXoxaTZPVEVRSFY1a1R3aUJoa09wVGQtQlU3U0hxQ2hVWlpZOWRRcjY0NHBsS1pJUHNvUERnNm5YN0FKemlINFJhc200a3l6OWpaQ0J2RWQ5RW5QQVZGbExLWC11V0x5RDk1Qi1DUy1YU1VNdWU2OTNueWdhaWtGd01icEFTSEhzcm82N3dKNENTMXZUN1RUMmtKSmxaT3JITTFNNnFwckxyekNRdHZrYk1hNlB0ZjBXU3BQUU9xV2J4cmhvWllDeGZCaWNhYmZiWVJLSmpIX0JRWnVpeUQ2NUlYbF9paGVtZUtwelpJdGQwR3RuMnZ4X3pYbGNHMjZQVnZMaGRJ?oc=5",
+   "summary": "壳牌将以14.5亿美元向阿布扎比XRG出售澳大利亚天然气项目股权|大陆架|能源|战略|伍德赛德|开发商_手机新浪网    新浪财经",
+   "publisher": "新浪财经",
+   "published": "2026-11-03T12:20:57Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "Shell rakes in $1.45 billion for shedding its stake in Australian gas and LNG project",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZzhmNFpNTG9tcVNIeXhZaDVIOGRmaE4tYVF1S3FmLUdyOVRCS2ZXelctcjZsSUlaejdpcFZjSXZPd2p3bDEwcS00cVJrT2FmS0Fab3lIZy1DaFhUOXBJa0c4ZVBOVGtlNmxwc3VNb0NWdjB0elRVajRWbnhBbW9nN1F3WHIydzZzU0lXY3g5OG4zMVQ2Znc1NlBDOWJzWEN6LWh0bXp5cUNXMFNPdnpPUm96eTVQNnFUdXRHZENoVGxUNU9ld0c4?oc=5",
+   "summary": "Shell rakes in $1.45 billion for shedding its stake in Australian gas and LNG project    Offshore Energy",
+   "publisher": "Offshore Energy",
+   "published": "2026-11-03T12:19:47Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Shell Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "XRG to buy Shell stake in Australian LNG project for $1.45 billion",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObE9UTFJoUTNVbkhLQTJ3cjgtNFo2d1hiYXlYU0FVcXdqbTd0dWZ4akttTG9RS2lvYzlYREtKTWhUV2Q5RnBBMkJwSW5RbElkXzRvRU44WTZaS0F0aXpCZDEwaUQ5SERURU5NeWZacE5TaGdBN3ZCU3dndDRpVTRieUJiTUhWOG9Ib3BhZ2owdVpldVZxd0Z4bUpZUGc?oc=5",
+   "summary": "XRG to buy Shell stake in Australian LNG project for $1.45 billion    EXPRO Consulting",
+   "publisher": "EXPRO Consulting",
+   "published": "2026-11-03T12:05:00Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Shell Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "XRG Strikes $1.45 Billion Deal for Shell's NWS LNG Stake",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE44Y2xKRTVudGxWOW5CTzYzbnJFQzVwZXFxUzdNcVJXYnJYTmhjMHhPVlMtbzhrZkZqblBhOGJNWGNxRmgxazVoZXRlTmRlVFUyeDZWVjZHTUE3cHN2RTBXZGRnWUlUTXNUQnA0aGJBcEZvUQ?oc=5",
+   "summary": "XRG Strikes $1.45 Billion Deal for Shell's NWS LNG Stake    Energy Intelligence",
+   "publisher": "Energy Intelligence",
+   "published": "2026-11-03T12:03:00Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Shell Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "Stillstrom Builds Vessel-Mounted System for Direct Offshore Wind Charging",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcFpUUDJ2OG15dm9ZZHg1aEVNN2VrQ0E0dU85VTBSTGxYTVduZ3cxV25vRUhVd3c1N1dBYWw0SWE0QlJ2VGlJX2lrYlA4WEExWS15VG9UeXJGV0gxVjlabTBqZ0szeENZX0lUYWRuMG5lUTVnQmdkOEZ0cEJGU0QwWmZOREZmcEVhTXVtNjU3dWxLX3NOQWRRSHNySlZDc2RrT0c0cnBiT0NGVW5NYUNVTA?oc=5",
+   "summary": "Stillstrom Builds Vessel-Mounted System for Direct Offshore Wind Charging    Offshore Engineer Magazine",
+   "publisher": "Offshore Engineer Magazine",
+   "published": "2026-11-03T11:36:23Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "BCI Minerals (ASX:BCI) Moves Mardie Salt Development Towards First Commercial Deliveries",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdzNpbEZjNHFfQzRsZENnZFVlenBmZHlQRllDdGtPcllpM19HSWJRdGljRnAwVFJ3c1hDMC0tN0c2NmwwRXFXMGUzbldCUlBjUW5felcwZXJEUUpXWGExZ2haMi00Tk96ZnZ4YUgxVXplMm1acGdpVE9xRGgwVjNVTmdHUkFuLVFHZVA5TjViZjhsbmlXVGo2R0ZRVnRXVENBb3JGaUtYV1l3NHpfWGRoTFE4T2dyby1kcG9OZQ?oc=5",
+   "summary": "BCI Minerals (ASX:BCI) Moves Mardie Salt Development Towards First Commercial Deliveries    Kalkine",
+   "publisher": "Kalkine",
+   "published": "2026-11-03T11:17:00Z",
+   "source_id": "gn-minerals",
+   "language": "en",
+   "operators": [
+    "BCI Minerals"
+   ],
+   "states": [],
+   "categories": [
+    "mineral"
+   ],
+   "subcategories": [
+    "Sea salt & potash"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "Port Hedland completes Australia’s first ammonia bunkering",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa0ZzZ1NfSnpOaXFfbkhGQkNBRlJwY3kxZ3lxWl9DSzZXNnR6ZVM0YVkwa1RNcVNKci00b2R1bk1aY256MnRPVnExTEFyVzVqcGV5M3lUX2g5aHdhb1JlUDY1dEZrcWZyWk1lZkhwV2pGUDBkamNTRGFJRk5Cc1RIUERvd1k4SnE1OGlHNFhvX0VoY0d0NzdYZkZKWkFMQVJESnVQYXNQWU1TTVVKS0NqbVp3?oc=5",
+   "summary": "Port Hedland completes Australia’s first ammonia bunkering    Port Technology",
+   "publisher": "Port Technology",
+   "published": "2026-11-03T11:09:24Z",
+   "source_id": "gn-ports",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "WA"
+   ],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Ports & LNG terminals"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "Shell Sells Its Australian LNG Legacy to Abu Dhabi for $1.45 Billion — But Its Gas Expansion Strategy Is Far From Over",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPa3puU0U3bV9WNVJ3OGp1M1BNd2lXOVA4alduUmtKeDhveloyaDVZekNVMElDVmF5NmdVZ2ZGU0Z2T3FKNFpXY2ppNm1BSWhtSHM3dGZzNjdiQlo5VFMyTmtQTXpmMk9PSTFGdExyQjFrajR4V2U0elZ1cFZJTWhYaUwydDJSWENCaFJSbG0yNGZDd3hFdkd5TVZEMnpUMk9FVVppY2hhd0h2S3NnTnJDcFR4aXBTNmhaeHNCZno3TjdwTGdsU3lIOHlUcDY0el9MT0ZYN3pTbG9vN2NGRE5oQVBaaEF3VHlEOXBTX2dWaw?oc=5",
+   "summary": "Shell Sells Its Australian LNG Legacy to Abu Dhabi for $1.45 Billion — But Its Gas Expansion Strategy Is Far From Over    Royal Dutch Shell Plc .com",
+   "publisher": "Royal Dutch Shell Plc .com",
+   "published": "2026-11-03T11:07:46Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Shell Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "Shell Sells North West Shelf LNG Stake to Abu Dhabi's XRG for $1.45 Billion",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNmFpMm5RVDRCb2FyOF82R1BlNWxvLTVGRlBVUmEzMGJKbkt4djlQLXQ5eGtiOUVySExFOFI5d0R5eC1Kc2VKUy1wZDNEdVltTzFtYzlDbWpsb0VqWC1aMXhHZUtQRlhSYlVaaWl0MVpYZloyeU8tSGRKUmo5aS1nSk1FSWhCNE5vbDRRc1VTOS0wVXkwOVRsVVpMZmk3RmtXMzh1SnNYVUtaVUFoRjhfckZNWVhxS0ljYXI0RDE2VjVGbVpUU3pR0gHMAUFVX3lxTFBBU0ViSjlUOS1EeTUyNmpTRW0yR0xaTVZXMW1SaE05N19WZDB6UFUyRFpDWWJMOHZBeU43R0RoV29lcmJmWTlSek5ZVW9MYjVjazRQREIwbUlqVGR3bWJhcEg5RXd2eG9ZSEZTUXhvWnRFby1CYW1RaGdXQ09kYkozeHRyUlMzWUNnMXdSZm1sVHh5UFhGVFpvY1VyTXMzVU5iVGpUcXVhMUM3ZUtsd3JDZy1zUC1rbTNhYmw1eTBIcmlDYUc5VVlSV1Q4RA?oc=5",
+   "summary": "Shell Sells North West Shelf LNG Stake to Abu Dhabi's XRG for $1.45 Billion    Crude Oil Prices Today | OilPrice.com",
+   "publisher": "Crude Oil Prices Today | OilPrice.com",
+   "published": "2026-11-03T11:00:00Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Shell Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG",
+    "Oil & condensate"
+   ],
+   "projects": [
+    "FOS-001"
+   ],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "Santos’ spurned suitor buys $2bn North West Shelf LNG stake",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNc1NaOGFfa0RlM1B2RXdWZFA3Rk54RWkySXpKWlc1Z2V0djNPT05Tb1oyWkpiLXRMeUliWFdRblB4LUxGMjhYQWdacDZSRVhzVE1jaTFJRUNCaUhzMVBaTkdQcWo2eTJGVTd1ZzZ5ZEdHaTd6WW9pN1ppZ0hXWndqanQzYnQ4cWlWaWhQelNDdlNSLVRORUMzdndIbG1WQnRvSzhxVUtVTGNuS2o4X241cGh0UWV6VHdaU0dmR1pfTXVab0xJZnF1RHgyQmxua3hGTDA2UzR1WUZIQ1NheExTUnNQY3ozWmFSaWdGbHdsRWx2bVFhRkZn?oc=5",
+   "summary": "Santos’ spurned suitor buys $2bn North West Shelf LNG stake    The Australian",
+   "publisher": "The Australian",
+   "published": "2026-11-03T10:51:46Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Santos"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [
+    "FOS-001"
+   ],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "ADNOC unit snaps up Shell's stake in Australian LNG project for $1.45b",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSDJkV2JGY3VlbHdsUlZlc1FUTFp3ZFNDdnpLdTJ4RC01Wk4wbnhzYXdFWDlhYnBiM0dkTkNSWUp4bnVOZVpKVTRNN1NESVBMYXhmbXJuNFdoMEp3S0o4NWZjLXlBOWs2SGxxOGJpS3BLS0tOdEJYdmV6U19nUHFWMXhDSVRrTFZzaFB2ZkpOUnFLdS1LN0ZvWlMySjhUU0w4TURIN29DNzktMDVDUm9heVZZbEM4X21USkHSAccBQVVfeXFMTWdGbE81dXlsd1dEOGZJUUgyaFhfMENPLVZ1QV9UN0w0Z19rbVltSmZvRjF6emJYTEhkSjB2N3V4TFVmZFF2TmlpZ1NtTE00NjNnNldRaV92YmlBc3VzOUUwMWxDaEZvV1ZYSEFVUGRvQU8wSmVLOXI0M3prSlI0emoyTzMyTWxiNElkOXVWUVVzbkVzRjc2dDFVTXczOE50djZlSFpUTzN4dUlXWlJBdW1hdUtaZkM0eTI1RTdmX0NBZnRiOUJfaw?oc=5",
+   "summary": "ADNOC unit snaps up Shell's stake in Australian LNG project for $1.45b    Baird Maritime",
+   "publisher": "Baird Maritime",
+   "published": "2026-11-03T10:19:12Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Shell Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "ADNOC to Acquire Shell's Australian LNG Stake, Impacting SHEL's Energy Portfolio",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNkNtcnpLSDVhcklzN3BZcGNiMEptbGNqVE52b19GTHI5bDJLQTlwNjhsZXE2MGpxeEhtc0dZWGtBUy1wQnFrMUJkU2hxSmVPWjRobmFwNlJJenBWUTE4VXJld2w4aE5TaGh4NkhXMl9HSmJzYjVPWWoxRXB3MzU3ZVZGLUtmSUVuMDRXejZBUjZQZXB4MVUzQmVER0U4aE1DeEJEd21NUVBwTHZZNThnd0g4bWF1UzA?oc=5",
+   "summary": "ADNOC to Acquire Shell's Australian LNG Stake, Impacting SHEL's Energy Portfolio    GuruFocus",
+   "publisher": "GuruFocus",
+   "published": "2026-11-03T10:02:54Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Shell Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "Commentary: Before Louisiana bets on nuclear, we should look at offshore wind",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT2dXMGN5bHpfcnhzR0RMTUJUbnlmQl9SS2RvOTJydEYwbHY5RHQ0c2J3c05VRzY4YVF4TkJsbWNBNEV6cmxkbmVOc01pOUI4RkNhZ0FzaXlfbVNDLUFpREVGT2o1SkJhZE9nU2JZVEU2a0dBLVdVVVB6X01CN0tDSTNNTWRiZ085ZktDUTNESGIwWnB5WS11RnRYN0ZYWDg?oc=5",
+   "summary": "Commentary: Before Louisiana bets on nuclear, we should look at offshore wind    Yahoo",
+   "publisher": "Yahoo",
+   "published": "2026-11-03T10:00:37Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "XRG to Buy Shell Stake in Australian LNG Project",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUFdaS2Ffd3EzbGpKMmkzVEV3ZXhReW5naHVVbnhvTElMdjNhakZvQlY3V1hTZ3ZudFJyUkNtMElsdGFEd21hbnBlQnJQNHVEeHRvMml5c3JJVTc4VG1fdk05Z21CLU44Z0R4ZW9SZ3h3ZW9lX3FLVlNTWmhESzFISjlTbTA5WV9mZE5RdzViSlpCd0pEVEJoclN5eEU5OGxQdXZRWFJWZE4?oc=5",
+   "summary": "XRG to Buy Shell Stake in Australian LNG Project    Rigzone",
+   "publisher": "Rigzone",
+   "published": "2026-11-03T09:45:00Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Shell Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "壳牌以14.5亿美元出售澳大利亚西北大陆架项目16.67%权益",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBheGtsb2hFdXh2YTNSeXRrUFN3dmZBcVRVcUdiVVoyTzFPUWw2eHhDZHF4cWVabUxtaXUwRkpSUW0wMFJ6WXVhNjJiQ00wVU9JSi1VXzFOdXU?oc=5",
+   "summary": "壳牌以14.5亿美元出售澳大利亚西北大陆架项目16.67%权益    维度网",
+   "publisher": "维度网",
+   "published": "2026-11-03T09:38:00Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "What Eco Wave Power's AI Digital Twin Milestone Could Mean for Wave Energy's Future at Eco Wave Power Global AB(NASDAQ:WAVE)",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNc1RBeTZ4Zk5FaUdQemxLUTU1UjFoY1dQU2JEa0dKTEpsaDllWG0yWExCLVVHcTNzcDVTYVB6LUVyYmZoTkw2RGFXbzVVcG9zS3c2VXJxQ2V5enB2U3p0bkdWMDB2MWhwY1JCcmJFTWhsTTdmaFdlWHZCVndYUXF0ZkdvLTFBNEFINFh6N1RsR09SRVdnZDZ5OVB4dDNHX2xKR0s1V21HM1MxelRlT0JMcDJyZGJnTllnR3k0cGp6WGw3SzFjVHFlUkNCaWM5WmdJLWItQ1p0dU5kRmU0NG1RMkRUYXhtOU1ZbmZhaXVPVUlFWmQ3RFpF?oc=5",
+   "summary": "What Eco Wave Power's AI Digital Twin Milestone Could Mean for Wave Energy's Future at Eco Wave Power Global AB(NASDAQ:WAVE)    Kalkine",
+   "publisher": "Kalkine",
+   "published": "2026-11-03T09:29:00Z",
+   "source_id": "gn-wave",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Wave & tidal"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "The Subsea Cable Investment Boom Behind the AI Economy",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOWR1NmtUNlkyZHNXb1E1RFdRSzliMEMwc3otcWlFYnI3Z01yM3hkX001QnIwdEFIcVJGRmZpbXRCQ1RYRDBaa2VsOF9MUkMtYUVrZDhWTW1HQ0YxY2phTWFqYy1nSG9nS3BoLUNpLURqRlNhTUtUZFJyOUxXMDNkajdMQ3QwVUxpZHRzQ19ac1liUHBTLXZQN2RPbWE0dEFkQnZnVTc2TllhRU4tSUVqZi1oc0toVnlweGc?oc=5",
+   "summary": "The Subsea Cable Investment Boom Behind the AI Economy    Telecom Review Asia",
+   "publisher": "Telecom Review Asia",
+   "published": "2026-11-03T09:21:28Z",
+   "source_id": "gn-cable",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Subsea cables & interconnectors"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "Abu Dhabi’s XRG to acquire Shell’s stake in Australian LNG project",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMy1OOWszQnp4RU1yTUJnSUREbXFGUTk4R1ZiNFJvOVVFU1ZUS2VfdUt0NGt0WF9PUy05Z1MxWVdveHZWdVlCUlhmcHlvVUZNR0hrY0dQRTR0bERza3poaWkxaGxDUFd2VzRPRzZ2TWJ3N0l2a05HZm9fME95RVBHbnJ2aHNCRGdyOTMydw?oc=5",
+   "summary": "Abu Dhabi’s XRG to acquire Shell’s stake in Australian LNG project    Yahoo Finance",
+   "publisher": "Yahoo Finance",
+   "published": "2026-11-03T09:15:19Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Shell Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "Shell to Exit Australia's North West Shelf Project in $1.45B Deal with XRG",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR2hEU2FNR1Y5LXRVdDhjM0FNYmo2WlVjSEZ3ZkRrcjJ5bDJ0TDQ0Qk1DUzdaOWZNbHpVajhXN0ZfUGUwZ1JoQktUVjlPbHRFS3pKUzhlT1dQVF9LejAxcGRadW5JTnpOTGs5eUNqaHNqc0xtZWlsS3loT0c3bEVVRlNaem1NeDNfdEJNVW01NTJHUFVBaTJRbkxTV25KY2l1OHBTQ0hsUTFFNEJRVmlTXw?oc=5",
+   "summary": "Shell to Exit Australia's North West Shelf Project in $1.45B Deal with XRG    Offshore Engineer Magazine",
+   "publisher": "Offshore Engineer Magazine",
+   "published": "2026-11-03T08:46:45Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Shell Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [
+    "FOS-001"
+   ],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "阿布扎比XRG收购Shell澳大利亚液化天然气项目股权 提供者 Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ISUdmX3VGcEV0bnZNX0p5elpieTdBcmx6RnF5UFNpUGliQ3RIS3NLTVljYjc2RDVYRHNPRG8wMGtUbHVpc0E4WVBSaTJXYkF5M0pscGtmTUNFb05lOU1RZ0Fvb011NjlkSndRS3htRmw?oc=5",
+   "summary": "阿布扎比XRG收购Shell澳大利亚液化天然气项目股权 提供者 Investing.com    英为财情 Investing.com",
+   "publisher": "英为财情 Investing.com",
+   "published": "2026-11-03T08:45:00Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "XRG buys Shell’s stake in Australia’s North West Shelf",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNc2VYYlFDakNRbGx6VVpxb295Y1lBaWlKblRaRHVIckNGWVJPLVZqdUNNMGZyYXhGQmZFb1hOZno1QUZOeTlDVnRSYkw0N2NIaDlIMnI1ZGVCMEY1WXFMS0E2U0dQNTY4Zy1FZzV6aXRBaTFNUnBBUFVWckhiaC1JVkNEdFMzNHpmd3RZTjdTYy1wOXB1TlFpb0130gGqAUFVX3lxTE1lVFNuZFVaS0FxMjJUUF9pdU1OM0NOeGV6eW1ocnFLLUNLLUdhSDc4RmU4NnJWT1hPNDBieE9tZGxySnNMdnhsMHdqbkxkRlBTOENGbkNfS05mQnMyQmM2M1BxRVllZTV4REhmbVJEalFGY1FFX2tIR3lRUVpWdGc5cTlKeGxkRS1tRWZ5LU5INTMwc0JKWEJndFBTSFNqRkxDRnMtQjJ1bmNB?oc=5",
+   "summary": "XRG buys Shell’s stake in Australia’s North West Shelf    Gulf News",
+   "publisher": "Gulf News",
+   "published": "2026-11-03T08:44:47Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Shell Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [
+    "FOS-001"
+   ],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "Abu Dhabi’s XRG agrees to acquire Shell's interest in Australia LNG project for $1.45bln",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQejdHZXpiWkJ4U2l0XzNzSzVKamRVdG5qMjd2WFhvOGZSbEtfZnpTZUdfMHhzRlpGR2VLMnZSNXBIOGJmemJJWDlHREJqQ2NRUkEwaFFGelEzWXA5ZmlhUk5RNnhBbG5aQUczekt1NXJjQXc4Vi14djY3UkQ5aFVuNEhqSW1fb0lmeUFlbkxCa1lnZHN2cENGNTNTZk9aSW42Rl80V21BMFB6MlNkaDM2eFdyUnM0cDF1Mm5zWjY3M1g5UmhHWDM1Q1ZnRHZ2S0dwTHliZGUzN0NtQkswdzA1TzJsY3lVZ3pjRWRaNjZiWUY1dTF1dmc?oc=5",
+   "summary": "Abu Dhabi’s XRG agrees to acquire Shell's interest in Australia LNG project for $1.45bln    TradingView",
+   "publisher": "TradingView",
+   "published": "2026-11-03T08:43:07Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Shell Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "Shell offloads North West Shelf LNG stake to XRG for $1.454bn",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcXFuc3BZckhFRUhJUG1QYzhNRjFwaE5iRzR4RzBQOUV0SU01ekUtYTVCcGVua2ljTXlkcTJmbUJldFdsS0pDV0J6Z3p6WFBEQ091aldBM2lscEF6RDZZel82S3J0QXBlSEZPQWpNMl96cVN0UXVURTFpVUxxdVFUdmE1d1JUR1RIQjlXaTR3RldTeWpENGNaRHUwNXl1SnJ3RnFPT19RUGl1V09CNmRlM3dMb0F6YVRFa0dYQ1YzZHZ2aXh1eTlqMmxlSWc?oc=5",
+   "summary": "Shell offloads North West Shelf LNG stake to XRG for $1.454bn    Sharecast.com",
+   "publisher": "Sharecast.com",
+   "published": "2026-11-03T08:36:06Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Shell Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [
+    "FOS-001"
+   ],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "Ulsan Seeks China Supply-Chain Ties for 3.5GW Offshore Wind Push",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRjNOMUdfZV95VVVRdHNmQUs2bFYwd3NWekJuVTJpRDd5cGllRTFfamtzb0RzTkdZQ1VMQklBY3ViUGM0UUpsZEJibHpYWmdKMHc2eTJXeXRyVDVHcU9uMjZMNmMyYUl3V3ZKNGE4SjBQMm5HSjlKOE9RUzVGZlJldFpzUUJSVnl5V0lXYlc1Tkl3cmlxSkU1aE96Wm04d0lrUFE?oc=5",
+   "summary": "Ulsan Seeks China Supply-Chain Ties for 3.5GW Offshore Wind Push    Seoul Economic Daily",
+   "publisher": "Seoul Economic Daily",
+   "published": "2026-11-03T08:35:27Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "Port of Raahe and Buss Ports assess port development for offshore wind in the Gulf of Bothnia",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOckh6ZlgzTzJuYUowaGV6UW1FdW1GbmtsWE9Qb251VFA4V2huVkszMmZKdzYtT0lQZlhCTXlJZkRCa1luSVR0cnJKUTNGVExPRHZBd1VSTG5SSmhUY3Y4U0dSUnJ5emVtUVY4ZjRETk5lUG42WHRpbldMQmROWjZ2WGpyajdnZGRobnAwdWgzSG52U0h3NGNOdFZRQ0oxazNfRko0N2Q4R3lWcWhyT3duRXBHWWxqYlVOMGlReFc5TmxtSGVYQUdpWi1RUVV4NEpXRVItMTNuUGdZV0RNV2ZsUWlrXzVSRUVueVA4?oc=5",
+   "summary": "Port of Raahe and Buss Ports assess port development for offshore wind in the Gulf of Bothnia    Windtech International",
+   "publisher": "Windtech International",
+   "published": "2026-11-03T08:34:30Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "All 52 wind turbines installed at Ecowende offshore wind farm",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQlBQY1U5dzhkRjhOektHTmFrdVd1SkJzeld2Wkw0b1hjWTA2SFVDU2FEOF81dTQwcUlYTFlacGgyNmthWGhvUG56bjdLeEFsRGg5Tm5ZVUFmbXpUQVowdmtfYUNpWm10cktyRUtfTnFDXzhHd2JmWUVyaFdmSDRzLUx2LVFLZzdaM0M2YlB2azU2bFptaVVlVEcxcV9EMWNmTDBLTWhGbVo1NkZyaHNYZnQ2NlByc3ZJMXR1U3pJUko?oc=5",
+   "summary": "All 52 wind turbines installed at Ecowende offshore wind farm    Windtech International",
+   "publisher": "Windtech International",
+   "published": "2026-11-03T08:19:19Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "Shell LNG sale to XRG as Adnoc eyes expansion",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUlpXMEtaTzN0THRxQlRBM0FaaS1qZC10X3dqeEhwX2NRTnczNmE1NERXbWNmOGtuTktQWmF3SzZ5WEFBcE1XdC0wdkZ5UFVtVDhYMFZzUXZnVzdCMjNub2tZT0ZJVGJodFNCREpDZGNiaG9pSGFRZVJ2YWRxaDlxN195VGRLVmZIQXdGeGFmVGZHeVVHM09ILTZFLWxqNFhJVlhJeUZRbjg5NG1sdk0zVkFRaw?oc=5",
+   "summary": "Shell LNG sale to XRG as Adnoc eyes expansion    Energy Voice",
+   "publisher": "Energy Voice",
+   "published": "2026-11-03T08:12:40Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Shell Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "Shell to sell US$1.5 billion stake in Australian LNG plant to Adnoc energy investment arm",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZlkxSmlwNGxaeENjR0RLWGd5VGJtcXB5dFdtUFdrZ3A3SWtCWGxyWmFQWm9fNE0xUlpRNzNSQWZCdEZWTU5WMDFUWktSOUpXbWh4c2hETUd1T1BoV2oyQk9YU0tnNW84TTVUUnBqNzhzZ3Z1QUZXYjJPV1AxM3h2Nkl3dVpZLXNuQk1ZaXpTUE1fOGc4RXBaY3pZdjdac0ZUMV9fQWdUWlc1bGN2ZndkV251QkpyT29fS0NVcGViT2JvZWpRUW12MFV3?oc=5",
+   "summary": "Shell to sell US$1.5 billion stake in Australian LNG plant to Adnoc energy investment arm    The Business Times",
+   "publisher": "The Business Times",
+   "published": "2026-11-03T08:07:00Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Shell Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "XRG agrees to buy Shell’s stake in Australian LNG project for $1.5bn — The National",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTFpSczY5R3Q2Y2RTNllfN2doRkRkSUd2SGpBM3RLZmFCZlFsbEZqb0V0NEF0WkpjRTBTTXl2ZzNha2Zra0N1c3RPb21RNDdvekNydEFfZVJjX2lRZC10WVIySC1GaXNoM3RSMzgyUE1PS1M1VTk2c3p6R3lSbXpUd2pvWGdaRy1QTkR3WG94M3F1c3JWUlRTYzAxS29UOFM0LTlwb1IwcFVpUnBQWFNJNnNrQWY4OUFSbG5VaGp3?oc=5",
+   "summary": "XRG agrees to buy Shell’s stake in Australian LNG project for $1.5bn — The National    UA.NEWS",
+   "publisher": "UA.NEWS",
+   "published": "2026-11-03T07:48:31Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Shell Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "XRG to Buy Shell Australian LNG Plant Stake for $1.5 Billion",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSTlTTDE4MGZDZDYyT0syR1JWNlZBTzh6MjJfMFFSbWFwOGhuN3RzMUtZSU9pRzloZzVtNGpLOTVRel9VamZ2ZHBwS0RkQ1Yxd3hYTk5taHlfNXdJSEpBZGQ5cmNUcFRsaUJNY1VsdktaRmU1WHdvSGc1Vy1QRUUtVUExZHIzUl9ZNDJidmE0bFpnMlZfVllnNThYaFZkNjRqbFlIY2RHZnpvMEgtdVowZk5uWkpNYjFxblpOTVlULVBwV3BTNHdqXzhB?oc=5",
+   "summary": "XRG to Buy Shell Australian LNG Plant Stake for $1.5 Billion    Bloomberg.com",
+   "publisher": "Bloomberg.com",
+   "published": "2026-11-03T06:47:00Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Shell Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "Australia Conducts First Green Ammonia Bunkering at Port Hedland",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOGZNWGtKaFNHSUNZS2Qwd1JUMEw0UzJtVzJxUE9LaW9Kc2liSTZtbEtETEJtVUdGWFA0UGYxeGcxdmNmd0dvY0NwV2cyNzlXUkhGcm9sVGFFNE9CYXN3MHNQdElzQ2ZsaGMweG9RRVRId2pETGZmOUxyT1VoYVF0emtqMzhHbERBa3NWQ1BGV1RjbzN0eUFUbWVOMUdPYkk3QWpnQ1NXaWlWbW8?oc=5",
+   "summary": "Australia Conducts First Green Ammonia Bunkering at Port Hedland    Ship & Bunker",
+   "publisher": "Ship & Bunker",
+   "published": "2026-11-03T06:44:45Z",
+   "source_id": "gn-ports",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "WA"
+   ],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Ports & LNG terminals"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "Shell to Sell 16.67% Interest in Australian LNG Project for at Least $1.45 Billion",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYTNGR3BVMlJwSjI4LVBHdVYwTURUZ0NEdjM2dHB3Y0FJQkZNSFZRRWZlMUMtNFRBclB4RlpBeWxtQWJOTDdJbElEWEtLWXRlZEp4N1d1ckRpSy11RVVDNml4MGU4U3F6ZjlUVl84MDhyUWJ4V2k2UlBYY1Z1cTlqTjdYeTg3VEJycjZVVm5CeWlfVV90UHRSSHRpSHJVd0VHY210bjZlRXEtMHVGT2tITW9BMm42ekdCaU9LeHAwTUJRb0xKeFhQUVVqUEsyZw?oc=5",
+   "summary": "Shell to Sell 16.67% Interest in Australian LNG Project for at Least $1.45 Billion    marketscreener.com",
+   "publisher": "marketscreener.com",
+   "published": "2026-11-03T06:20:23Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Shell Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "Abu Dhabi’s XRG in $2.1b deal to buy Shell out of North West Shelf",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbTVuYW5QZ3BVeS1xTWw0Sy1uV2lITlczZGxTcXJieGNWWHBTVlVUWEt1UzZBaEI3elVtVG1QOXhDcklGMkFuVE9CSDJwTGhUSTNGZjNNOHUzeG40cWxIYmtNbEdTdEpISmFpNFJEMVhvWkxqNnBvelU5cmpCbGxsQV9QYlp1UkRuemQ5SDVFMUNoOGJBd2VNQWZxQW9jNldVUFBUWnU5VFpLd2Y3d0IzcUlnLUhjOEhxWFE?oc=5",
+   "summary": "Abu Dhabi’s XRG in $2.1b deal to buy Shell out of North West Shelf    AFR",
+   "publisher": "AFR",
+   "published": "2026-11-03T06:08:00Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Shell Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [
+    "FOS-001"
+   ],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "Australian “CETO” wave energy generator is ready to be tested in Spanish waters",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOXQtNmtYdzlQZ2dSbzg1aUd6cFpGZnFsMzBQLUh6cnZuY2NOSlo2U2xaRWl5RE1XeV9vR3RnUHJpZ1lPSzU4YWdQTzRaSkE2S0M4TlBLcnFFX054dmRCTnhXOG5DNmNCUU1CX1dja1NycUxfZi1RcGc2T1lydXIyaERVMVlWX1hWaHRNVmJjSmRBV2pfSGJhWGs3YnEySDlaVWV2TGVfVlFxd9IBrwFBVV95cUxPOC05REFpTXpGS3FxRUpJUEVmZTg5S1lHa1BoMkJvbkJudlgxWFJtVDhtUWp4MENVNmFhSU9LbjJYa0M1dTdCX3VrSWRHbUF2QzU3UW9JdEdvMnE4V05nZXJXRzBiajFENHEzRWl3TWFtUlpxU19wMVo3Uk5yWFVHUGFJUWxNQ0UybS1YQVlJWGJwZ0FNRlowdk5LSUhEWFRhZFkxUS0zVVRQRDRlbjVF?oc=5",
+   "summary": "Australian “CETO” wave energy generator is ready to be tested in Spanish waters    Renew Economy",
+   "publisher": "Renew Economy",
+   "published": "2026-11-03T04:22:46Z",
+   "source_id": "gn-wave",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Wave & tidal"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "XRG同意以15亿美元收购壳牌在澳大利亚LNG项目中的股权——The National",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTl9kVTg0d0F4NldJUG1jVUtWdjk3TDJENWNIN2VkdGNhRzRfaWZINktrMDI4c3VYakwxUDJqSnFjMWJvdWxNNEZSMlpMY1l0QllvTktfUm1EeUdGdVhGLXZ3SFZGUC1KWG52MVphVUVMLVNnUTBxRFkyU2diclRFLTVFOUhreXhqVDJkSHNJVHNyVDFTS1dkU1Zsa2pXTWYtcUZVd2N5cDNDaElCbW1OOW80X3F6aS1nMXRfdVpB?oc=5",
+   "summary": "XRG同意以15亿美元收购壳牌在澳大利亚LNG项目中的股权——The National    UA.NEWS",
+   "publisher": "UA.NEWS",
+   "published": "2026-11-03T01:42:00Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "Carnegie to Brief Investors on CETO Deployment and Commercialisation",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZUNjeV9EZW1VeFlFRE9XZ3Y2YjJUX05kMzVrZEdVVmpodUhNN2ZhRnV2eUxwZ2pZbHFIbUNuOTFITDFVNXRpQnJfRzZkV24yMkhtM1JMVkpLal9BeXRiQmg2WnJ0V3gtczZpNFAybVRDUVFXdmNOVXlka1BCemt6N1BYSXFoa3J4a1RtZEthVmVhT1owQVdka0Rmam93LVVCckFLOWZMak1lZE1qT1o4Wi1hd1dtMWltRGRPZw?oc=5",
+   "summary": "Carnegie to Brief Investors on CETO Deployment and Commercialisation    TipRanks",
+   "publisher": "TipRanks",
+   "published": "2026-11-03T00:46:29Z",
+   "source_id": "gn-wave",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Wave & tidal"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
   {
    "title": "美国10月LNG出口攀升至历史次高，欧洲需求占比跃升至六成",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94WVFYb0k5ZUdLVl84ODFyTHFGUXFkUFExcllqWkJRakJ1TEw5MkNtaEpQaEFwanhHSlBVMGNFbFdvNmIxeTJZdmduSW9La3BFZEpv?oc=5",
@@ -107,6 +1337,25 @@
    ],
    "projects": [],
    "first_seen": "2026-11-03T02:51:40Z"
+  },
+  {
+   "title": "Cheniere Energy: Senior Notes Will Bear Interest Rate of 5.800% per Annum, Will Be Issued at 99.313% of Par, Will Mature on March 15, 2037, Closing of Offering Expected to Occur on Nov 17, 2026 >LNG",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMVl1cm9hcVgxWFBtcXJPUXUwbVQzNnF4MDEwZEU1MTkxRzg0RXNOZENOWUJfUVlyeHphNlVyMDdFbWxjQkcwdzNRbHBibDRUV25WVzlzaHVBOVZXVFVHaThLNXhZd0RVcVladGlkV2g0aXRqejc0UVpBUkk1M1psR0dCSjFJVVQ1djhiSFRDSzI1LWdhdnh5NWZCbnlVaWJRcUxhaGRsYVo1Zw?oc=5",
+   "summary": "Cheniere Energy: Senior Notes Will Bear Interest Rate of 5.800% per Annum, Will Be Issued at 99.313% of Par, Will Mature on March 15, 2037, Closing of Offering Expected to Occur on Nov 17, 2026 >LNG    Moomoo",
+   "publisher": "Moomoo",
+   "published": "2026-11-02T22:13:40Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-04T01:12:06Z"
   },
   {
    "title": "Dominion Energy Installs 44 Turbines at Virginia Offshore Wind Project",
@@ -149,6 +1398,25 @@
    "first_seen": "2026-11-03T02:51:40Z"
   },
   {
+   "title": "Dominion surcharge for offshore wind farm to start coming down next year - Richmond Times-Dispatch",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSVRwYkx2R1RWVjA0YUZIcFowMnBmMUUzODcwQ2NzYzZmMjhsaEtSU252bnFkNm9BbDVna21ZWjkzT2Vnd19sTUtSZHh5WGFycTNSWXFCb2pjMUdFcUUzc2lxX3pmS1FJeEJFZmt1dGxwamlwaDRzRGlfTmdWUDRyQ0t0VGJRMlFYOF9yZldsMzZZOW4wY2hHeERuVnN2VTFj?oc=5",
+   "summary": "Dominion surcharge for offshore wind farm to start coming down next year    Richmond Times-Dispatch",
+   "publisher": "Richmond Times-Dispatch",
+   "published": "2026-11-02T17:30:00Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
    "title": "Blackstone-Led Group to Invest $3.1 Billion in Mitsubishi Corp.'s Interest in LNG Canada",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORUJpb1JHcEJiaUwxR3NjendtUkw1dWVacFdXZVA0VVBZRXY1TjUyX3NNR0UwUWtfbHR5MURlaGlDRFRLOERjWVRLVk1CVzVxU0lCNW43TmlaUmZCalhLZ3FRdzUxVjV6NWJFQk1MNlVoR3d0MGhZN21xN3JOSTE4Vnk2UFZsTU03bFlqeVl0VGdEMTJkWHY3cElvYWgzSnNnMjk1dlF2WHFXUlotNzNYakFQZFlUemktakpHdFBUNWJYdC1zaHRQMmVmY09ZTzRISG93WDBlNA?oc=5",
    "summary": "Blackstone-Led Group to Invest $3.1 Billion in Mitsubishi Corp.'s Interest in LNG Canada    Moomoo",
@@ -166,6 +1434,25 @@
    ],
    "projects": [],
    "first_seen": "2026-11-03T02:51:40Z"
+  },
+  {
+   "title": "BMO资本市场维持Cheniere Energy(LNG.US)买入评级，上调目标价至350美元",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOS1fdkpxVmhJdDRSLWgzRzd2SE1vT25wbm0zY0dTMTFlZGJ6M3MybFhKVGdwYkgyNXRIS3V6M1R2ZkNDODFUNjduZVhXVVF2dTE0ZTBsaDBkTURGTHdiZzFTMHgwZUhGaWwyeUYzZDhxVWZnWkZ2OEh4ZV9xVmFINlpYRTZldDFnU1ozei1CMG5HRFJhZFI4ZmViUHJlOTlXQkVkUDJIX0pFUXBnZ1VBeHZ0cS1zZw?oc=5",
+   "summary": "BMO资本市场维持Cheniere Energy(LNG.US)买入评级，上调目标价至350美元    Moomoo",
+   "publisher": "Moomoo",
+   "published": "2026-11-02T17:25:56Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-04T01:12:06Z"
   },
   {
    "title": "成都引进养殖 “澳洲蓝龙虾”抢鲜上市",
@@ -320,6 +1607,27 @@
    "first_seen": "2026-11-03T02:51:40Z"
   },
   {
+   "title": "Plaquemines LNG ships debut contracted cargo to Shell",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZjN5bmM1cDg4RHdkZmpPX1pDbmltSW1LYW9xYkw5RXhfckxEV25GZDFRZlhObWRYSXVxRGpxdjA1alNodnhyWUJHZ1lzTGZXanhRallnN2FNSlVDSzQxN1hNVUZuZ0NKVlNfT2VwWFFlTjdoeGhyTTRielNncG9xWktndVMyUU5aS0VZeTZkTGY5T2lqRjdSTXdROVdTOEVDaTlFanE2UdIBtAFBVV95cUxQa2gyWUVjVDVHZV9IN19yeWlNMlB3dDhfd3dQYm1fQ185OHpOd0drQkg4WWpyaVRUQkY4NmhEdE5xSnBualc1aGNFVUZGR29HenVPcW5mVWxZdVc5OVRwTEhDNGl5YUJkTnlWTmhGNkFrdGdMdlhFVDdNOEZXM0hNMHZkN3NSajFWNlJNcENTSGtZTl9VSVI5Ni1lem56N3MwaG9FM1hleFFJWF9JbkQ2cEpudmE?oc=5",
+   "summary": "Plaquemines LNG ships debut contracted cargo to Shell    Baird Maritime",
+   "publisher": "Baird Maritime",
+   "published": "2026-11-02T09:43:23Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Shell Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
    "title": "Vattenfall completes foundation installation at Nordlicht I offshore wind farm",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWmEyZ2xMTmJwS1c0bFBoeGVRRVlKSndLcW1aVTlwR0tYWkxDalhQY1BycTVjMTQ0aVlqMV9BUnEwSDhlUVAxYjJ1R0dsTHlRZnozRXR5NElYX0N5eTRrVmZiMnJnNlFvZ2RLaUdqNnFReEN2N3M0YnpYZEtTRG80THRRLTlweUJOUE9XU3JJUkk4MTRiNW5fakdiODE5UjN3aFc1QXd2QlMzblBhZ0VuSEwxODUtVWxRUHlYREpDMzlyeWYzcWZHQ1hMOGNER2xhRFpYcnZVMA?oc=5",
    "summary": "Vattenfall completes foundation installation at Nordlicht I offshore wind farm    Windtech International",
@@ -377,6 +1685,65 @@
     "REN-001"
    ],
    "first_seen": "2026-11-03T02:51:40Z"
+  },
+  {
+   "title": "Why Australia’s offshore wind challenge could be its greatest advantage",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSzlZSGZTSXM1b085dHc4M2tjaHZlVGVVYUhoWGljTFlLeklIQlNjUFRZR3JkRXlveEE3LWVSLWtocGFlRkxUbkRTdFR0MWZXcHJQM0w3WFl6cUt1R2lsamtYODJxV0xDSHZqQ2hUZEhCSGFpbGFyTWRRZVoxTGNVT0lxUWNEV0JUV291QnBQemFWdkdwcEk0d1l1Z3hsWjdfLWQxX0RDMXo?oc=5",
+   "summary": "Why Australia’s offshore wind challenge could be its greatest advantage    Energy Magazine",
+   "publisher": "Energy Magazine",
+   "published": "2026-11-02T08:41:59Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "Domestic Gas Reservation Policy Poses Mild Earnings Risk for Origin -- Market Talk",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVFBnd3Jjb2wxRUZmUnhTRWFSeHhYQzZZM2tUWl93eFFEQUt6UzhJUVI2QkVqLXVlMl84SzZzb2FMMEtpM2RQR2F1a2hsTU9KUF83VXc1bTVxYkxvaGc3UmZ0OUlWOWdrdUVYZzdTZ3JURFd5ZnJMOWUwSUhoVkJCd3lYMlczM1JCVXdMRDhvd3RORFRuYmFvbnV2dmJqYWdaR3VHRi1aaEQxU1ZfS1NZaw?oc=5",
+   "summary": "Domestic Gas Reservation Policy Poses Mild Earnings Risk for Origin -- Market Talk    Moomoo",
+   "publisher": "Moomoo",
+   "published": "2026-11-02T08:18:48Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "Metlen Energy & Metals Signs LNG Supply Deal With Shell",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa0RESmluZU5rSGp3Y05tTy16R3NyTThDVnQwYzgyMzhKdHZsQTByQ1JoNHY1UjJsMXNsUU12VWx2QlFjdGZrTG5DdmxoaGNGc0JIdFZYekhFT2hmZXIzaEZzM0NGTmo4R3gtdVpvSTdVU1U2bDVBMkdzVHRXSTVnVDdGU1ZjNzZ4TFduQktPVHpCZGFqTEh0S01hTzg2Q1FON1JaRw?oc=5",
+   "summary": "Metlen Energy & Metals Signs LNG Supply Deal With Shell    Moomoo",
+   "publisher": "Moomoo",
+   "published": "2026-11-02T08:02:51Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [
+    "Shell Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-04T01:12:06Z"
   },
   {
    "title": "美国批准Power LNG年出口517.5亿立方英尺天然气当量",
@@ -765,6 +2132,25 @@
    ],
    "projects": [],
    "first_seen": "2026-10-31T23:59:46Z"
+  },
+  {
+   "title": "春游记 | 澳大利亚·二：攀海港大桥，尝澳洲龙虾，躺曼利海滩，享洲际酒店！",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5OY25PS3hzRDlFanNtRVo3TUhIbGQ2bDB6czRqVDF3X2lvTU5xU1dRRUJnNkk5RFBaR0JrQnJINTJfdXJ3UkREU3UwRXdkUXM?oc=5",
+   "summary": "春游记 | 澳大利亚·二：攀海港大桥，尝澳洲龙虾，躺曼利海滩，享洲际酒店！    机核GCORES",
+   "publisher": "机核GCORES",
+   "published": "2026-10-30T23:42:04Z",
+   "source_id": "gn-zh-fish",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-04T01:12:06Z"
   },
   {
    "title": "UN scientists’ secret carbon capture vote set back climate policy",
@@ -1739,6 +3125,25 @@
    ],
    "projects": [],
    "first_seen": "2026-10-30T00:45:47Z"
+  },
+  {
+   "title": "QatarEnergy Turns To US LNG To Hedge Against Future Hormuz Disruptions: Report",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWnVYLTRFMVZZYlRyR0p1ajhDV1I1X2ZiY2NITktQOHJZakg3OXJDY3RqbmNHcVBraVI2RlE1U1RFaGFZSmVkNkVBQnNuQ0k5M1hLUTZ6a1JybnhpY3REaVhOaGxoY0d3MTJDbldybzlaWXI3ME1nTkQyNHhuMzBjS1R3T0hrQWxPbTdmSzNkUEYtamhmNENaUTFGZFJiR1NRai1KdjBfaVdkajR4VWl5OFVZa1BQZ2N1T1ZR?oc=5",
+   "summary": "QatarEnergy Turns To US LNG To Hedge Against Future Hormuz Disruptions: Report    Forbes Middle East",
+   "publisher": "Forbes Middle East",
+   "published": "2026-10-29T17:13:31Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-04T01:12:06Z"
   },
   {
    "title": "QatarEnergy Reportedly Buys US LNG To Hedge Against Hormuz Risks",
