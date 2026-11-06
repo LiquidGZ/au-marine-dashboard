@@ -1,7 +1,7 @@
 {
- "fetched_at": "2026-11-05T01:24:45Z",
- "added_this_run": 29,
- "total_items": 717,
+ "fetched_at": "2026-11-06T01:28:06Z",
+ "added_this_run": 28,
+ "total_items": 745,
  "earliest": "2026-09-30",
  "errors": [],
  "per_source": {
@@ -10,59 +10,59 @@
    "new": 10
   },
   "gn-gas-policy": {
-   "in_feed": 11,
-   "new": 1
-  },
-  "gn-decom": {
-   "in_feed": 9,
-   "new": 1
-  },
-  "gn-wind": {
-   "in_feed": 30,
-   "new": 3
-  },
-  "gn-wave": {
-   "in_feed": 15,
-   "new": 0
-  },
-  "gn-ccs": {
-   "in_feed": 4,
-   "new": 0
-  },
-  "gn-aqua": {
-   "in_feed": 25,
-   "new": 3
-  },
-  "gn-fish": {
-   "in_feed": 28,
-   "new": 1
-  },
-  "gn-desal": {
    "in_feed": 8,
    "new": 0
   },
-  "gn-cable": {
-   "in_feed": 18,
+  "gn-decom": {
+   "in_feed": 10,
    "new": 2
   },
-  "gn-ports": {
-   "in_feed": 19,
+  "gn-wind": {
+   "in_feed": 26,
+   "new": 5
+  },
+  "gn-wave": {
+   "in_feed": 15,
    "new": 1
+  },
+  "gn-ccs": {
+   "in_feed": 3,
+   "new": 2
+  },
+  "gn-aqua": {
+   "in_feed": 22,
+   "new": 1
+  },
+  "gn-fish": {
+   "in_feed": 23,
+   "new": 1
+  },
+  "gn-desal": {
+   "in_feed": 3,
+   "new": 1
+  },
+  "gn-cable": {
+   "in_feed": 18,
+   "new": 0
+  },
+  "gn-ports": {
+   "in_feed": 18,
+   "new": 0
   },
   "gn-minerals": {
-   "in_feed": 7,
-   "new": 1
+   "in_feed": 5,
+   "new": 0
   },
   "gn-zh-energy": {
-   "in_feed": 19,
-   "new": 3
+   "in_feed": 18,
+   "new": 2
   },
   "gn-zh-wind": {
    "in_feed": 2,
    "new": 0
   },
   "gn-zh-fish": {
-   "in_feed": 13,
+   "in_feed": 17,
    "new": 3
   },
   "gn-zh-other": {
@@ -83,12 +83,457 @@
   }
  },
  "by_month": {
-  "2026-11": 119,
+  "2026-11": 147,
   "2026-10": 597,
   "2026-09": 1
  },
  "note": "Append-only archive. meta.news_days_to_keep controls the site's default window, not storage.",
  "items": [
+  {
+   "title": "New Jersey Locals Launch Another Offshore Wind Legal Fight",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRHluUFdMWXpuR095UDhBbzV5NlM0SVhmT1J2RW1ib29jRmxoUEJnenhudjF0MWk4ZVpMbnVmTWtDbVFlTnByQ3VEaXFzN2lGYWxxM2V4R2NBVlg4aFNTYUNJNTlrWlNqSm1QYmhiVXFRa0pWa0lweVhoV2J6czZpMjQtM3VtdFd0dk5aZ18teXVybjZKY1hNLU5EaGlyRnNZaE9FN0RMcmxVWWQxUzltWQ?oc=5",
+   "summary": "New Jersey Locals Launch Another Offshore Wind Legal Fight    Bloomberg Law News",
+   "publisher": "Bloomberg Law News",
+   "published": "2026-11-05T19:21:00Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-06T01:28:06Z"
+  },
+  {
+   "title": "Tokyo Gas Withdraws From an Offshore Wind Project Citing Higher Costs",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNm4zNlpBOExFNm51cXZuVURMeE1sSE9BRFkwMFQyUGlEeHg3cHVNMVhhYUFleVlMeUtzNWRkamM4TDlsNnlKeW0wYWc5UXhLamhjN2xVSEoyUzBjU0lKWHJZa01FQzNPa1JzNjQwR3dwanRLSFhVNlFIS3BVUmNaYUxCekMzQTBDSkN2VllxSUhqbE9jRTBoTDluMA?oc=5",
+   "summary": "Tokyo Gas Withdraws From an Offshore Wind Project Citing Higher Costs    energynews.pro",
+   "publisher": "energynews.pro",
+   "published": "2026-11-05T18:47:43Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-06T01:28:06Z"
+  },
+  {
+   "title": "RINA wins €11-MM Petrobras subsea integrity, decommissioning contract",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcThneXRQVnFzclpsY3RMRDM5SXlkWkhDY3BwWlpWbUhNb09hQ1JyczB1cTNwX2RLZVMtN1BGYkswOFB2UUlYZ1VZb0RhakZXUzZsSDQxQ0diNTJvcmpDRllaLXAyczRobW1peVNNNVJTMHIySTMtWHo3VEVFTWVLa2lfWUJmWi1Ib09tSzJzSGdVb2k1bnJfbkdSR3BNUXJIUnpsMkFRaXJnclV2emNudENBaGhCdUROOS1JbXNzZnFqRXNfU1habXBKSHFzUQ?oc=5",
+   "summary": "RINA wins €11-MM Petrobras subsea integrity, decommissioning contract    Pipeline and Gas Journal",
+   "publisher": "Pipeline and Gas Journal",
+   "published": "2026-11-05T18:00:13Z",
+   "source_id": "gn-decom",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-11-06T01:28:06Z"
+  },
+  {
+   "title": "Woodside raises cost-cutting target to $400 million a year from 2028",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9mQzdiUWo2QU1tVVlmNUtaRnJ6eUYwekZUaGh2NHd3dWJrUjNxSGhqSG91ZGo0XzVOY0ZEaVBVdEhfY1g5SnZuQ3VUcl9id0Y5?oc=5",
+   "summary": "Woodside raises cost-cutting target to $400 million a year from 2028    Trend News Agency",
+   "publisher": "Trend News Agency",
+   "published": "2026-11-05T17:41:00Z",
+   "source_id": "gn-ccs",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-11-06T01:28:06Z"
+  },
+  {
+   "title": "LNG Milestone: What's Next for ASX 20 Giant Woodside (ASX:WDS)?",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQl8wU2E3am5tX3VoeDZkX0didVAwNXZadnBISXlNbmRDNjFqSVQ5d0g3RUpQMUJDRmJtbk84UVdYR1lGZFhENUx2ZDh2TDAzYXpfU3NxTWRUMWtSU185ODBIc1N2SGIxdm1BekJUNEkwa1JOdWdpZFdLbUtjSWZjWkhwZ3hwNWV4c3Frc3Y3ZTFPSGJHZXNJeUpKc1plY1ZHaXc?oc=5",
+   "summary": "LNG Milestone: What's Next for ASX 20 Giant Woodside (ASX:WDS)?    Kalkine Media",
+   "publisher": "Kalkine Media",
+   "published": "2026-11-05T16:27:00Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-06T01:28:06Z"
+  },
+  {
+   "title": "Portugal ready to be ‘global leader in wave energy’",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMkRIeXZpbkhtRTJhcFBCTVJqWElzeUhZX0lGOTUtZ1h0R3Z0azQ2a08wOXM3ZlBrS0RTemZWQ20zeUF5cVVQUDdOZ0VlZVI0Y05sNWxkbEZ5ODZMWjdhZGI5SWpNQ0FaaEItYUg3TVZGWTF4Q2RJdmhsaElhcXV0WXI0ZU5rWG1K?oc=5",
+   "summary": "Portugal ready to be ‘global leader in wave energy’    Enlit World",
+   "publisher": "Enlit World",
+   "published": "2026-11-05T16:18:35Z",
+   "source_id": "gn-wave",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Wave & tidal"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-06T01:28:06Z"
+  },
+  {
+   "title": "Can Chevron's Record Natural Gas Output Strengthen Its LNG Position?",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa3d4ZXhLV3lDUkE5X1ptQXJLT2pkRHRiQ0w0OXhGaEtfcXRkRVRSZXUxRzAzUGtjZTY5a3l5b2VvVDJkcFBoTV8zdllUUUtQSHpCTUVlUm9pV0dxcmoyaDlzVEtMekhSTkk5TFlrelhpbWV1b1N6WUR6WFF3UjdicExhZndZRzhySkVjQUNoczhNVUlmTlllVlJkaWthUGVuX28tVk1ma1l2Ql9TMHlxZXRmQTFnVUQ5Q1NCckJWajY?oc=5",
+   "summary": "Can Chevron's Record Natural Gas Output Strengthen Its LNG Position?    TradingView",
+   "publisher": "TradingView",
+   "published": "2026-11-05T15:15:00Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Chevron Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-06T01:28:06Z"
+  },
+  {
+   "title": "Woodside targets over 30% sales growth to 280 MMboe by 2032",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1KVWIxTnlVLU51OTAyd3N6dHNRSEt2RXBTVE8tU2J2c2QtV0lWOTJMVG5FOUw5Qk14UDctbkZ3LTg1djEtTm9aTzc4ZElBaVBW?oc=5",
+   "summary": "Woodside targets over 30% sales growth to 280 MMboe by 2032    Trend News Agency",
+   "publisher": "Trend News Agency",
+   "published": "2026-11-05T12:33:00Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-11-06T01:28:06Z"
+  },
+  {
+   "title": "Shell Accused of Putting LNG Exports First — But Is Santos Throwing Stones from a Very Expensive Glasshouse?",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWXpFejU4ZmMzQkF2NXpPakVBVW0wR3AxbUdkY0tvZTl1ZS1jcTdPbm8tZy04VHl5Q2NBdHp4WWRTYVRNQ2JlclZRX2h2SnUzQ0tVV2tfOFRiU1RyNU9KdjhkZHg0ekRVQ1p4QkU1RERpODlqTG5HNEtGUVBUMkhpZGtocUkxZVRtOExGNWdFQUZEVzRRck94aTdIMXYxQ2RNUkJmcmJaM2w1Znp5QzRBdmZhUWxmck4yMFQybDFwZTVpX1BjU1p3dFVnSVhCaGhibER1dGVtWjlLS29yd3NWLTln?oc=5",
+   "summary": "Shell Accused of Putting LNG Exports First — But Is Santos Throwing Stones from a Very Expensive Glasshouse?    Royal Dutch Shell Plc .com",
+   "publisher": "Royal Dutch Shell Plc .com",
+   "published": "2026-11-05T11:17:35Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Santos",
+    "Shell Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-06T01:28:06Z"
+  },
+  {
+   "title": "Woodside Energy targets higher returns with job and dividend cuts",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZGhwcTI1clpJX0lZOHYzMmhONUFwRHpKdFRFTXVhRUVwUzdQeXZpYUNsdkNWc2lmaVlKUWwwWFB3U0xTNXhHV0R1X2pSTlNGUThMRHZBb092bko0QkMycXVtTWt0MDVsZjgtWkdrdzlGMWpoTHlGMHoyMGZTX3lyd09PSHdLWVJmOEFJcWhHbTJpaXE2OEZIU2VEV2FKNGdIMnlrcVlad3B0QXZIOXBBTk11T0o3NGPSAcQBQVVfeXFMUGhTWWphRXNXMXNTbTh2bVBETkJxSHlCU3lzcnFtOTlPOXN2NGEzTFA1dWpXd3JUUXhYVDJqREdZa2tKaDdCNUZhZDVabDM5eUVfMWszVmtTSm92clVCdHFfamNyeGd1VUxuNWtGaF85SUlmQWVOcDhvSnZZSDdEWUJhZGM2cVZjZUFmTWlrRk0tNEJoRF9Ga1VKOWZteUJKQldqVldVM0xZNHhlTEw0b2xlMGRMMDRRVU05aWJ3MGZVSEF5RA?oc=5",
+   "summary": "Woodside Energy targets higher returns with job and dividend cuts    Baird Maritime",
+   "publisher": "Baird Maritime",
+   "published": "2026-11-05T10:16:37Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-11-06T01:28:06Z"
+  },
+  {
+   "title": "Woodside swings jobs axe in $400m cost reduction drive",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ3l0LXg3MndxdmtLMEppWjhfTUxvQTRPX0NLdWs2Vzl6Y1FnWndKcU81emt2VGZUOEJYVVNWUTVIdEs3T2xIak1FR1NSRk5YSnpnXzhYMkFjMk5POHk5bE9TVExQRHA3bm5ZMWtlVVRTSDFIdkFsd3MtcU9hc1dNY1lsQUNqWXhfWXhkT1FqTDZReWNaclZHNE03ODZTOFdobjdMWVhmSG1Sa2tWaC1hTg?oc=5",
+   "summary": "Woodside swings jobs axe in $400m cost reduction drive    Upstream Online",
+   "publisher": "Upstream Online",
+   "published": "2026-11-05T10:05:34Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-11-06T01:28:06Z"
+  },
+  {
+   "title": "深圳自助餐推介｜20间必食！任食龙虾/生蚝/刺身/360度全景$155起",
+   "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxOMHZZOThKU0dQdE1FU0d2NVNqYXBfTWJtWTQ5c1BEeVNKdUdBcXdoRUUyN2hDTXN3dlhnQi1HMWZMTE1vcWY0dE1WNGM2YmRkbGpfZzNON2Z1cVJDd1NXWEw5MnN4anVnTWh6SWFleC1SQWliVVlYS2NQZWtXRTdHdkZ3TVI5RE0xSGE5QjBjUkhTN3VuaTFGNHJrZDU2Unp3TmxvcElLczVPbk9uTlgyaGlKYVRFcmU2SXZLekpWTEtBeXhYdXVTbFBqeVczM1FRNl9TSVczWWR1VE5qc0JuWGlaaEZLVEh4eV81RDhLRFBDd3c5SXhMSTBtY0prU3QzMkl5MjZ0SGlZbUtfVlU2QWp0U1BPSThiTG5rU1JZQ0ZUakZYZlFpaDlrb2EzeGFaMDA4bGlPbTVELU91NDRkdElxTkotWVJiYUwwenFQT1c1YVFydWJRX2FhUjBfTGNjWDc0MnhnNW5sc2pDTWFhVmN4UEpQOVJLLXpyLQ?oc=5",
+   "summary": "深圳自助餐推介｜20间必食！任食龙虾/生蚝/刺身/360度全景$155起    香港01",
+   "publisher": "香港01",
+   "published": "2026-11-05T09:53:00Z",
+   "source_id": "gn-zh-fish",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Shellfish & pearl aquaculture",
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-06T01:28:06Z"
+  },
+  {
+   "title": "Desalination: Veolia strengthens its position as a global leader with major contracts in the Middle East",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZ3B4RDRlRkRuQ3p0N2pEOENZejM4Q2VkclZFUE5iZS1IWThrSG1aakxsNEdqWVNXY0M1b2VDOEhvMGk3QVVGMjB6NExNdUpqM1ZlTjFYTXg1bjRSUk43Tm5xQzlYSVpqNXZ1N3BHVWUxWTQtRmpWT2lsMkFBZjR1Vzg0cTNYM0dYSlNGX2ZBNXFJYnpxb3JEUktIbWVlU25CU0NjU2JjdU1peTlpOFBXLU9PRmdBakFqWGgxa2hrbHRPd2NJdzlKaXVaTHNISENlNW13?oc=5",
+   "summary": "Desalination: Veolia strengthens its position as a global leader with major contracts in the Middle East    www.veolia.com",
+   "publisher": "www.veolia.com",
+   "published": "2026-11-05T08:39:46Z",
+   "source_id": "gn-desal",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Desalination"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-06T01:28:06Z"
+  },
+  {
+   "title": "Key facts: XRG agrees to buy Shell LNG stake for $1.45bn; share buyback",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLURIR2FGMVBUd1ExUzJmVGNqTGJMLVIwQ1BSdkZCVnFCeXNiOHphRmU1cjFZdHh0QUdMYm81SHZ4d0xwRFE5TGZNNDhCZVNHUlpjQzhHUlZYM2YtMzB6MzVuMVJXZ3MxX1N6SkRrdkwwRlZLM0Z4NGd0QmFtWVNmX3RnSlRYRzVRM19JZ01xOXF0V0ZrZVhzNkhNWFNBa3JRVlo1Y0JTaXYyX19LUV92TnFHaVZTaDljOVpwWTZlcjRqUVhBdjVhaUlB?oc=5",
+   "summary": "Key facts: XRG agrees to buy Shell LNG stake for $1.45bn; share buyback    TradingView",
+   "publisher": "TradingView",
+   "published": "2026-11-05T08:00:00Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Shell Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-06T01:28:06Z"
+  },
+  {
+   "title": "Australian new vehicle sales rise 3.8% as EV demand surges - Australasian Fleet Management Association - AfMA",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORUZmeDJQY0hzZExsLVI2N2JTTGhKMldnOWNlckpNUjJGVzNGWFJPR0daQy1rMnNzSjJId2Zab2FDUTRMVHBfYzhPdm9ENjJuUUl3b045d3hEQ3hwdUc2RmFVOGtaUE9wZWw4VGNhckY1VS01WXZFZ0R0ckNkTGRySFphckQ?oc=5",
+   "summary": "Australian new vehicle sales rise 3.8% as EV demand surges    Australasian Fleet Management Association - AfMA",
+   "publisher": "Australasian Fleet Management Association - AfMA",
+   "published": "2026-11-05T06:50:57Z",
+   "source_id": "gn-fish",
+   "language": "en",
+   "operators": [
+    "AFMA (Commonwealth)"
+   ],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-06T01:28:06Z"
+  },
+  {
+   "title": "美国CP2液化天然气扩建项目授予沃利EPC合同",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBIRjk5TVJld3l1OWVQczdXVFFRVEltWGN3T1JKbFNUeTFkZGdBcHdKSC02MEpRTmZ2OExSVXVmYlFqNW5BTHVtcHBYR1p3NUNNMThlRHczT2U?oc=5",
+   "summary": "美国CP2液化天然气扩建项目授予沃利EPC合同    维度网",
+   "publisher": "维度网",
+   "published": "2026-11-05T06:15:00Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-06T01:28:06Z"
+  },
+  {
+   "title": "Low-cost green hydrogen hopeful lands fresh grant to build pilot at site of proposed offshore wind hub",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ29oVmNmQ3A5T1FxN1VBUkJLRWFsb1NNVFZISVVZN1hzUmZXSW1ibWxoa2RZVVgwdTVWSDZUS1IySEVsejRvWnktTmt3NGpmYmVMaXB2ZFJrWFVJRU8zWkpZX2J5QW01eE5aQ3pBbEVxNWlfYnhkMWlCWllkdWdZQVRCd0ZPTThvYjl5azNuYWVkamtaVVIxNXpLSGhiQ25aZVBwc3pTemlHTHVLWm45NWFlQjBiUmduOTJXQ0ZQaG5nZUdObUl3NHI0MNIB0AFBVV95cUxNcTdDNkoxaGt3UFJXNEdEOEFGejNMRTBydHh0Q1pXN1ZIaWlnWm9NVmJMSHJzQjNuWnlnRmZLVVZUZHB1T0ZLNmtWTnBQOVV5c1Y0WWRvMHpNYk0tRkM5X3NZcUtIa3ZmUjM4MUUzOTNrRmZkM3RsazBBeFpMSGx3Y3hLYl85cnJxNnZ0Q2FucWtzT3lkbTVxTnhpcGptaTM5QnlYVjFpVXVycUE1eDVhQWhFWUhXb25EanQ5c1luemhQUWlhUUJiYUUzV3pSMUhP?oc=5",
+   "summary": "Low-cost green hydrogen hopeful lands fresh grant to build pilot at site of proposed offshore wind hub    Renew Economy",
+   "publisher": "Renew Economy",
+   "published": "2026-11-05T04:24:19Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [
+    "Pilot Energy"
+   ],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-06T01:28:06Z"
+  },
+  {
+   "title": "小伙陪富二代朋友吃饭，狂点澳洲龙虾",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhSTNqNGQtOE5fNHVITGpDWnZjSUJBN21FbnBQQXVqWE5OQ19mWDhueDVZaTR6RWJjR0x2am9QTVdvX2ZnUUpCQWVUNC1fTElsMHR3?oc=5",
+   "summary": "小伙陪富二代朋友吃饭，狂点澳洲龙虾    网易新闻客户端",
+   "publisher": "网易新闻客户端",
+   "published": "2026-11-05T03:56:54Z",
+   "source_id": "gn-zh-fish",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-06T01:28:06Z"
+  },
+  {
+   "title": "澳大利亚伍德赛德能源拟裁员超500人并上调年度降本目标",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4UFAydHJydHJaT3V0eHhhczNiX3hrOHdQVWxQN0l0Y2NZNjdfTU14ZmtGV0VkbDdFNGNGUzdjelFMa1o2a3VqWW9VYS15dlNIZ284N2Q4RWI?oc=5",
+   "summary": "澳大利亚伍德赛德能源拟裁员超500人并上调年度降本目标    维度网",
+   "publisher": "维度网",
+   "published": "2026-11-05T03:09:00Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-11-06T01:28:06Z"
+  },
+  {
+   "title": "Energy giant Woodside to chop 500 jobs as AI prioritised",
+   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNTmpLSFJvQVlwWFJBNFNDQ1B3OUVkR240bnJmb2UzVUplVmV4VWtRUTNqNFVqZWNUeVc1YXV2MXg2Q2JXMTdDVnRzQVp0N1ljd05kX3Zycm5lczF6ekZiNU9RVzBJYl9vUDJHZzZIWTBBWlRRX2FiVm1WX1JReTMtTkE3cFNsOGhmX29jWlYyaHZxby1aSTRmQUJzRTN5eFlhMkNqc1puNnY0VjFIUTdCTkhOY3JTU1BlXzB0bnNLX1M2QzAyYmk2cmtSVUZBanZYMVFwblUwQV9iSVNRQzFiSGk1NnY1UG1yODdPT01RSlVSSk9Fd3E0UmJXUW8wSnpvVjZuOGw3dV9ZaHlwV0E?oc=5",
+   "summary": "Energy giant Woodside to chop 500 jobs as AI prioritised    The Australian",
+   "publisher": "The Australian",
+   "published": "2026-11-05T02:52:06Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-11-06T01:28:06Z"
+  },
+  {
+   "title": "ASIC targets oil and gas companies’ decommissioning liabilities",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeXBsTWVhVkZnUXNoTFRqUjZKRG8zMTAySm83WjVlYW1Hcm9VR0dRYlJ4NFZ2QjRyNmlwejMxMzFGcFdreHlZbTdtTU9xemlTX3FMX2dRcFVtYjEyN1JjT1NaUEtOamlmamRVYmJZYlVXcGpfVnpydTBUbWRLaGJ2VEY0TkF4bFk4aTNaOW5uMmVKN2xmRWtRMlZ5cUI5ZjAzSS1OUEJLdlowUnM?oc=5",
+   "summary": "ASIC targets oil and gas companies’ decommissioning liabilities    The Mandarin",
+   "publisher": "The Mandarin",
+   "published": "2026-11-05T02:47:53Z",
+   "source_id": "gn-decom",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-11-06T01:28:06Z"
+  },
+  {
+   "title": "Climate Australia Carbon Capture",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTVNtVW82VVlpNk1Gc3BVQjhTdUtydkdzVVFEblR1eVF4MGxoNWVaNHg4Yi1BVm5wUElRZkZaUVBPQXBKYnRpOWJsci12VlpVTUU4YS01QjF3TDl4c3dwbUlESlkwR3FhMlJNM1lpRlhGSmk2WjB3QnlsUnh0QVExalJReHBWeWhidmMzWWFRbkJESDlGQ1Z4WEx5YnZXTjZjQ2NIcXo1c08xdXNnUGRBWEtzQ09QLTdOa3FZWGFjZjNfTFJ1UkNpVHVXQUE5MW8?oc=5",
+   "summary": "Climate Australia Carbon Capture    dailyrecordnews.com",
+   "publisher": "dailyrecordnews.com",
+   "published": "2026-11-05T01:45:27Z",
+   "source_id": "gn-ccs",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "CCS & gas storage"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-06T01:28:06Z"
+  },
+  {
+   "title": "5 ways to secure an offshore wind turbine to the seabed",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE51RzRpZDI5a0ViejZwZEs4bWwzelpLVEZILV9vTzVpNGhtOTVXbkwtcWRyd3BuSXJhTFdrYVhWNXVlUllnTHRrOGZWQy1Qa1lrcF9ndnFBMmpISVR4bW9TaVJlVW9sWnZqRW52YThPcnRNTEpLay1RX253?oc=5",
+   "summary": "5 ways to secure an offshore wind turbine to the seabed    create digital",
+   "publisher": "create digital",
+   "published": "2026-11-05T01:00:12Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-06T01:28:06Z"
+  },
   {
    "title": "Santos accuses Shell, Origin of rip-off and self-interested agenda",
    "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPMGtTRk94Z2RfMHBOd3RIOS1sRnoyQWpjMFpyeXVLaWMyc0NidXFmUGZldjd0ZEkyajl3dG9hQ3d3WjMxSzdpTUF6cExXMDBDV3BXOTRJcWhJZ0RNODF0MVpyMmFVUHNVQWlFMEZHamdDVjJ0dWFIWHk2elNqdUlvUjBxSFMzaElMcklBWklRalNTWVF4VWItYTAyd0luSHZmd3ZXX0p2VmloMmtTSGx6VXJsR2NKbW9UX00tNXVneF9oYWZyOGJIajRjaWdiTVFxd2lCeHRmRktaNUNxM3F6S2V4UmR4Y2FXMlRBeVk4eGpHSzdjdTFsdk1RZW1VZVQ5bEZSOUtBWFJoSmlrb3Jj?oc=5",
@@ -780,6 +1225,25 @@
    "first_seen": "2026-11-05T01:24:45Z"
   },
   {
+   "title": "华南地区首个综保区内三文鱼处理中心落地投产",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ3ppWlpVc2JydUxMM2d6LTRBanJqVXE5MmVrZ2ttaEhZYmY3V1hzcnhVWF84c2VWZnZBem1wSWJjcW1TdFNwV2podUl6MEhRLWpEUHdIdUM3SU52TGFZQzRVdDZMVTQwOHY5cmJpUHBfWk5oWVItTm1wSEw3MHVzNVFUTEdUUlYtOVE?oc=5",
+   "summary": "华南地区首个综保区内三文鱼处理中心落地投产    广州日报新花城",
+   "publisher": "广州日报新花城",
+   "published": "2026-11-03T15:57:55Z",
+   "source_id": "gn-zh-fish",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Finfish aquaculture"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-06T01:28:06Z"
+  },
+  {
    "title": "ADNOC’s XRG to Buy $1.45 Bn Stake in Australian LNG Project from Shell",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcEhSVnZWS1VodHpLaFVkeWU5akJhUllDVEF1cWVrdmNqZy1zRzJSV05yQ0dzdVRIT1NJMWNYNWtQT3dsVzZyUHVONThsMjNhOXRGWEFhVjE5SWlrV0JEOVN2dm5YQkZubllNOWhEdkwtTDg0dVZqOVkwSUEzSHhoWjNmV3h1STExRXhlR2gzQnU1ZTAxZTNydnFvci0?oc=5",
    "summary": "ADNOC’s XRG to Buy $1.45 Bn Stake in Australian LNG Project from Shell    Egypt Oil & Gas",
@@ -1380,6 +1844,27 @@
    "first_seen": "2026-11-04T01:12:06Z"
   },
   {
+   "title": "ADNOC's XRG Agrees To Acquire Shell's Australian LNG Plant Stake For $1.45B",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSE1URTZZdWZ0bENkU2o5YzNsa3JzeHVCeHFkWnROQjFSTUZ4Vzk3a0phbEVpb1VYVlg4SEJqdFZEaFhZeUpZdjIxZzFJMlNHQzV3aDBlZzFsRTVGcWJzZmtiSG11aHBRY3RNdU1sdjl6TFVMMFZmTUk2bm9Yd0lVTkZaMXZjdDgxOHdSdEFRODZ1cTRLTlFscTF6TEsxV0ljakg0M0RBSQ?oc=5",
+   "summary": "ADNOC's XRG Agrees To Acquire Shell's Australian LNG Plant Stake For $1.45B    Forbes Middle East",
+   "publisher": "Forbes Middle East",
+   "published": "2026-11-03T09:49:08Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Shell Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-06T01:28:06Z"
+  },
+  {
    "title": "XRG to Buy Shell Stake in Australian LNG Project",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUFdaS2Ffd3EzbGpKMmkzVEV3ZXhReW5naHVVbnhvTElMdjNhakZvQlY3V1hTZ3ZudFJyUkNtMElsdGFEd21hbnBlQnJQNHVEeHRvMml5c3JJVTc4VG1fdk05Z21CLU44Z0R4ZW9SZ3h3ZW9lX3FLVlNTWmhESzFISjlTbTA5WV9mZE5RdzViSlpCd0pEVEJoclN5eEU5OGxQdXZRWFJWZE4?oc=5",
    "summary": "XRG to Buy Shell Stake in Australian LNG Project    Rigzone",
@@ -1500,6 +1985,27 @@
     "FOS-001"
    ],
    "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "Shells sells LNG stake in Western Australia to ADNOC for USD1.5 billion",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb292R2w3TmY4QXhFUjZFX21BdlBLbDVtdk5VZ0x3SWNOb1hOeWsyalNvT3BsejhxZERONG1idDdWNzI0U3Zrd001YjhhRU9OWHZ3bU1OVGtDZC1VVFBtb3Jqb0lOSUtnSkJNZnlsdUpkRGJCeThoMVBRQzROVTZvWW5vZW5NUFFETlhpSzZWa3FtZmZFNnlidU5QWmdBZ0J0NlhTeFBkNmc4M1RVV0tWdWdlX0hxZVlNYldscFlZM3UzZw?oc=5",
+   "summary": "Shells sells LNG stake in Western Australia to ADNOC for USD1.5 billion    marketscreener.com",
+   "publisher": "marketscreener.com",
+   "published": "2026-11-03T08:46:24Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "WA"
+   ],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-06T01:28:06Z"
   },
   {
    "title": "阿布扎比XRG收购Shell澳大利亚液化天然气项目股权 提供者 Investing.com",
@@ -1794,6 +2300,29 @@
    "first_seen": "2026-11-04T01:12:06Z"
   },
   {
+   "title": "Shell to sell North West Shelf stake to XRG for $1.45 billion",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ19adXVqaGxabGZPQzJHZWN4UGlMMmZpRTN6TGF1cEtqcFIzakNuMExGUHY0X2RHUXFLWjNTUjJyTzJhSzNlSGQ2SEZSVlBxcXlaNWQzNXp5NFFjUWU4SGNLM2wyeWRtdVVxUlBLb2JwZ0hjb2loNGlFY0xuWnA1RXVPRWxBRUZwQVdHZHRkai1tUm5rVUVfMnFyeU1fMlJMVTgzT1VUUUw3c09vLS1oaw?oc=5",
+   "summary": "Shell to sell North West Shelf stake to XRG for $1.45 billion    Reuters",
+   "publisher": "Reuters",
+   "published": "2026-11-03T06:12:00Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Shell Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [
+    "FOS-001"
+   ],
+   "first_seen": "2026-11-06T01:28:06Z"
+  },
+  {
    "title": "Abu Dhabi’s XRG in $2.1b deal to buy Shell out of North West Shelf",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbTVuYW5QZ3BVeS1xTWw0Sy1uV2lITlczZGxTcXJieGNWWHBTVlVUWEt1UzZBaEI3elVtVG1QOXhDcklGMkFuVE9CSDJwTGhUSTNGZjNNOHUzeG40cWxIYmtNbEdTdEpISmFpNFJEMVhvWkxqNnBvelU5cmpCbGxsQV9QYlp1UkRuemQ5SDVFMUNoOGJBd2VNQWZxQW9jNldVUFBUWnU5VFpLd2Y3d0IzcUlnLUhjOEhxWFE?oc=5",
    "summary": "Abu Dhabi’s XRG in $2.1b deal to buy Shell out of North West Shelf    AFR",
@@ -2066,6 +2595,23 @@
    ],
    "projects": [],
    "first_seen": "2026-11-03T02:51:40Z"
+  },
+  {
+   "title": "AKVA Group Launches Polarcirkel 560SB Floating Collar for Exposed Aquaculture Sites",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUFZfRExSUUFvOWZQUTVhLUx1UnNWVWl0Ml9UUEJWakk5VUZ3Tmc1VFVXalZSS3FOOFZORTY1ZU4xRFEtVkxzTzQ5M053cGttZEFTZVNCR3BoS2FITTVRNDRHSExZdW9KSVFlX0pZRjFOOXlqTUNKSXdQck9sNEZ3MWRQLUJyZ0ZNT3pkblczSDFuZE5sM0pUNERVUmp2OWRGWExkU0x2UmNWM3lyUjJEcnlkMWxiUTVvNzhvV3l3YXY0N3QzRkJIYWN3ZXExNHhN?oc=5",
+   "summary": "AKVA Group Launches Polarcirkel 560SB Floating Collar for Exposed Aquaculture Sites    environment coastal & offshore",
+   "publisher": "environment coastal & offshore",
+   "published": "2026-11-02T14:54:24Z",
+   "source_id": "gn-aqua",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-11-06T01:28:06Z"
   },
   {
    "title": "All foundations installed at 980-MW Nordlicht I offshore wind farm",
