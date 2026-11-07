@@ -1,69 +1,69 @@
 {
- "fetched_at": "2026-11-06T01:28:06Z",
- "added_this_run": 28,
- "total_items": 745,
+ "fetched_at": "2026-11-07T00:49:28Z",
+ "added_this_run": 9,
+ "total_items": 754,
  "earliest": "2026-09-30",
  "errors": [],
  "per_source": {
   "gn-lng": {
-   "in_feed": 50,
-   "new": 10
+   "in_feed": 51,
+   "new": 2
   },
   "gn-gas-policy": {
-   "in_feed": 8,
+   "in_feed": 7,
    "new": 0
   },
   "gn-decom": {
-   "in_feed": 10,
-   "new": 2
+   "in_feed": 8,
+   "new": 0
   },
   "gn-wind": {
-   "in_feed": 26,
-   "new": 5
+   "in_feed": 27,
+   "new": 2
   },
   "gn-wave": {
-   "in_feed": 15,
-   "new": 1
+   "in_feed": 8,
+   "new": 0
   },
   "gn-ccs": {
    "in_feed": 3,
-   "new": 2
+   "new": 0
   },
   "gn-aqua": {
-   "in_feed": 22,
+   "in_feed": 24,
    "new": 1
   },
   "gn-fish": {
-   "in_feed": 23,
-   "new": 1
+   "in_feed": 25,
+   "new": 0
   },
   "gn-desal": {
-   "in_feed": 3,
-   "new": 1
+   "in_feed": 6,
+   "new": 0
   },
   "gn-cable": {
-   "in_feed": 18,
-   "new": 0
+   "in_feed": 16,
+   "new": 1
   },
   "gn-ports": {
-   "in_feed": 18,
-   "new": 0
+   "in_feed": 16,
+   "new": 1
   },
   "gn-minerals": {
    "in_feed": 5,
    "new": 0
   },
   "gn-zh-energy": {
-   "in_feed": 18,
-   "new": 2
+   "in_feed": 16,
+   "new": 1
   },
   "gn-zh-wind": {
    "in_feed": 2,
-   "new": 0
+   "new": 1
   },
   "gn-zh-fish": {
-   "in_feed": 17,
-   "new": 3
+   "in_feed": 10,
+   "new": 0
   },
   "gn-zh-other": {
    "in_feed": 0,
@@ -83,12 +83,73 @@
   }
  },
  "by_month": {
-  "2026-11": 147,
+  "2026-11": 156,
   "2026-10": 597,
   "2026-09": 1
  },
  "note": "Append-only archive. meta.news_days_to_keep controls the site's default window, not storage.",
  "items": [
+  {
+   "title": "Woodside secures LNG deals with QatarEnergy, Petronas, Uniper and others over two years",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5HMGJQdl85NXZXOFl2SHR1dHZBck85M3VvTFJ0MHdBTWJDS2R6SHhUMTA5ZFpLZWNMWkF1RUhDTElROGo1dG1pWjdIY1diSUZm?oc=5",
+   "summary": "Woodside secures LNG deals with QatarEnergy, Petronas, Uniper and others over two years    Trend News Agency",
+   "publisher": "Trend News Agency",
+   "published": "2026-11-06T13:35:57Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-07T00:49:28Z"
+  },
+  {
+   "title": "Beyond Anchors: The Cyber Risk to our Submarine Cables",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRzVDZlBILWsyalV5R3ZING9iMV9NOHg4dm5ZY0JUbnpZLURVWUVISzB3WVlEM3Y1ZjM3elpob2hMQ3NUVFlWTHNNbEthN05DUzdJalgzVUN3TzJNUlJVR3l3Mm9Yel9idTJtOVFNSUlTamdEUkxlckNTWFVUdm1HSXBKNkRhNXZXY05Ba2o0ckp5cUw1Z2xBNU5JZld5Z0l5b1FHV3NIOEtQQnNzakhuS1N3?oc=5",
+   "summary": "Beyond Anchors: The Cyber Risk to our Submarine Cables    Australian Institute of International Affairs",
+   "publisher": "Australian Institute of International Affairs",
+   "published": "2026-11-06T11:14:48Z",
+   "source_id": "gn-cable",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Subsea cables & interconnectors"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-07T00:49:28Z"
+  },
+  {
+   "title": "Woodside secures nine-year LNG supply agreement with Türkiye's BOTAŞ",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HN1lhclNONVJ4ZWc1cmZjeHJoUC1fUklKWkRoelZaZnhwV2R6c1A3Z2JJQTJFOUZuREZtMGNna0ZuZjgzbXhKYWhsT2p6Y3U1?oc=5",
+   "summary": "Woodside secures nine-year LNG supply agreement with Türkiye's BOTAŞ    Trend News Agency",
+   "publisher": "Trend News Agency",
+   "published": "2026-11-06T09:28:00Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-07T00:49:28Z"
+  },
   {
    "title": "New Jersey Locals Launch Another Offshore Wind Legal Fight",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRHluUFdMWXpuR095UDhBbzV5NlM0SVhmT1J2RW1ib29jRmxoUEJnenhudjF0MWk4ZVpMbnVmTWtDbVFlTnByQ3VEaXFzN2lGYWxxM2V4R2NBVlg4aFNTYUNJNTlrWlNqSm1QYmhiVXFRa0pWa0lweVhoV2J6czZpMjQtM3VtdFd0dk5aZ18teXVybjZKY1hNLU5EaGlyRnNZaE9FN0RMcmxVWWQxUzltWQ?oc=5",
@@ -362,6 +423,44 @@
    ],
    "projects": [],
    "first_seen": "2026-11-06T01:28:06Z"
+  },
+  {
+   "title": "润邦股份：投建的通州湾装备制造基地在漂浮式海上风电基础方面有相关业务布局",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BOHI3NHN2Q3lOZFAxT2hsOV9oMFJZTjhadzUtZEJOdzlCeldJRkZZbXhCanVDNXpfQkZmSHFWTXd4YjFEOE9ncUFXMHIxemJfNUdna01jX2QyQ3Nv?oc=5",
+   "summary": "润邦股份：投建的通州湾装备制造基地在漂浮式海上风电基础方面有相关业务布局    Moomoo",
+   "publisher": "Moomoo",
+   "published": "2026-11-05T07:54:00Z",
+   "source_id": "gn-zh-wind",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-07T00:49:28Z"
+  },
+  {
+   "title": "Orsted Completes Offshore Wind Farm That Trump Tried to Stop",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdldjLU5vUjdxcmlGbzhnWmpIZ1NsZEtKUEZBWVZKUEc0V2hoNzBIUXVUOUVEZHJjSG1oWlk0aEp1RUNzS0k3MVZFdlpZWGJFSXZxMUZNNHV4REZoRWlZaXo3ZVBSVjdUanIxNVozUlJtRUZ0aGhoYVFRZlRFVEdNbGN2NDRadWl2QUJkWDZjU1BfbEJYaXhfNVhmbzh0eU1Sa3pDTEQzUXF4a1dFemxyOXhKYW4?oc=5",
+   "summary": "Orsted Completes Offshore Wind Farm That Trump Tried to Stop    Bloomberg Law News",
+   "publisher": "Bloomberg Law News",
+   "published": "2026-11-05T07:02:00Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-07T00:49:28Z"
   },
   {
    "title": "Australian new vehicle sales rise 3.8% as EV demand surges - Australasian Fleet Management Association - AfMA",
@@ -866,6 +965,25 @@
    "first_seen": "2026-11-05T01:24:45Z"
   },
   {
+   "title": "江苏国信将购买道达尔900,000吨液化天然气，为期15年",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRWt1cjE1TlFNY19ZcXppTUtIT3hwTE1ZazRlaGM4Z0haUC14VHo2TlBQdFIta0JpbGFrbmZpQ1FjaUN2b2IzWDdORGR5Yk1MUmJERnozRlVEZVVCNDZUVTVpa001SkhuNGR2cWNHTmp6enNLUU5LbW96RkF1elhaNE9pQ3AwOHBpNm1tekx5UUN5RmZOd2JYcEQtYWtHTzc3OXhMbjU4Y0JfdlE?oc=5",
+   "summary": "江苏国信将购买道达尔900,000吨液化天然气，为期15年    Moomoo",
+   "publisher": "Moomoo",
+   "published": "2026-11-04T08:11:13Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-07T00:49:28Z"
+  },
+  {
    "title": "卡塔尔将摇身一变成全球最大美国LNG买家，全球能源权力西移",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qWG10a3JkVFFyeHcyVml3NmdXdWlueXBzd2ZBRGFtS3gxWjlMbkNET1FyV2c1Nm1fR0FpemJUc2puNDNUQk1qd08xMTFtS2U2NE9LdDVGZk9DcnU2?oc=5",
    "summary": "卡塔尔将摇身一变成全球最大美国LNG买家，全球能源权力西移    Moomoo",
@@ -923,6 +1041,25 @@
    ],
    "projects": [],
    "first_seen": "2026-11-05T01:24:45Z"
+  },
+  {
+   "title": "Worley awarded another EPC contract for US LNG project",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb2JaRHZoODc3ZU1nbFdtWmt2VnRHQ2hlY2NrLWlVMS12b19sWlptMEtMTGlyNmpGT3VGUHprd0ZhX291Y0VnTHpuUjdqTWVEN0xqR2pvN2EycWNVZG9wSFh1Rl90ZmVFcnJJRFVDcnd4dERyLVg4cFlSZDVKT0lkMnh3a2JRM3BwUkt2aU0zVDYxMWU3cUFwejlnRWhzaFp5cFpZ?oc=5",
+   "summary": "Worley awarded another EPC contract for US LNG project    Upstream Online",
+   "publisher": "Upstream Online",
+   "published": "2026-11-04T03:59:24Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-07T00:49:28Z"
   },
   {
    "title": "Vermont Eyes Nova Scotia's Offshore Wind Resources",
@@ -2193,6 +2330,27 @@
    "first_seen": "2026-11-04T01:12:06Z"
   },
   {
+   "title": "Australia completes first ever green ammonia bunkering at Port Hedland",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd3RpMnpWOWhmT3U5eWQzcEg5cGpuR3pRZU1HSVBxM3MzRmdndDFONk5HdGlEcFJDaTlUck10bG1YQm1fcG9FR2gwczhReWdXb0k0WnpSMHdETzNkTnpOanE3WWI1U2dDZVRiNHQwYlJhdmY5OUExXzB6WFNwcVBPNVNWU2o0TC1pdkh2aktOSmUydjYwdzJLNjlieGFPM3B1aDNTZDNvS2gwR0FhT21OM19DcF94UUxtQ0FybGQ2Yw?oc=5",
+   "summary": "Australia completes first ever green ammonia bunkering at Port Hedland    Quantum Commodity Intelligence",
+   "publisher": "Quantum Commodity Intelligence",
+   "published": "2026-11-03T08:00:00Z",
+   "source_id": "gn-ports",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "WA"
+   ],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Ports & LNG terminals"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-07T00:49:28Z"
+  },
+  {
    "title": "XRG agrees to buy Shell’s stake in Australian LNG project for $1.5bn — The National",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTFpSczY5R3Q2Y2RTNllfN2doRkRkSUd2SGpBM3RLZmFCZlFsbEZqb0V0NEF0WkpjRTBTTXl2ZzNha2Zra0N1c3RPb21RNDdvekNydEFfZVJjX2lRZC10WVIySC1GaXNoM3RSMzgyUE1PS1M1VTk2c3p6R3lSbXpUd2pvWGdaRy1QTkR3WG94M3F1c3JWUlRTYzAxS29UOFM0LTlwb1IwcFVpUnBQWFNJNnNrQWY4OUFSbG5VaGp3?oc=5",
    "summary": "XRG agrees to buy Shell’s stake in Australian LNG project for $1.5bn — The National    UA.NEWS",
@@ -2865,6 +3023,23 @@
    ],
    "projects": [],
    "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "OBITUARY | Bill Passey, co-founder of Australia Bay Seafoods",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMEhwZlNTd1hTRkx3eWZ3Q2wydk5Ud0NSVlpCYloxQXZob2RnM2tSVWJEdlRsbnVRcUVwS3BZdG5CMVF6dUk4UXA2TE9kNmp4SWV2WGpsRG5LcWVHQU9PbnhjNzlhSVRGUVJ1dkwxMnlyTU91alN1TExDc2VSX0dFSFVRU19OT2VEWTRHbk1mMEhCeEtZRkZtOUZiVDB3b1ZJOGJCZ01mMGJibkNBMGJfMkRjZHJEdm15NERVLWlkNFdXTEFYbUE2QzRrb3o5aWpjTUJvVmZEX03SAdgBQVVfeXFMUDBIcGZTU3dYU0ZMd3lmd0NsMnZOVHdDUlZaQmJaMUF2aG9kZzNrUlViRHZUbG51UXFFcEtwWXRuQjFRenVJOFFwNkxPZDZqeElldlhqbERuS3FlR0FPT254Yzc5YUlURlFSdXZMMTJ5ck1PdWpTdUxMQ3NlUl9HRUhVUVNfTk9lRFk0R25NZjBIQnhLWUZGbTlGYlQwd29WSThiQmdNZjBiYm5DQTBiXzJEY2RyRHZteTREVS1pZDRXV0xBWG1BNkM0a296OWlqY01Cb1ZmRF9N?oc=5",
+   "summary": "OBITUARY | Bill Passey, co-founder of Australia Bay Seafoods    Baird Maritime",
+   "publisher": "Baird Maritime",
+   "published": "2026-11-02T08:00:00Z",
+   "source_id": "gn-aqua",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-11-07T00:49:28Z"
   },
   {
    "title": "美国批准Power LNG年出口517.5亿立方英尺天然气当量",
