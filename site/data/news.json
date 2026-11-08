@@ -1,25 +1,25 @@
 {
- "fetched_at": "2026-11-07T00:49:28Z",
- "added_this_run": 9,
- "total_items": 754,
+ "fetched_at": "2026-11-08T00:22:23Z",
+ "added_this_run": 14,
+ "total_items": 768,
  "earliest": "2026-09-30",
  "errors": [],
  "per_source": {
   "gn-lng": {
-   "in_feed": 51,
+   "in_feed": 38,
    "new": 2
   },
   "gn-gas-policy": {
-   "in_feed": 7,
-   "new": 0
+   "in_feed": 9,
+   "new": 1
   },
   "gn-decom": {
    "in_feed": 8,
    "new": 0
   },
   "gn-wind": {
-   "in_feed": 27,
-   "new": 2
+   "in_feed": 30,
+   "new": 1
   },
   "gn-wave": {
    "in_feed": 8,
@@ -34,7 +34,7 @@
    "new": 1
   },
   "gn-fish": {
-   "in_feed": 25,
+   "in_feed": 30,
    "new": 0
   },
   "gn-desal": {
@@ -42,32 +42,32 @@
    "new": 0
   },
   "gn-cable": {
-   "in_feed": 16,
-   "new": 1
+   "in_feed": 15,
+   "new": 0
   },
   "gn-ports": {
-   "in_feed": 16,
+   "in_feed": 12,
    "new": 1
   },
   "gn-minerals": {
-   "in_feed": 5,
+   "in_feed": 3,
    "new": 0
   },
   "gn-zh-energy": {
-   "in_feed": 16,
-   "new": 1
+   "in_feed": 20,
+   "new": 5
   },
   "gn-zh-wind": {
    "in_feed": 2,
-   "new": 1
+   "new": 0
   },
   "gn-zh-fish": {
-   "in_feed": 10,
-   "new": 0
+   "in_feed": 16,
+   "new": 2
   },
   "gn-zh-other": {
-   "in_feed": 0,
-   "new": 0
+   "in_feed": 1,
+   "new": 1
   },
   "offshore-energy": {
    "in_feed": 50,
@@ -83,12 +83,134 @@
   }
  },
  "by_month": {
-  "2026-11": 156,
+  "2026-11": 170,
   "2026-10": 597,
   "2026-09": 1
  },
  "note": "Append-only archive. meta.news_days_to_keep controls the site's default window, not storage.",
  "items": [
+  {
+   "title": "Woodside signs about 3.5 Mtpa of LNG supply deals to Europe",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vMHJKeFNLNzlCVGcxa3IzNl9ESG54b3cyOU5LLWU2ZFdVMkhBZFd6b0FSLVRyRlZEX2poOG9OSlpEN05jbXE2T1ctLVV3S2tw?oc=5",
+   "summary": "Woodside signs about 3.5 Mtpa of LNG supply deals to Europe    Trend News Agency",
+   "publisher": "Trend News Agency",
+   "published": "2026-11-07T04:05:00Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-08T00:22:23Z"
+  },
+  {
+   "title": "Minister Punch agrees to visit Port Hedland after criticism — ABC News Australia",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ2ExNGRreExEMGlLWDFMNGE2RWxVd3R1U1RWWVVWZkFiSGlZeTNmaVRGQ285VmlTdjhoSnE4dVRGUkZoR1pxaEVROTZGdERTRC10aV96TnFKU0R6WGM0cW9uRmJPMllhdHNRaGdrald6TDJhR3FfQ2JnUUswdDZMaFZqT3EzQ1pjYVIzSTQzcDRBaDZWTnppNENlX3pVN2tEM3I3TTNpSUdET1UzVUdLR2sxdHE?oc=5",
+   "summary": "Minister Punch agrees to visit Port Hedland after criticism — ABC News Australia    UA.NEWS",
+   "publisher": "UA.NEWS",
+   "published": "2026-11-07T03:31:15Z",
+   "source_id": "gn-ports",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "WA"
+   ],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Ports & LNG terminals"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-08T00:22:23Z"
+  },
+  {
+   "title": "西澳拖网捕鱼禁令面临审查，渔业信任难以建立",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yQzgzOVR5QUhXd2ZQTkFzdi00S2w1b3RrV2RoZ2dMX2NwWDVheDhpOHZuVUE0VXQ2cDdhSkdqNGdITlRMVjBrYS1weXNQWDhzZ0p2WU5VTTJwekZVLU05a1BB?oc=5",
+   "summary": "西澳拖网捕鱼禁令面临审查，渔业信任难以建立    1688澳洲新闻网",
+   "publisher": "1688澳洲新闻网",
+   "published": "2026-11-07T01:07:59Z",
+   "source_id": "gn-zh-fish",
+   "language": "zh",
+   "operators": [],
+   "states": [
+    "WA"
+   ],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-08T00:22:23Z"
+  },
+  {
+   "title": "H2G Green签署谅解备忘录，探索在阿布扎比开发液化天然气项目",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZUNIRUlrWnRCbUh4aGtlZWhXUndFaGloUGJ0SnU4bHNPY2JHdmUwOEowdUtsMXFaM0xCV1NwLWZyd1g4TDNtandsWTVJSk9KODVFQjU2eGx3V0ljWW43UW9lRk00dTZvSXlpOXV1d3B0TDVKUy03NjBJc0V2em1nSFIwT0hsMUo3eHh4RE9DTU9XTXhGR1F5NWlsd3hCYjNwbi1hRw?oc=5",
+   "summary": "H2G Green签署谅解备忘录，探索在阿布扎比开发液化天然气项目    Moomoo",
+   "publisher": "Moomoo",
+   "published": "2026-11-06T23:11:06Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-08T00:22:23Z"
+  },
+  {
+   "title": "底层鱼捕捞禁令听证会揭示西澳大利亚的争议—— 澳大利亚广播公司新闻",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT2lTdUw2UE9pTFUzbkN6YWJCSlFhdW05TTdiSV8wQ1dIdXVZcVI2Rk8zMVFtSWthTm1yaDhzU18zWVRJVk83NHNvWnpSQlplb0FIeWU0cHJqOGZGQ3RfWC1peXBnZG9hTXVSN1lENjhPazlCSFJUVnlUOHNldXQzME1QSmhhUVZycDZPTENkck9saGZzbl9EV0J0cG1XMGNUTHUyU3ZaaTdaOWZaMnNCV1pYVkgzcXUzZ2hidHhkRC1xTzNfMlJTRFlORFRiOE5JdkNR?oc=5",
+   "summary": "底层鱼捕捞禁令听证会揭示西澳大利亚的争议—— 澳大利亚广播公司新闻    UA.NEWS",
+   "publisher": "UA.NEWS",
+   "published": "2026-11-06T19:22:00Z",
+   "source_id": "gn-zh-fish",
+   "language": "zh",
+   "operators": [],
+   "states": [
+    "WA"
+   ],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-08T00:22:23Z"
+  },
+  {
+   "title": "与伊朗有关联的船只在海湾海缆上方徘徊，德黑兰警告可能发动袭击",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMmExbDJ5NUU3VnR4cHBPRjBsYjVQd2xNSnlqcnd3NXhyOTNROXJmUl8yUzJaZlRiS2ZzbEdabndhWXBEdFV4TGRSM1BvLTI5Mkg1MV9aNm1vb3dBYW5kUVE3RzNTZ3Vsc1R0d0xuZXJFb0hNaXQzQ2thd1Zvc2Y5NGhaMXVLc0JLS250VG5RbThkSWxwYXg0?oc=5",
+   "summary": "与伊朗有关联的船只在海湾海缆上方徘徊，德黑兰警告可能发动袭击    Mezha.net",
+   "publisher": "Mezha.net",
+   "published": "2026-11-06T18:34:00Z",
+   "source_id": "gn-zh-other",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Subsea cables & interconnectors"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-08T00:22:23Z"
+  },
   {
    "title": "Woodside secures LNG deals with QatarEnergy, Petronas, Uniper and others over two years",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5HMGJQdl85NXZXOFl2SHR1dHZBck85M3VvTFJ0MHdBTWJDS2R6SHhUMTA5ZFpLZWNMWkF1RUhDTElROGo1dG1pWjdIY1diSUZm?oc=5",
@@ -149,6 +271,42 @@
    ],
    "projects": [],
    "first_seen": "2026-11-07T00:49:28Z"
+  },
+  {
+   "title": "Conflict of interest claims dog consultancy behind govt's domestic gas reservation scheme modelling",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMkViSkpDOUEwQVotbUlWTnF3WTFGYzExQ3hVVEJ5RU9qOHhlY3VCOGtmRlQ4VHJxZ1cyS2xiYnlLOHFKMHVCeWVmSWN6ZVdYaUNEWGVCT0toZnZlNXA4ckNGc1EwMmtrSmNyRlZ5Q21LVHV1RzMxdEd2NGtkR3EwYjBQV2Jlb29TeTZEOFM5eFJmd0JDbWo5Z1dZUDJHMmEyY1BKNUFuWWQ4U2xXS3pocURlRzhhZXlORE5UVy1HRzlYUDMzaDNxNXlCbjRJNjRXakZvOVdVRkV4SUdYQlZIajlmNzQtbTA?oc=5",
+   "summary": "Conflict of interest claims dog consultancy behind govt's domestic gas reservation scheme modelling    Energy News Bulletin",
+   "publisher": "Energy News Bulletin",
+   "published": "2026-11-06T08:35:54Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-08T00:22:23Z"
+  },
+  {
+   "title": "瑞银将伍德赛德能源的目标价调整至32.30澳元",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUXN5NnU3YU1peFhnTUlabUtOZE4xZDJMOXpFVnRjSTVkVkh6MEI1N0pocFZJY0hXWlVKMThhcXc2VlVTTFR2SXd1N05OSjZrcVVqbEItelZwekhkaEhkZmQ3a0dHQ0FoRWkxUWtTVDhZRlpBX25CalN3NVlodl9JMEtIajJYVlFfQ2I0T2RkNWYxRHlGTkpjclJ4Z0x1cWtUUnc?oc=5",
+   "summary": "瑞银将伍德赛德能源的目标价调整至32.30澳元    Moomoo",
+   "publisher": "Moomoo",
+   "published": "2026-11-06T02:21:21Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-11-08T00:22:23Z"
   },
   {
    "title": "New Jersey Locals Launch Another Offshore Wind Legal Fight",
@@ -444,6 +602,25 @@
    "first_seen": "2026-11-07T00:49:28Z"
   },
   {
+   "title": "Dongsung FineTec获得液化天然气（LNG）运输船低温绝缘材料供应合同",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeWpSTnUzeFBrT0dEYWR0UTlFbVVDN3cxeU5qeWYzX3ZUb2NmYTlSRHVxWjdwNXFXLTNEcF9xZW5VT3JUVVp6VUVuSFctX3E5Z0dlNERqdktzMDhQdDhjVUtUUkJ1WHJ5enVSQVdZc2YtWVdaaDdVX3haSnE5bzJOQ1Yza1J3UENMX2V2bU1KaGhLMFZGMUppQ2Zfc1E5bl81TnQzSDh2SFc3Q1BfMXhLNTFRSmNkMlBORlJpT1hPVFdQMUtrZU9n?oc=5",
+   "summary": "Dongsung FineTec获得液化天然气（LNG）运输船低温绝缘材料供应合同    Moomoo",
+   "publisher": "Moomoo",
+   "published": "2026-11-05T07:06:37Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-08T00:22:23Z"
+  },
+  {
    "title": "Orsted Completes Offshore Wind Farm That Trump Tried to Stop",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdldjLU5vUjdxcmlGbzhnWmpIZ1NsZEtKUEZBWVZKUEc0V2hoNzBIUXVUOUVEZHJjSG1oWlk0aEp1RUNzS0k3MVZFdlpZWGJFSXZxMUZNNHV4REZoRWlZaXo3ZVBSVjdUanIxNVozUlJtRUZ0aGhoYVFRZlRFVEdNbGN2NDRadWl2QUJkWDZjU1BfbEJYaXhfNVhmbzh0eU1Sa3pDTEQzUXF4a1dFemxyOXhKYW4?oc=5",
    "summary": "Orsted Completes Offshore Wind Farm That Trump Tried to Stop    Bloomberg Law News",
@@ -541,6 +718,27 @@
    ],
    "projects": [],
    "first_seen": "2026-11-06T01:28:06Z"
+  },
+  {
+   "title": "ZAWYA: ADNOC's XRG to acquire Shell's Australian LNG stake for $1.45bln",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNeURST0c5d2Q1WUlFQjY1eFUxUzhJTjZiUFRjMUpmSXhLRlhIOWFOdHRBMlVOdlVza1lGOENfSkVEcXFob0pXbkJTQ2JRbDVjazRtY0t3ckk2dDc1S3RncjRIdGMyMUd4NFVwXzdZOExGX1Q4NllkMDV4a2ZaYjlOR1hlVFV2STdPX1A4TnVIUHYxXzNBMnFoVnU2cEY0Z09TdEt1Vlg2T1NON0NaaDRDWGZtUU9sOGVxdWc2ZVgwY2pmcy1uTWtkeWlINWRyMk1VV19oT1lreG81Z2twamc?oc=5",
+   "summary": "ZAWYA: ADNOC's XRG to acquire Shell's Australian LNG stake for $1.45bln    TradingView",
+   "publisher": "TradingView",
+   "published": "2026-11-05T03:27:00Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Shell Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-08T00:22:23Z"
   },
   {
    "title": "澳大利亚伍德赛德能源拟裁员超500人并上调年度降本目标",
@@ -694,6 +892,25 @@
     "FOS-001"
    ],
    "first_seen": "2026-11-05T01:24:45Z"
+  },
+  {
+   "title": "Woodside Energy将在全球裁减至少500名员工—— 澳大利亚广播公司新闻",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ0dmMVd2aC05cC02Rnp2SkxJY3l5TTVjM19YOG51MFZMNmVyME9VTUJWTjJhS1B6ckNUR2hodzNtNVNDQnpSdGRFMG80TGdqR3QxUThsNTVBY1lHck1SZHhKNUhiX3lQbWltcmRUZ3BydHYzb25NbVI4bzJjb1VPMUdQbE1wRmlaV2FlMXVXakVjUUVnenZxc2Y2TTk4YzZDX3NNU2JkSENDbEZ5STJ2bmRoSQ?oc=5",
+   "summary": "Woodside Energy将在全球裁减至少500名员工—— 澳大利亚广播公司新闻    UA.NEWS",
+   "publisher": "UA.NEWS",
+   "published": "2026-11-04T22:03:00Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-11-08T00:22:23Z"
   },
   {
    "title": "Oman Plans 31 Submarine Cable Systems by 2030",
@@ -1098,6 +1315,25 @@
    ],
    "projects": [],
    "first_seen": "2026-11-05T01:24:45Z"
+  },
+  {
+   "title": "Philippines offshore wind ambitions meet the reality of grid readiness",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU0xZMmNpQ1V4RUFCNlV6RXU0WW83TFg4YlExTnNscHFDWlJVSDBJd0R1UjB1MHM1T2N1c1F6R2xvZkpHWWN4QXJZTDd2LW9DbDZycC16N3FjSUxoS29hb2ltR3FCM1FTak5MbVJMamZjdlVZU0prUmwwR25XWndYUEM0cnVCMUJULU9oMmtEcWI0dVJMbDEyeHFDcHZwOUdjT3NVWXNKWDN6TkFUbzZDSW1B?oc=5",
+   "summary": "Philippines offshore wind ambitions meet the reality of grid readiness    Asian Power",
+   "publisher": "Asian Power",
+   "published": "2026-11-04T01:00:00Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-08T00:22:23Z"
   },
   {
    "title": "Fortescue's First \"Green\" Bulker Bunkers Ammonia at Port Hedland",
@@ -3215,6 +3451,25 @@
    "first_seen": "2026-11-02T00:30:36Z"
   },
   {
+   "title": "Sudvet joins GSI to drive sustainability in salmon farming",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOanRTMUxPSUZrQU83NXp0eDV6VElSbkNwNk4yN1pPbHg2NFhCcFhMZGRWZkdKRVJVd2pDTUpyZHF5SFl3NURyWVAtLXhxTHpDbmE2bnVMUm5BWG5JQkJDVUZnVWp2NC1Hb1JKbC1LQlpsOTBqSDFSdHo0T0xERUplXzA1WGFfZUk2QUFQREI4d3p5SHRMUm5fNGNaUnFMR21zbjRnZERQRGZOMk3SAbgBQVVfeXFMT1lkMzdSYkItbWtfTHFhX0lOVkZKUS1xeklUelZGVHJndzdCc1BGZzlUSV9idnlDeEpHSGVNR1g3NTNlOXFCZmIzTlB6VlpuVHJhS2h6S0M5WGRrS1lJQ182Rjc5NVBRMjB3V2NRcnlSMDJsVTVXLWhDekNkOVJMWk9ZUXkwVmFFd1ZDZWxCOFpDXzdQZFVFNUh6Vld1VTAyckp3Mkw2R2RoRldzYkZlZ0ZMZUNPNndsTA?oc=5",
+   "summary": "Sudvet joins GSI to drive sustainability in salmon farming    WEAREAQUACULTURE",
+   "publisher": "WEAREAQUACULTURE",
+   "published": "2026-11-01T07:00:00Z",
+   "source_id": "gn-aqua",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Finfish aquaculture"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-08T00:22:23Z"
+  },
+  {
    "title": "Bahlil 怀疑新加坡充当印尼液化天然气中间商，政府对此作出回应",
    "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxOYkpocU5VSGZLYnFkV3ZSbzhsTFhEckF5M3ZEbzZOaWJtcHFiTjBCMjdVQzlGODVCYzBBWjZEOE8yWnIxRm93RzZTY2tWSkRFTHBQUFV3MF9DUlNMYmNBMDBtU2t1TV9fQkRwdnFXVmN3TWdWMlowWG56cEhjd3liNDl4c2pPUDkzSVZyeVJzM0RTR1JHTU51VGNxbW1EclRjN2hnaElvZ2xFNllvWkdGMld0akNwTXljS2s2T09JSFE4S1l2TDlZa1NjajJmbE9zdkVCXzdsRU1EYUxiaFh0RENjZWNqQ3Bud1dad3Z4blo2Yk5lZWxiVDVUem5PVzlTbkN2aTFzT25oZEEzOHJTbWJnaF9meTZCWmJzNHZJV1VHOUsyYllkUjVMNEV0al9lT3p4NXRUM0FoNjNoWFVpdDUwR3lzdExneW9CVjJwWW00eXlFWGFGUmJacmxWNHBOc0dTd3l4S3dFSmh0VnJGZHdMeWNRWG15ZTBLeERySUEyWUN1UzBvTEFPZE4?oc=5",
    "summary": "Bahlil 怀疑新加坡充当印尼液化天然气中间商，政府对此作出回应    IDNFinancials",
@@ -3232,6 +3487,25 @@
    ],
    "projects": [],
    "first_seen": "2026-11-02T00:30:36Z"
+  },
+  {
+   "title": "卡塔尔LNG运输船Al Mayeda在海湾水域遭袭—— 阿纳多卢通讯社",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbEpsWFMxcENDSV93X3dBdXRfa0hTYWdhTUNhdVh4cjNISk81dElVUHNNSDM2V3Zpbmh6WkJqSUxZQy0yWWNNRks3RC1jdGZzZWJIT0NjOWhfM0daZzE2dXhxaG1vME40VC1selZoc3hkRFhsRTJvOWgtQ2I5LWs4c3NEZkdZbzRFcUxqRGdLRmhPTjZMUE1pcDhCeEVsQU5qMDM0?oc=5",
+   "summary": "卡塔尔LNG运输船Al Mayeda在海湾水域遭袭—— 阿纳多卢通讯社    UA.NEWS",
+   "publisher": "UA.NEWS",
+   "published": "2026-11-01T02:27:00Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-08T00:22:23Z"
   },
   {
    "title": "Northern Water desalination plan near Whyalla could add $3.3 billion a year to SA’s economy",
