@@ -1,20 +1,20 @@
 {
- "fetched_at": "2026-11-08T00:22:23Z",
- "added_this_run": 14,
- "total_items": 768,
+ "fetched_at": "2026-11-09T00:42:16Z",
+ "added_this_run": 7,
+ "total_items": 775,
  "earliest": "2026-09-30",
  "errors": [],
  "per_source": {
   "gn-lng": {
-   "in_feed": 38,
+   "in_feed": 41,
    "new": 2
   },
   "gn-gas-policy": {
-   "in_feed": 9,
+   "in_feed": 8,
    "new": 1
   },
   "gn-decom": {
-   "in_feed": 8,
+   "in_feed": 6,
    "new": 0
   },
   "gn-wind": {
@@ -22,52 +22,52 @@
    "new": 1
   },
   "gn-wave": {
-   "in_feed": 8,
+   "in_feed": 9,
    "new": 0
   },
   "gn-ccs": {
-   "in_feed": 3,
+   "in_feed": 2,
    "new": 0
   },
   "gn-aqua": {
-   "in_feed": 24,
-   "new": 1
+   "in_feed": 23,
+   "new": 0
   },
   "gn-fish": {
-   "in_feed": 30,
+   "in_feed": 29,
    "new": 0
   },
   "gn-desal": {
-   "in_feed": 6,
+   "in_feed": 3,
    "new": 0
   },
   "gn-cable": {
-   "in_feed": 15,
+   "in_feed": 14,
    "new": 0
   },
   "gn-ports": {
    "in_feed": 12,
-   "new": 1
-  },
-  "gn-minerals": {
-   "in_feed": 3,
    "new": 0
   },
-  "gn-zh-energy": {
-   "in_feed": 20,
-   "new": 5
-  },
-  "gn-zh-wind": {
+  "gn-minerals": {
    "in_feed": 2,
    "new": 0
   },
+  "gn-zh-energy": {
+   "in_feed": 21,
+   "new": 3
+  },
+  "gn-zh-wind": {
+   "in_feed": 3,
+   "new": 0
+  },
   "gn-zh-fish": {
-   "in_feed": 16,
-   "new": 2
+   "in_feed": 14,
+   "new": 0
   },
   "gn-zh-other": {
    "in_feed": 1,
-   "new": 1
+   "new": 0
   },
   "offshore-energy": {
    "in_feed": 50,
@@ -83,12 +83,92 @@
   }
  },
  "by_month": {
-  "2026-11": 170,
+  "2026-11": 177,
   "2026-10": 597,
   "2026-09": 1
  },
  "note": "Append-only archive. meta.news_days_to_keep controls the site's default window, not storage.",
  "items": [
+  {
+   "title": "Shell's Australian Exit and Greek LNG Pact Take Shape Against a Firmer Crude Backdrop - ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQd3RBajhYa2pYSU85Sm9BVDdPOC00MDl6bE9KZjlfa0lvdmZPYlh6NzlIUVpnaEU3UHpxQ3lKM2poWHN1bnZlUmJ6NVYwZmFHQUNhZ1lIOGZMX1A2QUpaaWJvcHZURjFVNWVuZ1FlLUVrZ2w5NldsbzAxdmo5XzAyelg2VTlzWlQ4RU10VFBGWVB1SFBnQjNZN2UzSEpmWGVqcWplejJVMzVtVWdHbUxmM2pZVnV5bWp3UGpMVmRPZzI0MWVkaUt1MXo2RUJNODJEWDVjTjZKLVJXZVBTSUhSd2xlSXhiV1JZbG1YLVpR?oc=5",
+   "summary": "Shell's Australian Exit and Greek LNG Pact Take Shape Against a Firmer Crude Backdrop    ad-hoc-news.de",
+   "publisher": "ad-hoc-news.de",
+   "published": "2026-11-08T17:52:28Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Shell Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-09T00:42:16Z"
+  },
+  {
+   "title": "Gorman backs gas reservation vote as State pressure fires up",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQLVZleTdXS1d6Sm1pbllSd2l3WTBwS2VyUHI0REU3NlZycUVSRVMxSUZFeUpCVHF5UWRQU3B6LUZUYTUyc3dQNjNKMWxEZXROZFZUQWVDUmN2T19UbERNTC13RmEycnJWejZCTGFucW54RHEzU1ZtUHNqa1JUUFRiT0tLSjVoMlRHeXlqWW83YXR4dUFSTFVCcGFZUmRJVTlxX3Y3Mms3eWFUd2RNbjNtVW14MUxHUW50NmpCaDYzLWxqVk1fc1pFdF9mQ3pyY1FLWlM5YlNnUG1lSGkwUVBZclhOM1J4ZlNIVXBWSDFFeGlFdw?oc=5",
+   "summary": "Gorman backs gas reservation vote as State pressure fires up    The West Australian",
+   "publisher": "The West Australian",
+   "published": "2026-11-08T09:40:00Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-09T00:42:16Z"
+  },
+  {
+   "title": "Shell Offloads Australian Shelf Stake for $1.45 Billion as Buyback and LNG Deals Roll On - ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMjVlU3o1Wm5QaVRfV25SX2dwRjVGSDRRV1RlVEhTX0MyZmttdnpEU1RTVUNpQzh1QTUwVWMwcXhHMzZGbXF5RXF6X0NOMzRrNktVc21yZ1NMcnJ3WGJwOE1kVGRpY3VjN3RXQVRNMVVvSGFEYlVrNkxpVzZNWXNmMmJGRm9LSjQxenk2dm1CU0dtYll3MEV3U0FLU2hwaV9aSmpoMWt0MlhnLXNHcWNxd1dGWVNiajBscTZSNXBtUHF2TFJEd2dNZkJ4Ykk3S1dnSEZkTF8yTDRpZ1hKYkVod3ZqQl8xWFZjdjJVOWFnNlY?oc=5",
+   "summary": "Shell Offloads Australian Shelf Stake for $1.45 Billion as Buyback and LNG Deals Roll On    ad-hoc-news.de",
+   "publisher": "ad-hoc-news.de",
+   "published": "2026-11-08T05:02:33Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Shell Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-09T00:42:16Z"
+  },
+  {
+   "title": "星展银行维持Cheniere Energy(LNG.US)买入评级，上调目标价至338美元",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQWpiUDZDOG5OdWV0SnlQM3k1a01tSEh6ZTRBVjlKaU9QNFY1NFMwV2lHMEdtRnptWDdtbFJzWGN2R3RoSjVIbXJQMHY1Z3ZlOFJkYTc4NEFWcXhjLW1YYlVDeC1ZaHBzcEpqQXQ1U2hvTVFwZmZDeVQtYUxTbWVLVlBFQWJsXzFieHpRemJ3cDFlNVRydjNSc09mZng0MjhtajJIT1V1UUVJa0Zrenh6VlF1Sjg?oc=5",
+   "summary": "星展银行维持Cheniere Energy(LNG.US)买入评级，上调目标价至338美元    Moomoo",
+   "publisher": "Moomoo",
+   "published": "2026-11-07T08:59:43Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-09T00:42:16Z"
+  },
   {
    "title": "Woodside signs about 3.5 Mtpa of LNG supply deals to Europe",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vMHJKeFNLNzlCVGcxa3IzNl9ESG54b3cyOU5LLWU2ZFdVMkhBZFd6b0FSLVRyRlZEX2poOG9OSlpEN05jbXE2T1ctLVV3S2tw?oc=5",
@@ -212,6 +292,25 @@
    "first_seen": "2026-11-08T00:22:23Z"
   },
   {
+   "title": "Finland designates 4 offshore wind areas, first tender seen in H1 2027",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVVgzRFRNZGFnTHktT3gyVW5VSi1LYnVqZ1l4NzAyelFyX2F4ZTB5TGY3ZWpfajlfWVJ6VVdlSW1NYWlUNmRoQWF1RGJXUTRwU1dSZ3ZZeEVyUXc2azJVX1hLZjhzc1pBckhxN3k4a0ZsTXl3Tnc5bHB3UUVYWmpCOXdlT1ZkUm9Lcmw4N0V4eHV4cXc0YkJnakhiaWlDVWFGTHlESHZibnFnel95RlE?oc=5",
+   "summary": "Finland designates 4 offshore wind areas, first tender seen in H1 2027    Renewables Now",
+   "publisher": "Renewables Now",
+   "published": "2026-11-06T16:54:08Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-09T00:42:16Z"
+  },
+  {
    "title": "Woodside secures LNG deals with QatarEnergy, Petronas, Uniper and others over two years",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5HMGJQdl85NXZXOFl2SHR1dHZBck85M3VvTFJ0MHdBTWJDS2R6SHhUMTA5ZFpLZWNMWkF1RUhDTElROGo1dG1pWjdIY1diSUZm?oc=5",
    "summary": "Woodside secures LNG deals with QatarEnergy, Petronas, Uniper and others over two years    Trend News Agency",
@@ -290,6 +389,25 @@
    ],
    "projects": [],
    "first_seen": "2026-11-08T00:22:23Z"
+  },
+  {
+   "title": "三菱商事将DT LNG Canada Partnership列为指定子公司",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbk9wdlhrU1BYcUJWbTk3VjVQcWkwYURISEJ2djhUV3hkalkwT3lQaHFlMnJrZW9DTTdEZERYMmZlLXRqa3JZRGFYTjllcGQtVXc4bzR4ZjVPcFRqM2p2ZVR3Vkt2STN2ampNNUkyVlBuWTZkMjVKRUtxdTlvNkxDVnhZd2NHRUQ0amEtUVBNR2JCLXNjVThTdFF0SWdZMlhxWVVuejFRTEwxNld4WG0zd3V1N2E?oc=5",
+   "summary": "三菱商事将DT LNG Canada Partnership列为指定子公司    Moomoo",
+   "publisher": "Moomoo",
+   "published": "2026-11-06T08:00:00Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-09T00:42:16Z"
   },
   {
    "title": "瑞银将伍德赛德能源的目标价调整至32.30澳元",
@@ -442,6 +560,25 @@
    ],
    "projects": [],
    "first_seen": "2026-11-06T01:28:06Z"
+  },
+  {
+   "title": "中国石化广东湛江铁芦加油站增设LNG加气设备项目备案复核通过",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02cmxNdWhxeU1hNk95N3doT0U0MU1ub3AySDdxWV9sZjhRS050ZlRpbkRvVkRqbGRlTXhHZWJ5SFY4cWZJUFY3Q1hlSzZCdFNnZkczQm9lbW52ejlE?oc=5",
+   "summary": "中国石化广东湛江铁芦加油站增设LNG加气设备项目备案复核通过    Moomoo",
+   "publisher": "Moomoo",
+   "published": "2026-11-05T14:03:50Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-09T00:42:16Z"
   },
   {
    "title": "Woodside targets over 30% sales growth to 280 MMboe by 2032",
