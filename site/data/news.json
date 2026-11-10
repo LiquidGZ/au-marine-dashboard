@@ -1,7 +1,7 @@
 {
- "fetched_at": "2026-11-09T00:42:16Z",
- "added_this_run": 7,
- "total_items": 775,
+ "fetched_at": "2026-11-10T03:23:08Z",
+ "added_this_run": 23,
+ "total_items": 798,
  "earliest": "2026-09-30",
  "errors": [],
  "per_source": {
@@ -10,64 +10,64 @@
    "new": 2
   },
   "gn-gas-policy": {
-   "in_feed": 8,
-   "new": 1
+   "in_feed": 10,
+   "new": 2
   },
   "gn-decom": {
    "in_feed": 6,
-   "new": 0
+   "new": 1
   },
   "gn-wind": {
-   "in_feed": 30,
+   "in_feed": 28,
    "new": 1
   },
   "gn-wave": {
-   "in_feed": 9,
-   "new": 0
+   "in_feed": 10,
+   "new": 2
   },
   "gn-ccs": {
    "in_feed": 2,
    "new": 0
   },
   "gn-aqua": {
-   "in_feed": 23,
-   "new": 0
+   "in_feed": 24,
+   "new": 3
   },
   "gn-fish": {
-   "in_feed": 29,
+   "in_feed": 31,
    "new": 0
   },
   "gn-desal": {
-   "in_feed": 3,
-   "new": 0
+   "in_feed": 6,
+   "new": 2
   },
   "gn-cable": {
-   "in_feed": 14,
-   "new": 0
+   "in_feed": 17,
+   "new": 3
   },
   "gn-ports": {
-   "in_feed": 12,
-   "new": 0
+   "in_feed": 17,
+   "new": 1
   },
   "gn-minerals": {
-   "in_feed": 2,
+   "in_feed": 1,
    "new": 0
   },
   "gn-zh-energy": {
-   "in_feed": 21,
-   "new": 3
+   "in_feed": 24,
+   "new": 5
   },
   "gn-zh-wind": {
-   "in_feed": 3,
+   "in_feed": 2,
    "new": 0
   },
   "gn-zh-fish": {
-   "in_feed": 14,
+   "in_feed": 15,
    "new": 0
   },
   "gn-zh-other": {
-   "in_feed": 1,
-   "new": 0
+   "in_feed": 2,
+   "new": 1
   },
   "offshore-energy": {
    "in_feed": 50,
@@ -83,12 +83,289 @@
   }
  },
  "by_month": {
-  "2026-11": 177,
+  "2026-11": 200,
   "2026-10": 597,
   "2026-09": 1
  },
  "note": "Append-only archive. meta.news_days_to_keep controls the site's default window, not storage.",
  "items": [
+  {
+   "title": "How Marinus Link has built trust with the Gippsland community",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOXzJCNGNwMzhhSDdpN2dPMHk5eXBqV0xQcXNOVGxaTTlZT1hZT09wOTh5Qk5nYklsbTJFNGRKME02Q1ZONkNBVEg2bTdQLWZ1YWV0cnRmQnRLM0NuYmt1NGdXeEhaWHltaXlncTQ2UnVCQU00WjFMSzM2aDM3NGU0cE14cENScGc4QnRKbVhIWFFNeUNvYjcya05yNV8?oc=5",
+   "summary": "How Marinus Link has built trust with the Gippsland community    Energy Magazine",
+   "publisher": "Energy Magazine",
+   "published": "2026-11-10T00:28:16Z",
+   "source_id": "gn-cable",
+   "language": "en",
+   "operators": [
+    "Marinus Link Pty Ltd"
+   ],
+   "states": [
+    "TAS",
+    "VIC"
+   ],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Subsea cables & interconnectors"
+   ],
+   "projects": [
+    "OTH-029"
+   ],
+   "first_seen": "2026-11-10T03:23:08Z"
+  },
+  {
+   "title": "SunCable largely finalises subsea cable route, targets electricity supply from Australia to Singapore around 2035",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPLXhYZ1dfTUxjb3c4Wk5mMmZQNklQOF9hRFJidzg0c3BZenFobmh1VXVrcm8tdUtTTG5vUHJKUW9UbGg1N3RaMmNnZ21ES2VfRzZCWHJlZjJsS0k4Q0lLMElSdExkTjlZeHAwYmV6T3d2UFYyYVFPYmtUWEFHQV9VVDJSTHdYbU5CR0IwTXhuYm9QLVNJbFpmVTd4MGh3NHh2WDBvVTFyeWlCQ1dEZFNHdW5PZXU4Unpudm9ZaWRFVTRGVkh3YlRlLUF4b1Etc2JlcS0yRFo5dHBVWWM?oc=5",
+   "summary": "SunCable largely finalises subsea cable route, targets electricity supply from Australia to Singapore around 2035    联合早报",
+   "publisher": "联合早报",
+   "published": "2026-11-09T23:46:51Z",
+   "source_id": "gn-cable",
+   "language": "en",
+   "operators": [
+    "SunCable"
+   ],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Subsea cables & interconnectors"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-10T03:23:08Z"
+  },
+  {
+   "title": "Tension flares over possible gas reservation carve-out",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONjc4cnl0aXFiUGFZMmdyVTVReGRuZ05mRVRRX1pSRjBvWTlDMWhXa3ZKU0FrYkNtZGplZGMtNjZJb1FTQ0JVZ2tZRkRXaWlsdHhTNmFFV3JKT1JRN1FvQ0tQZUY4VmF0RlBDQkRhN1RaLVV3NExFV0VhUUNVREZUSE83VWk?oc=5",
+   "summary": "Tension flares over possible gas reservation carve-out    Energy Source & Distribution",
+   "publisher": "Energy Source & Distribution",
+   "published": "2026-11-09T22:51:34Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-10T03:23:08Z"
+  },
+  {
+   "title": "DNA testing reveals new fish species records in Australia and Japan",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQODhZcVBUeEQ4Um90VURpRFJRQWxGZG1LTHZmVDhVTThpMW5jUnhrWnJEXzZtbjhoQ08zNFFOcVZtWHU3T0JybDJISFVxV2VrdllGTGQtVU5ObzlVMWFoa2F1eWJWd0g4elR1WW5RYmkzT1dwMmRKa0M5bG1GUmpsc0g5R0UyRFVlQnVId1pIc3IyUFhOdUhzSWlrOUNYa0Zfb2JNMFpBNGo3d0k?oc=5",
+   "summary": "DNA testing reveals new fish species records in Australia and Japan    Global Seafood Alliance",
+   "publisher": "Global Seafood Alliance",
+   "published": "2026-11-09T22:22:30Z",
+   "source_id": "gn-aqua",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-11-10T03:23:08Z"
+  },
+  {
+   "title": "WA government accused of Port Hedland ‘cover up of the highest level’",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQeUdlcXdva0xEZWw3b19FcWdxb2dZQmZSdmM3NDB3THBCQ3Q1LWl0WkV5Vld3UHdld2xsN1FORklfcm9mTTVXTlZBMDJ5UDBlZEtqamFIcnZtLTYwT29kRnZzYlp0aVZwOEpfQlVLYjRVcWd0YzFDamhwN2J4Q2FITlJWTVNfVUI2V0dDNzl6cDhPZDA2aWtReFB2a1MxQUlIc1o0TmlfcDZaQWNiQXJuaW5rTmFIVVJlM1R5SGVpQXNldGNDeWFDa2hJN3NSRUtXM1l3eFRVcU1tOWtoWnV5NktmRmZwYzNsSHVEaDR0QXJtUQ?oc=5",
+   "summary": "WA government accused of Port Hedland ‘cover up of the highest level’    The Australian",
+   "publisher": "The Australian",
+   "published": "2026-11-09T11:57:22Z",
+   "source_id": "gn-ports",
+   "language": "en",
+   "operators": [
+    "Australian Government (DISR)"
+   ],
+   "states": [
+    "WA"
+   ],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Ports & LNG terminals"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-10T03:23:08Z"
+  },
+  {
+   "title": "Weekly Recap: Q3 revenue plunge and desalination, wastewater declines",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUkxXNVQzTURmMlo1WHFQN2g0TS1FYnNiRDhYX1djTWd3aVNQd0hLTThVUzhJRHZEOGRnWEU4NXZYMlNBVFdVaVRCT05fS0dNVHI1eF9ab1BWR01WR2k1VzJZcjhMOGEwQV90SVlvM3l5djlUOVdzWTdyNmNzdW0zQXJpX3VMc3ZSMmtSSEVWX1JoS3hXbnRRYXVvMHpKM0gwU0VhWVJkbkVpRFM4U1c2REVwTmFTWmVzRGFndW5OVXNrTnJ0eDVLaA?oc=5",
+   "summary": "Weekly Recap: Q3 revenue plunge and desalination, wastewater declines    TradingView",
+   "publisher": "TradingView",
+   "published": "2026-11-09T11:00:00Z",
+   "source_id": "gn-desal",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Desalination"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-10T03:23:08Z"
+  },
+  {
+   "title": "AKVA debuts new net pen collar for sites weathering the most extreme conditions",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM0pEUXUtVUpBN1RSWGNUQVRwTmlud0ZqWFBZb21HNGQ2MWZiT0lNTmtRXy14aUdub2p2dUxaZTlhQzAwV3VUMFA5eVZfSE1wTkR5SmtuWHdmQmYyb0tTbVZkSWZLTk9LQWF5cnZDcXZZbVJmcU5uS3dCMUV3VnNQRERuNlEyWlVfZ0l5b2JjaWd4WkF1aG5IbTdDcFZvSU8xTGVLRUYtakQxbnNqYVFHdDJkS3c?oc=5",
+   "summary": "AKVA debuts new net pen collar for sites weathering the most extreme conditions    SeafoodSource",
+   "publisher": "SeafoodSource",
+   "published": "2026-11-09T10:45:00Z",
+   "source_id": "gn-aqua",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-11-10T03:23:08Z"
+  },
+  {
+   "title": "SunCable海底电缆路线大致敲定 约2035年可从澳洲输电至新加坡",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50X1dlaEJya0dwMm1jcGdKZHlYVmUzaHUxR3NDeGFPTXZtTnltOFJiSDVZUFo2Um5maC1MZnBCSUc5QnRCXzdwZHhHOXl4RjVLQVNIVkdXYkRFb1hVNVZfY25jTGcwRHREQUdQNzY3TQ?oc=5",
+   "summary": "SunCable海底电缆路线大致敲定 约2035年可从澳洲输电至新加坡    联合早报",
+   "publisher": "联合早报",
+   "published": "2026-11-09T09:34:03Z",
+   "source_id": "gn-zh-other",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Subsea cables & interconnectors"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-10T03:23:08Z"
+  },
+  {
+   "title": "Cook calls for WA carve-out from national gas reservation",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMnlNa1gzS1VCZkxJTHBfY0xpQjFibG96c3ZFRDZQX2tTRDdwTXc3a3lHcU9QYzZNR1cxRzRueE42NDRja3FLcFRCTXhvaEZKZTB3Sk9sRExPTFQ2ZzBUM0JSeUJ4dDItZlBHV0RmSk11c0liTHJZb3lBcXJTVEwteGpXd2RGTzlmVlM4dFZ2aE9LLTRsWnBLVlVpQi1acXNHd0VhYzJ4Y2dJRGh6?oc=5",
+   "summary": "Cook calls for WA carve-out from national gas reservation    Energy News Bulletin",
+   "publisher": "Energy News Bulletin",
+   "published": "2026-11-09T08:21:31Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-10T03:23:08Z"
+  },
+  {
+   "title": "E-Gas系统：11月2日-11月8日当周中国LNG进口量约103万吨",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFByTERWZ3luSG1hOGdlZHhLUndkNzBkV2IxVUM5c2xUdGxNYkJFOWVtaFc1WWV0b2dJUWJVVkc0bHlWcldLLUVUR3dBd05XMlRjUnNMWWdFZWk3bThEaDZMdWNZcWJYTzVNU1UwYUllZ3VPUQ?oc=5",
+   "summary": "E-Gas系统：11月2日-11月8日当周中国LNG进口量约103万吨    中国金融信息网",
+   "publisher": "中国金融信息网",
+   "published": "2026-11-09T06:46:00Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-10T03:23:08Z"
+  },
+  {
+   "title": "Carnegie Clean Energy Discloses Six Technical Objectives for 80 kW ACHIEVE Wave Energy Demonstrator",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWGI5LVBpXzBfZWNMRGJMWU9JUlN3UU1FaWo1VGxUTGRMS1llci1wcndBY1UzQ1hTNEw2RFpWY2ZpbDNvMjRfa013VXRERnRSdWxLa2hWUVA0ZWdvZVR6bWdfdG5ydHdhVnJyTVpFTkhmdEFGUG1NVE1GMGRua1JmRUpGVzczR3AzNC1sR0RheTlzZldoX3pNRnI3YUpFeENHWnRRa2VRakJmUHViNVY3c19ic1h4TThfY3BnbjZNN3JDU2czX19DU0xJNEZEU2VDQkQ0ZldjYjM?oc=5",
+   "summary": "Carnegie Clean Energy Discloses Six Technical Objectives for 80 kW ACHIEVE Wave Energy Demonstrator    Kalkine",
+   "publisher": "Kalkine",
+   "published": "2026-11-09T04:33:07Z",
+   "source_id": "gn-wave",
+   "language": "en",
+   "operators": [
+    "Carnegie Clean Energy"
+   ],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Wave & tidal"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-10T03:23:08Z"
+  },
+  {
+   "title": "Offshore Decommissioning APAC Summit 2027",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT3hoLS1GUFBqakg0S1loeV9WQ2pnZmdsRmp2bnVpM0tyS1BIaENyaGZ2SG1KQUFYc0l4bGd4cEh3ZEM1bDlTNk9zVHU3TE5zQUtUQlJTaVJXa2ptMF9ScDBNUDRrQkx5b3ZMV1F5M1U5aV9yejF5clNVQTJqLUVWdVFkWnpDUDdJZjdJ?oc=5",
+   "summary": "Offshore Decommissioning APAC Summit 2027    Petroleum Australia",
+   "publisher": "Petroleum Australia",
+   "published": "2026-11-09T02:27:29Z",
+   "source_id": "gn-decom",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-11-10T03:23:08Z"
+  },
+  {
+   "title": "Submarine Cables, Digital Trade And Connectivity To Enhance Cross Border Trade At The Regional And Global Levels - Analysis",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPM195OTFNUUhLcG5tWFh4ZU42VG83c21qQzVVNmJ3bGRhQ1A2aFQwWTdWVW9WekI5WWp2MkRuTG1LV1poZWtUWUkxU2xpOEJ2dFNYS21HX3IxNXpYMC1XV2tfUUpENFFoVmpQWHN0UjBNdWRaR25MUUVaSWJfVTV3dUJqcmR5eUlFUDhQajZoNTN3Zmd3LUJwRzl5REdXYWVuekZZOEpVcDJ5NkhkVUlnSlRRWFJ6UUQ4T0dBNkJwTDJRaGtSaEVJT0FsWjJhTUtvcGVaMjVKTm5leEhReFBmaWxLYlp0U3hQQWEzUk5LbXd5dw?oc=5",
+   "summary": "Submarine Cables, Digital Trade And Connectivity To Enhance Cross Border Trade At The Regional And Global Levels - Analysis    Eurasia Review",
+   "publisher": "Eurasia Review",
+   "published": "2026-11-09T01:39:26Z",
+   "source_id": "gn-cable",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Subsea cables & interconnectors"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-10T03:23:08Z"
+  },
+  {
+   "title": "Adnoc seals first overseas LNG sale, Dewa to expand Hassyan desalination plant, and ECB eyes Kuwait link",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONEdZRjVTMElUSWJzX3gxQ1MzZGF6TTQxY2llZ01naTVYWlFhdEZ5VmpFRHc4VFFyVmRTZ0lzVHlHLXhZR0JYUFRhZEl3RVhEVUJ3a0wwWTJFS3pFRUZjNVJ2SVV5b3dsdVh6Q3M4QlExV1lkN3plV1dtQWdBWWowV01IR1doNmhPMEFCa1NkUmticU5pTWNUdzA3S0VjMUVIX2hmOGx4WGtRTTNzV3RYZjhWZzhLRUR1VWJrMElVMVZYTEpLcW8wU1p5aFI0a0lPMGJ5MjNWbnpsNVk?oc=5",
+   "summary": "Adnoc seals first overseas LNG sale, Dewa to expand Hassyan desalination plant, and ECB eyes Kuwait link    EnterpriseAM",
+   "publisher": "EnterpriseAM",
+   "published": "2026-11-08T22:00:00Z",
+   "source_id": "gn-desal",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil",
+    "other"
+   ],
+   "subcategories": [
+    "LNG",
+    "Desalination"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-10T03:23:08Z"
+  },
   {
    "title": "Shell's Australian Exit and Greek LNG Pact Take Shape Against a Firmer Crude Backdrop - ad-hoc-news.de",
    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQd3RBajhYa2pYSU85Sm9BVDdPOC00MDl6bE9KZjlfa0lvdmZPYlh6NzlIUVpnaEU3UHpxQ3lKM2poWHN1bnZlUmJ6NVYwZmFHQUNhZ1lIOGZMX1A2QUpaaWJvcHZURjFVNWVuZ1FlLUVrZ2w5NldsbzAxdmo5XzAyelg2VTlzWlQ4RU10VFBGWVB1SFBnQjNZN2UzSEpmWGVqcWplejJVMzVtVWdHbUxmM2pZVnV5bWp3UGpMVmRPZzI0MWVkaUt1MXo2RUJNODJEWDVjTjZKLVJXZVBTSUhSd2xlSXhiV1JZbG1YLVpR?oc=5",
@@ -410,6 +687,48 @@
    "first_seen": "2026-11-09T00:42:16Z"
   },
   {
+   "title": "Carnegie Clean Energy (ASX:CCE) - Stock Analysis",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM2lUelY3Vlhnd1dPLUdGMjFwLXJ2bnRBNm1nM0p0RlFhbTNvNUxNeUQ2V1hyQy1rQnJYUFhDVkNPcG01RklpVGlGcmtqTExJMmM2NFplZU8xaE41em5FRlZScjBOc2dLa1FpWUtKSnpGcjcxZzdUb282SkVCYWlUQUkwMnU?oc=5",
+   "summary": "Carnegie Clean Energy (ASX:CCE) - Stock Analysis    Simply Wall St",
+   "publisher": "Simply Wall St",
+   "published": "2026-11-06T08:00:00Z",
+   "source_id": "gn-wave",
+   "language": "en",
+   "operators": [
+    "Carnegie Clean Energy"
+   ],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Wave & tidal"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-10T03:23:08Z"
+  },
+  {
+   "title": "Huon Aquaculture is breaking ground on one of the largest private investments in the Huon Valley, with a $122 million expansion",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQR2dWSkZKSnY2b2Ixdk9jSExya0VVb1BKT1RwRDhqbkxuX0tCLTByYnNzUlVIcEcwVDRwSGU1R0l4LVN3NWlHUFZkUWoyZnZYWUgzUmlnOE5GT05odFNlUkNOMk1hbkpmR2JzVkVTVlZWbUdIaFBVZHZRUUVQOFZROGFRbzFCY1hCS2ViWmRjSXJ5ejVmUmdRNkNrQ0FId3diOWltMGgteTVaQVIwM3Ftay16Z05hQ2NCMmx6d1NWMUVmZGRRT0NJeXJqODVmQUhuSno2d3RHZEZVcUMyUFktNWt0eWR1Z095V0tZY0hlMGlNUQ?oc=5",
+   "summary": "Huon Aquaculture is breaking ground on one of the largest private investments in the Huon Valley, with a $122 million expansion    JBS Foods",
+   "publisher": "JBS Foods",
+   "published": "2026-11-06T08:00:00Z",
+   "source_id": "gn-aqua",
+   "language": "en",
+   "operators": [
+    "Huon Aquaculture (JBS)"
+   ],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Finfish aquaculture"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-10T03:23:08Z"
+  },
+  {
    "title": "瑞银将伍德赛德能源的目标价调整至32.30澳元",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUXN5NnU3YU1peFhnTUlabUtOZE4xZDJMOXpFVnRjSTVkVkh6MEI1N0pocFZJY0hXWlVKMThhcXc2VlVTTFR2SXd1N05OSjZrcVVqbEItelZwekhkaEhkZmQ3a0dHQ0FoRWkxUWtTVDhZRlpBX25CalN3NVlodl9JMEtIajJYVlFfQ2I0T2RkNWYxRHlGTkpjclJ4Z0x1cWtUUnc?oc=5",
    "summary": "瑞银将伍德赛德能源的目标价调整至32.30澳元    Moomoo",
@@ -425,6 +744,25 @@
    "subcategories": [],
    "projects": [],
    "first_seen": "2026-11-08T00:22:23Z"
+  },
+  {
+   "title": "Flex LNG将于11月11日盘前发布财报，一图速览分析师最新预测",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVzBITFFFa0VwRkxyM1lFbGxwa2pmZlVqd0VJbXQtX2FRSm1yMjhsOXR2VE81bThlbnc0cmlFUUt2MDBnMFZoWDZQYXpLWVNsNnBpOEltd1U0RnM5UFI2bGsyeHhJNjR2dXJMb01GV1ZyTjdScFlzZkRERHI5RkdDVHJMalBCaEJ0R29ocXFKN1hoYjctY0RkbkV3WmVVcFpST3IwOGZBT2hrU25CRmF1cGF0NA?oc=5",
+   "summary": "Flex LNG将于11月11日盘前发布财报，一图速览分析师最新预测    Moomoo",
+   "publisher": "Moomoo",
+   "published": "2026-11-06T01:00:23Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-10T03:23:08Z"
   },
   {
    "title": "New Jersey Locals Launch Another Offshore Wind Legal Fight",
@@ -598,6 +936,25 @@
    "subcategories": [],
    "projects": [],
    "first_seen": "2026-11-06T01:28:06Z"
+  },
+  {
+   "title": "UK offshore wind software firm Kinewell secures funds for growth",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVEpwSmtGcnJBdG1RSllGUlItbENBZFN3QzhGeHdRdGc0SVY0b1ZJY2lWMGc4ZnRaOGc5eHpXcUVaWHFWS1lZWnRHMnJ1M2JfRWRKYXUzamtVQ0JieEJWOUx5bGI0b2tSMGt4YXItOVVDVkw0Y3I4Q25TU19IOURpaElNc1dxRUtEUDc3QkxaaE5sWmtlSUs1NUxSdDFxclprd0M5WWw4UQ?oc=5",
+   "summary": "UK offshore wind software firm Kinewell secures funds for growth    Renewables Now",
+   "publisher": "Renewables Now",
+   "published": "2026-11-05T11:56:50Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-10T03:23:08Z"
   },
   {
    "title": "Shell Accused of Putting LNG Exports First — But Is Santos Throwing Stones from a Very Expensive Glasshouse?",
@@ -855,6 +1212,25 @@
    ],
    "projects": [],
    "first_seen": "2026-11-06T01:28:06Z"
+  },
+  {
+   "title": "Woodside to axe 500 jobs, sparking fears for WA workers - ABC News & Headlines – Australian Broadcasting Corporation",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRThvaFRuS0xrUU1DcHFjU2VUdjFudHpiOVdFLVVKbUhlNzhrVmtyekV3Nnp4Y2NRS2QtLVR3Q1FUS05Wci1LVU5pZ2l1V1ZmTGszYVBrQm9SQ3c3NDdFbnpQYm53X0NPTnlNdXVVSDVLS25sUkhmdVJsTWNEMVBmNGVEYjZ3eEszazR6UC1iQnJIQkJKdjNF?oc=5",
+   "summary": "Woodside to axe 500 jobs, sparking fears for WA workers    ABC News & Headlines – Australian Broadcasting Corporation",
+   "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "published": "2026-11-05T03:53:31Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-11-10T03:23:08Z"
   },
   {
    "title": "ZAWYA: ADNOC's XRG to acquire Shell's Australian LNG stake for $1.45bln",
@@ -1275,6 +1651,29 @@
    "first_seen": "2026-11-05T01:24:45Z"
   },
   {
+   "title": "Shell Australia signs deal for stake sale in North West Shelf project to ADNOC's XRG",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRVF5WVJWZVNSR2pnNjlLeGQ4ZDVFXzNnWHpmTnNfYXV5bkdfeXJkbnppSEJqWmplb1Y4WjZYUVpPbGxMUW9WTEZ3bW1iUk83cWNuZzUzWGlCbEhZTGdTcHl5SEJ1VF9XSWNkQzVDckpobmttamVBWFJfNjRuT3p2cHFxMUpjQ0tkVDNBOGpXZmptbVF0Sk0tRkhTbm01b1VndHVjNmpyYmJmX1BVNWMxZ3h0UldOMFFRa1VSZVB2Z2ZYWFowZVJ0SU9NMl9rV2xaaklPdW8wbVJBNDZ3cjBWWlJEaFhiVWZKY29F?oc=5",
+   "summary": "Shell Australia signs deal for stake sale in North West Shelf project to ADNOC's XRG    S&P Global",
+   "publisher": "S&P Global",
+   "published": "2026-11-04T10:09:44Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Shell Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [
+    "FOS-001"
+   ],
+   "first_seen": "2026-11-10T03:23:08Z"
+  },
+  {
    "title": "Finalised Star of the South EIS submitted to NEPA",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb3U1NEZEUEtob21jX2F6M2l3bVBPQU1na2VFb2hqN3FsUmRHVko5Q2I4UnFJMUNIb2NxR0hzNGlDVXA1djdYTTlSX2lDcGR2WnpaeUdKbU9QNVNrbE1xNlYyWGstNVdpdFdGOEp6eXYyUHA1cm55QVNfbTdsdkszbmJVQVdMM1BfdnRDYkl5RUR6NDhZaWIwMGp3M1RIQU1ZMnRSeDNha0R2LWdyQTVCcnF2NVc?oc=5",
    "summary": "Finalised Star of the South EIS submitted to NEPA    Energy News Bulletin",
@@ -1336,6 +1735,25 @@
    ],
    "projects": [],
    "first_seen": "2026-11-07T00:49:28Z"
+  },
+  {
+   "title": "中国江苏国信与道达尔能源签署90万吨LNG年供框架协议",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBKT05TVXhobDZndGlyZjhFQXFOS1N1SW9Xcmh4OVR6UEZtZWg3MzVwaEFJdF9LTkhLZ3hFdnYwRW1NQm1IdG45ZHNXcHUwNU5UUXJJTy1TSEM?oc=5",
+   "summary": "中国江苏国信与道达尔能源签署90万吨LNG年供框架协议    维度网",
+   "publisher": "维度网",
+   "published": "2026-11-04T07:40:00Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-10T03:23:08Z"
   },
   {
    "title": "卡塔尔将摇身一变成全球最大美国LNG买家，全球能源权力西移",
@@ -1773,6 +2191,25 @@
    ],
    "projects": [],
    "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "丰业银行维持Cheniere Energy(LNG.US)买入评级，上调目标价至327美元",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLXlGSWMyUjJWa2tPOFpYUlE4MTBRbXpIZlNQZm5lbURDTTh3ZjdaTEt3VDB6eWtvNVZ5ZThZVUNxYzQ3YVlYRWlPdHUySGI5czd0ZUxCYW5MYXBUbF9BbmxGWnNpYjc1YTh5eWk0MW80M1h5UjNPcE9fbzl1dmZ0UUhSanVsd2gtdXp3RHVhS1RoLVA2RXNSZnpXQkwxcXRjRmREX3Q0a21XYzFxZndoaDg5azdzdVp0UnpzdndB?oc=5",
+   "summary": "丰业银行维持Cheniere Energy(LNG.US)买入评级，上调目标价至327美元    Moomoo",
+   "publisher": "Moomoo",
+   "published": "2026-11-03T15:32:00Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-10T03:23:08Z"
   },
   {
    "title": "ADNOC's XRG To Buy Shell's Australian LNG Stake For $1.45B",
@@ -2472,6 +2909,25 @@
    ],
    "projects": [],
    "first_seen": "2026-11-04T01:12:06Z"
+  },
+  {
+   "title": "IEA：欧盟天然气库存创2013年低位 或持续推高LNG采购需求",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GUEJSc3h2ZEczS2VWMm9KdVU5bUxOLW9Sb1UyTmhBbk9ETVR0a0lMV0FtMWZXSF9oNGt5TGVRc2pzQmFTcXJrMXdhSTVvcjdDRW1OU01xNGpMdGlW?oc=5",
+   "summary": "IEA：欧盟天然气库存创2013年低位 或持续推高LNG采购需求    Moomoo",
+   "publisher": "Moomoo",
+   "published": "2026-11-03T09:00:42Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-10T03:23:08Z"
   },
   {
    "title": "Shell to Exit Australia's North West Shelf Project in $1.45B Deal with XRG",
