@@ -1,72 +1,72 @@
 {
- "fetched_at": "2026-11-10T03:23:08Z",
- "added_this_run": 23,
- "total_items": 798,
+ "fetched_at": "2026-11-11T01:10:48Z",
+ "added_this_run": 25,
+ "total_items": 823,
  "earliest": "2026-09-30",
  "errors": [],
  "per_source": {
   "gn-lng": {
-   "in_feed": 41,
-   "new": 2
+   "in_feed": 28,
+   "new": 7
   },
   "gn-gas-policy": {
-   "in_feed": 10,
-   "new": 2
+   "in_feed": 11,
+   "new": 3
   },
   "gn-decom": {
-   "in_feed": 6,
-   "new": 1
+   "in_feed": 5,
+   "new": 0
   },
   "gn-wind": {
-   "in_feed": 28,
-   "new": 1
+   "in_feed": 27,
+   "new": 6
   },
   "gn-wave": {
-   "in_feed": 10,
-   "new": 2
+   "in_feed": 6,
+   "new": 1
   },
   "gn-ccs": {
    "in_feed": 2,
    "new": 0
   },
   "gn-aqua": {
-   "in_feed": 24,
-   "new": 3
+   "in_feed": 25,
+   "new": 1
   },
   "gn-fish": {
    "in_feed": 31,
-   "new": 0
+   "new": 1
   },
   "gn-desal": {
-   "in_feed": 6,
-   "new": 2
+   "in_feed": 3,
+   "new": 0
   },
   "gn-cable": {
-   "in_feed": 17,
-   "new": 3
+   "in_feed": 15,
+   "new": 1
   },
   "gn-ports": {
-   "in_feed": 17,
-   "new": 1
+   "in_feed": 16,
+   "new": 2
   },
   "gn-minerals": {
    "in_feed": 1,
    "new": 0
   },
   "gn-zh-energy": {
-   "in_feed": 24,
-   "new": 5
+   "in_feed": 22,
+   "new": 2
   },
   "gn-zh-wind": {
-   "in_feed": 2,
+   "in_feed": 1,
    "new": 0
   },
   "gn-zh-fish": {
-   "in_feed": 15,
+   "in_feed": 16,
    "new": 0
   },
   "gn-zh-other": {
-   "in_feed": 2,
+   "in_feed": 3,
    "new": 1
   },
   "offshore-energy": {
@@ -83,12 +83,252 @@
   }
  },
  "by_month": {
-  "2026-11": 200,
+  "2026-11": 225,
   "2026-10": 597,
   "2026-09": 1
  },
  "note": "Append-only archive. meta.news_days_to_keep controls the site's default window, not storage.",
  "items": [
+  {
+   "title": "Pearl farm takes gold at state tourism awards",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV0hoMlNabTJXOG8xcWlsTG0zVkIwZDZPNXVFTDN1V3ZDMzV1S0x0c3oxd2JFeUZfTy00QUhoenc1cFNjN2xnUWY1cGF5QjJuY2pzeGRMMmtVSnVVZ1BlUUFHRGhnY2JTbF9CSHRxMkNBd1dOWG81Y2Y5TFNMd25BOXAza2VWeGY1YTEwS0d6SDdXU1p5RDN0U2EyYUQ3V1JwZVdKUk5BYllmdFE?oc=5",
+   "summary": "Pearl farm takes gold at state tourism awards    Central Coast Community News",
+   "publisher": "Central Coast Community News",
+   "published": "2026-11-10T20:09:08Z",
+   "source_id": "gn-aqua",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Shellfish & pearl aquaculture"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-11T01:10:48Z"
+  },
+  {
+   "title": "EU greenlights €2bn in state aid for Belgian offshore wind",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT1VCekNnSEkwWXpvRW5CbVd5bkwwQVlwSFlKYXdjMEROOFVvT1pZRnFITEN6bkVFdVJ0S1lTRUR0NmlId3lWNTBhTXpHZThqNko5WVJtWXVsT1BJR2F4dE1CV0wwLXFPR09BaTM4MzJFLUJqdFJJYkplaVVWa0s1T2dlUWZXTU13SGlqLTFGQS1iazdRdGVwVmRLN1F1REhFdm9HTXlla0lvY0VCODltNDl3?oc=5",
+   "summary": "EU greenlights €2bn in state aid for Belgian offshore wind    Recharge News",
+   "publisher": "Recharge News",
+   "published": "2026-11-10T14:19:04Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-11T01:10:48Z"
+  },
+  {
+   "title": "Centurion Breaks Ground on 302-Room Port Hedland Hotel",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUTdjQmcxUnlVMzFiYlg1dXQxT3otYkwtVnRxNHc5cWQta3g5dHdjYUlwU1JsUUlIU215QmxDRjllbk5qUDBMZTlBLTNUNFFGcnJJanBaWGxOYjEzN3NZT1NzaDJBZDNpZnFjNEVzWkRjaXVyZ05WeFpjcm90QlRuVGJYRlBOVHo4LVVUaGktOXQydUliQmZWYXZjamJPcWNobUxfUzNTSmFRUQ?oc=5",
+   "summary": "Centurion Breaks Ground on 302-Room Port Hedland Hotel    TipRanks",
+   "publisher": "TipRanks",
+   "published": "2026-11-10T11:50:22Z",
+   "source_id": "gn-ports",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "WA"
+   ],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Ports & LNG terminals"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-11T01:10:48Z"
+  },
+  {
+   "title": "Woodside sees European LNG demand rising by 39 Mtpa by 2040",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE53Ry02T1JmbDdta3FMNDZueU1FdFExYlRFekN6NEFiRUJVLWF0WS1FSzZDVlhxWVN0b3p2dnlJcDdqNmM3Uk1pejdhY1Ruem9j?oc=5",
+   "summary": "Woodside sees European LNG demand rising by 39 Mtpa by 2040    Trend News Agency",
+   "publisher": "Trend News Agency",
+   "published": "2026-11-10T10:43:00Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-11T01:10:48Z"
+  },
+  {
+   "title": "Opinion: Why materials control will matter as Norway scales offshore wind",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9IRThOdXhUbVJ5SmJlX2JPRlp1b2EzR1ExNUVDRms5RzZOSnBhMktxNzBOdVduM0FoTUFtRXFpem1uRXNVdmUyR2c4NE5rN29KMW40RFhURlItMFlIT1RXN3ZPSG1MNWhFVjAwTlF4NGp0VVlYcVkzNWlrMA?oc=5",
+   "summary": "Opinion: Why materials control will matter as Norway scales offshore wind    EnergyWatch",
+   "publisher": "EnergyWatch",
+   "published": "2026-11-10T09:20:00Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-11T01:10:48Z"
+  },
+  {
+   "title": "Wave Energy Market to Reach USD 240.10 Million by 2033, Expanding",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRFg0SHlVRmdscmJGaWxKSGw2VkRKQzRWWjFubTNteUU0emhuVUlOaFFSMFV4R2FlUnJJNWVNR1hZZ1B6ZTlqNGJjRmFSR19yZnhrQWoyVmV0UUVZZkNyTERPNC1iRHYzMnkzdy00cHllcFgwU19SeDNQbExYWnJmdXhPSFlaUm1LaW9FMWd0WktGbGRUNGlKQjdvN3o3WUlFdUE?oc=5",
+   "summary": "Wave Energy Market to Reach USD 240.10 Million by 2033, Expanding    openPR.com",
+   "publisher": "openPR.com",
+   "published": "2026-11-10T09:10:57Z",
+   "source_id": "gn-wave",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Wave & tidal"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-11T01:10:48Z"
+  },
+  {
+   "title": "Woodside hit with general direction from NOPSEMA over recurrent fluid spill from Pyrenees",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd0ZqazNOR3VhRHhnME9xSHFJcWprNE5hTm96LVZleTgxNFlSaUtzUElEa0t2aWdWVFZOeTJyeVUtRnJEQi1LSS05ckJjU0JnQW5YeXJkVjVWT1VGTU5SU2piRzFFQTlQMVR6ZVNMcVJQZDR0UTgtd19LTXRzMGl4T0g1OVE5MFJvQ3NSWVdieDNrdjRwMjBmRi0zTlVJaHB1OVBZXzdfT1NVczM5N1FUV0dHLW5SaFQ3TzFSOGJXMnM5NWxvVy1NNQ?oc=5",
+   "summary": "Woodside hit with general direction from NOPSEMA over recurrent fluid spill from Pyrenees    Energy News Bulletin",
+   "publisher": "Energy News Bulletin",
+   "published": "2026-11-10T07:03:55Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Oil & condensate"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-11T01:10:48Z"
+  },
+  {
+   "title": "Chilean Navy partners with Cirion, Gtd and Telxius on subsea cable protection",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMzZhdEtNOWRvdmxXUmx5VVBlR2dQdWN6VFhzby1rMldTYmVmSExnZm1NMUVaQzc1MEl5WWs2elpCSU1GQVpyWmZTbGI3R0JoSXlBakp1OW5fSGNMN0gwWWRhWUJ2SXllcFFSY2ZpR0JhZUtFTFFqMFluV1o1bnZjWk5QZzgwWXdmbjM2LVNZTGRPd1NuazZSUWR0YmpPMWhMY3hTQy1OS0xNMnpFRGMzMzQtcy15Sms0NVUwSExwd3hZaHVLQ2ZDZEVVV1RFVHdFbjBpWERGMF9YMlRoMEQtdER4N093eUduVS1hOHR5cHk3dw?oc=5",
+   "summary": "Chilean Navy partners with Cirion, Gtd and Telxius on subsea cable protection    Developing Telecoms",
+   "publisher": "Developing Telecoms",
+   "published": "2026-11-10T06:54:17Z",
+   "source_id": "gn-cable",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Subsea cables & interconnectors"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-11T01:10:48Z"
+  },
+  {
+   "title": "What Woodside Energy's (ASX:WDS) Latest Quarter Says as Scarborough LNG Nears First Cargo",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZlZOcEQ2NUlxYlhOR1BrZGNFUVV2dzVkUHdNWlhycTZFZ2JYblVHandacVFmNGpXNURFc2RNVkZOWFdRcVphWGR5R203ejFlOUJWdUhLRmpDSnZPODdLTU9iQ2JESEY1UFM0ZEhZQkpld0V6YTIxT0FpMG5adWRLaDhJd3dmX3Jremt4TDUwZU1jWENrU3JuOTRNR0xEc0dpNy16Ykx5WE83M3RjWXVFeUR0YjdhbER3RlFTUQ?oc=5",
+   "summary": "What Woodside Energy's (ASX:WDS) Latest Quarter Says as Scarborough LNG Nears First Cargo    Kalkine",
+   "publisher": "Kalkine",
+   "published": "2026-11-10T06:20:00Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [
+    "FOS-003"
+   ],
+   "first_seen": "2026-11-11T01:10:48Z"
+  },
+  {
+   "title": "How Santos (ASX:STO) Turned New LNG and Alaska Oil Projects Into a Record Quarter",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQlUxeWNhMU1FQmt2eDcwS0xRcnh6aXY2MVF6SHh4ZndaQlc4UlVxVXh6c2VSTUZpMFQ5WnVkeGZXUGh3N0htdWlUVFFZaGVJbGNJcWtQSHdIc2dBOFM5YUVrTi0wa1RKbi1XUmtzb0dzSnh3OVFwTHQ0SXN5d1AwSVBUWkJCaXZCbEFCMzk0cE1HMmpvd2F2TE1uQU9rOWxHWW9uMmJUVEN4bWJod3Z3M25aNA?oc=5",
+   "summary": "How Santos (ASX:STO) Turned New LNG and Alaska Oil Projects Into a Record Quarter    Kalkine",
+   "publisher": "Kalkine",
+   "published": "2026-11-10T06:20:00Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Santos"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-11T01:10:48Z"
+  },
+  {
+   "title": "IEEFA's position on potential WA gas reservation carve-out - Institute for Energy Economics and Financial Analysis (IEEFA)",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTGZYLThTcURpemdBdzlELXBTY2w1Wmowa0wwMzhsNy1HZ0tLN0lGR3NMNi00VEJQd0NrWjNEdXVzUEhyQkxNd0lxSngxUVVDYmdOMi1QVHpmczBjOXFlZjIxMmNwSjZmdmUzZDlkM0tyUmRrRzRPdE9MNXRQdVlJNl81WWExMnNm?oc=5",
+   "summary": "IEEFA's position on potential WA gas reservation carve-out    Institute for Energy Economics and Financial Analysis (IEEFA)",
+   "publisher": "Institute for Energy Economics and Financial Analysis (IEEFA)",
+   "published": "2026-11-10T05:12:02Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-11T01:10:48Z"
+  },
+  {
+   "title": "HD现代重工获得两艘LNG运输船订单，金额为6,629亿韩元",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOVZKWDh4dEkzQVJPVTNfbHU2VVNfNl9MQnVIQmxyMzB3Nmltc3pYWE5fTjlfTDVOemh6VG05R0NDMW1yWnlUZWgzSEVuVGtkaWdCSGNrZm12X3h0WGx0RUIwZXlQVmdRcTBuU01KenB5b25vVWJjWVRidldLV29TNU9wRGRDQUQzTkVEZ3VXNzFEeENKTERCN1FQU2Nldl9tdU9JSGhSWE9PZEd5MXJuQnN3MXhqS21fY3JvUlZrUFUwTnBZQ29jSVRYU1NDMmhSd0tHNWNJd2U0R3c?oc=5",
+   "summary": "HD现代重工获得两艘LNG运输船订单，金额为6,629亿韩元    Moomoo",
+   "publisher": "Moomoo",
+   "published": "2026-11-10T02:48:01Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-11T01:10:48Z"
+  },
   {
    "title": "How Marinus Link has built trust with the Gippsland community",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOXzJCNGNwMzhhSDdpN2dPMHk5eXBqV0xQcXNOVGxaTTlZT1hZT09wOTh5Qk5nYklsbTJFNGRKME02Q1ZONkNBVEg2bTdQLWZ1YWV0cnRmQnRLM0NuYmt1NGdXeEhaWHltaXlncTQ2UnVCQU00WjFMSzM2aDM3NGU0cE14cENScGc4QnRKbVhIWFFNeUNvYjcya05yNV8?oc=5",
@@ -114,6 +354,25 @@
     "OTH-029"
    ],
    "first_seen": "2026-11-10T03:23:08Z"
+  },
+  {
+   "title": "Vineyard Wind, the country’s largest offshore wind project, is fully up and running",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNS1Zako4amJMQWdqZk9aRmZZMGpDNFp2TzNOdUNhTFk0ejM0OG11N3gzazNLR0kxX2Yxd25SMkxpVnFxdGVGeC1MUnBvTnhMMnBCMVVZRzZjb2JFZU1kSjNjeTZCSW9wX0REU2dVelNRTWhUQ3BJdE5fRjB1WU9WaEctR1JFa1BiMjdERHBWR1JoRWNYTjJHZldTSENMTVVjMjJaY09nMA?oc=5",
+   "summary": "Vineyard Wind, the country’s largest offshore wind project, is fully up and running    DredgeWire",
+   "publisher": "DredgeWire",
+   "published": "2026-11-10T00:25:39Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-11T01:10:48Z"
   },
   {
    "title": "SunCable largely finalises subsea cable route, targets electricity supply from Australia to Singapore around 2035",
@@ -173,6 +432,25 @@
    "first_seen": "2026-11-10T03:23:08Z"
   },
   {
+   "title": "PetroGreen, Ming Yang to partner on 2 GW of Philippine offshore wind",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWnQwRmc1N3J2RHc1MmFETDFNQzRlZ2ZSb0N6dm5leGs4LXo3MVFDci1TbnNKX2oyZVVGWTA1RXg5c3NRVnpFcHZPOHRxNUlLVVNrZ045eUg5S053ZWF2TFJVUHA4Sk0ycTlkaUswWVkzeVlqRzRTbzI2ZUtXMzJ5cHQ2OEhGMnVLanRwVnBqdmdMbmFEdzY1dEtGNjRlVVZ3WmlXeFJ5NmRadWs?oc=5",
+   "summary": "PetroGreen, Ming Yang to partner on 2 GW of Philippine offshore wind    Renewables Now",
+   "publisher": "Renewables Now",
+   "published": "2026-11-09T14:00:01Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-11T01:10:48Z"
+  },
+  {
    "title": "WA government accused of Port Hedland ‘cover up of the highest level’",
    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQeUdlcXdva0xEZWw3b19FcWdxb2dZQmZSdmM3NDB3THBCQ3Q1LWl0WkV5Vld3UHdld2xsN1FORklfcm9mTTVXTlZBMDJ5UDBlZEtqamFIcnZtLTYwT29kRnZzYlp0aVZwOEpfQlVLYjRVcWd0YzFDamhwN2J4Q2FITlJWTVNfVUI2V0dDNzl6cDhPZDA2aWtReFB2a1MxQUlIc1o0TmlfcDZaQWNiQXJuaW5rTmFIVVJlM1R5SGVpQXNldGNDeWFDa2hJN3NSRUtXM1l3eFRVcU1tOWtoWnV5NktmRmZwYzNsSHVEaDR0QXJtUQ?oc=5",
    "summary": "WA government accused of Port Hedland ‘cover up of the highest level’    The Australian",
@@ -213,6 +491,25 @@
    ],
    "projects": [],
    "first_seen": "2026-11-10T03:23:08Z"
+  },
+  {
+   "title": "Ming Yang Joins PetroGreen's 2GW Offshore Wind Development Plans",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR2M0MktmZTlXWk5sN2xSNHZ1WExodTNqSTVlUFpUenZqaDZKSWZyWW9LYW9URkVWOE9kMVkwVnRQbmtaSTJ2S3pIOTE1YWgxcnFFVjJOLTBkMGdSMlFyZjRnRlRUNDI1U2s0YV9wOG9xTVBMekQ4SlBMbVNUblZLRHRsMkxTTXNob0owTXIwVG5ZTU9zZ2NueEZ0UkMyNThTRXFlYw?oc=5",
+   "summary": "Ming Yang Joins PetroGreen's 2GW Offshore Wind Development Plans    Offshore Engineer Magazine",
+   "publisher": "Offshore Engineer Magazine",
+   "published": "2026-11-09T10:49:47Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-11T01:10:48Z"
   },
   {
    "title": "AKVA debuts new net pen collar for sites weathering the most extreme conditions",
@@ -289,6 +586,27 @@
    "first_seen": "2026-11-10T03:23:08Z"
   },
   {
+   "title": "Weekly Recap: North West Shelf stake sale and Metlen LNG supply deal",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeThia2FLTXZNcU9HWmU0eW45RWE3cVhyYjcya3dCdkJETGtyTkVaUHY5bkp3UDdWalhFNk9QazY3eVpYTTM4Y2xiSGg3dkRKZmtIaHI0Q2tHX2FCZHZDS3lzZy1QbVpCQUhFTjZZMjl6djNGRkg5OXJSemNjQXRjR0UzY2U3Yk9MSnpaWTBrQXVjNDA0aTYxTklOVE5QZXVCeWk1cE5wZy1KTjVHVXFiaEFaNGhyWV9QU0tfblozMVRPemVKd1dyNw?oc=5",
+   "summary": "Weekly Recap: North West Shelf stake sale and Metlen LNG supply deal    TradingView",
+   "publisher": "TradingView",
+   "published": "2026-11-09T05:00:00Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [
+    "FOS-001"
+   ],
+   "first_seen": "2026-11-11T01:10:48Z"
+  },
+  {
    "title": "Carnegie Clean Energy Discloses Six Technical Objectives for 80 kW ACHIEVE Wave Energy Demonstrator",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWGI5LVBpXzBfZWNMRGJMWU9JUlN3UU1FaWo1VGxUTGRMS1llci1wcndBY1UzQ1hTNEw2RFpWY2ZpbDNvMjRfa013VXRERnRSdWxLa2hWUVA0ZWdvZVR6bWdfdG5ydHdhVnJyTVpFTkhmdEFGUG1NVE1GMGRua1JmRUpGVzczR3AzNC1sR0RheTlzZldoX3pNRnI3YUpFeENHWnRRa2VRakJmUHViNVY3c19ic1h4TThfY3BnbjZNN3JDU2czX19DU0xJNEZEU2VDQkQ0ZldjYjM?oc=5",
    "summary": "Carnegie Clean Energy Discloses Six Technical Objectives for 80 kW ACHIEVE Wave Energy Demonstrator    Kalkine",
@@ -308,6 +626,25 @@
    ],
    "projects": [],
    "first_seen": "2026-11-10T03:23:08Z"
+  },
+  {
+   "title": "The truth about Labor's gas reservation bill",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBReDRVckw5Y0FsSWZTaWtJcnFlS29wMlNkN0lULVd5MU5sSHliZDZKQTJ4ZDBPeWs1Wm80ZGU3VVZZMHZfZnZJaEE5dGRQME95bUlIV295NW9NY3Bp?oc=5",
+   "summary": "The truth about Labor's gas reservation bill    YouTube",
+   "publisher": "YouTube",
+   "published": "2026-11-09T03:05:27Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-11T01:10:48Z"
   },
   {
    "title": "Offshore Decommissioning APAC Summit 2027",
@@ -550,6 +887,25 @@
    "first_seen": "2026-11-08T00:22:23Z"
   },
   {
+   "title": "Windward发现伊朗关联油轮在海底电缆附近活动",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU3B5TzJiZWZTSzhlQnVOR0Q3S05HLXY1VTNVM2lTajhvTURPSWFZWUxTcUh1VlBYQ090RmctSDhlX0hwNGFIbV9KTWQ4YUpNZkJsVExpRzd2c2wtQjF6YTBiMUZOdnJ2WXFTQXRhWkhkS3hSTkQwTEZYcHExaXI1Z0lKVkZZRkNOWTU4SG55LTQwREpIS09xZmRQd08zSlVYUmxfbVVYc1NBYkJ6N2ZBWkctczhEWU4xU1E?oc=5",
+   "summary": "Windward发现伊朗关联油轮在海底电缆附近活动    UA.NEWS",
+   "publisher": "UA.NEWS",
+   "published": "2026-11-06T18:58:00Z",
+   "source_id": "gn-zh-other",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Subsea cables & interconnectors"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-11T01:10:48Z"
+  },
+  {
    "title": "与伊朗有关联的船只在海湾海缆上方徘徊，德黑兰警告可能发动袭击",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMmExbDJ5NUU3VnR4cHBPRjBsYjVQd2xNSnlqcnd3NXhyOTNROXJmUl8yUzJaZlRiS2ZzbEdabndhWXBEdFV4TGRSM1BvLTI5Mkg1MV9aNm1vb3dBYW5kUVE3RzNTZ3Vsc1R0d0xuZXJFb0hNaXQzQ2thd1Zvc2Y5NGhaMXVLc0JLS250VG5RbThkSWxwYXg0?oc=5",
    "summary": "与伊朗有关联的船只在海湾海缆上方徘徊，德黑兰警告可能发动袭击    Mezha.net",
@@ -567,6 +923,27 @@
    ],
    "projects": [],
    "first_seen": "2026-11-08T00:22:23Z"
+  },
+  {
+   "title": "Green ammonia bunkered to ammonia-powered bulk carrier at Port Hedland",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOemFZT2RNLTZmVDN2S1d1em0zeU40VDJuR3p3QkxxT1FnSWVlQ2ltSmMtNm5oNXJ6OXppRldnWEkzUUM4U0R4MXFNOXhJc1N5VmVabF94Mk91WUdZRG5fUlQ0V1g0aVhDUFFySWJKRWgweHZPM3pyVEFIdElWZXdvaWZXYTdjbllxUEdTcWd4aGpXMTJfcWVGS2NnZGdGUWs?oc=5",
+   "summary": "Green ammonia bunkered to ammonia-powered bulk carrier at Port Hedland    Container News",
+   "publisher": "Container News",
+   "published": "2026-11-06T17:00:23Z",
+   "source_id": "gn-ports",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "WA"
+   ],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Ports & LNG terminals"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-11T01:10:48Z"
   },
   {
    "title": "Finland designates 4 offshore wind areas, first tender seen in H1 2027",
@@ -607,6 +984,25 @@
    ],
    "projects": [],
    "first_seen": "2026-11-07T00:49:28Z"
+  },
+  {
+   "title": "Worley获Venture Global CP2 LNG扩建项目EPC合同 - 新闻和统计",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQWlzX1lUU25wOUM3QWgzN0hlWVpCenNEbHNKaWVvaEEyd2prR0xQdE04b3NReV9DMzBGTDgzMU84TVk4aGhDRXZsZHZ4a3ZaSzY3eVlZTFB1aS1HaGJtSXZqRVNZdEZ3NUZmQjF5Q0pMeFVNRkYxSjFaUVFpblBRWExyQWZOOUt5di1DZ2ZfY3E1cFRPWEVvUG9lV29PcFo1QmR1SlBkdDhMajNsYVI0YzF0OA?oc=5",
+   "summary": "Worley获Venture Global CP2 LNG扩建项目EPC合同 - 新闻和统计    IndexBox",
+   "publisher": "IndexBox",
+   "published": "2026-11-06T13:10:29Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-11T01:10:48Z"
   },
   {
    "title": "Beyond Anchors: The Cyber Risk to our Submarine Cables",
@@ -919,6 +1315,25 @@
    "first_seen": "2026-11-09T00:42:16Z"
   },
   {
+   "title": "Woodside forecasts over $40B in operating cash flow in 2027–2032",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DREcwUWh3eHNFWS1TSmN4TDdYdU1SY1lMZDA4MVlDSWhXSldMeS14UDNRQzY2V3R5QU1OV0l4aHhORk0wVzUzeUtSM05Uc0Zx?oc=5",
+   "summary": "Woodside forecasts over $40B in operating cash flow in 2027–2032    Trend News Agency",
+   "publisher": "Trend News Agency",
+   "published": "2026-11-05T13:26:00Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-11-11T01:10:48Z"
+  },
+  {
    "title": "Woodside targets over 30% sales growth to 280 MMboe by 2032",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1KVWIxTnlVLU51OTAyd3N6dHNRSEt2RXBTVE8tU2J2c2QtV0lWOTJMVG5FOUw5Qk14UDctbkZ3LTg1djEtTm9aTzc4ZElBaVBW?oc=5",
    "summary": "Woodside targets over 30% sales growth to 280 MMboe by 2032    Trend News Agency",
@@ -936,6 +1351,25 @@
    "subcategories": [],
    "projects": [],
    "first_seen": "2026-11-06T01:28:06Z"
+  },
+  {
+   "title": "Deutsche Windtechnik lands maintenance deal at Germany’s first offshore wind farm",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM0JKZ1p2SzZSTzlMVUN4UzFkVlA4NXZZd0hfakMtSTFtaS1FLXRWOTQxdmxqVlg5TVIzV0JobEpDR2F5Ukp3VEJUSTdzaFJmMUo0enNjMDZtNzV3YTZkT3Baend1OTlFeld3OGo4Mlk2M0tMMnF2RWRZbmxMcnQ3RWNmQThiZy1fTlZzeFdqUWJNdUhUTWJSdEoyclM5c3ZHUUp5Vmln?oc=5",
+   "summary": "Deutsche Windtechnik lands maintenance deal at Germany’s first offshore wind farm    Splash247",
+   "publisher": "Splash247",
+   "published": "2026-11-05T12:00:50Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-11T01:10:48Z"
   },
   {
    "title": "UK offshore wind software firm Kinewell secures funds for growth",
@@ -1155,6 +1589,27 @@
    "first_seen": "2026-11-06T01:28:06Z"
   },
   {
+   "title": "Portable charging system aims to speed up electric truck deployment - Australasian Fleet Management Association - AfMA",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdnJNY2NCY3dVZGduRm8zVlJyOGRYbHZNczVmTnpzdVdzcUxTbmhrRlFEZFdOR3BFNTdxN0llZmNoRzU5dDk3V3djYzlQRzczMm9jOXVRbzZNZ2E4a051U3lUWHlQQXhFemtXRE1iaWZCTHZ2SkxHRVNPVFAwVkllX2Vpc2YxS0lBSVpjVnUyeWR6dw?oc=5",
+   "summary": "Portable charging system aims to speed up electric truck deployment    Australasian Fleet Management Association - AfMA",
+   "publisher": "Australasian Fleet Management Association - AfMA",
+   "published": "2026-11-05T06:35:56Z",
+   "source_id": "gn-fish",
+   "language": "en",
+   "operators": [
+    "AFMA (Commonwealth)"
+   ],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-11T01:10:48Z"
+  },
+  {
    "title": "美国CP2液化天然气扩建项目授予沃利EPC合同",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBIRjk5TVJld3l1OWVQczdXVFFRVEltWGN3T1JKbFNUeTFkZGdBcHdKSC02MEpRTmZ2OExSVXVmYlFqNW5BTHVtcHBYR1p3NUNNMThlRHczT2U?oc=5",
    "summary": "美国CP2液化天然气扩建项目授予沃利EPC合同    维度网",
@@ -1172,6 +1627,25 @@
    ],
    "projects": [],
    "first_seen": "2026-11-06T01:28:06Z"
+  },
+  {
+   "title": "Woodside Energy Group Unveils New Payout Policy, Targets $40 Billion in Cash Flow",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZXJpQWIyTVVHX2xiLXo1Tjl0S2tiQk1uYmhhNEQ0ZUEybkYxak9WekRub1czUUYwNHhaT1hnU0FiR0hTNXZralZNQmt3c0VqSWcza3g2UVlOa0RsMHhxQzdYQmtXeFR3Q3N2eEtRVG4tT1puT1pFamxKemd4d3pRWGwwX3lXUWxlWDF3aUh1S3d2M2N3YlNyakRMVC1TZG5tU2JONFhTQ1g2b1J4S2FaNE9kRXJkLV9TYTFLYnRHOUJoMkF2dll4NGRMaE9DLUpFNmc2RjFR?oc=5",
+   "summary": "Woodside Energy Group Unveils New Payout Policy, Targets $40 Billion in Cash Flow    TradingView",
+   "publisher": "TradingView",
+   "published": "2026-11-05T05:14:00Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-11-11T01:10:48Z"
   },
   {
    "title": "Low-cost green hydrogen hopeful lands fresh grant to build pilot at site of proposed offshore wind hub",
@@ -1870,6 +2344,29 @@
    ],
    "projects": [],
    "first_seen": "2026-11-05T01:24:45Z"
+  },
+  {
+   "title": "ADNOC’s XRG Buys Shell’s North West Shelf Stake for $1.45 Billion in First Australian LNG Deal",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRTRDWnowZkdjNm1HRVdNU1VtTmJqREJvSEJNaW14eTdETnJSS21RR29DY2poNXFrMTE0MHpwZF9rd2FROC1NSW9tTHc0cGxyeE51c2hLZ0d5RGcyZmpXeHgxUXp6SHk5VVM2ejNBVmFVM0VKdjBZTkdDSVVrbFlUeDl1bVRNcURyb1czc29yLTY5aGg2UGVnZEl5NkFFN1NfS0VOcmZSZWVDVlAxcE5SVkl0OU1IVDJKLVpsSGY1T2Z6ZmltNG14OTBB?oc=5",
+   "summary": "ADNOC’s XRG Buys Shell’s North West Shelf Stake for $1.45 Billion in First Australian LNG Deal    megaproject.com",
+   "publisher": "megaproject.com",
+   "published": "2026-11-04T02:18:37Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Shell Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [
+    "FOS-001"
+   ],
+   "first_seen": "2026-11-11T01:10:48Z"
   },
   {
    "title": "Philippines offshore wind ambitions meet the reality of grid readiness",
