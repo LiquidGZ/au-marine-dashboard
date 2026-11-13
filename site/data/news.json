@@ -1,69 +1,69 @@
 {
- "fetched_at": "2026-11-12T02:12:19Z",
+ "fetched_at": "2026-11-13T01:45:04Z",
  "added_this_run": 38,
- "total_items": 861,
+ "total_items": 899,
  "earliest": "2026-09-30",
  "errors": [],
  "per_source": {
   "gn-lng": {
-   "in_feed": 27,
-   "new": 2
+   "in_feed": 26,
+   "new": 7
   },
   "gn-gas-policy": {
-   "in_feed": 25,
-   "new": 12
+   "in_feed": 27,
+   "new": 3
   },
   "gn-decom": {
-   "in_feed": 4,
-   "new": 0
-  },
-  "gn-wind": {
-   "in_feed": 24,
-   "new": 5
-  },
-  "gn-wave": {
    "in_feed": 5,
    "new": 0
   },
+  "gn-wind": {
+   "in_feed": 26,
+   "new": 6
+  },
+  "gn-wave": {
+   "in_feed": 3,
+   "new": 0
+  },
   "gn-ccs": {
-   "in_feed": 10,
-   "new": 5
+   "in_feed": 9,
+   "new": 3
   },
   "gn-aqua": {
-   "in_feed": 30,
-   "new": 2
+   "in_feed": 32,
+   "new": 5
   },
   "gn-fish": {
    "in_feed": 30,
-   "new": 0
+   "new": 5
   },
   "gn-desal": {
-   "in_feed": 3,
-   "new": 0
+   "in_feed": 6,
+   "new": 4
   },
   "gn-cable": {
-   "in_feed": 13,
-   "new": 2
+   "in_feed": 11,
+   "new": 0
   },
   "gn-ports": {
    "in_feed": 16,
-   "new": 2
+   "new": 1
   },
   "gn-minerals": {
    "in_feed": 2,
-   "new": 1
+   "new": 0
   },
   "gn-zh-energy": {
-   "in_feed": 17,
-   "new": 4
+   "in_feed": 15,
+   "new": 1
   },
   "gn-zh-wind": {
-   "in_feed": 3,
+   "in_feed": 4,
    "new": 1
   },
   "gn-zh-fish": {
-   "in_feed": 22,
-   "new": 1
+   "in_feed": 19,
+   "new": 2
   },
   "gn-zh-other": {
    "in_feed": 3,
@@ -71,7 +71,7 @@
   },
   "offshore-energy": {
    "in_feed": 50,
-   "new": 1
+   "new": 0
   },
   "offshorewind-biz": {
    "in_feed": 50,
@@ -83,12 +83,519 @@
   }
  },
  "by_month": {
-  "2026-11": 263,
+  "2026-11": 301,
   "2026-10": 597,
   "2026-09": 1
  },
  "note": "Append-only archive. meta.news_days_to_keep controls the site's default window, not storage.",
  "items": [
+  {
+   "title": "Offshore regulator calls out Woodside, Santos for leaks from Australia FPSO",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMFFQTnJPbGhZelV5Wm5VTkxkdzFwQk1aTzl2NGNxLXNVcmhTa0lOSjRWUFF0dl9NR0otZVIxRWNVY2JkVVhBU0xINnNSb2dpeDZlcUZtZjhZeFB2MUFZemNsX1YtbG1iYkFSUXV6a3Bnc3d0bGticWtSNTNWX3ZsU0thVTBKaGNmekFBVV80Rm1fb3ZyaTA2SzZ4TXdpcG1va3poRVdJZEwtUy1BQkJuTHJiWmxoR0RMWnJpWXdMMTc5M2dYRUtKZg?oc=5",
+   "summary": "Offshore regulator calls out Woodside, Santos for leaks from Australia FPSO    Upstream Online",
+   "publisher": "Upstream Online",
+   "published": "2026-11-12T22:21:48Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Santos",
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Oil & condensate"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-13T01:45:04Z"
+  },
+  {
+   "title": "How Could Papua LNG Add to Santos’ (ASX:STO) Expanding Production Base?",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSVpoUC0xMVFhYjF3ZnRmQm5iMk5oU0hRcW9LYmw3aHZxa0RabW4yRl8yOU4zN19USUZyeHl0UElfOFNqaXZ6MTBCVE5uVXY5SFhmaEZEWTU3OFFjZWlJUk1GQ2k5ZEVudGFKZHY3US1xZGl6cEZxS201aVk1R3dIVERsUTNRdUVGRm45MUV4RHJ6VDd5UHg1S21OYzB6X1RLTzlxUm9hMm9QUTdZ?oc=5",
+   "summary": "How Could Papua LNG Add to Santos’ (ASX:STO) Expanding Production Base?    Kalkine Media",
+   "publisher": "Kalkine Media",
+   "published": "2026-11-12T21:37:00Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Santos"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-13T01:45:04Z"
+  },
+  {
+   "title": "1,907 tonnes of salmon died in Macquarie Harbour over 15 months",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYTh2NzR0NXFCZ3pZdG1DTkV3M0tUYTJpOHlZUTRZVWJBaXNQUXMzNXJhMkNsQndQeFFpX0NlLXlVc09UQW9GVW5wUE9VbFlSWkNUb1Z5ZGxBZUZwUEUwYWhNN0s5MTB1SmRBZTlodzZ1ZC03VzRmcDJOQ3dQU0QwT0tMMEgtb2E2eFFtUklQOHBzU2w1RElhbDFYUmNRNmhLbjZzSVR3YUQxamtTdk53NXZR?oc=5",
+   "summary": "1,907 tonnes of salmon died in Macquarie Harbour over 15 months    UA.NEWS",
+   "publisher": "UA.NEWS",
+   "published": "2026-11-12T19:28:51Z",
+   "source_id": "gn-aqua",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "TAS"
+   ],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Finfish aquaculture"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-13T01:45:04Z"
+  },
+  {
+   "title": "Shock as rock lobster fishery closed days before season starts",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQSXJ1YUpiVmdHTUtReEZjM282MEtHSG44M29uODJTRmhYSWY5c2pRZmR4eXRUN2kxdmNXdDRhcG5VRkpuenNhaV9PeUxiS29lQ3djS1ZLNEpoMTk3enZRb0xtV1VQQWc4VWcyRnVSdzVobTVWendZdVBRWUY1cy05dW9LYnl6T3hGOXBNekhoWkJsd2JqbEFFQkpwWEUtV3lGZHg3N25NY3UwNjZqcHdKZTJNNE9TcHZTVlptell4aWxSMm5EcFlzWjVyZjk5bS00REVXNFhkNmE1TE5LczBPVnJQLUppSVBFbkl6bU1Ud2c3ZnI3c2ZDeUluYw?oc=5",
+   "summary": "Shock as rock lobster fishery closed days before season starts    The Mercury",
+   "publisher": "The Mercury",
+   "published": "2026-11-12T19:26:35Z",
+   "source_id": "gn-aqua",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-13T01:45:04Z"
+  },
+  {
+   "title": "Salmon deaths at 'eye-watering' levels in Macquarie Harbour - ABC News & Headlines – Australian Broadcasting Corporation",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUm42SXNPSkRLYkVDVlJ4UW53dUFMbXV1bENrMnRCeDVGWlpVLWVwZ0xIMUhJd1gtMmhfcTRSQlFkRV9TQkt3Mnc0VVFDS0lEVFdYaWMzMHFaa2hqaGVvUUhObktyNEdOcURtXzFaRTloRVpaeFRSZy1XcXlkREtNTGpkamMweUNSQnl5MkZfazh5V1FERHVKQg?oc=5",
+   "summary": "Salmon deaths at 'eye-watering' levels in Macquarie Harbour    ABC News & Headlines – Australian Broadcasting Corporation",
+   "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "published": "2026-11-12T19:00:10Z",
+   "source_id": "gn-aqua",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "TAS"
+   ],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Finfish aquaculture"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-13T01:45:04Z"
+  },
+  {
+   "title": "A 44-inch pipe 121 miles long climbs from a desalination plant on the Chilean coast to a copper mine more than 14,400 feet up in the Andes, through five pumping stations across one of the driest deserts on Earth, built to carry 24 million gallons of desalted sea",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWlE0aXZQQnB6blBzNXJoS3o3Mzd3bHI2M2tfSU9MLU5zaHktOElPY3NMYVJZR0dmOGVWNEdBU2lxSEN3NW93Rm03Z1ZMVGZNRVJaZzZ0VmxiQnlyVGlmWFBlQ1puS1hEV1pYaUF1QTZsY1RTTXJPM2dzOWIzZWJxMGEzQzFvZVRhblYwdlc5N2p3TGJhdTVhZnJQRjhsd3YzM1ZEZGsxMTl6VGZocFFHMllXYWJ1VzFiU1MwUWRsWldBY1Y3aWc?oc=5",
+   "summary": "A 44-inch pipe 121 miles long climbs from a desalination plant on the Chilean coast to a copper mine more than 14,400 feet up in the Andes, through five pumping stations across one of the driest deserts on Earth, built to carry 24 million gallons of desalted sea    Autonocion",
+   "publisher": "Autonocion",
+   "published": "2026-11-12T19:00:00Z",
+   "source_id": "gn-desal",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Desalination"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-13T01:45:04Z"
+  },
+  {
+   "title": "Shell Balances a $1.45 Billion Australian Exit and a Greek LNG Pact Against the Crude Price Test - ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxObHZTZWpNZXdkcG1HM2kxOHNPMkdTaDktcm1wVWhBa3VsTlVzSzNFYzZJaVBjSVdMTzA0WlVkYVdyZVVwX3RzUEZ4NmEzS1lDTDB4WE1LWjNfbmh3TDAwZktJQ1V6M0F3eE5CTGtIRmlLczZIVFc4a3Npd244OEFzeXBmTVBtWjVKVXAzQm51X2RrR3dGRFZBZGVtRHd0OUxHZUJEZWZoM3B4RGlPbnBfQmxpNjBQYndIaDFKbHo4cmxObXdIYmkwbHRtVGxPcDA1LUJTT2owQ04tQWFfR28tRXlCdUh1RTR0bEgtbkdYUG51cnFKZzNaZHJjaw?oc=5",
+   "summary": "Shell Balances a $1.45 Billion Australian Exit and a Greek LNG Pact Against the Crude Price Test    ad-hoc-news.de",
+   "publisher": "ad-hoc-news.de",
+   "published": "2026-11-12T16:55:16Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Shell Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-13T01:45:04Z"
+  },
+  {
+   "title": "Inpex lifts 2026 profit forecast to record ¥550 B on higher prices, strong Ichthys LNG output",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZWtwcEw0MlN6d1Q4eThaMU5rNUtCR2xlTmhMWl9DUWV1SlJkSEJqSXB1TzdpWTItVURncUU4bm05T3kyMDh0MXdkem5uVHY0T0thYlNTUUJtVWpBRFhhZXVfY1ZkcGl4cWZYRExfWG5yV3VqMTY2MjFkdXY3Vi1WZXRaZ1R1ZGdfNVFPUGZCM1lqMWFrWFlPM2NpMFVXY3l4M0NoaGpIOTV2QXpvb3RuRkZpRl8tRENjQURMWDd5VzJJa0RjTWdtUmxSNmI?oc=5",
+   "summary": "Inpex lifts 2026 profit forecast to record ¥550 B on higher prices, strong Ichthys LNG output    Pipeline and Gas Journal",
+   "publisher": "Pipeline and Gas Journal",
+   "published": "2026-11-12T16:14:29Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "INPEX"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [
+    "FOS-008"
+   ],
+   "first_seen": "2026-11-13T01:45:04Z"
+  },
+  {
+   "title": "iSpring Water Systems Launch the New BRO900 Seawater Desalination System, Setting Its Sights on Marine Water Treatment",
+   "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPVGQ0RU1EQ1Bza01EWnFGTFotTUV4bE5TRkVYSWJaeUVkc3VQYkwtRm10VW93QWZ4YW16MGJTSVJJckJFQk1POEJSSGZxUXhDTkQwRTJsQ0hHQ2ZwVWw0dDNBNVZYQm5wLUhBY3BfQWlEakFQdkRWaGtwZ19aaXNtdnhZLTE3dW5jV0t3TkNPX1JtMGtZVXBhelVhVlB2WXBmZTZDbDBucnZoVjhLaUFqcHZHT2E0d2YyaHlzLU9IQm5NeHlIaHZURG8xTHR1cDJwNTFxaFhGbWl5RGk4R0NMc3FVUVJGcjRJZmIyRjAyOG5PXzdyODBsZG9xRURmdnU0c2FoN2JVd21CdUhFVkhNNEt3cEtjd0NhdGJDZEU3dmzSAaACQVVfeXFMT1RkNEVNRENQc2tNRFpxRkxaLU1FeGxOU0ZFWEliWnlFZHN1UGJMLUZtdFVvd0FmeGFtejBiU0lSSXJCRUJNTzhCUkhmcVF4Q05EMEUybENIR0NmcFVsNHQzQTVWWEJucC1IQWNwX0FpRGpBUHZEVmhrcGdfWmlzbXZ4WS0xN3VuY1dLd05DT19SbTBrWVVwYXpVYVZQdllwZmU2Q2wwbnJ2aFY4S2lBanB2R09hNHdmMmh5cy1PSEJuTXh5SGh2VERvMUx0dXAycDUxcWhYRm1peURpOEdDTHNxVVFSRnI0SWZiMkYwMjhuT183cjgwbGRvcUVEZnZ1NHNhaDdiVXdtQnVIRVZITTRLd3BLY3dDYXRiQ2RFN3Zs?oc=5",
+   "summary": "iSpring Water Systems Launch the New BRO900 Seawater Desalination System, Setting Its Sights on Marine Water Treatment    The Manila Times",
+   "publisher": "The Manila Times",
+   "published": "2026-11-12T15:56:37Z",
+   "source_id": "gn-desal",
+   "language": "en",
+   "operators": [
+    "Water Corporation"
+   ],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Desalination"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-13T01:45:04Z"
+  },
+  {
+   "title": "Don’t listen to Trump. SLO County wants offshore wind and its jobs | Opinion",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ0lrNFgwbVlYbHNyWENZM01MUzBtN2ZGTXFQd2FEa0VxSmxIekt6SkZuUkV3SjNtc2JGc21uejJfa1Y5eDVHT3ozY293SHk5S19KWFFGRnlZOGNsVWpzR0Q5Mk82MF9oNGJmQ2FoMDQ1bHJub3RHMVdUSTRxUGdaM9IBgAFBVV95cUxQd2lEcTJ5a0tzV1dxc0lFUDB4dm5VTXNsT3kxblNPcG5FYzhxZWowWUxyV1hRdFgzOXd4WFJYS0R2TWlHV1VxaTdDR185VVVLYlFfWXZWVDdQbzJkTWVsaHM1MkcwTzU0R2xzZWRPUXR1c0lKSGdoQjY4R0JyZE9SVA?oc=5",
+   "summary": "Don’t listen to Trump. SLO County wants offshore wind and its jobs | Opinion    San Luis Obispo Tribune",
+   "publisher": "San Luis Obispo Tribune",
+   "published": "2026-11-12T13:00:00Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-13T01:45:04Z"
+  },
+  {
+   "title": "RWE and KKR win record £12.8bn financing for offshore wind",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ2lXNjBCcUhwaEZjenljbm9ZcG9mVVlXNFFMSnFOUHJhanpwMF9jUXUtZnZPVFlCb2RTekVUV0MwRHlaX0hvLTRjUlA3M2gyMWtlc3p0d296N0tzckt3R3NrOUtBdHdNM0ZkQzQ2WXhKVzdqWGZLclRSTWRTMlNMYl9SeDRTbEZqWVRWUnhueGRWUFdaTldRWTBnX3o0UDdNSGtsNGJwam5kdWRMbkRYNmhlUGI5aHFBUGM5UEZ2Yw?oc=5",
+   "summary": "RWE and KKR win record £12.8bn financing for offshore wind    Maritime Journal",
+   "publisher": "Maritime Journal",
+   "published": "2026-11-12T11:10:35Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-13T01:45:04Z"
+  },
+  {
+   "title": "Cadeler Signs Exclusivity Agreement for a British Offshore Wind Farm",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaVlTOWItRlRxdFpyVEpsd1RfNU5vbzdaVlUzRndUSkd0OWJ5V3JaLUxueXVvOXo0alpOU21JaU5nNGkwbkVDZHhiX1EzMk5tVUJXd1F0NEJrS293MnBDdFB0b053REtZeldSSW5mZ0RFUEFXWXduTE93NDRyRUZYcUZObHZzemJoR3ViamFJNE1KNEtVdHVIY2lR?oc=5",
+   "summary": "Cadeler Signs Exclusivity Agreement for a British Offshore Wind Farm    energynews.pro",
+   "publisher": "energynews.pro",
+   "published": "2026-11-12T10:19:41Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-13T01:45:04Z"
+  },
+  {
+   "title": "Indonesia’s Fisheries Reform Needs Science, Not Just Bigger Quotas",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ3lhNERvdUJEc29XQ0plSG9yYUNFWkZDbC1jRWdVUHZEeEZ6ZlgwbXI1YXVJdGQ5TUZQc0tsc1RzMVhGS093aTU4d3J5NmJXeUdkcVk3NDVJVTAzMlRHcTZfMDZfWTR5ckdaS3ZNODVLQjliRWY3aHlLVHBrdlpVZ1BNY1VoNXd1UkljNzQxZ3cyc2FGbXhVeFZtLUM0Q0s4bzhqYVZTY24xOTFpVHBZNQ?oc=5",
+   "summary": "Indonesia’s Fisheries Reform Needs Science, Not Just Bigger Quotas    Fair Observer",
+   "publisher": "Fair Observer",
+   "published": "2026-11-12T09:44:00Z",
+   "source_id": "gn-fish",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-13T01:45:04Z"
+  },
+  {
+   "title": "NOPSEMA intervenes in Cliff Head fall-out",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUW91aG5TdEwxSVI3UTFQQ2JXWnR5Z25Ccjl6dC1FMm9TY0gzLUlPaTlXT01CbmF4Z2RkUGNWcF9TR3JGYnIwWlhPOEJEUUo2MHlYUENNMTRTRWJmdFA5c0k4QmhESWd6MWNZblNVVUFIb2k0b0tJN3ZBUE5EaThJbXE0ek1HWHdyelliaTBUdjZHR25vZUhaYVhZSUwyaDd4a3RKWA?oc=5",
+   "summary": "NOPSEMA intervenes in Cliff Head fall-out    Energy News Bulletin",
+   "publisher": "Energy News Bulletin",
+   "published": "2026-11-12T07:29:59Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [],
+   "projects": [
+    "FOS-033"
+   ],
+   "first_seen": "2026-11-13T01:45:04Z"
+  },
+  {
+   "title": "How will the govt get the gas reservation bills over the line?",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeUNEZlhhMWJOZEc1bjRrOXhoMjlBa2NsZmpEZHFqcnpKVzJzS0VJeDUxaFk4TUJfUVBjc3JuM2U1UmVlN1RvbmdOQ2VWRGMzTk15VW42R2xESXY0ZWZrYjlwWWxERk5sU2Qwelk4WmNfYy1haDBsWThZODdsRUp0WGpaSHNLbFh0My1tRmVvMFVwWXNCYUVIeFJZOA?oc=5",
+   "summary": "How will the govt get the gas reservation bills over the line?    Energy News Bulletin",
+   "publisher": "Energy News Bulletin",
+   "published": "2026-11-12T06:24:23Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-13T01:45:04Z"
+  },
+  {
+   "title": "Tasmania Rock Lobster Fisheries Close Over Antibiotic Trade Risk",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORXlqMnhmdDRnY1NtRFZucHBHbXA1clFFd2F0Q1l2amg1VGk4TWxDY01ISmZpaTNsUzd2ckkyMnNva053NTR2Y256enJza2hHbDMtQzU0TkxkR2pwU2JTR3oyVVA3ZjZOUGRBMjBxQzhDbnFYOGlFRWFCbnpLelYwNy04WWo1M1pSdDBXMjZWYw?oc=5",
+   "summary": "Tasmania Rock Lobster Fisheries Close Over Antibiotic Trade Risk    Oz Arab Media",
+   "publisher": "Oz Arab Media",
+   "published": "2026-11-12T05:31:02Z",
+   "source_id": "gn-fish",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "TAS"
+   ],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-13T01:45:04Z"
+  },
+  {
+   "title": "Tasmania to close part of rock lobster fishery for three months over antibiotics — ABC News Australia",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQUc2OGtISFZtZk84RFdOc1l1MTdIcnNKX3NBaWRRem9VR0dtNzFhQ2IyQzhVVzZTY1dqenRETDdIMjBvRjdSNUhJS2tYLTR6SnZFaUFpd1lqOW9MRWw5YVdZbzQtSjlLeEFtOWxfelJlZXlreG1PVXJKejNYRE1KODdJdFIxZkd5bndtdXJCNkZQcDJfMWw4Tjl5QmZIcUk2LUZPWGNBVlJkUk1tVGxqeURNZTV2N1duZktRbXpBejJ2M1AyaGljYjliNEo?oc=5",
+   "summary": "Tasmania to close part of rock lobster fishery for three months over antibiotics — ABC News Australia    UA.NEWS",
+   "publisher": "UA.NEWS",
+   "published": "2026-11-12T05:17:01Z",
+   "source_id": "gn-aqua",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "TAS"
+   ],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-13T01:45:04Z"
+  },
+  {
+   "title": "Commercial rock lobster fisheries closed due to antibiotic trade risk - ABC News & Headlines – Australian Broadcasting Corporation",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdmlSYndENUVBRjVFRE10bmFsNmR6aWMxVFpvaXZGOGJIS1ZXak41WkRWbm1lUnVyZndTWVN3UDRObnVDSFRDaGd5VWRXcURYUFJPcHpvX054TGZzbi1QUmpZT0xzN1RTVjVObjRIN0pIbTFvVHlQeGllUXQ5RTBrUEtiZHhYM2FMb0xFTnFINGt6a19uZ1M1dE5Cak1RSEtMYjh5ZXYtdDRtZ2s?oc=5",
+   "summary": "Commercial rock lobster fisheries closed due to antibiotic trade risk    ABC News & Headlines – Australian Broadcasting Corporation",
+   "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "published": "2026-11-12T04:18:48Z",
+   "source_id": "gn-aqua",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-13T01:45:04Z"
+  },
+  {
+   "title": "New initiative targets fuel savings for trucking operators - Australasian Fleet Management Association - AfMA",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNLW9uSDM2VlpZMDFabFBwc285bTJfUFVDcHdKT3Iyd1JXZTFGR1ZOODk0ekg1VlJXUV9aU1M3YlNGT21McmJjb0YtTmUwbDhqWWJNSjVVbE8xR01ObkNBcm9jYlBydEsyeko3WVBCTjZscUtTTk5sYWJ6cVl2Y0dRWHZrUlV5Zw?oc=5",
+   "summary": "New initiative targets fuel savings for trucking operators    Australasian Fleet Management Association - AfMA",
+   "publisher": "Australasian Fleet Management Association - AfMA",
+   "published": "2026-11-12T04:02:25Z",
+   "source_id": "gn-fish",
+   "language": "en",
+   "operators": [
+    "AFMA (Commonwealth)"
+   ],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-13T01:45:04Z"
+  },
+  {
+   "title": "National EV charging roadmap to guide infrastructure planning through 2035 - Australasian Fleet Management Association - AfMA",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTG9aOXNtQ1h4NjJ0OHMwWGtVOElpZVZXRVpYWDBscXNDc01obW1XQXBRczJXZm9ORURwaExBTnBDSzZ4ejM2cGhnTi14MzRZVktvNkxybDR2YklFMWNFdFBncTF5OE1EMEREVDdVOVpvalRDNmdpSlhKODhGNVBrNm9HRGlYVWlTTW45MW5xa3BoY0VGVmd1UkwwSQ?oc=5",
+   "summary": "National EV charging roadmap to guide infrastructure planning through 2035    Australasian Fleet Management Association - AfMA",
+   "publisher": "Australasian Fleet Management Association - AfMA",
+   "published": "2026-11-12T04:02:25Z",
+   "source_id": "gn-fish",
+   "language": "en",
+   "operators": [
+    "AFMA (Commonwealth)"
+   ],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-13T01:45:04Z"
+  },
+  {
+   "title": "Australia Water Account 2024-25: Consumption Flat, Reuse and Desalination Rise - News and Statistics",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNlpSQUdJaVFnV1d4S0NpM0l5QUh1Sm5YMjh1Zk1kWEJHNjRIZVZETGZOMkhSakR5NDh3a055aW91a1NCOGliNDRZYWNYN1FVUlRSd200ZU4yelVhcVltLVFlNEZJcmhZTzM5b0JFVjVkREY1a2VXYnc5ekhsaTI5cnZLNG5keTRrTUh4QVJIV1FQQjJ4c20wbUhSTHAwTWlR?oc=5",
+   "summary": "Australia Water Account 2024-25: Consumption Flat, Reuse and Desalination Rise - News and Statistics    IndexBox",
+   "publisher": "IndexBox",
+   "published": "2026-11-12T04:00:40Z",
+   "source_id": "gn-desal",
+   "language": "en",
+   "operators": [
+    "Water Corporation"
+   ],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Desalination"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-13T01:45:04Z"
+  },
+  {
+   "title": "Dealer association calls for a pause on new car brands entering Australia - Australasian Fleet Management Association - AfMA",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT2d0T25zZ1FFendxVzY3cGItcUZYNDd5VnZLaXlENXZSbUdycUl3QnhLSlhyWDlzbFp0d2d5WWp5STA1S2ZaeGpjNkVZOXVqaVlBanJKcGx5MWtGWnF2Vk5PcGNlNmFIQ09RZEpWb3RyNXdxNnJESEhXc0k1WkUxRlBSTjduZGg5MFdwNUxudVByc3ZLNWRTQ1lB?oc=5",
+   "summary": "Dealer association calls for a pause on new car brands entering Australia    Australasian Fleet Management Association - AfMA",
+   "publisher": "Australasian Fleet Management Association - AfMA",
+   "published": "2026-11-12T03:57:24Z",
+   "source_id": "gn-fish",
+   "language": "en",
+   "operators": [
+    "AFMA (Commonwealth)"
+   ],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-13T01:45:04Z"
+  },
+  {
+   "title": "Australian Senate committee backs 20% LNG gas reservation scheme",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkdFWE54Q1ZHdGYyWWtZTGdsSWdEcFBocDRZZXB3UjlvTFVnMTI4Q3VzeHJYOU5BUVpIU3pxVm9lMktCRGwwT2ZTRTZoTksyLXdRQm9uNTZya3ZkVHVtRXJyRWpyRVc0ZDhCZlA2R1VCdzZuNkJNSGVRSktTdC1EUEl5TUh1WlVwQkM0alZBNnN0NVlVT2VEZWt1YmlPRHhld1ppdjFwYw?oc=5",
+   "summary": "Australian Senate committee backs 20% LNG gas reservation scheme    Pipeline and Gas Journal",
+   "publisher": "Pipeline and Gas Journal",
+   "published": "2026-11-12T01:59:22Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG",
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-13T01:45:04Z"
+  },
+  {
+   "title": "Australian Senate Examines Gas Reservation for the Domestic Market",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQV3phTE1CV1p5RTRwWkQwQ2xpOVJ0T1dZVTFsdWFoVlluT3VHYWwxcWhhZE1sMlU2UnlHRDliRW1sdWFnaUpGSTJsX3I3UE1GZkFqRVd2TENqWUtGXzFVWE85MEZIbWhpUnNaNmpCTmVENTFPcEFNWHAxUnRhQzN2YjdCZ0dsTTQyLXYzbzFwaS1oMlhSVnEw?oc=5",
+   "summary": "Australian Senate Examines Gas Reservation for the Domestic Market    energynews.pro",
+   "publisher": "energynews.pro",
+   "published": "2026-11-12T01:02:35Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-13T01:45:04Z"
+  },
+  {
+   "title": "因抗生素问题，塔斯马尼亚将关闭部分岩龙虾捕捞区三个月—— 澳大利亚广播公司新闻",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTm5ET09GUzdQbVo5ZGg2WWYtRzdjRnFfYjktXzBuXzg3eVBma1pnUVRDcWhJeUFsMkd6bklKd3NmX2ZtUGF1Z2xQdVRHVExtQXNOZmRmR3NyOGtQM0F1ak5ZQ0ozR21qYk0wZEFzVm1tR0RlUGdDWXRudFpJOVgwX1dFYVZRVkE3d0Uxazk0ZXN6QkZiNlkzNkkxMUxwS3hUSW5HdVR2cmdVX3o4SjNJWWpWaXMtX1lqVzZWNFRUNWw3SlVIS3ZfdFpGTmg?oc=5",
+   "summary": "因抗生素问题，塔斯马尼亚将关闭部分岩龙虾捕捞区三个月—— 澳大利亚广播公司新闻    UA.NEWS",
+   "publisher": "UA.NEWS",
+   "published": "2026-11-11T23:07:00Z",
+   "source_id": "gn-zh-fish",
+   "language": "zh",
+   "operators": [],
+   "states": [
+    "TAS"
+   ],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-13T01:45:04Z"
+  },
   {
    "title": "稻花香里 品蓝龙虾",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBQMTh6V2JuZE1qbGRzeXJ4RG5Wd1BCVzRHc3AyWTJRaXhTV2lhTS1vYUxlMGFkNzVLcFFOS1Exb25PT3E0Z1RDS3VNX1gyRHI1YzlQcUQtTnhCZDJJWXItWTA3YUJGOERjUmdEeFJybWFua1k?oc=5",
@@ -184,6 +691,25 @@
    ],
    "projects": [],
    "first_seen": "2026-11-12T02:12:19Z"
+  },
+  {
+   "title": "Dynagas LNG Partners 2Q EPS 39c >DLNG",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNURrTUxXeFVmWUNYSEZoT3R6ZHVDQ21ZMUlVdk0tZUo3WjFlRnlhanNZdWJ6dzZjVjM2Snh3MExzR0xteC1sMkpSV0xXOHZ5WmFjX0JkcGljcV90VERYejUxdFJSdFFxaVpsdDRIcDJnRURJb2M4VS1YNVJiVXFNR1NqaTFYcFhjOWswYTBQbGgwTXpsQkg1NlJjYzFRc2VORktzY2FybUo5YWotVm0zSHNiU0EwbEJGMFE?oc=5",
+   "summary": "Dynagas LNG Partners 2Q EPS 39c >DLNG    Moomoo",
+   "publisher": "Moomoo",
+   "published": "2026-11-11T18:26:59Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-13T01:45:04Z"
   },
   {
    "title": "Burnham lauds £12bn offshore wind investment as he prepares for climate summit",
@@ -342,6 +868,86 @@
    "first_seen": "2026-11-12T02:12:19Z"
   },
   {
+   "title": "Woodside (ASX:WDS) Share Price: Browse CCS Sent to Full Environmental Impact Statement as Approvals Path Lengthens",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdmx4SEhWbFhyMEI4bTNLMkFJSFZLWWFtSE9TNnQyYnNkeEsyZVFBSUhVQ0tLRHBzT3ctYXBJUUtCMVJCQk0xUmdSZGlBNHhzVkEyeV9ZLWo4TGctd1dtUUNfLXpjcWhBV1NUZGgxdFJCSGh1ajd1N01xeXdveGRndmRCakJKN2hyR0NMcV9HMzBKX2Z3a1RUV2pBTjhGcGtlOWJONWU1OWdoanhSR1RYVGJ2aDkxM1Y3NlpwZGRaaV9HX2ZudWd0RDF3LW13TEdGbXFBb0lfbmk3WEtDelE?oc=5",
+   "summary": "Woodside (ASX:WDS) Share Price: Browse CCS Sent to Full Environmental Impact Statement as Approvals Path Lengthens    Kalkine",
+   "publisher": "Kalkine",
+   "published": "2026-11-11T10:38:00Z",
+   "source_id": "gn-ccs",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil",
+    "other"
+   ],
+   "subcategories": [
+    "LNG",
+    "CCS & gas storage"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-13T01:45:04Z"
+  },
+  {
+   "title": "Cadeler Lines Up Major UK Offshore Wind Installation Campaign",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMmtQZUE1VkhDM000Y05ZWkVhM2hFU21TUlJPOGd3WjB2Q1cxQmw0RkdsRV9NdEpSNjltbjNTMWFvd3hjQklsRDRuelE2LW5ZTHQxd0ZGLWtJc0xJVU1kQXZLa1ZXV3Jyb3VWazBrU0FHcUY1eGFmSUFpV1ExWm5MbTlMWGNueDJaZm5USGJqRFlqb2lBOWJ3ZXp0d1UwRFpI?oc=5",
+   "summary": "Cadeler Lines Up Major UK Offshore Wind Installation Campaign    Offshore Engineer Magazine",
+   "publisher": "Offshore Engineer Magazine",
+   "published": "2026-11-11T10:35:12Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-13T01:45:04Z"
+  },
+  {
+   "title": "RWE, KKR Reach Financial Close on 2.8GW UK Offshore Wind Projects",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX0swb3B3MWp5SnYyMXpwbzdiSjFKRFI0aFdxSm9UVTJxLUpFTkdhN0hpNjZJd1JKeDh2YXlUYTk5QUtsQll6Xzg1UTY2RHNKRzIxbHJId1FSdFRfVE5oU0JJdUFfaEd6ek1qS0Y0U1I2UGNQeC16MTRyZVd3RExFREdLOWpxd2ZEekk0aUhnRWk2UVFsVnI4blFtd2ZxdG9lVWRmNg?oc=5",
+   "summary": "RWE, KKR Reach Financial Close on 2.8GW UK Offshore Wind Projects    Offshore Engineer Magazine",
+   "publisher": "Offshore Engineer Magazine",
+   "published": "2026-11-11T10:27:08Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-13T01:45:04Z"
+  },
+  {
+   "title": "KKR, RWE Reach Financial Close on UK Offshore Wind Projects",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcTFkRmdVaEJ4akhFQVFwYjdyamp2aW5nVW44Q3hoT1RQYUxGekpEWHpnZ0Q0eFpoanU5bmdrMVFGazNJWENhTkVtLVVob2pIYzVOMldUUVVvekNFdXg2Z1FtdUQzQjZQT0dqZEhtOTZLc2RiUkhGWVExdlVtZzhSQnpyTkJaR0FnU1J0TmM0ZnJCWFgwQWNBZ3hKTjBFcFFBLVdvYw?oc=5",
+   "summary": "KKR, RWE Reach Financial Close on UK Offshore Wind Projects    Moomoo",
+   "publisher": "Moomoo",
+   "published": "2026-11-11T10:13:12Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-13T01:45:04Z"
+  },
+  {
    "title": "FLEX LNG第三季度调整后盈利及船舶运营收入增长；季度股息维持不变",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQekFSdnVTUThXX0xzcW9xTk10Sk1fcHk2bDNoYjRnQUpUNy1OZ1lESnFENnpoQ0wzVTlPTjdtWmp5ekRtMmpUVU9QR2lyZXl6c0pJZnRaWVJKdnVjM0l4d21fZkdHQklManRobS1IR2d0STZONWRwVS05MmJTS0NQMUR5b0dXNWtEVW9kNm9CMWtYblNlZ3BVc2lUV2xNSm1HUzhGWDJ5ckJDUlJ5REhzNTFsaF96ZjBOR1Q4a3NHNA?oc=5",
    "summary": "FLEX LNG第三季度调整后盈利及船舶运营收入增长；季度股息维持不变    Moomoo",
@@ -418,6 +1024,25 @@
    "first_seen": "2026-11-12T02:12:19Z"
   },
   {
+   "title": "Cadeler 赢得英国海上风电场独家安装合同",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNC0xZm9rZElYbHd3N2FpNFZRcHdUeVFDZ29MMkxlOC05bWdKbWJaM2JYT0hsbUpaYjVSUm5kSjVDTlRmZGd3TjhEWE5aazEtbnpRNE5DVk81Vkxyb1c1dklKbVlzYzEya25wc3BDRHJWY0RjamJHQWE4VkZTV0FSaEI0QkM3U1AtOGlqRTV6MTNKRTJYYUhMemNZbFg5SUdXdVM2bk96alByYnBBOFo4RXc4LThzYXJsV0g3SU43M3NESDh6WkVkY0tLbzdBWnpTRGs4OWNCSTloVURSRExmalBYbnZ5YXBPTnc?oc=5",
+   "summary": "Cadeler 赢得英国海上风电场独家安装合同    Moomoo",
+   "publisher": "Moomoo",
+   "published": "2026-11-11T08:39:55Z",
+   "source_id": "gn-zh-wind",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-13T01:45:04Z"
+  },
+  {
    "title": "Wesfarmers stock faces hurdles over Australia's gas reservation plan - ad-hoc-news.de",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRWdteHRDVTVhZ1B2eGhsLWRaeVBhVVc4WFpwVEdCYVR1SDNMbGZXWFpuRDhVTVlENjZ3MGdFSXBtWFRnQnBqWXlpY2ViVF9sQXpBajRCYzRGS1JwemdQanhPXzR4TEgtbS1INXhrdjgxeWtVTFQxQ09WWHhqR2dIdTlQeXVHY3hHOGlrSDQ5dVQ2NXFZWGllRkVGNGVOWDFOSGk5b0g0VHd3TkFTV1RMdExhbFk0VlFScUZlSW1MRVNkMUJxSGc1c0VkMA?oc=5",
    "summary": "Wesfarmers stock faces hurdles over Australia's gas reservation plan    ad-hoc-news.de",
@@ -454,6 +1079,29 @@
    ],
    "projects": [],
    "first_seen": "2026-11-12T02:12:19Z"
+  },
+  {
+   "title": "How Close Is Woodside Energy Group's (ASX:WDS) Scarborough LNG Project to Its First Cargo?",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTUxaQkkwUGZwNGF3ZWRYVmtRcV9KQ2dZM0tmUURuclVMZmJ3emE3a293TEhwR2RyMW5hZHJYdVJRYmhxTnpfRmcwMVE3c0hBSWZOay11UlhDSVI5NjJiOVMtRXNCckk5ZW5wRi1TU3RzUnJJaXotY0xleDhSTkVwemtDVlIybHBUNUlrSmg1dzVDc2tueXZvczlQWXNvSlNtd0ZNNmdoUVZ2bi10Uk5ScGlSY014VWxPdHpTYw?oc=5",
+   "summary": "How Close Is Woodside Energy Group's (ASX:WDS) Scarborough LNG Project to Its First Cargo?    Kalkine",
+   "publisher": "Kalkine",
+   "published": "2026-11-11T07:45:00Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [
+    "FOS-003"
+   ],
+   "first_seen": "2026-11-13T01:45:04Z"
   },
   {
    "title": "Stokes fires investment warning over PM’s domestic gas plan",
@@ -572,6 +1220,25 @@
    "first_seen": "2026-11-12T02:12:19Z"
   },
   {
+   "title": "NYK to Showcase Ammonia Carrier and Onboard CCS at OXExpo Yokohama",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOGhKd2d6LVdFb0xpaVFJNy1jNmZtcjV3R2RlUnV6X3E3ZktDVmd2Y2oyUGpxUG1QMnVRVVdfQkstN2I2akpldk5RbzZBZWFsMDZJa21vSzd6NlNmVHpRUGFOUmkwSWV0LUdQTGg1b0JSZk9yd1d4LWw0amlLRENWd3dPbHMzSWdWNVBIeHNiWmt3RzZPdWhkbGNFTllPcFg0UktHWGRIMVl4YXhvZ3VaR3FSUlpzU0dEcnlOU0s1eEdUNEU?oc=5",
+   "summary": "NYK to Showcase Ammonia Carrier and Onboard CCS at OXExpo Yokohama    Data Portuaria",
+   "publisher": "Data Portuaria",
+   "published": "2026-11-11T06:00:07Z",
+   "source_id": "gn-ccs",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "CCS & gas storage"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-13T01:45:04Z"
+  },
+  {
    "title": "RWE and KKR join forces to deliver 2.8 gigawatts of new offshore wind capacity in the UK – an investment of around £12 billion",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSGR4ejcwSk9MSkgxZXZlRWx4V0F1WEl5bi1RTnVYNEc5azVpRm9SRHdyc0xUY3c0ZmJna0FNVTRQZnNkLTh4U3A2d0pHbmFCeXFLcVplZ3BUYks5YzlEZF9iRUtDbVVfZEJia25kemlfd0pYdmFGMTV2ZWl2c054V3YzTmd3alNUb3ZyOHl6TkNqajNTYXp5Qm5hcWpUM2gxOXR5dVJDLTlZd01PX1FTYUl0SFVlT2lvbzJkNGd4MFZ3WW85YmIwXw?oc=5",
    "summary": "RWE and KKR join forces to deliver 2.8 gigawatts of new offshore wind capacity in the UK – an investment of around £12 billion    RWE",
@@ -589,6 +1256,25 @@
    ],
    "projects": [],
    "first_seen": "2026-11-12T02:12:19Z"
+  },
+  {
+   "title": "Woodside Energy (ASX:WDS): What’s Fuelling the Fresh Buzz?",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQmxiMDk2ZG5ZRVNWYkViQ1lqWlNBVEZrcjd1eWVpeUVWejdaTmtvYk45V2RUbmRYU1R1V1J2TjNxd2NacS04cEUtQnE2eHpFOGh4LUxxR3FRX3JHNzFXSThGQkdrcmNKM1hVcXZLUWYxWGcxd1VNZW0yWWp0Ri0taUV3MDRKZEpaMGRQSTNNb1lWSkh3M29SVFVR?oc=5",
+   "summary": "Woodside Energy (ASX:WDS): What’s Fuelling the Fresh Buzz?    Kalkine Media",
+   "publisher": "Kalkine Media",
+   "published": "2026-11-11T05:05:00Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-11-13T01:45:04Z"
   },
   {
    "title": "Beach Energy challenges 110% gas reservation",
@@ -726,6 +1412,25 @@
    ],
    "projects": [],
    "first_seen": "2026-11-11T01:10:48Z"
+  },
+  {
+   "title": "Sonardyne Installs Seabed Monitoring Landers at Northern Endurance Partnership CCS Site - News and Statistics",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQekZhQ0xqbmRaVVpGT2JndVRJN05Ra3NEMWlYUERGSUhDOGxEei1RU3AwNTF5ZEl3bVVZN1JMN2JfemdXR19jZmFDV0V6RGMydmhNT1RMRWE4Zm9xUGdJTV9EMnllamYzWHhyR3RkeFFvYmxQaFhzazFLR3JxLTE3VmwxLW1kSTRyUnZqbzh4LUxyd3dxNEQyMnRBcm1FME8yR293Um1jNUZVSGlOckU3bQ?oc=5",
+   "summary": "Sonardyne Installs Seabed Monitoring Landers at Northern Endurance Partnership CCS Site - News and Statistics    IndexBox",
+   "publisher": "IndexBox",
+   "published": "2026-11-10T11:31:18Z",
+   "source_id": "gn-ccs",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "CCS & gas storage"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-13T01:45:04Z"
   },
   {
    "title": "Australia gas reservation draft faces criticism over GLNG exemptions",
@@ -1031,6 +1736,27 @@
    "first_seen": "2026-11-10T03:23:08Z"
   },
   {
+   "title": "Western Australia, Australia Earthquakes: Latest Quakes",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUUNFb2VrVU5BWUdZa1JhcEFaOWhCR08wU252VXBPMGRXVGVHa0RyWEduUjV0VzRLbW04Z0xHMl9xaExjQXBTVldEQzg2dzVEVTdrLTEwNmdQRDdLU2IwVklMdUU3Mks4aVNQTjVQSzlCcFNhbTRubHNkdDlRcHEtak5aVF9VVlg2U1RFTTNaZjJhenpZVFZ5M3l1UEpfbF9jY1dCX09vNTQ5cFF2eHRINjhiOFRlNERQV3E5ODVFMjlBSFhvdllZelowMWpkSVd6XzZwN1JaS3I0cEdRdDdCQ1VRcksyQQ?oc=5",
+   "summary": "Western Australia, Australia Earthquakes: Latest Quakes    Volcano Discovery",
+   "publisher": "Volcano Discovery",
+   "published": "2026-11-09T14:30:51Z",
+   "source_id": "gn-ports",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "WA"
+   ],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Exploration & appraisal"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-13T01:45:04Z"
+  },
+  {
    "title": "PetroGreen, Ming Yang to partner on 2 GW of Philippine offshore wind",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWnQwRmc1N3J2RHc1MmFETDFNQzRlZ2ZSb0N6dm5leGs4LXo3MVFDci1TbnNKX2oyZVVGWTA1RXg5c3NRVnpFcHZPOHRxNUlLVVNrZ045eUg5S053ZWF2TFJVUHA4Sk0ycTlkaUswWVkzeVlqRzRTbzI2ZUtXMzJ5cHQ2OEhGMnVLanRwVnBqdmdMbmFEdzY1dEtGNjRlVVZ3WmlXeFJ5NmRadWs?oc=5",
    "summary": "PetroGreen, Ming Yang to partner on 2 GW of Philippine offshore wind    Renewables Now",
@@ -1145,6 +1871,25 @@
    ],
    "projects": [],
    "first_seen": "2026-11-10T03:23:08Z"
+  },
+  {
+   "title": "2026中国国际渔业博览会展会报告出炉",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01MlBKdjJSaTM0SFNyaVVoeEdPcnhWeWNlQzNfTXBKYlA4SUFlR2lxSlQ4UEJxNDNjV0trcTZ0RU0xNkJYZVVCNWxJYmNYd2dpcEE?oc=5",
+   "summary": "2026中国国际渔业博览会展会报告出炉    观海新闻",
+   "publisher": "观海新闻",
+   "published": "2026-11-09T09:18:00Z",
+   "source_id": "gn-zh-fish",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-13T01:45:04Z"
   },
   {
    "title": "Cook calls for WA carve-out from national gas reservation",
@@ -1680,6 +2425,25 @@
    ],
    "projects": [],
    "first_seen": "2026-11-08T00:22:23Z"
+  },
+  {
+   "title": "Veolia Expands Its Middle East Footprint with Major Desalination Projects",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY2JVb0I0bzNYUHVnc1RLLVM3R2R0Ym1QR0xBV3hWc2V1R1ZwMkotaXEzR2xMalMxeFZVM3hsREtVeldId0h2RFlqV0tnbzAtR1JBTEljQU9rQkZEQ21iQ3YtTkFjWkY1YjQ5S2ZidEZXWEp0em5BdFYyMDItT1FjN1dCbFBOTUZZS3piekdYRjF5bWNqWEVyMHVXNktVbG9JTEVFYTh5Zw?oc=5",
+   "summary": "Veolia Expands Its Middle East Footprint with Major Desalination Projects    intlbm",
+   "publisher": "intlbm",
+   "published": "2026-11-06T08:14:57Z",
+   "source_id": "gn-desal",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Desalination"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-13T01:45:04Z"
   },
   {
    "title": "三菱商事将DT LNG Canada Partnership列为指定子公司",
