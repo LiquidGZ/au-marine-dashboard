@@ -1,72 +1,72 @@
 {
- "fetched_at": "2026-11-13T01:45:04Z",
- "added_this_run": 38,
- "total_items": 899,
+ "fetched_at": "2026-11-14T01:22:50Z",
+ "added_this_run": 21,
+ "total_items": 920,
  "earliest": "2026-09-30",
  "errors": [],
  "per_source": {
   "gn-lng": {
    "in_feed": 26,
-   "new": 7
+   "new": 4
   },
   "gn-gas-policy": {
-   "in_feed": 27,
-   "new": 3
+   "in_feed": 26,
+   "new": 1
   },
   "gn-decom": {
-   "in_feed": 5,
+   "in_feed": 4,
    "new": 0
   },
   "gn-wind": {
-   "in_feed": 26,
-   "new": 6
+   "in_feed": 28,
+   "new": 5
   },
   "gn-wave": {
    "in_feed": 3,
    "new": 0
   },
   "gn-ccs": {
-   "in_feed": 9,
-   "new": 3
+   "in_feed": 8,
+   "new": 0
   },
   "gn-aqua": {
-   "in_feed": 32,
-   "new": 5
-  },
-  "gn-fish": {
    "in_feed": 30,
    "new": 5
   },
+  "gn-fish": {
+   "in_feed": 24,
+   "new": 1
+  },
   "gn-desal": {
    "in_feed": 6,
-   "new": 4
+   "new": 0
   },
   "gn-cable": {
-   "in_feed": 11,
+   "in_feed": 12,
    "new": 0
   },
   "gn-ports": {
-   "in_feed": 16,
+   "in_feed": 13,
    "new": 1
   },
   "gn-minerals": {
-   "in_feed": 2,
+   "in_feed": 1,
    "new": 0
   },
   "gn-zh-energy": {
-   "in_feed": 15,
-   "new": 1
+   "in_feed": 14,
+   "new": 2
   },
   "gn-zh-wind": {
    "in_feed": 4,
-   "new": 1
+   "new": 0
   },
   "gn-zh-fish": {
-   "in_feed": 19,
+   "in_feed": 17,
    "new": 2
   },
   "gn-zh-other": {
-   "in_feed": 3,
+   "in_feed": 2,
    "new": 0
   },
   "offshore-energy": {
@@ -83,12 +83,351 @@
   }
  },
  "by_month": {
-  "2026-11": 301,
+  "2026-11": 322,
   "2026-10": 597,
   "2026-09": 1
  },
  "note": "Append-only archive. meta.news_days_to_keep controls the site's default window, not storage.",
  "items": [
+  {
+   "title": "Is Tasmania's salmon industry willing to 'play by the rules'? - ABC News & Headlines – Australian Broadcasting Corporation",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdWdOWGw0ZXRORHBTRFAwcjE2YURQWHRrT1lLblZkMlh1T3RZMGpRZEd1NWlNQ1lDT1JWdm9YdnpLYVpRTlg5bTlXRjNnWmhhU3lFYk04UDhwZGl2cGpZaGlXYldxNHFwa2hFdXp5b1NHdktJbnNVUmdPR3JHTkFmXzBqSzdYeHZ0eEplbnNFSlFvVzlKN2U1b2xnc1dHb2VqU2tJTQ?oc=5",
+   "summary": "Is Tasmania's salmon industry willing to 'play by the rules'?    ABC News & Headlines – Australian Broadcasting Corporation",
+   "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "published": "2026-11-13T21:12:33Z",
+   "source_id": "gn-aqua",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "TAS"
+   ],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Finfish aquaculture"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-14T01:22:50Z"
+  },
+  {
+   "title": "LNG Prices Soar. These Exporters Could Benefit as Europe Faces a Tough Winter. -- Barrons.com",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZHYwSzg2OXp0amFveHZOLTdkYXlYQjNyNGdxc3RWNHczV21GRUxxT2o1bkI0UFcwZERpUV9hczJ6Z2otOTJpdW8tYlNBMkdGSXBBVnFTZEpjd05GOGNBd1Y0YWFJdl8yU3BoNVJDSzhXMHMwcEJZRjZZZVU1cV9fcXR5SEtXTVpfOFA2VVJrOXJZamhDV0FxaU5nZFRTQ1ZOTFBYN2dGd2NaVURQT0Rn?oc=5",
+   "summary": "LNG Prices Soar. These Exporters Could Benefit as Europe Faces a Tough Winter. -- Barrons.com    Moomoo",
+   "publisher": "Moomoo",
+   "published": "2026-11-13T20:45:49Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-14T01:22:50Z"
+  },
+  {
+   "title": "Fortescue stock linked to Port Hedland green-ammonia push - ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSkU1cVZ0bWdRcnhxRGMteEloLXl3bjBGdkRrOTY1U3VYbFpHS2U3aEY4RjlxUUFoSkIxblctaFMzQkJULTNVZ3pQQ0lqdTZ3am5ncHBlWXVSeW5NQzRMN0R6bFF5cm5sdDF2RUxHaUJvVmJ0THZiZnVRWldleE1sVXBpZUNrUDR4NWh0dnRHWF9iQ3lsc295MTJjdV9oQktseFNiaGluY0ZYVUhlNVdfemNzTFljWC04YU1oMw?oc=5",
+   "summary": "Fortescue stock linked to Port Hedland green-ammonia push    ad-hoc-news.de",
+   "publisher": "ad-hoc-news.de",
+   "published": "2026-11-13T19:38:08Z",
+   "source_id": "gn-ports",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "WA"
+   ],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Ports & LNG terminals"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-14T01:22:50Z"
+  },
+  {
+   "title": "Woodside's Scarborough 99% complete, first LNG cargo on track for Q4 2026",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE03MUN6bkhuZnZ1YUZkbVJITjl6RlliNTJpMDgwc2dhN1VEeHBMUlRSR3doZEFoT3g2MXhqTTJBdG1lTHA5QWh5cUd1dVBMdlJE?oc=5",
+   "summary": "Woodside's Scarborough 99% complete, first LNG cargo on track for Q4 2026    Trend News Agency",
+   "publisher": "Trend News Agency",
+   "published": "2026-11-13T13:23:00Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [
+    "FOS-003"
+   ],
+   "first_seen": "2026-11-14T01:22:50Z"
+  },
+  {
+   "title": "Massachusetts, Nova Scotia seek input on offshore wind cooperation",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV0I0RGd0eXNkSU4yOEg2ZE84LW5RbmR0Zm1ScFMyVkFOTXh0cVFsbmhScmdBcEZheEE3SjVER2F2Rkhxb2h2czJCbTkzbXVmallfMGZjTHlBNllyV0NPMWs1Qm4yR3dfQWhtY2JpTlNCSU96am9DRV9RUnk2UkVicWZXQXpmRFJjenVlQ1p6MGlVRlk5MUdFV0hhbXhBUzV5cjd5bTlGaDc?oc=5",
+   "summary": "Massachusetts, Nova Scotia seek input on offshore wind cooperation    Renewables Now",
+   "publisher": "Renewables Now",
+   "published": "2026-11-13T13:17:54Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-14T01:22:50Z"
+  },
+  {
+   "title": "山海入馔，文脉作席|走进黑珍珠餐厅璞悦荟",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9laF95VTFkWkl4MDBqQWs1MmlWX2JydlBtczU3QV9IMUdCM005cjVXT0hWOUVHcUZtakZ1LXRuQWZyd0JXbF9veC1hdV9YMk9fMUpPcUkyb2pRVkJqOVdWRWFFYzNxWjVySGR6MQ?oc=5",
+   "summary": "山海入馔，文脉作席|走进黑珍珠餐厅璞悦荟    温州新闻",
+   "publisher": "温州新闻",
+   "published": "2026-11-13T13:08:08Z",
+   "source_id": "gn-zh-fish",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Shellfish & pearl aquaculture"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-14T01:22:50Z"
+  },
+  {
+   "title": "Woodside sees market volatility boosting demand for reliable LNG supplies",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lWkRBNXN4MVlqNFhLT3hCZ0l3UEFVZkN1R2dVam1abFVIX0FHQUFSdmhCTTJwdDg2WE5oMVFjZ0R1RmtDWC1MX21MRjlqQmZE?oc=5",
+   "summary": "Woodside sees market volatility boosting demand for reliable LNG supplies    Trend News Agency",
+   "publisher": "Trend News Agency",
+   "published": "2026-11-13T13:05:59Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-14T01:22:50Z"
+  },
+  {
+   "title": "市场传闻：恩桥Woodfibre液化天然气项目将获得加拿大政府$1.4亿资金支持",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa05rQ0o0U3JyU291MjNUdGVlR0R1UDBCcUFheUhQbGRydXQyRVhvRjMtMmp0TXVBclIxaElaT2w1ZGJOaEhnb3ZtaW1YSVMxdzBMUkZjRUk5LTA3YlctZXNlOUZncFFlVG5SYXhuQjNHX0FSNkktOFhLa3U3bG1rX2J3TkJyM1gzSkVJNk5qRmFEclZCU2VTX0tDdGxDZ0xNVDNMOUZRcnBkV3VhR0lYUA?oc=5",
+   "summary": "市场传闻：恩桥Woodfibre液化天然气项目将获得加拿大政府$1.4亿资金支持    Moomoo",
+   "publisher": "Moomoo",
+   "published": "2026-11-13T12:20:06Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-14T01:22:50Z"
+  },
+  {
+   "title": "Oyster farmers begin recovery after damaging Australian algal bloom",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM01yNnJ4OXVLbzRJZmgzdG5yRk5OZlZVa2ZHWlhQX1hSTzRpMmVadzkzaVk5WUdzQmhuRFZzRE5qc1hFQ1NDLUxWeDJrakt5TnlCcEFFNHhwOV9QbDdSSjBYazdER2R2QVVLUGZGakdsa3E3MzNISlVkZnZITGJtTjBJTjdRUQ?oc=5",
+   "summary": "Oyster farmers begin recovery after damaging Australian algal bloom    Yahoo News Canada",
+   "publisher": "Yahoo News Canada",
+   "published": "2026-11-13T11:33:04Z",
+   "source_id": "gn-aqua",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Shellfish & pearl aquaculture"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-14T01:22:50Z"
+  },
+  {
+   "title": "Tasmania closes off rock lobster, dive fisheries due to trade risks associated with salmon-farming antibiotics",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcmg3ODdnWm1pbUJwQThtV3ZHUlowUWM1Sm03YzM4My15c3pydzM1cjEtM3lQb21yeWk1VFhReVlWc1RBT3Z4Nk12MzR5LTI2VWlqd1FVeWhZTDdtcEduNkMwM2pHX0stcFpCcEo0bWRENE8yNndyTDFTS1hGMHpqOFRfbzdPdWliLVNlYnJCTmtyXzU5UkZlZzc3S0YxUjdJbENzZGIwbXNnckxEc2dqNThGLXB5WV9XLXpNd2NnckV2Nkc5YjUwYjVLZjZSQ3MyNXVlSm51NVdrS1pE?oc=5",
+   "summary": "Tasmania closes off rock lobster, dive fisheries due to trade risks associated with salmon-farming antibiotics    SeafoodSource",
+   "publisher": "SeafoodSource",
+   "published": "2026-11-13T10:30:00Z",
+   "source_id": "gn-aqua",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "TAS"
+   ],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-14T01:22:50Z"
+  },
+  {
+   "title": "Offshore wind saved a struggling New Bedford union. Now its future is uncertain",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOY3JQbjBfdzFYRzR5VDl5NFQwQlMzYktkNFJmaEZVYVZSTG8wUXF3X1B3bmd6TmhIVUlnT01ScnpEZEczWGZGeTNhdV9YTzhfT2lXWlVPaS1HR2ozd043QUtmem5OakxfSjF5dDMyVjExLXc5bjhqRm9KVHFxQld1TF9MZjlYelZfUHNfQzJHd0M5OHpHUjlaYmM1VzlNS3pZaTAzdmVjTG1TMGJsajhVZ0xiYk04Y211TjNJV2VmUXd1ZkcwYWs4dEJQRS1XdWNlUTBVQzl0eXU?oc=5",
+   "summary": "Offshore wind saved a struggling New Bedford union. Now its future is uncertain    Ocean State Media",
+   "publisher": "Ocean State Media",
+   "published": "2026-11-13T10:00:00Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-14T01:22:50Z"
+  },
+  {
+   "title": "Duo take FID on $16 billion UK offshore wind projects",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTlpoNFFnZkd5TjNtLWl2c0pVcE9NOFlqUDJDUVdOYXZLRmVuNExsQ0xTTDZXb3Y4clVSaEt5Rll2bjJqV0p3bDlkQ2VaU2xsM0lTSlVGY3RWODlFWW1GSDJ2X194UTRsb1NsU3ZGRTdxMUhnYVRLNThSU3ZmeGJ5X29Zc3dQdGZNRjJjUVRzbW5CX3dsNjJwMlQ3OTBuQkVKSDkzV2VnNmp3OUU5dFQzWE1mVQ?oc=5",
+   "summary": "Duo take FID on $16 billion UK offshore wind projects    Upstream Online",
+   "publisher": "Upstream Online",
+   "published": "2026-11-13T09:21:50Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-14T01:22:50Z"
+  },
+  {
+   "title": "珀斯机场的龙虾，要臭了！微软宕机致西澳海鲜出口受阻！损失或达数百万！",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pU0stRTR0ZHN1M1J2bE1qRGNtM0VKX0tHbExCR09YQXlWb0tiSEhXUy1EZUNlYkh1WFpKYUFhYUhvbmN3MG9pT2FHN3dvRDU1TnZEbGdn?oc=5",
+   "summary": "珀斯机场的龙虾，要臭了！微软宕机致西澳海鲜出口受阻！损失或达数百万！    YeeYi",
+   "publisher": "YeeYi",
+   "published": "2026-11-13T08:48:17Z",
+   "source_id": "gn-zh-fish",
+   "language": "zh",
+   "operators": [],
+   "states": [
+    "WA"
+   ],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-14T01:22:50Z"
+  },
+  {
+   "title": "Eni closes in on winner for Argentina FLNG prize as FID nears",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdGF5MHNUeUxIOWFtbVp1a1JnUl9wYUh3dU1LUlFEYmRndzFJMmFqNkVNaVFKeXpiWndSWEQzd2h2NFhFMEdGTlNzQWRtM1V0WnJPdmtwd2RSNGlfYjFIbGt0Z05GSlJNSHhXSWp5S1RHNjZDeS1KOVlBeVp3QjVXZVRKVjBDVWgxbDUweE9rT3Fvb09fRnpUY2lYSnJRSUcyV2RTSXFxMVdSSEhIYldNLUVBSTM?oc=5",
+   "summary": "Eni closes in on winner for Argentina FLNG prize as FID nears    Upstream Online",
+   "publisher": "Upstream Online",
+   "published": "2026-11-13T08:16:48Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-14T01:22:50Z"
+  },
+  {
+   "title": "South Australia's oyster industry begins recovery",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSlgtQWp6OEs1TDBzbVoxN1BGTWlnTmdTbk9UTVRKeGFZeFNBQmR5VUlwOVdCMDdaVTBiVTd6QjhBWDFlcDNoekZHQnFRWjdlaUVWMkNuTFBRcUsySERYVHJHRElHVGxvVkFlTnEzUjh2Qzk3UTdham1ZeGc3VVF5bEpKUVRZdEFBQmwwakRWbjJ6TVhkb3JJWUdn0gGfAUFVX3lxTFBjSTBmRXhjUnJXdi1XdE5WTTBDeHptQ1lubEstNU12Mnh0TFU2a0psb3FkTmhDcU14WFFXV0M1ektNMnhxdXlNMHptcHVYemdtVUo5ZVlLTkZmdUNId0dBTldoU3VMbXJMT0JaaFJYMnRCTE0zR3BtcUZtalBHaVpkdTZlX1BHNW1oajBHODNXc2t5TXp4azk1ZnozNUFEMA?oc=5",
+   "summary": "South Australia's oyster industry begins recovery    WION",
+   "publisher": "WION",
+   "published": "2026-11-13T08:14:00Z",
+   "source_id": "gn-aqua",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "SA"
+   ],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Shellfish & pearl aquaculture"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-14T01:22:50Z"
+  },
+  {
+   "title": "Salmon farm antibiotic use impact 'completely unfair' cray fisher says - ABC News & Headlines – Australian Broadcasting Corporation",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOLTJoZW95bmY4OEJCdUoyWF9IeTF5ZkdycnQ2bGIwUmxFMTNIeHNTeW1Db1M5SXZYTzhRMWdWV01zT2N6cjh2bnZjem5pLS1yR2E1NTBRSDBwWGdvaVFKODNrN3M1NnVCU2FhV0djYW5tWVhhY0xHaDhkN2lNNXdDeUs4V213NmdlY2M5ZDNCVjVNRmkxMVN3eUtEUm1TUXc?oc=5",
+   "summary": "Salmon farm antibiotic use impact 'completely unfair' cray fisher says    ABC News & Headlines – Australian Broadcasting Corporation",
+   "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "published": "2026-11-13T05:19:18Z",
+   "source_id": "gn-aqua",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Finfish aquaculture"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-14T01:22:50Z"
+  },
+  {
+   "title": "Opinion: The gas reservation scheme needs more work",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOT3NjU0ZFTEVob2FMUGxGaU13QTlhUzl1OWMyU1dtdktHZ1pTZlJiYUs1XzVYQXo1MVlIbHFaMW12ZlhMRHJLM0JuQjlJQl9zeGNPY0VQc055TlJkMi1kQUtUZ3k2djNrbTJlYVpKRExLcU43Y1VTc1FVVUE2aktSZHE2azAtTmNKWlUxeTd5ZV9IX2l5dE1RN0Y1dzlxZVU?oc=5",
+   "summary": "Opinion: The gas reservation scheme needs more work    Energy News Bulletin",
+   "publisher": "Energy News Bulletin",
+   "published": "2026-11-13T03:30:51Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-14T01:22:50Z"
+  },
   {
    "title": "Offshore regulator calls out Woodside, Santos for leaks from Australia FPSO",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMFFQTnJPbGhZelV5Wm5VTkxkdzFwQk1aTzl2NGNxLXNVcmhTa0lOSjRWUFF0dl9NR0otZVIxRWNVY2JkVVhBU0xINnNSb2dpeDZlcUZtZjhZeFB2MUFZemNsX1YtbG1iYkFSUXV6a3Bnc3d0bGticWtSNTNWX3ZsU0thVTBKaGNmekFBVV80Rm1fb3ZyaTA2SzZ4TXdpcG1va3poRVdJZEwtUy1BQkJuTHJiWmxoR0RMWnJpWXdMMTc5M2dYRUtKZg?oc=5",
@@ -112,6 +451,27 @@
    "first_seen": "2026-11-13T01:45:04Z"
   },
   {
+   "title": "ExxonMobil sanctions eighth Guyana FPSO in Stabroek",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZTFVa1M5LTVRd1Bnd1c2ZGd5YzlRb3dtcmtqUm54azdSY3FYaklYZ0xucW9nR1VKM2Jna0NyXzZFM3dNRG0xb1RIcnppNGJwLWpQWWZrcVNWWjdQdkh5X1ZPZDdpSnpBZ240WWtrTTdIR2V2V29Nb2hTblFmU19rZVNRX0c4S2p0c2xodnUwZlE0X2VBdmlLM0E3VmswVUZTZjRtMzlvelZSWWpsVmxQbHpn?oc=5",
+   "summary": "ExxonMobil sanctions eighth Guyana FPSO in Stabroek    Upstream Online",
+   "publisher": "Upstream Online",
+   "published": "2026-11-12T21:52:02Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "ExxonMobil Australia (Esso)"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Oil & condensate"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-14T01:22:50Z"
+  },
+  {
    "title": "How Could Papua LNG Add to Santos’ (ASX:STO) Expanding Production Base?",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSVpoUC0xMVFhYjF3ZnRmQm5iMk5oU0hRcW9LYmw3aHZxa0RabW4yRl8yOU4zN19USUZyeHl0UElfOFNqaXZ6MTBCVE5uVXY5SFhmaEZEWTU3OFFjZWlJUk1GQ2k5ZEVudGFKZHY3US1xZGl6cEZxS201aVk1R3dIVERsUTNRdUVGRm45MUV4RHJ6VDd5UHg1S21OYzB6X1RLTzlxUm9hMm9QUTdZ?oc=5",
    "summary": "How Could Papua LNG Add to Santos’ (ASX:STO) Expanding Production Base?    Kalkine Media",
@@ -131,6 +491,25 @@
    ],
    "projects": [],
    "first_seen": "2026-11-13T01:45:04Z"
+  },
+  {
+   "title": "Nova Scotia and Massachusetts team up to explore offshore wind energy",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRnd1eUN2RURIc05OMFcxVjBaSGN6QTl5OTNnVmt5QzVBcWtYdHlyZnBjb3J5aGs1ODZ0TmZYb3lFcFhfYks0bFUtaE5SSDZVZzlCbnd1c1I5c3dGMVR3RHVqWGdEUTg4YlZvQUQ2ejA3V2hRalpzWlBOTm5qZ25ZY1RMRFI0LVV0QWVLa2dDWW4?oc=5",
+   "summary": "Nova Scotia and Massachusetts team up to explore offshore wind energy    Yahoo! Finance Canada",
+   "publisher": "Yahoo! Finance Canada",
+   "published": "2026-11-12T19:41:08Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-14T01:22:50Z"
   },
   {
    "title": "1,907 tonnes of salmon died in Macquarie Harbour over 15 months",
@@ -354,6 +733,25 @@
    "first_seen": "2026-11-13T01:45:04Z"
   },
   {
+   "title": "Healey administration looks to Nova Scotia for offshore wind energy",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdTdQc2VObWxXRXRERU9YZmstQ1VUSDlaNE1FT3dyOXRlSnEyQmdIMTRtSmhOU0gyXzZNT1BYb1JtVW0tOHkwUnQyLXU4dzBxUEZfLUhJbC1YM2RYZ3g4RC1JRWhpNS03eWE5NnpkbmpFRTJ5Y05ENlF5S3Naa01SR3I3b01QSzhHakNLbXZ6V3FjZw?oc=5",
+   "summary": "Healey administration looks to Nova Scotia for offshore wind energy    The Boston Globe",
+   "publisher": "The Boston Globe",
+   "published": "2026-11-12T09:00:00Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-14T01:22:50Z"
+  },
+  {
    "title": "NOPSEMA intervenes in Cliff Head fall-out",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUW91aG5TdEwxSVI3UTFQQ2JXWnR5Z25Ccjl6dC1FMm9TY0gzLUlPaTlXT01CbmF4Z2RkUGNWcF9TR3JGYnIwWlhPOEJEUUo2MHlYUENNMTRTRWJmdFA5c0k4QmhESWd6MWNZblNVVUFIb2k0b0tJN3ZBUE5EaThJbXE0ek1HWHdyelliaTBUdjZHR25vZUhaYVhZSUwyaDd4a3RKWA?oc=5",
    "summary": "NOPSEMA intervenes in Cliff Head fall-out    Energy News Bulletin",
@@ -535,6 +933,23 @@
    ],
    "projects": [],
    "first_seen": "2026-11-13T01:45:04Z"
+  },
+  {
+   "title": "[Interview] Chef Kang Leo brings Korean abalone and seafood to London with K-seafood masterclass",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rZU1QbHJDTHZmWHlyS3JvU3pJdmZJcXNpUWdfcFpEWFNWMWhwM0JLN19wWEszaHhWc2V0RFBPb0xJTkVGVzNZTzZObFVUb25USWVVTkxDNU5WQTl5LU5STHZ3aVFmeVNONmVtX3VB?oc=5",
+   "summary": "[Interview] Chef Kang Leo brings Korean abalone and seafood to London with K-seafood masterclass    머니투데이",
+   "publisher": "머니투데이",
+   "published": "2026-11-12T03:00:00Z",
+   "source_id": "gn-fish",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-11-14T01:22:50Z"
   },
   {
    "title": "Australian Senate committee backs 20% LNG gas reservation scheme",
