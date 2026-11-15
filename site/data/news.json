@@ -1,69 +1,69 @@
 {
- "fetched_at": "2026-11-14T01:22:50Z",
+ "fetched_at": "2026-11-15T00:56:34Z",
  "added_this_run": 21,
- "total_items": 920,
+ "total_items": 941,
  "earliest": "2026-09-30",
  "errors": [],
  "per_source": {
   "gn-lng": {
-   "in_feed": 26,
-   "new": 4
+   "in_feed": 23,
+   "new": 2
   },
   "gn-gas-policy": {
-   "in_feed": 26,
-   "new": 1
+   "in_feed": 24,
+   "new": 0
   },
   "gn-decom": {
-   "in_feed": 4,
+   "in_feed": 3,
    "new": 0
   },
   "gn-wind": {
-   "in_feed": 28,
-   "new": 5
+   "in_feed": 29,
+   "new": 6
   },
   "gn-wave": {
    "in_feed": 3,
    "new": 0
   },
   "gn-ccs": {
-   "in_feed": 8,
+   "in_feed": 7,
    "new": 0
   },
   "gn-aqua": {
    "in_feed": 30,
-   "new": 5
+   "new": 2
   },
   "gn-fish": {
-   "in_feed": 24,
-   "new": 1
+   "in_feed": 22,
+   "new": 2
   },
   "gn-desal": {
-   "in_feed": 6,
-   "new": 0
+   "in_feed": 10,
+   "new": 3
   },
   "gn-cable": {
-   "in_feed": 12,
+   "in_feed": 13,
    "new": 0
   },
   "gn-ports": {
-   "in_feed": 13,
-   "new": 1
+   "in_feed": 8,
+   "new": 0
   },
   "gn-minerals": {
    "in_feed": 1,
    "new": 0
   },
   "gn-zh-energy": {
-   "in_feed": 14,
-   "new": 2
+   "in_feed": 15,
+   "new": 1
   },
   "gn-zh-wind": {
-   "in_feed": 4,
+   "in_feed": 3,
    "new": 0
   },
   "gn-zh-fish": {
-   "in_feed": 17,
-   "new": 2
+   "in_feed": 12,
+   "new": 5
   },
   "gn-zh-other": {
    "in_feed": 2,
@@ -83,12 +83,147 @@
   }
  },
  "by_month": {
-  "2026-11": 322,
+  "2026-11": 343,
   "2026-10": 597,
   "2026-09": 1
  },
  "note": "Append-only archive. meta.news_days_to_keep controls the site's default window, not storage.",
  "items": [
+  {
+   "title": "Capiz Leads Western Visayas in Fisheries Production with Over 117,000 Metric Tons of Milkfish",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNTBRWUMzRlc5bTdRZFh3bHRJRC1DMF9vSnN2aXlOZ0kyRTV4ZTFWREtKRkxBX3A5NUVDWEhlVFZsa3RkcFMteEZLRjFuRXh4ZjVRWmJma3NXZk96c1lIa09tVmFBaS16QmJ3M2RKYzVrVzhocTBDS1FTbS1mY1hDLS1TSVBDOS1mcFFxY1Y1aTdPMkVlXzB4bWdJRWhvb3NuYW80Wno4SVAtUzUxbUEw?oc=5",
+   "summary": "Capiz Leads Western Visayas in Fisheries Production with Over 117,000 Metric Tons of Milkfish    Daily Tribune",
+   "publisher": "Daily Tribune",
+   "published": "2026-11-14T17:07:30Z",
+   "source_id": "gn-fish",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-15T00:56:34Z"
+  },
+  {
+   "title": "America's Offshore Wind Industry Is Growing Despite Trump's Crackdown",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeWMwNGN5cjRsVzBvTG80TFlhUjlwS0kzLUJyUHdWc3pkamZidmx6b2xra1J4SkhaaVAtcVFvNzZJMWJIMXZ6M1pOMng4SEFnRk9aYXZOeGxUeGhNb1k4SGN0YjNDM2w3c3RMU1ZQaFR1UTlGR1hBUkMwWXliWW9WSDgxOFBDcGZ3NEFlYUpWYS1hUVZIdnIxWlhqRzloZkZ6Y3h0c2Y3TWhBS0xIaDZmcThUXzNRMFJHejQ1OC1Ud0NQOC1xc2fSAcYBQVVfeXFMTXljMDRjeXI0bFcwb0xvNExZYVI5cEtJMy1CclB3VnN6ZGpmYnZsem9sa2tSeEpIWmlQLXFRbzc2STFiSDF2ejNaTjJ4OEhBZ0ZPWmF2TnhsVHhoTW9ZOEhjdGIzQzNsN3N0TFNWUGhUdVE5RkdYQVJDMFl5YllvVkg4MThQQ3BmdzRBZWFKVmEtYVFWSHZyMVpYakc5aGZGemN4dHNmN01oQUtMSGg2ZnE4VF8zUTBSR3o0NTgtVHdDUDgtcXNn?oc=5",
+   "summary": "America's Offshore Wind Industry Is Growing Despite Trump's Crackdown    Crude Oil Prices Today | OilPrice.com",
+   "publisher": "Crude Oil Prices Today | OilPrice.com",
+   "published": "2026-11-14T16:00:00Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil",
+    "renewable"
+   ],
+   "subcategories": [
+    "Oil & condensate",
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-15T00:56:34Z"
+  },
+  {
+   "title": "高价龙虾如何辨真伪？澳洲研发AI技术追踪来源",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KLTdLWnpjNVFnQWk1cjYtVG9nelNKRG94WW10d3BnLVlxZmVjZ3RYcVVjbVlneWw3MFJKREZVVjg5Wkd1ZnVPVnBMUUt2b1JuSnFTUjJHdFppYi02TlNfU1J6SzBEVVJraW5NY3N6VnI?oc=5",
+   "summary": "高价龙虾如何辨真伪？澳洲研发AI技术追踪来源    8world",
+   "publisher": "8world",
+   "published": "2026-11-14T14:35:06Z",
+   "source_id": "gn-zh-fish",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-15T00:56:34Z"
+  },
+  {
+   "title": "你吃到的澳洲龙虾，24小时前可能还游在海里",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xQURwcEd1eTBId3hzX05CVnFQTmxmY2FmUUdwbVU2czVSaWVFa0ZTVFpWb3YtdjNwVGx2bjRpdjlIT0lFWkhCQ0hyNkhVZjJjNUlQY1JFVUVsQW1VSlhCOHB0X3hnMjI0?oc=5",
+   "summary": "你吃到的澳洲龙虾，24小时前可能还游在海里    中国新闻网",
+   "publisher": "中国新闻网",
+   "published": "2026-11-14T10:02:09Z",
+   "source_id": "gn-zh-fish",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-15T00:56:34Z"
+  },
+  {
+   "title": "（深圳APEC）榴莲、龙虾漂洋过海 APEC生鲜奔赴中国餐桌",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vczNNbXp3MjR1VjN1N3BkOEtpcVJWZ2Q3cFVNT3UtOUJoQkRhVnVUMm5SY3RnY0xIMW8wb0lFZnNBSndzbWxjZmVnOWN4RXl6Sy05SVRCazV2YkhHN29GcmdaMDJxSTlM?oc=5",
+   "summary": "（深圳APEC）榴莲、龙虾漂洋过海 APEC生鲜奔赴中国餐桌    中国新闻网",
+   "publisher": "中国新闻网",
+   "published": "2026-11-14T06:51:38Z",
+   "source_id": "gn-zh-fish",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-15T00:56:34Z"
+  },
+  {
+   "title": "VA Tech Wabag (NSE:WABAG): Why Was Its USD 272 Million Saudi Desalination Order Cancelled?",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOc0FHN3RmUGpFMjkyZElTMDU1NVNJMGV4RjJ6amQzaWtKd1NycXpQRThGMElWbm9EOVZWdGh4d1BYRjVOVkdUU0NxLW9JTnJTSzNWMlBKZmVZajA4M1E1V2JDQnNqeklpbGREcGxIXzhaZUkyS0dEeDU1aVBwcTdaVEV1Tm9kRTNUOWpOb0FoUy1UZDloeEY0dWg2Q2JnYWFoeGtkTnlqZktFdTdiWGdiaGlfcWxHcEpPZ3phODV3bDNPV3QwcXM4d0dOSktjZw?oc=5",
+   "summary": "VA Tech Wabag (NSE:WABAG): Why Was Its USD 272 Million Saudi Desalination Order Cancelled?    Kalkine India",
+   "publisher": "Kalkine India",
+   "published": "2026-11-14T02:58:00Z",
+   "source_id": "gn-desal",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Desalination"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-15T00:56:34Z"
+  },
+  {
+   "title": "安记海味双11最后召集！加$1多1件！溏心鲍鱼、花胶汤包限时优惠",
+   "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxOLVFrX3pzS05qTkp3RUdJRTdWS1M3X3VKUEFTWWYxdFZLZ2Q0bV9aN1d4TDJXMms4V0tIV2JvVW5FbC11TU1IR20wZ2U4amV4RG5mRDRPYWNfeURTN0NHTzAxVng2UGotcmxXQUV2X0tRMW5qTW9VclFVWmItaFVRSnZFUU5jS3piYk01dm1sUzIwWWhVeW1YZVdQUHpHLVZjQmhPZ3FISjZweFROeUpXQ21jSl9yRWVCSjFiZlczT2JpM3lIaktKNVZKSTFLUGktNG5vNTU2TDg0d0l0MkJQVlNPUGRvaGQyVTBTbEpFeHhHUFFzLWwtQkRkbmFkVHNuQWpReWI2RlN3R3F6WUNJbkI2STdJbldoWUVkdHZfSnVYWXljMUNsZ0tWcVJOdm9rRm9xVHI3SjVPV2V1aUxFZnZTek9lNmZKZ3ZmRDVRU0tocmxxdU54bV9HVDZyVDVOQVZDREdkbVdyemhUclpGU01uUmx6dmptMVU5TnFfTnBjT3lqQTg2TE41S010R3ROQlRyYThfbDhiVWd6SGpXY1pfbHE?oc=5",
+   "summary": "安记海味双11最后召集！加$1多1件！溏心鲍鱼、花胶汤包限时优惠    香港01",
+   "publisher": "香港01",
+   "published": "2026-11-14T02:02:00Z",
+   "source_id": "gn-zh-fish",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Shellfish & pearl aquaculture"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-15T00:56:34Z"
+  },
   {
    "title": "Is Tasmania's salmon industry willing to 'play by the rules'? - ABC News & Headlines – Australian Broadcasting Corporation",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdWdOWGw0ZXRORHBTRFAwcjE2YURQWHRrT1lLblZkMlh1T3RZMGpRZEd1NWlNQ1lDT1JWdm9YdnpLYVpRTlg5bTlXRjNnWmhhU3lFYk04UDhwZGl2cGpZaGlXYldxNHFwa2hFdXp5b1NHdktJbnNVUmdPR3JHTkFmXzBqSzdYeHZ0eEplbnNFSlFvVzlKN2U1b2xnc1dHb2VqU2tJTQ?oc=5",
@@ -149,6 +284,69 @@
    ],
    "projects": [],
    "first_seen": "2026-11-14T01:22:50Z"
+  },
+  {
+   "title": "European governments reach agreement on fisheries statistics framework",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb1R1R2o2RTV3NVdzZTNoVTFCNERSSHRRYm9MNXMwN1FmMkU5c2lBVFJrSFhGUU9uMGdaNFdhaGROV0xnM1JMTjhkZDJlRnhMYmxQVlB0a05RczJZRXFFM0RWSHJWTVVPQVVUU2d5dEx1aWZUSlZSRXpReUF1OGs4WU9hUnJxT1JEek1fRXdWRWJVUHdESGduQmhzVFQtS3Vvc1kyY0lzeTc?oc=5",
+   "summary": "European governments reach agreement on fisheries statistics framework    SeafoodSource",
+   "publisher": "SeafoodSource",
+   "published": "2026-11-13T19:21:47Z",
+   "source_id": "gn-aqua",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-15T00:56:34Z"
+  },
+  {
+   "title": "都怪微软！珀斯机场的龙虾，要臭了！",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zTHotcGdVSmxQRWlRa21NdlNaU2pGMlVsYnEtVEN2SGFNbGVEYnpYUGt5OGl0Mi10b2U4cWhaa1RsVDhMcVV5NTY0a1I2MnFLb3JfYnFB?oc=5",
+   "summary": "都怪微软！珀斯机场的龙虾，要臭了！    yeeyi",
+   "publisher": "yeeyi",
+   "published": "2026-11-13T16:02:44Z",
+   "source_id": "gn-zh-fish",
+   "language": "zh",
+   "operators": [],
+   "states": [
+    "WA"
+   ],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-15T00:56:34Z"
+  },
+  {
+   "title": "Inpex raises its 2026 profit forecast due to Ichthys LNG",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5RTlo1cjB0MHVHbjBwM1BNYnR3TEphRDdwWkhseXI3WUUydk5DX1hGV25iY2toNUQ1cE1LQzJSNnRFZnEyRzB1WFlMYnR4dXV2VEpBbjFuRmlsVUNtSWpFdGdiMnBXYXUyS0ZEc1pOYlNTR0pnZU9ncmRB?oc=5",
+   "summary": "Inpex raises its 2026 profit forecast due to Ichthys LNG    Inspenet",
+   "publisher": "Inspenet",
+   "published": "2026-11-13T15:23:28Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "INPEX"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [
+    "FOS-008"
+   ],
+   "first_seen": "2026-11-15T00:56:34Z"
   },
   {
    "title": "Woodside's Scarborough 99% complete, first LNG cargo on track for Q4 2026",
@@ -252,6 +450,25 @@
    "first_seen": "2026-11-14T01:22:50Z"
   },
   {
+   "title": "Nova Scotia, Massachusetts Explore Joint Offshore Wind Power Developments",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYk54d0gyaTdWR1N3VXRqYXp1ZXlmNG9oeEZlaFA4X2M0Uko0TUI0ZTFxODlFdFdUdUtJTWpJWHY5eHpXQW5DTG44S2dYMXJrZkdPODYwX1BQb19VN1ZVMExlZ2xtYUgtU1hTUGZHUXBWX0JZQ3lTYjlGQzQzR3lmb204UXRCTXhYd2ZZZ0taTENOVjczeWJnTmxadTQ3Wk92TnZpNHpTREdDaVhIU0xV?oc=5",
+   "summary": "Nova Scotia, Massachusetts Explore Joint Offshore Wind Power Developments    Offshore Engineer Magazine",
+   "publisher": "Offshore Engineer Magazine",
+   "published": "2026-11-13T11:42:46Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-15T00:56:34Z"
+  },
+  {
    "title": "Oyster farmers begin recovery after damaging Australian algal bloom",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM01yNnJ4OXVLbzRJZmgzdG5yRk5OZlZVa2ZHWlhQX1hSTzRpMmVadzkzaVk5WUdzQmhuRFZzRE5qc1hFQ1NDLUxWeDJrakt5TnlCcEFFNHhwOV9QbDdSSjBYazdER2R2QVVLUGZGakdsa3E3MzNISlVkZnZITGJtTjBJTjdRUQ?oc=5",
    "summary": "Oyster farmers begin recovery after damaging Australian algal bloom    Yahoo News Canada",
@@ -309,6 +526,28 @@
    ],
    "projects": [],
    "first_seen": "2026-11-14T01:22:50Z"
+  },
+  {
+   "title": "TotalEnergies set to drill key Nigeria exploration well next to Akpo FPSO",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSXRqMW11UktQbzJyMVcyZHphbE1PQms0Uzg4dTJjTk44VUVFc3BZLWVkcmpTVldkVGVEUngtSzQ3ZWthejNKa0Rsbk1DOTJZcnJOdktrOVNxV1ZmMkRCakVoeTBZUkdFM2IyTm5EazRoNXQ5UmZoNGtVNDFKQVVOZDdpZVpVdWJzQ1B6MEJPaHFCc0wwYVV4V1pYMHIzeUlHcFE1UGdycnJGR0VmUHcxbm50UlAzSVdEVjBoNWhtRmEzd2d6NmEw?oc=5",
+   "summary": "TotalEnergies set to drill key Nigeria exploration well next to Akpo FPSO    Upstream Online",
+   "publisher": "Upstream Online",
+   "published": "2026-11-13T09:56:50Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "TotalEnergies"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Oil & condensate",
+    "Exploration & appraisal"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-15T00:56:34Z"
   },
   {
    "title": "Duo take FID on $16 billion UK offshore wind projects",
@@ -410,6 +649,25 @@
    "first_seen": "2026-11-14T01:22:50Z"
   },
   {
+   "title": "EVSU develops solar-powered desalination technology for island communities",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU3hHU2ZzY0F5MXNCRGVQeFhuM3lCMXNUZkUyWW5RM0xhZ0NqME5kWDFPeGM5a2R2MEZlNmRCcGktblFTTWhGYmtVcS12OWpWcURYdG1udUJvUVpNdkRXRjdIbERsNE1oZ1hEaS1STTIxeU1Pa2p1ZGZsV3FnYlNXQ0FocEh3SUdFT3Mzd2l3em8wUzNtUDdZUEVyUE51VG9pMVgweGlQZDlpdWxU?oc=5",
+   "summary": "EVSU develops solar-powered desalination technology for island communities    Daily Tribune",
+   "publisher": "Daily Tribune",
+   "published": "2026-11-13T03:41:42Z",
+   "source_id": "gn-desal",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Desalination"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-15T00:56:34Z"
+  },
+  {
    "title": "Opinion: The gas reservation scheme needs more work",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOT3NjU0ZFTEVob2FMUGxGaU13QTlhUzl1OWMyU1dtdktHZ1pTZlJiYUs1XzVYQXo1MVlIbHFaMW12ZlhMRHJLM0JuQjlJQl9zeGNPY0VQc055TlJkMi1kQUtUZ3k2djNrbTJlYVpKRExLcU43Y1VTc1FVVUE2aktSZHE2azAtTmNKWlUxeTd5ZV9IX2l5dE1RN0Y1dzlxZVU?oc=5",
    "summary": "Opinion: The gas reservation scheme needs more work    Energy News Bulletin",
@@ -427,6 +685,25 @@
    ],
    "projects": [],
    "first_seen": "2026-11-14T01:22:50Z"
+  },
+  {
+   "title": "Abalone and seaweed reach London tables as chef Kang Leo touts K-seafood's global potential",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PVDQ2ZGlJOTFFTVhibmZ5V1VKeHltTmdnV3RCRjM5TGNENEZFeVBZVkxjcG5vVGpDeUU5c1BfTmZ6bC0xY2p3bU1DU2hzQWI2Z21iVnE5NERWSUVDTG42WnRYclhnQkJTT2Z2TldR?oc=5",
+   "summary": "Abalone and seaweed reach London tables as chef Kang Leo touts K-seafood's global potential    머니투데이",
+   "publisher": "머니투데이",
+   "published": "2026-11-12T23:00:00Z",
+   "source_id": "gn-fish",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Seaweed aquaculture"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-15T00:56:34Z"
   },
   {
    "title": "Offshore regulator calls out Woodside, Santos for leaks from Australia FPSO",
@@ -676,6 +953,25 @@
    "first_seen": "2026-11-13T01:45:04Z"
   },
   {
+   "title": "How Could Cadeler’s (NYSE:CDLR) UK Offshore Wind Deal Shape Its Pipeline?",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd0NLTktZUGo5d3lzN2c4NTV6d3puSXpUYi1SRVBoX0Y2NGVVelRkdzFBenFFUVJlNi1MUXpKN1NLRFBQV0JFZmpKSnpJb3FBTGk4bzRVWFYyZ2x3NVRzcEgtVEI3UDhxNVgxSjZHRmFfRWZtR0Njb0M0VHBuYzRpUndGTm03bVdsM2t5RlpjY1RCOHlBS05nSkxiTnBkUlN4OTdpcVBB?oc=5",
+   "summary": "How Could Cadeler’s (NYSE:CDLR) UK Offshore Wind Deal Shape Its Pipeline?    Kalkine",
+   "publisher": "Kalkine",
+   "published": "2026-11-12T12:22:00Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-15T00:56:34Z"
+  },
+  {
    "title": "RWE and KKR win record £12.8bn financing for offshore wind",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ2lXNjBCcUhwaEZjenljbm9ZcG9mVVlXNFFMSnFOUHJhanpwMF9jUXUtZnZPVFlCb2RTekVUV0MwRHlaX0hvLTRjUlA3M2gyMWtlc3p0d296N0tzckt3R3NrOUtBdHdNM0ZkQzQ2WXhKVzdqWGZLclRSTWRTMlNMYl9SeDRTbEZqWVRWUnhueGRWUFdaTldRWTBnX3o0UDdNSGtsNGJwam5kdWRMbkRYNmhlUGI5aHFBUGM5UEZ2Yw?oc=5",
    "summary": "RWE and KKR win record £12.8bn financing for offshore wind    Maritime Journal",
@@ -712,6 +1008,27 @@
    ],
    "projects": [],
    "first_seen": "2026-11-13T01:45:04Z"
+  },
+  {
+   "title": "Eco World, NS Corp to explore water desalination plant in Negeri Sembilan",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMFRXbXdXYVp5WXdMNEl0VjFfU2JvbjAtOVRDOHlMcHdvYjltS1lvM0hZeHR4OG11b1Fma1JMdm1aSnhzMVZid01DeDVYVm9GT0FVSjNfckZseU0xVzV2Y2ZEUDd6Sm9fMzVVMlZ5a05yU2k0WUhqcF9mVjhpaS0tZ3p4NVdrc1A3XzkyNDNPWjZ4bHAxdjZlWHhHWmRfdnJYMVZBOEh1SUdxd2k2VDQ1V2dOTTJJd9IBuwFBVV95cUxOdG9xUWVKRHJPX2pxd1dFNlpRMXdXVzVlSjU1RTROV1V6ZUZyUkFxM0pIZFkwRWdZSnNtakFuWFllM09ZZkFlS0pMNEt0V1BWOWN2UWR1WFZ1RkJsZ3o1LUhRWjlsOGpIVGVPWTB1U0dLeFpjemJ5OW1maE01QWNLci1CUVpWMmZPUGx2NnJQSnB0Z3JXZHZabUpYRXhfazl0UEEtQ3hXWjhZcVc3Wk1sS2ZUdzBDTXFBM1g0?oc=5",
+   "summary": "Eco World, NS Corp to explore water desalination plant in Negeri Sembilan    NST Online",
+   "publisher": "NST Online",
+   "published": "2026-11-12T10:17:27Z",
+   "source_id": "gn-desal",
+   "language": "en",
+   "operators": [
+    "Water Corporation"
+   ],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Desalination"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-15T00:56:34Z"
   },
   {
    "title": "Indonesia’s Fisheries Reform Needs Science, Not Just Bigger Quotas",
@@ -1245,6 +1562,25 @@
    "first_seen": "2026-11-12T02:12:19Z"
   },
   {
+   "title": "US offshore wind sector sees ‘road to recovery’ after Trump battering",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbVUxXzI2bmliYlZGZG1IczRiQTMtMHJvblI1d1diY2JLb2sxMF9YOGRmWDJTSndVUXk4ei1Ta2xCUmFaVElFV2wzdFpLYm0tTXV3WV9sdzNRQXBkQ3gzSVh0cmRsWllDSE9mS29aSDU1T1pMYWQwNnBWSHFtVGRsakswT3E2YTRZRDBUenlTSDZtTE1FQ2VkMkFXbVNQVFczSWtwbUpkd1pKb3hMcThLUFAxSllzYW8?oc=5",
+   "summary": "US offshore wind sector sees ‘road to recovery’ after Trump battering    Maritime Journal",
+   "publisher": "Maritime Journal",
+   "published": "2026-11-11T12:41:54Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-15T00:56:34Z"
+  },
+  {
    "title": "Gas reservation still on track",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Yd1RKOG9RQU1CZF9YbXB5VHZzVG8yVXZnVU9XLVU1b3lXVTNvWlBUSXlVXzJXMG9jREhZQWVKVmwwb05lcnByTTktLWpHLTBlS1BpWEpIanBjUkktcmN1dmtucWJkMHpBN0pFNmUtb242ZURQZmRtMDJtaFQ?oc=5",
    "summary": "Gas reservation still on track    MacroBusiness",
@@ -1399,6 +1735,25 @@
    ],
    "projects": [],
    "first_seen": "2026-11-12T02:12:19Z"
+  },
+  {
+   "title": "South China’s offshore wind industry powers Asia-Pacific's green future",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSUlXUEIwc0Z5TG5XMVJHMERRQ1JHeFZKVmxSbnZEeURlUFVPVlVfcWZGUTllLTZuN0lZSEVaTldRNTNJZUtWcTBIelQ2VEpQQWhBLUpFeEdfT3YwUTJ2WVVNWE03LWlXanNCbjZ0SlFzeUxWdkZmUkE3SE5hYmNyT1EwYkZRbWtQeDlFelpLMGpCalZ4dkNvNTg5STZkMEJUZUdRQ3I0eTJwSkYzWjZ4Tk1MOURpVU9NcXdsXzF3?oc=5",
+   "summary": "South China’s offshore wind industry powers Asia-Pacific's green future    巴士的報",
+   "publisher": "巴士的報",
+   "published": "2026-11-11T09:40:00Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-15T00:56:34Z"
   },
   {
    "title": "KKR与RWE就英国海上风电项目完成融资交割",
@@ -1732,6 +2087,25 @@
    "first_seen": "2026-11-11T01:10:48Z"
   },
   {
+   "title": "Onshore Cable Installation at Maasvlakte for Offshore Wind Enter Final Phase",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRERVTThhaEt5dDJBTlNHTV9vZ3dqQWx5RE84a2xveGJ2M2RMR2lzVS1FdndUM195ZWVCU05odXZad1Bkel9QREZPNVA3SjFDNzFfV0ZleWFLYlJwNDNqTU5GV3EyanJqbUJlWFNSbDNlMlc3OGNNUXFFLXhxeVIzc29ETVZ2RmNETlRaams1aE1wNkZFcmFvUDZKUWo2ZGhFblB0TkFTdjN5d0EtMjZySDlqY00?oc=5",
+   "summary": "Onshore Cable Installation at Maasvlakte for Offshore Wind Enter Final Phase    Offshore Engineer Magazine",
+   "publisher": "Offshore Engineer Magazine",
+   "published": "2026-11-10T15:14:02Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-15T00:56:34Z"
+  },
+  {
    "title": "Sonardyne Begins Seabed Monitoring for Offshore CCS Project",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcnZyV3lLRXZlVERCNFAydjZVYVRzVWIyZElzcnJjc2NPRXg1LXFVZ0Q3Qk9fTTk4T05WempfSFRGMk9rUDh5ODdHMFNYem03bzVvZEJsWFlGX1JoU1E2Tl9zaGIxR2MwRGJ4U2RCcjJpUHU2QUlPU3VLN2h2QVpEbUJyVURQbHV1UXc5eVFQVmFUNlo5UWJNVjRMZE9GUQ?oc=5",
    "summary": "Sonardyne Begins Seabed Monitoring for Offshore CCS Project    Offshore Engineer Magazine",
@@ -1846,6 +2220,25 @@
    ],
    "projects": [],
    "first_seen": "2026-11-13T01:45:04Z"
+  },
+  {
+   "title": "Venture Global Profit, Revenue Climb on Higher LNG Sales Volumes, Prices",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVDdfZGdsMk9TbnZRT3VaOHVjUFpMalp3YVJMQ0E1SWQxTjVuVE5zYVpJQ2VlOEpsMXczdEU4ZzV0c3JZaVlhaEk4VXZHY3dyMjVvOC1CY2Zoa3Y1OXVYUURDX1JJYjBnZWxBQWdDcXNDaTFYNWV6UmE3V190M2g0dW9fMVlKM0V0M0NpbWxia28zN08yaDlzWVJQTHZrSXBJUDZMbUhKQWV2dTRDb3BVQ2Zn?oc=5",
+   "summary": "Venture Global Profit, Revenue Climb on Higher LNG Sales Volumes, Prices    Moomoo",
+   "publisher": "Moomoo",
+   "published": "2026-11-10T11:31:00Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-15T00:56:34Z"
   },
   {
    "title": "Australia gas reservation draft faces criticism over GLNG exemptions",
@@ -2286,6 +2679,23 @@
    ],
    "projects": [],
    "first_seen": "2026-11-10T03:23:08Z"
+  },
+  {
+   "title": "Curaçao conference explores aquaculture and food security",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSWMwSXZGU0hSbTh1aTV4dlBUaEhZXzNGTTVvbllYVmt3VlBKSmxRN1otamxaZHZfLXlJYW05NFZJbjhtSDA3SDUzWkthTGt3b0R6aUhtQmlwNlVydnUzMjZ0YjBBbVRWeFJGN2gyMFFQNGRtYnFMSnlENGcxY2FpTVB0TURWcUZGWnBMeDh4RTNRVVVwemI2Q0VaWQ?oc=5",
+   "summary": "Curaçao conference explores aquaculture and food security    The Fish Site",
+   "publisher": "The Fish Site",
+   "published": "2026-11-09T09:21:02Z",
+   "source_id": "gn-aqua",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-11-15T00:56:34Z"
   },
   {
    "title": "2026中国国际渔业博览会展会报告出炉",
