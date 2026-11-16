@@ -1,56 +1,56 @@
 {
- "fetched_at": "2026-11-15T00:56:34Z",
- "added_this_run": 21,
- "total_items": 941,
+ "fetched_at": "2026-11-16T00:54:30Z",
+ "added_this_run": 13,
+ "total_items": 954,
  "earliest": "2026-09-30",
  "errors": [],
  "per_source": {
   "gn-lng": {
-   "in_feed": 23,
+   "in_feed": 21,
    "new": 2
   },
   "gn-gas-policy": {
-   "in_feed": 24,
-   "new": 0
+   "in_feed": 34,
+   "new": 3
   },
   "gn-decom": {
-   "in_feed": 3,
-   "new": 0
+   "in_feed": 4,
+   "new": 1
   },
   "gn-wind": {
    "in_feed": 29,
-   "new": 6
+   "new": 4
   },
   "gn-wave": {
-   "in_feed": 3,
-   "new": 0
+   "in_feed": 5,
+   "new": 1
   },
   "gn-ccs": {
    "in_feed": 7,
    "new": 0
   },
   "gn-aqua": {
-   "in_feed": 30,
-   "new": 2
-  },
-  "gn-fish": {
-   "in_feed": 22,
-   "new": 2
-  },
-  "gn-desal": {
-   "in_feed": 10,
-   "new": 3
-  },
-  "gn-cable": {
-   "in_feed": 13,
+   "in_feed": 24,
    "new": 0
   },
-  "gn-ports": {
+  "gn-fish": {
+   "in_feed": 25,
+   "new": 1
+  },
+  "gn-desal": {
    "in_feed": 8,
    "new": 0
   },
+  "gn-cable": {
+   "in_feed": 12,
+   "new": 0
+  },
+  "gn-ports": {
+   "in_feed": 9,
+   "new": 0
+  },
   "gn-minerals": {
-   "in_feed": 1,
+   "in_feed": 2,
    "new": 0
   },
   "gn-zh-energy": {
@@ -63,7 +63,7 @@
   },
   "gn-zh-fish": {
    "in_feed": 12,
-   "new": 5
+   "new": 0
   },
   "gn-zh-other": {
    "in_feed": 2,
@@ -83,12 +83,187 @@
   }
  },
  "by_month": {
-  "2026-11": 343,
+  "2026-11": 356,
   "2026-10": 597,
   "2026-09": 1
  },
  "note": "Append-only archive. meta.news_days_to_keep controls the site's default window, not storage.",
  "items": [
+  {
+   "title": "All eyes on Senate this week over gas reservation scheme",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa0M4NjdURW5INktHd2N0ZUVhdHVRRDhET3MxamFCa0JFdGdvaFptY1ZhWDE1VjJRSUxqUW5naEJ2eENGak9IRWdtbmxodFl0MTkzTHpkdVN2dlJTWlpFSDFFZjZ6YmdpOGhWdGh0ZnZ5NVM5QzM0TWFIX202b010dk5rZXdvTFkwb0NhaUdUOVdQQTByQmRzOTE1MA?oc=5",
+   "summary": "All eyes on Senate this week over gas reservation scheme    Region Illawarra",
+   "publisher": "Region Illawarra",
+   "published": "2026-11-15T23:20:14Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "NSW"
+   ],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-16T00:54:30Z"
+  },
+  {
+   "title": "CETO Buoyant Actuator Deployed Offshore in Spain",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQamF4UXNmNUt3ZDV2dUMzYmpQZk5WSGROU0wtZHFuNVlmcDUzZ19hWGxZZzBpV1pkMEdlR1hic1JQM2xRZHdQU1QzWmo2T0I0TkNiNnlMOFkxOGtLTGFpbS10VDU5WDY4Yi1iZno1ZnBJb241ZFVxZmFaeUVpVWFOOG5rVHVOQmIyNVBzUk42M2h2N2VQdXZCTk8tMHlFV0F4V1E?oc=5",
+   "summary": "CETO Buoyant Actuator Deployed Offshore in Spain    TipRanks",
+   "publisher": "TipRanks",
+   "published": "2026-11-15T22:25:22Z",
+   "source_id": "gn-wave",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Wave & tidal"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-16T00:54:30Z"
+  },
+  {
+   "title": "Australia industry and unions back gas reservation bill ahead of Senate vote",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTGhwcFdBaGMwNV9XRTRyZlhVTnVxRGVDajBBOV9UZGI0YnFpN19HcVZSdzRranlURmhZTUFVVFIwdFRjam5zeUZ4ZWRpNGQ2MVhxYTNlTFJWVTl2Y1d2M0V3VFRmbTVHNTJRZVRFSU9FME5jdmtqSkVibmRLbXNxcjBzclJINzRzaENfX3F5eUZlU2VOYnYyT0RJcXBOWEVm?oc=5",
+   "summary": "Australia industry and unions back gas reservation bill ahead of Senate vote    Traders Union",
+   "publisher": "Traders Union",
+   "published": "2026-11-15T21:25:26Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-16T00:54:30Z"
+  },
+  {
+   "title": "Federal politics live: Unions, industry join forces to call for passage of gas reservation scheme",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQd2pzVThGVnFGN2FBQktzSEczdEEyeGpHdi1nUTN5bVVnRkZNQk5zcE05MkxCaFVKdmFxUXVNMnRNZVpYajZsdmdXaGJ5eTVvX3RGQWRDOFk3Ym9fekw5cFVqRDU0MElvRzZhYXV5YjFXUENHNGdnNXZiRGI2dGNUTzFMV0dubzk2VEJITWpNOGpuVkNV?oc=5",
+   "summary": "Federal politics live: Unions, industry join forces to call for passage of gas reservation scheme    cedarnews.net",
+   "publisher": "cedarnews.net",
+   "published": "2026-11-15T20:09:43Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-16T00:54:30Z"
+  },
+  {
+   "title": "Woodside’s Q3 Results Signal A Booming LNG Industry",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMlJhOHFjQk50LWpocFpUVlBzd3BmVm12NklKZTRtd2dxZW16cWRvZlBDdkNNOURfeVlmM1dhMU9wcjNtNkViMnEyMVhxeGRFQU9VNExvRkhIcm5KUkZpdm1NZXB1NWFyaFpxY0hQTHNGVGdmM3FDdnZQTEc1dGpVYjVSV3ZGTWloVExVNTUxWTNxSnMwcnotWkszaFpYNlhVREd0NXc2X2o?oc=5",
+   "summary": "Woodside’s Q3 Results Signal A Booming LNG Industry    Forbes",
+   "publisher": "Forbes",
+   "published": "2026-11-15T14:00:49Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-16T00:54:30Z"
+  },
+  {
+   "title": "Offshore oil rigs could be 'toppled' off California under Trump plan",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE00WWxTVEpoQnVSN2NlOW1Qa1FjU2lUQ1hHQlNiNC1zZ0U5NkttSFZmdURTSTR6RHdtZl9fV3NFTzFmXzV3V3ZGSThsOUtSc1ctY0hRLTZjNGFpTGlxZkhfV3Z2NndnS2lVcms4VVlhajJkVXc4WjZsVjhyd1c?oc=5",
+   "summary": "Offshore oil rigs could be 'toppled' off California under Trump plan    Yahoo News Canada",
+   "publisher": "Yahoo News Canada",
+   "published": "2026-11-15T11:00:00Z",
+   "source_id": "gn-decom",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-11-16T00:54:30Z"
+  },
+  {
+   "title": "A global gridded dataset of unified onshore and offshore wind resources and power potential",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WTmlXNEZkNVdTSGhHd2o2UHhPQ1FOVlFLZEJ6c1p5TEpSOWxha2J0U3JBZmpDYnBIUHBpUjBfemVtQ1c4d0s4OXNfem9XUkhyWVctZjUzMGhJUlIzXzVr?oc=5",
+   "summary": "A global gridded dataset of unified onshore and offshore wind resources and power potential    Nature",
+   "publisher": "Nature",
+   "published": "2026-11-15T09:04:52Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-16T00:54:30Z"
+  },
+  {
+   "title": "Shell Presses IMO for Regulatory Certainty While Backing Bio-LNG and Offloading a Australian Stake - ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQWG9jYlUyRlRocnotSmVqaTZqNDd0MGlBbkExZi1VWnVEb29FSUdNWHRfUFhKQVY1NENzekljc1lwUC1YWkZwdHRjVmZQWTN6cHFuSXlnd0VibmgwLU13UWE4eHVNTF9PajRJckhsZENQTUVudTB6TzlZVjhwbXJBbGZNRUtNbVQ0SkFzRnJRRXJwY0Q1ZGJsYXhUdUZWOHowQWV4bXNicTREVWZGbjIxQTVwN2YxV1JxVmJsWjhKS0ExN3I2ZHNzZ2NVQUNXdzhQSVhBYTl6b1dQeXJvTFhGTTVsZ1k5N0RqWmdmSW5JcHhZeXNZcVI0dXhPTWVaSUk?oc=5",
+   "summary": "Shell Presses IMO for Regulatory Certainty While Backing Bio-LNG and Offloading a Australian Stake    ad-hoc-news.de",
+   "publisher": "ad-hoc-news.de",
+   "published": "2026-11-15T05:40:45Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Shell Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-16T00:54:30Z"
+  },
+  {
+   "title": "Does Offshore Wind Progress Change The Bull Case For SSE Shares (LSE:SSE)?",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObW5xdUVaVFU2dTJ4TFNQT0I1bWZMSl8wNW10dmVUVl8xdTBOVE56NWgwYWxTQjZlTlhtcDd4amFDekk4YWFFSjhaWVI2WWVfWGtBQmF1cGxzX3lhYWdQTEhJMHoyck1VTDBNSUpZNGp0NnZseHRfNlFoZk1lbVgyR3dqZDhmNVY4YVBpbjh0RjNUbXVjSGdLU19aazFPOUZYQmpPbTZsb2dTbEpSS1N1dzlxZHBBNE4zSEFudEhyVDB1d1FO0gHKAUFVX3lxTFAtYXQwSFA5c2o1ZlZNWGxoR21UYjVlZ0JlclVOakthWWdFdDd4OG81OHJ3dU4taExOUzhOa0JVRlNTSzZpLVlXNnBnbFBod2c1NGRlcVRaSWs4XzctVGdjU0l0ZklBWHV5S1o4czNYWHdHbWFyY0VlNHZmeHdxclVhUkRvOG14OWQxR3ZRQVBOaUdzNU9xT1g1ejBocFBla014MjhHbkZ6bnFsY3JSdG5DN1NXS1BaYm1oZml5aXdnT2RqQ2cteHg3SUE?oc=5",
+   "summary": "Does Offshore Wind Progress Change The Bull Case For SSE Shares (LSE:SSE)?    Simply Wall St",
+   "publisher": "Simply Wall St",
+   "published": "2026-11-14T22:22:57Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-16T00:54:30Z"
+  },
   {
    "title": "Capiz Leads Western Visayas in Fisheries Production with Over 117,000 Metric Tons of Milkfish",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNTBRWUMzRlc5bTdRZFh3bHRJRC1DMF9vSnN2aXlOZ0kyRTV4ZTFWREtKRkxBX3A5NUVDWEhlVFZsa3RkcFMteEZLRjFuRXh4ZjVRWmJma3NXZk96c1lIa09tVmFBaS16QmJ3M2RKYzVrVzhocTBDS1FTbS1mY1hDLS1TSVBDOS1mcFFxY1Y1aTdPMkVlXzB4bWdJRWhvb3NuYW80Wno4SVAtUzUxbUEw?oc=5",
@@ -768,6 +943,27 @@
    ],
    "projects": [],
    "first_seen": "2026-11-13T01:45:04Z"
+  },
+  {
+   "title": "South-east lobster fishery closed for second summer over salmon antibiotics",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVXBPZVFrVWI4U0t5VE41bS1qYS1leGc0RWVYbEdRM29ELUllakFWRVg5MVhHS1VFMThkSTUySEgyeFRVSEgtNHkxQ1pLX0p4REVNTUtiME11Z1hUOV93VERqLV96ZEV6Q043ZHd1b3F0aWhuQ081RHhYYUhvWXphTUwwWFdXYUlTUTZPaXl4LTl3bUxsWENEN0QzNzI3ZTB0WW5XMmxQRlV6Ui0xbGRR?oc=5",
+   "summary": "South-east lobster fishery closed for second summer over salmon antibiotics    Pulse Tasmania",
+   "publisher": "Pulse Tasmania",
+   "published": "2026-11-12T21:21:00Z",
+   "source_id": "gn-fish",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "TAS"
+   ],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-16T00:54:30Z"
   },
   {
    "title": "Nova Scotia and Massachusetts team up to explore offshore wind energy",
@@ -1619,6 +1815,25 @@
    "first_seen": "2026-11-12T02:12:19Z"
   },
   {
+   "title": "RWE, KKR finalise $16bn investment for UK offshore wind projects",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWjNtQkkwV2J1aFFzRnVBX3NwMHVvUXg2U0J4c2ZLUm9qRTBnV1k4WUN3SFVkbzI4UGZubUx2dFdZRzBVTk5VYXNKMC0yNnFxZW9XR2tJZWRfV2Y2c0RZbXJEbmUwNDd3Y19oY1lvMHlicmZxQXFzcWY0aTBTSmdMajFHQ3Z4Zw?oc=5",
+   "summary": "RWE, KKR finalise $16bn investment for UK offshore wind projects    Power Technology",
+   "publisher": "Power Technology",
+   "published": "2026-11-11T11:19:33Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-16T00:54:30Z"
+  },
+  {
    "title": "Woodside (ASX:WDS) Share Price: Browse CCS Sent to Full Environmental Impact Statement as Approvals Path Lengthens",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdmx4SEhWbFhyMEI4bTNLMkFJSFZLWWFtSE9TNnQyYnNkeEsyZVFBSUhVQ0tLRHBzT3ctYXBJUUtCMVJCQk0xUmdSZGlBNHhzVkEyeV9ZLWo4TGctd1dtUUNfLXpjcWhBV1NUZGgxdFJCSGh1ajd1N01xeXdveGRndmRCakJKN2hyR0NMcV9HMzBKX2Z3a1RUV2pBTjhGcGtlOWJONWU1OWdoanhSR1RYVGJ2aDkxM1Y3NlpwZGRaaV9HX2ZudWd0RDF3LW13TEdGbXFBb0lfbmk3WEtDelE?oc=5",
    "summary": "Woodside (ASX:WDS) Share Price: Browse CCS Sent to Full Environmental Impact Statement as Approvals Path Lengthens    Kalkine",
@@ -1659,6 +1874,25 @@
    ],
    "projects": [],
    "first_seen": "2026-11-13T01:45:04Z"
+  },
+  {
+   "title": "Energy security and thousands of jobs boosted by £12bn offshore wind investment",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZmllSVc1SFF6cm5uSTVYYl9XNWcyN1VUYUxjSzlESEplSzl6Tm10RVlSTE10aHlOSkJtUkNNVk1fOU10M0dxcTdFWVhnY1BUblowaE01ZWUxVjNrdThFUGZERWNhUllwdnlqd1VrWmRjSDNEWmJoM1pVNlRPNW8wLU05ZVNnNDlGcEZmTDN2ZGRHRjRSTkF6VFFETWVTQzZZZFlzUjMxS0V6YzIzQ3JmS1EtOFBVWUswSlAwMmJR?oc=5",
+   "summary": "Energy security and thousands of jobs boosted by £12bn offshore wind investment    Public Sector Executive",
+   "publisher": "Public Sector Executive",
+   "published": "2026-11-11T10:28:04Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-16T00:54:30Z"
   },
   {
    "title": "RWE, KKR Reach Financial Close on 2.8GW UK Offshore Wind Projects",
@@ -1988,6 +2222,25 @@
    ],
    "projects": [],
    "first_seen": "2026-11-12T02:12:19Z"
+  },
+  {
+   "title": "Press Release: Flex LNG - Third Quarter 2026 Earnings Release",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQXVERkE3bDJQNDFyc3dwUFJmMWk0ODFwQ3JMNnVrWWQ2MmR2NV8yTDBZQW9RZWtTT2RIUmdYdzJ5Wjc5TlJaYnlRdmtmZkRxcXBWdUJtT0drbjc5c0VkdVhuZFJfcFRfelZ4QzA3S0lWc2IyZmlFN3RhZzdzdmY3c3BHVjU0THgyQW9CX0E3RFF3LUNkLXUwd1ZCN1RDZHEza0tKN2hjcFZNNlk?oc=5",
+   "summary": "Press Release: Flex LNG - Third Quarter 2026 Earnings Release    Moomoo",
+   "publisher": "Moomoo",
+   "published": "2026-11-11T06:39:00Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-16T00:54:30Z"
   },
   {
    "title": "NYK to Showcase Ammonia Carrier and Onboard CCS at OXExpo Yokohama",
