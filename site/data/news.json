@@ -1,72 +1,67 @@
 {
- "fetched_at": "2026-11-16T00:54:30Z",
- "added_this_run": 13,
- "total_items": 954,
+ "fetched_at": "2026-11-17T03:39:09Z",
+ "added_this_run": 27,
+ "total_items": 981,
  "earliest": "2026-09-30",
- "errors": [],
+ "errors": [
+  "gn-lng: HTTPError: HTTP Error 429: Too Many Requests",
+  "gn-zh-energy: HTTPError: HTTP Error 429: Too Many Requests"
+ ],
  "per_source": {
-  "gn-lng": {
-   "in_feed": 21,
-   "new": 2
-  },
   "gn-gas-policy": {
-   "in_feed": 34,
-   "new": 3
+   "in_feed": 33,
+   "new": 7
   },
   "gn-decom": {
-   "in_feed": 4,
+   "in_feed": 5,
    "new": 1
   },
   "gn-wind": {
-   "in_feed": 29,
+   "in_feed": 30,
    "new": 4
   },
   "gn-wave": {
    "in_feed": 5,
-   "new": 1
+   "new": 0
   },
   "gn-ccs": {
-   "in_feed": 7,
-   "new": 0
-  },
-  "gn-aqua": {
-   "in_feed": 24,
-   "new": 0
-  },
-  "gn-fish": {
-   "in_feed": 25,
+   "in_feed": 10,
    "new": 1
   },
-  "gn-desal": {
-   "in_feed": 8,
-   "new": 0
+  "gn-aqua": {
+   "in_feed": 28,
+   "new": 4
   },
-  "gn-cable": {
+  "gn-fish": {
+   "in_feed": 30,
+   "new": 2
+  },
+  "gn-desal": {
    "in_feed": 12,
    "new": 0
   },
-  "gn-ports": {
-   "in_feed": 9,
-   "new": 0
-  },
-  "gn-minerals": {
-   "in_feed": 2,
-   "new": 0
-  },
-  "gn-zh-energy": {
-   "in_feed": 15,
+  "gn-cable": {
+   "in_feed": 10,
    "new": 1
   },
-  "gn-zh-wind": {
+  "gn-ports": {
+   "in_feed": 12,
+   "new": 3
+  },
+  "gn-minerals": {
    "in_feed": 3,
+   "new": 2
+  },
+  "gn-zh-wind": {
+   "in_feed": 2,
    "new": 0
   },
   "gn-zh-fish": {
    "in_feed": 12,
-   "new": 0
+   "new": 2
   },
   "gn-zh-other": {
-   "in_feed": 2,
+   "in_feed": 0,
    "new": 0
   },
   "offshore-energy": {
@@ -83,12 +78,455 @@
   }
  },
  "by_month": {
-  "2026-11": 356,
+  "2026-11": 383,
   "2026-10": 597,
   "2026-09": 1
  },
  "note": "Append-only archive. meta.news_days_to_keep controls the site's default window, not storage.",
  "items": [
+  {
+   "title": "Trial shows success in reducing trawl impacts while maintaining prawn catches",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT2hEbDAybWJBaEpSbkliTDRkQ0NJaGFFX3V5N0lDZUxVOXlMTklLVE5Ic2NuRUdZbEtWM2RxZVhNR0FidVdUOHVkT2xlZzBIVkI1eGE0NGlWUloxd2ZGclVUTjhzT0FLY2ZObXlEdVltTHgtRDlDQnpDUE96dF9vaWlIZ2lfbmp6Zy16RzQ2NF9YUzJUbDFId05rUDFBeTdZTVhDX0wxZ0lVY0p5bGFCdE12dw?oc=5",
+   "summary": "Trial shows success in reducing trawl impacts while maintaining prawn catches    The National Tribune",
+   "publisher": "The National Tribune",
+   "published": "2026-11-17T02:49:11Z",
+   "source_id": "gn-fish",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-17T03:39:09Z"
+  },
+  {
+   "title": "加中关系变好 龙虾出口中国为何难回复荣景？",
+   "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOaHdFaWtPbUNkZ2NGTjNfZGxEc0xYTWREWFllWGhEWmFXSVU0bzhMaWNob3BnTU5yV1p6VGloNXdfd2wyOTVZYndPYnlsbUtGXzlYQ2RjVVgyZnZSV1NYR1liQjB1bE5NOUszay1HcG04cjJCcWdyakxvX2paOTlocW85Nm5ST3NFTkxtYlpOc3plTUwzOThXVF9XN19oVjU1ek5WemNGU0lyNGM3XzhoY19ScDhEYlY1SUVadXlyUXNhSW4yRmVzSTJnLXQ3R1RKY1YwcGFNdU94Uk0ta3ZnU3dKTk8zYVlTbERaT2VtN0tobW9zb1pGSXZxTjhHYjAyYUdfVy11Yzcyc1FjRGx3UGU1M3VlU0ZURm10ZEV3YzlQV2hFX3lUeF9qdENUMU0tdjVRR1ZZOHRSUGtXS3phT2NQbS1pQThUWl9NWDc1QWdTLXBVSUZubmFXMzJqUlc0X1VuQ2VOUC1SRVJfcjZqMnFhQkIwd0tBeTdvU2xPYzZ2bmxNbFE?oc=5",
+   "summary": "加中关系变好 龙虾出口中国为何难回复荣景？    加拿大都市网",
+   "publisher": "加拿大都市网",
+   "published": "2026-11-16T23:55:14Z",
+   "source_id": "gn-zh-fish",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-17T03:39:09Z"
+  },
+  {
+   "title": "Gas reservation bill stalled over state exemption row",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81cjduUzJvOXRNa0Yta3kweWczSmtNTmE4bUl0bFRTdlJ2MktqX0Z6eTZrSzB2bTg1SF9fbnFxZ2RGZEFKOFhTWnZVRml2WjdURTNvZGNEV2E1TFZmLVpDZV84NDhwUHJsdW5RQkF4NndmNEhGVGpyUFh6QkFXSXc?oc=5",
+   "summary": "Gas reservation bill stalled over state exemption row    Yahoo News Australia",
+   "publisher": "Yahoo News Australia",
+   "published": "2026-11-16T23:28:05Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-17T03:39:09Z"
+  },
+  {
+   "title": "Pilbara Ports throughput dips as Port Hedland volumes fall",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR3lGemlzVUEtRlhMbldBT0RlcDNVNHozNU9lX08xYlZkbU01TFhsMndKeWlTY1c4YmtYeFBvak1BSFdYSXpMTzRRSFd4Vm8wbFZfMDF2ODk1U3k0dENDQjVmX21Sd1RlS2JubFZUSTdZV2wwbExmeDhfTktHQzZLVHNpNmpUM2FuTVB2Y0xQa29tclQzblo0cnk0UQ?oc=5",
+   "summary": "Pilbara Ports throughput dips as Port Hedland volumes fall    Australian Mining",
+   "publisher": "Australian Mining",
+   "published": "2026-11-16T22:51:32Z",
+   "source_id": "gn-ports",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "WA"
+   ],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Ports & LNG terminals"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-17T03:39:09Z"
+  },
+  {
+   "title": "Registration opens for Energy Exchange Australia 2027, with INPEX and Allseas set to speak.",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVGFJb2JIZG5ubzczbXkyX3VpSmdMQlJ5RFk0V1ExQXBPUWlBQi1nTXNNOG1XXzRBQ1ZtWXdYWE1vUm5ULWJBdkludmpQeUh4aFNVZFphcG1VeFZDZE5GRzRrZ2pOMGlqUm5mT2kwZWlXcE9kaXFEY0dtOEVqRGI0YW1JSlN2SEFoVk5BdGEzX3lLdFZwc3pybl80dDhIVC1OVURBMy1JZXlVakpXMmlmcXBITjJQaF80dC1FbTZFSWF0a1BaLUcxTE5ja3c0ZEVWNXZV?oc=5",
+   "summary": "Registration opens for Energy Exchange Australia 2027, with INPEX and Allseas set to speak.    Medianet News Hub",
+   "publisher": "Medianet News Hub",
+   "published": "2026-11-16T21:00:10Z",
+   "source_id": "gn-decom",
+   "language": "en",
+   "operators": [
+    "INPEX"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-11-17T03:39:09Z"
+  },
+  {
+   "title": "Japan, US deepen seabed mining cooperation",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0tYWx6c0dRSU4yYTE0b0Nxc3ZSRXFKeXh4VGFBYVdYSy1Mc3NaWE9mVUNKem5hY0pvNGM4TDg0NW1vblB6cENzd01xZjlGcmROQkdGV2JMS29MQXV5REpvbVVmbjJYTDdqY1ZsLXhzVHJKUQ?oc=5",
+   "summary": "Japan, US deepen seabed mining cooperation    Mining.com.au",
+   "publisher": "Mining.com.au",
+   "published": "2026-11-16T20:21:57Z",
+   "source_id": "gn-minerals",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "mineral"
+   ],
+   "subcategories": [
+    "Seabed minerals"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-17T03:39:09Z"
+  },
+  {
+   "title": "Maine opens formal rulemaking on farmed fish welfare following petition",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU1NYZHBXWm1jT284dGRNdGJOZkVvb2Fpd1Baa1hzNWhJTVd5eGd5RktYeTQtRk1xYVhabk5lTkVaWWNVMEY5azVIWEpLMmxrbXVBeVRSVzRHbDYzOXdKS1ozM2QxbkFrUWRSbGF3SjdSS29SRXp6R2hiYjY2dWU0SHRYS01YRFd0VXc1UEc1Qm9SNmk0UU9keTZkdjAwRnl6Z1Z3dXdheHRTZw?oc=5",
+   "summary": "Maine opens formal rulemaking on farmed fish welfare following petition    SeafoodSource",
+   "publisher": "SeafoodSource",
+   "published": "2026-11-16T19:37:12Z",
+   "source_id": "gn-aqua",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-11-17T03:39:09Z"
+  },
+  {
+   "title": "ExxonMobil challenges EU carbon capture rules",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVlUtb04wUWhsc1FfczVfSEJFdXhLUUE3a2taYkgyNUdQbUJqS1g5dmwyek56RUVidzRQaUdtU3VXZWZZbkstM3o3NnBTZEhyX3Z6bjVyRlRYRlBOWnBWa09xbXpJNnRYTGIxUDJCMkUwbmxBTDB3aW91bWkxWW1XSDBwS0diajdMNzVqRFJMTXFnaGZVbF9MQ2E4ZGswcjZic0t5eGZ3?oc=5",
+   "summary": "ExxonMobil challenges EU carbon capture rules    Upstream Online",
+   "publisher": "Upstream Online",
+   "published": "2026-11-16T18:42:30Z",
+   "source_id": "gn-ccs",
+   "language": "en",
+   "operators": [
+    "ExxonMobil Australia (Esso)"
+   ],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "CCS & gas storage"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-17T03:39:09Z"
+  },
+  {
+   "title": "加拿大龙虾在中国市场遭遇强敌! 重新夺回消费者并不容易!",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9kVVd4dlNmbDdQUFVQM3V2WmlFZnZyQ19IX0Q3Sjd6OTJDbFFSdjFpbE5jWFpKdnd4ZXh3UllCZE5jX0Mw?oc=5",
+   "summary": "加拿大龙虾在中国市场遭遇强敌! 重新夺回消费者并不容易!    加拿大新闻网",
+   "publisher": "加拿大新闻网",
+   "published": "2026-11-16T18:31:00Z",
+   "source_id": "gn-zh-fish",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-17T03:39:09Z"
+  },
+  {
+   "title": "Eolus drops offshore wind after Swedish defence concerns",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNndyUjliRzdNVHRTdVliUUpzb2ZDZkRtalRtb195ZTRibndORG9rRGRnVC02RGpiUGx2cmI0VFNBbEpXV3VQaFhuLXQwZ0pFM1QwLVNFeUdELU94Z0ZLVktlRVkwRy1QV0dEOHVuMURsRGdlTXNtNHgtOFRUNkp6TDdKY2VMN0VERVk0cTJQZ0pCLWxrcUp4MV8wVE1mYUlOZ3lrOHZKQkFyZw?oc=5",
+   "summary": "Eolus drops offshore wind after Swedish defence concerns    Maritime Journal",
+   "publisher": "Maritime Journal",
+   "published": "2026-11-16T14:21:51Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-17T03:39:09Z"
+  },
+  {
+   "title": "JBS-Owned Huon Starts Work on $83 Million Tasmanian Salmon RAS Expansion",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUzNXWWdGOEdMSFZnS3BFYjdKdTJtRld5bWR0YXRZWUN4SFZqci1aczBMMHpEX2JLSmZ4VzJ2SDRGdG1uN195VzhqYXhXR0pWRXlLT3F2SlNGOWFFSHlqOG5VUnNKU0tCMDBOOEZiSXdKbFlTMWNMTElMZzl3ZW1WRlg5VGFHRGlNRjR0MUVYZlBGRjAtaThwOXkwUDBKYTR5NFBYX01EdjBoWlZvdmtueUQ2Zw?oc=5",
+   "summary": "JBS-Owned Huon Starts Work on $83 Million Tasmanian Salmon RAS Expansion    Seafoodnews",
+   "publisher": "Seafoodnews",
+   "published": "2026-11-16T13:54:32Z",
+   "source_id": "gn-aqua",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "TAS"
+   ],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-11-17T03:39:09Z"
+  },
+  {
+   "title": "Domestic Gas Reservation Bill: unions and manufacturers urge senate to pass new laws in bid to lower gas bills",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQdXFqd1hINW5CRHdaZE56UzZfQ2hsakdUNi1GcmFWRDZvMThiZU1oR1VCVUhIX0RRWHBybzR0Znk0RWlqSjFBS2NYZXk3QVY4MGxwUEFQZGZaODE2d3d1Y3VSbmVFMXlFOUFHUkRrU2p0Tm5zQXEyWWxGR3ItQTl4d3BWOTg2X2hXcUM4SlJ2dUJtVWwxeXNXQ2RVZE4ybnZ0LTliNVRJc1RIQ1V4NFpua3duaXV1RHN6TGtfRXdXdzhPSTVBNHNhQXpwVTNNT18wdjBsRGxlYVJrbnEycFhUaFBnS1NsWjZ2YWxUM0RSUTk2MVdHWm5tdlQza9IBgAJBVV95cUxPcmVOV1pvMmhFTGoxc1d6Wk5OdE9nUkRpQnNrQy1PY0RlNThvOVFLVGdncEtJcDYtQllYVHNoSjExSHlYUnpHcWd6TnhyYURYTnU4cjRCaVVpV240RURIVS11OE5SLTJ4cWI3b3RsVm1KTFA1a3FsQzk4SHJVZGd1cHo1WU8zdFdqWjJTeUxMR1RSdTUtRVJ5WHhmNVVaY3pzWmV5Xzg0TlhLZXprNUlGb0ZBcXphSnIyN3NmZWp0Z0VibUVvU0doRmtCN0xHQ3E3S1h5aDZmNkszV2xKY0FZSlNYZnJ6ekVWTEg4eFo5UGp3V3l2aEdhX2s2dVJ0bkoy?oc=5",
+   "summary": "Domestic Gas Reservation Bill: unions and manufacturers urge senate to pass new laws in bid to lower gas bills    7NEWS",
+   "publisher": "7NEWS",
+   "published": "2026-11-16T12:49:00Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-17T03:39:09Z"
+  },
+  {
+   "title": "Cook must resign over ‘useless’ response to Port Hedland crisis",
+   "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOSHpzQ0k2bXFELWdnNTdGRjRmTl9QdTI2MVo0VHJ6dWh5d1dMZjE2Szd3eTN5VU13eGtiSENlZWR2UzBvMHcySlVxeEc1RkNCdS1yelhvOFZFdUNLdXc2RkNpQkVuUTdRZDhrNklwREtJQnBHTm9vOEY2Y0puYmZDQ3pxNjItcERiQkFvVHg2d2xtY1JpMEhaRVc4V2RtbGVsV3NDRGtfWnAtWHU1aDE0V1ZKQTN0MFNBOURxZERwOGNwM1hEMVZBM0E3TnUyRGJiTHdHYkdwZ1VDalRuaTdwLWlxZmNHajVxN2dLa3g4TkVSUXoyOHdFWjlzYWxpSlpTWjZOa2hOMFBZREQ0OHlKdlR3SnJlY3JxU3BqbmJB?oc=5",
+   "summary": "Cook must resign over ‘useless’ response to Port Hedland crisis    The Australian",
+   "publisher": "The Australian",
+   "published": "2026-11-16T11:05:28Z",
+   "source_id": "gn-ports",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "WA"
+   ],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Ports & LNG terminals"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-17T03:39:09Z"
+  },
+  {
+   "title": "Nearly £100bn of offshore wind projects ‘under threat’ from Labour, SNP warn",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObXBUcjZRdmU0Sk91NVdzbVFfMEk5emEwTkNxbXRObGVGYXBYMms2NWdKMHRibmc5WmV1dDVkU3hwY2NHTzRyS1BpVDh4OVVQQ0daT1U3djg4QzBTcEZ3TnVfdnQ3eklCTnVNREJUbnY4OXo2MTJuek9sa2NBNVp1aVlqTVptWS1xbmc2OUtvb0hibHVpbFkyaXI0MFU?oc=5",
+   "summary": "Nearly £100bn of offshore wind projects ‘under threat’ from Labour, SNP warn    DredgeWire",
+   "publisher": "DredgeWire",
+   "published": "2026-11-16T10:55:54Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-17T03:39:09Z"
+  },
+  {
+   "title": "Huon Aquaculture breaks ground on expansion project in Australia",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWUNybXIyM2FNU09LdUk1dHptaHVNY1dhZGxGcFktazlUckZ0X21qdjZId3cyaERxZWtUWVcyVndvVERfTEVfVHVQRFF5RzNqLUp2UWFfczVLdVd4cmJXVlNRUnlsMmVyZVBkQjlQY1p2eGZuMVM5YzZnVXB6M2QyWV84Zm9tOGFzUjM4dXJwdXJ4dkJ1bHhTV3hsdnNmem8x?oc=5",
+   "summary": "Huon Aquaculture breaks ground on expansion project in Australia    SeafoodSource",
+   "publisher": "SeafoodSource",
+   "published": "2026-11-16T10:45:00Z",
+   "source_id": "gn-aqua",
+   "language": "en",
+   "operators": [
+    "Huon Aquaculture (JBS)"
+   ],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Finfish aquaculture"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-17T03:39:09Z"
+  },
+  {
+   "title": "Rabobank: Aquaculture growth expected in 2027, but salmon expansion set to stall",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNW11UWZidkJuSGR2YUFoUHI4SzFiWVJrbDMtY1dYR0Mzd2w1TzItWjJ4LWJSSWJVWDFQWHRJamp4RGl4Tm92UmoxVlhSVlNEaVFFclU2dEQwM01mcUFrSGFuOGFCSmVKZVpiRnAwckU3RGlQRFk3aHR6RnNMN1NNZnFkMkQ2aXRwWnZSRjRFSW1SeXdLVE1pSjRzMFI1dzlmeEF0Z0JYSjVqWTdmNkVRaXFBMA?oc=5",
+   "summary": "Rabobank: Aquaculture growth expected in 2027, but salmon expansion set to stall    SeafoodSource",
+   "publisher": "SeafoodSource",
+   "published": "2026-11-16T10:45:00Z",
+   "source_id": "gn-aqua",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-11-17T03:39:09Z"
+  },
+  {
+   "title": "Subsea Cable & Critical Infrastructure Protection Services",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOHNlbHV3eDNKVFVsWDAyT0EzRVlTa3hqdGZ2NjZZY01wMEdjUW5mbS1IZnJpMVVTMUtvWnlLWkFfTmRNVGd2TlRuUWRuQUpkQWFoTHRhU0pPakxiUzdIZGx0SlVlOW5vUE1aNVF2UHd3by02U3ZKTnlVV3IwTDROOUxNZGZsbGxCTzYtLWdjb2stTDlIaDBZ?oc=5",
+   "summary": "Subsea Cable & Critical Infrastructure Protection Services    openPR.com",
+   "publisher": "openPR.com",
+   "published": "2026-11-16T09:45:53Z",
+   "source_id": "gn-cable",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Subsea cables & interconnectors"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-17T03:39:09Z"
+  },
+  {
+   "title": "Fengmiao II Offshore Wind Project Signs Offshore Substation Contract Targets Financial Close by End of Q2 2027 - www.energy-omni.com",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53MVcxVGFWbXF1eU0tZW52TGZoa1VFaGJCSGRYM2szSmF6MGhBN3FPZUt3bXZfT3h3RmpDOTdvZ3A5Z2RFWHBWOWtxdllEX2pQODhuWjdmU2VpQTNvaW1LczRUa0w3aVRjMkJuSw?oc=5",
+   "summary": "Fengmiao II Offshore Wind Project Signs Offshore Substation Contract Targets Financial Close by End of Q2 2027    www.energy-omni.com",
+   "publisher": "www.energy-omni.com",
+   "published": "2026-11-16T08:27:03Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-17T03:39:09Z"
+  },
+  {
+   "title": "VIDEO: BlueScope among big businesses pushing for the gas reservation policy - ABC News & Headlines – Australian Broadcasting Corporation",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNndheUg4UWNyb21xdnp3Ny1jelNrZHFCeDBWMEFwbEw1dXdLbHFuYlNRem1RU0VvSDRYUE0yV1NVaXhNZzE0WnRRTDB6UHZYMjJ5NU9ONV8ybnFhRy0tMzF6cTRHNi1vTEJPOG1uRmpsNnpraUF5WGZJNHN1b05FR3JydWwwcms0M2xUSXd6V3hLUjJzTERNR21vRndhN2luREtNLUFlWnlfOUFIZzZpV3hjYW9tZE9OSzJZWFRwLTM2MzlOcnJCV0g1aG5LVzA1?oc=5",
+   "summary": "VIDEO: BlueScope among big businesses pushing for the gas reservation policy    ABC News & Headlines – Australian Broadcasting Corporation",
+   "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "published": "2026-11-16T07:19:25Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-17T03:39:09Z"
+  },
+  {
+   "title": "Port Hedland-born Kalyn Ponga falls short as Australia claim World Cup glory",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTUdRUHhfZ3FIU01FajNCSlU1TFNkWF9ub3U3b3FKLWR2UmQ0T0NZVDd3UXdMN3lrSW5mN25TM2dKdWJ3Y3hXb2JiVWllVE4yUXVZWVpzWGlRM0I5eS10anZWSTVuVmsxcEo3QXdjbmJMalFLZ3ZOQkI4VjlFU3JVTFdPdjBDTHdUZHZxazFLOUJpWjNUU3pnaXZvNjd1R0QzWHE5Q3ZpUVpwQ2JtVGFfZHFrWlVpN0xwSXkxTExkOUF5Z2Zfc0pWZi1lSEtOYV9ZamVGcA?oc=5",
+   "summary": "Port Hedland-born Kalyn Ponga falls short as Australia claim World Cup glory    North West Telegraph",
+   "publisher": "North West Telegraph",
+   "published": "2026-11-16T05:53:10Z",
+   "source_id": "gn-ports",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "WA"
+   ],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Ports & LNG terminals"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-17T03:39:09Z"
+  },
+  {
+   "title": "Offshore Wind Developer Backs Disabled Musicians for Fourth Year",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLU1qanBzRlBxMHRzNlh3TzZfTkNnWGVtM2dtVHNQbktINjJ3cllNVGpBLUU1VDFQOTluMy1SbmpEZXJ5TkFJQWoxR0I0emh0SkVzQzFfWFIwdmo0NHc5TF9GYWdiZGJEUTlubFh2NEdITGFPWkx4a0NsSWdDTmc2enRPR3dOOEF1N1ZGTk1MbWxQbWdqM0t3RlhVMVQ4NE1TZnl4bw?oc=5",
+   "summary": "Offshore Wind Developer Backs Disabled Musicians for Fourth Year    Seoul Economic Daily",
+   "publisher": "Seoul Economic Daily",
+   "published": "2026-11-16T05:34:25Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-17T03:39:09Z"
+  },
+  {
+   "title": "Supporting Sustainable Fisheries",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MSGJrd1lJSmpOXzZ2VUEyVXVNNDZobzNsemdJRHhNT3luQWE3RXVXTDJSTHJtS3FwaUpndi03SnVJc3hYTlJnRm1HTHRuZ1BMS253S0dRYU9oZ2RNeGtoNklPdlVwemFEc0pub1hJeGxMQlBzTGlZ?oc=5",
+   "summary": "Supporting Sustainable Fisheries    The National Tribune",
+   "publisher": "The National Tribune",
+   "published": "2026-11-16T05:14:13Z",
+   "source_id": "gn-fish",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-17T03:39:09Z"
+  },
+  {
+   "title": "Labor is siding with workers on gas reservation",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQXBrSmgtUUE4c2ViYy1UemR4MmtYc1dMYVd5NklrQmV1NzkweUNRS2d3UWhSQ1kzOV9qQ1FaQWJSNE43amplemNfMG4xTV9PQi1HY0h2aXFGcUpJWFlMRjNfWEFqM21kcjFyanhQQlZOOFBlNnVqQ2QyZ3dVdGFCbUJNWk82RHFWTjFZZVh5Z2wySHppcDd5Z3JybmJzd3J5V1E?oc=5",
+   "summary": "Labor is siding with workers on gas reservation    AFR",
+   "publisher": "AFR",
+   "published": "2026-11-16T05:00:00Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-17T03:39:09Z"
+  },
   {
    "title": "All eyes on Senate this week over gas reservation scheme",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa0M4NjdURW5INktHd2N0ZUVhdHVRRDhET3MxamFCa0JFdGdvaFptY1ZhWDE1VjJRSUxqUW5naEJ2eENGak9IRWdtbmxodFl0MTkzTHpkdVN2dlJTWlpFSDFFZjZ6YmdpOGhWdGh0ZnZ5NVM5QzM0TWFIX202b010dk5rZXdvTFkwb0NhaUdUOVdQQTByQmRzOTE1MA?oc=5",
@@ -168,6 +606,25 @@
    "first_seen": "2026-11-16T00:54:30Z"
   },
   {
+   "title": "US seabed mining bids draw Pacific pushback for bypassing UN-linked regulator",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQ1U0S1V2UkM5VlhPcGpiWDREY3MwQmphTTRFbEM2X1RoU2tfSGV6a19tMFo3VUlXUHlmN0V3dmxsRVZEd1JwMFVabzRqUkd5N2VnYVhwblpGZTlnTUI4Nlp3SHJCSEtEeDhXcy1XX0tOTWhTd3JLaDg3NHdwc1V3ZzBLTQ?oc=5",
+   "summary": "US seabed mining bids draw Pacific pushback for bypassing UN-linked regulator    The Cool Down",
+   "publisher": "The Cool Down",
+   "published": "2026-11-15T18:59:00Z",
+   "source_id": "gn-minerals",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "mineral"
+   ],
+   "subcategories": [
+    "Seabed minerals"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-17T03:39:09Z"
+  },
+  {
    "title": "Woodside’s Q3 Results Signal A Booming LNG Industry",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMlJhOHFjQk50LWpocFpUVlBzd3BmVm12NklKZTRtd2dxZW16cWRvZlBDdkNNOURfeVlmM1dhMU9wcjNtNkViMnEyMVhxeGRFQU9VNExvRkhIcm5KUkZpdm1NZXB1NWFyaFpxY0hQTHNGVGdmM3FDdnZQTEc1dGpVYjVSV3ZGTWloVExVNTUxWTNxSnMwcnotWkszaFpYNlhVREd0NXc2X2o?oc=5",
    "summary": "Woodside’s Q3 Results Signal A Booming LNG Industry    Forbes",
@@ -187,6 +644,25 @@
    ],
    "projects": [],
    "first_seen": "2026-11-16T00:54:30Z"
+  },
+  {
+   "title": "Firms hanging by ‘the skin of their teeth’ amid gas reservation delays",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ0hUZk1qMW5VVGZMejFwSWJxN0hGNVVPc3doOUwxVVA0S1NlYjI1V0lJZ0tyWDhlaTlfVUk5N2VCRFpjZG52TGZpelNRREVpaFo3LVRCSFBaSVhBYWkwZW9GSUExQlJzeWpCZGxCZjFyS0h2UW1LOFJhUDlZaUxPcTY5OUZOaVFlRjVpVmhraVpiZ21SOTNOQk9sT1E0TTZoVWpFMkJ6TjBndGY1b1o1NnI1Z1dJd1lsT0ZSOWJB?oc=5",
+   "summary": "Firms hanging by ‘the skin of their teeth’ amid gas reservation delays    AFR",
+   "publisher": "AFR",
+   "published": "2026-11-15T13:01:00Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-17T03:39:09Z"
   },
   {
    "title": "Offshore oil rigs could be 'toppled' off California under Trump plan",
@@ -805,6 +1281,25 @@
    "first_seen": "2026-11-14T01:22:50Z"
   },
   {
+   "title": "The proposed gas reservation scheme is flawed, but…",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kTjh4QVY4NW5PWUdHUjBGVDZYM0F6cUVUNGlSQ3RQYU5acjg4YXdlNVA5UVV2aTBpcG1yZlBESV9RZkY3ZFByZ0FOYkVudmUzTEJINTlYVWttdVd4djQ3ZWc1YWNremRFT2FfVnl2bVowOWpwc19ub0RYa0lLUms?oc=5",
+   "summary": "The proposed gas reservation scheme is flawed, but…    Grattan Institute",
+   "publisher": "Grattan Institute",
+   "published": "2026-11-13T08:00:00Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-17T03:39:09Z"
+  },
+  {
    "title": "Salmon farm antibiotic use impact 'completely unfair' cray fisher says - ABC News & Headlines – Australian Broadcasting Corporation",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOLTJoZW95bmY4OEJCdUoyWF9IeTF5ZkdycnQ2bGIwUmxFMTNIeHNTeW1Db1M5SXZYTzhRMWdWV01zT2N6cjh2bnZjem5pLS1yR2E1NTBRSDBwWGdvaVFKODNrN3M1NnVCU2FhV0djYW5tWVhhY0xHaDhkN2lNNXdDeUs4V213NmdlY2M5ZDNCVjVNRmkxMVN3eUtEUm1TUXc?oc=5",
    "summary": "Salmon farm antibiotic use impact 'completely unfair' cray fisher says    ABC News & Headlines – Australian Broadcasting Corporation",
@@ -1263,6 +1758,25 @@
    ],
    "projects": [],
    "first_seen": "2026-11-14T01:22:50Z"
+  },
+  {
+   "title": "The federal domestic gas reservation scheme explained - Institute for Energy Economics and Financial Analysis (IEEFA)",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZGRxR19ZMFJ3N1FLNndaSkRDWEE5elhiSm1uOUN3NDhfQU96RkdHYmRxYmJlXzJmTlVYVkVmY3N0UUhScE1GQ015U2RCMjVJRWhLSGYxdktHaWpfYXhlekRLenIwQm9zMlFmcDRhdmZEQTk0Smh2V3U2RnRhVVZYOEdzYw?oc=5",
+   "summary": "The federal domestic gas reservation scheme explained    Institute for Energy Economics and Financial Analysis (IEEFA)",
+   "publisher": "Institute for Energy Economics and Financial Analysis (IEEFA)",
+   "published": "2026-11-12T08:00:00Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-17T03:39:09Z"
   },
   {
    "title": "NOPSEMA intervenes in Cliff Head fall-out",
