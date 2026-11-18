@@ -1,35 +1,36 @@
 {
- "fetched_at": "2026-11-17T03:39:09Z",
- "added_this_run": 27,
- "total_items": 981,
+ "fetched_at": "2026-11-18T02:49:27Z",
+ "added_this_run": 34,
+ "total_items": 1015,
  "earliest": "2026-09-30",
- "errors": [
-  "gn-lng: HTTPError: HTTP Error 429: Too Many Requests",
-  "gn-zh-energy: HTTPError: HTTP Error 429: Too Many Requests"
- ],
+ "errors": [],
  "per_source": {
+  "gn-lng": {
+   "in_feed": 18,
+   "new": 1
+  },
   "gn-gas-policy": {
-   "in_feed": 33,
-   "new": 7
+   "in_feed": 43,
+   "new": 5
   },
   "gn-decom": {
-   "in_feed": 5,
-   "new": 1
-  },
-  "gn-wind": {
-   "in_feed": 30,
-   "new": 4
-  },
-  "gn-wave": {
-   "in_feed": 5,
+   "in_feed": 6,
    "new": 0
   },
+  "gn-wind": {
+   "in_feed": 32,
+   "new": 7
+  },
+  "gn-wave": {
+   "in_feed": 9,
+   "new": 3
+  },
   "gn-ccs": {
-   "in_feed": 10,
-   "new": 1
+   "in_feed": 11,
+   "new": 2
   },
   "gn-aqua": {
-   "in_feed": 28,
+   "in_feed": 32,
    "new": 4
   },
   "gn-fish": {
@@ -41,23 +42,27 @@
    "new": 0
   },
   "gn-cable": {
-   "in_feed": 10,
-   "new": 1
-  },
-  "gn-ports": {
-   "in_feed": 12,
-   "new": 3
-  },
-  "gn-minerals": {
-   "in_feed": 3,
-   "new": 2
-  },
-  "gn-zh-wind": {
-   "in_feed": 2,
+   "in_feed": 8,
    "new": 0
   },
-  "gn-zh-fish": {
+  "gn-ports": {
+   "in_feed": 14,
+   "new": 0
+  },
+  "gn-minerals": {
+   "in_feed": 4,
+   "new": 0
+  },
+  "gn-zh-energy": {
    "in_feed": 12,
+   "new": 5
+  },
+  "gn-zh-wind": {
+   "in_feed": 5,
+   "new": 2
+  },
+  "gn-zh-fish": {
+   "in_feed": 16,
    "new": 2
   },
   "gn-zh-other": {
@@ -74,16 +79,481 @@
   },
   "reneweconomy": {
    "in_feed": 10,
-   "new": 0
+   "new": 1
   }
  },
  "by_month": {
-  "2026-11": 383,
+  "2026-11": 417,
   "2026-10": 597,
   "2026-09": 1
  },
  "note": "Append-only archive. meta.news_days_to_keep controls the site's default window, not storage.",
  "items": [
+  {
+   "title": "Woodside Energy Group Strikes 10-Year LNG Supply Agreement With Trafigura",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeW1mMXN4M1BwN1paVW0xZDgwTW1BaVUxN0tzX0ExVm9tQkR1QVpZUnJ6ZGFzY0l0RXQwSnhCTUFodEp5bWQtNWpHSUdaNFBDZHhESFlHT3BnRmhRN1FTZkZTTUdDQ25DMUpENkVGdkVXYmI0aGhaTnA4cmVoOXV3enZIaVRRZkVsRFNFcDZWTmtmV3hYeWlXcUlCTTFRcjBmcEdFYnRNNGxmMS1zNHo2cm41dmM1eTZ5QkQ3MERWSndiQkdG?oc=5",
+   "summary": "Woodside Energy Group Strikes 10-Year LNG Supply Agreement With Trafigura    marketscreener.com",
+   "publisher": "marketscreener.com",
+   "published": "2026-11-18T02:39:32Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-18T02:49:27Z"
+  },
+  {
+   "title": "Gas reservation exemption must be locked in quickly to give WA certainty",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMFB1cmZFTkdtQkthaEpUTWVGTm1pTjdfOWNLdUxlUkF3SHNnTjV2YmZtTVI2bTRUOWlFRUtVS1FQeFdnMllxNVBOY0lVY0ExOWZEV19tUlJBZ0tnSURmSkR6ZDlpem02eGpwOUMxM0phck1yZWxpUGQ0NjZLaDU3aFVJUUZZZWRvdjhpU3ZWNlJJdkF6Wnp2X1VBQUZieWtT?oc=5",
+   "summary": "Gas reservation exemption must be locked in quickly to give WA certainty    CMEWA",
+   "publisher": "CMEWA",
+   "published": "2026-11-18T02:05:49Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-18T02:49:27Z"
+  },
+  {
+   "title": "CETO Programme Sets Out Six Commercial-Scale Wave-Energy Objectives",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYXJSb05jbnVNZlNVUnFaQ3ZzVzFmSHd5ZjJ4UTEycTJuOXhXcTU4N1lvUFF2WTVLVnlYbEdTMjg5YUNTUmtMc2c4cVJ6LW50Vlc5c3BfNzdRaFlKamhFOTRKRUstMTJSVmxuNFBfOHZ3ODJ4UXQyRzRwNnhQeC1YMmVsSVJKRVFpQUppcHpGbW11RFdELWkxcEpJdEZwNlo1d3czLWFMOWxnQkw4c0lJdm9wY2VVUF9YcXJj?oc=5",
+   "summary": "CETO Programme Sets Out Six Commercial-Scale Wave-Energy Objectives    TipRanks",
+   "publisher": "TipRanks",
+   "published": "2026-11-18T01:23:03Z",
+   "source_id": "gn-wave",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Wave & tidal"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-18T02:49:27Z"
+  },
+  {
+   "title": "Carnegie Clean Energy Discloses CETO Wave Energy Deployment Timeline and 6 MW Basque Country Array Plans",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTkFsaTFPQzQ0WndnMkMyMXlHMlQ3ZmNnbDA1bHlBUEFRY2RWcmZ5dXprMzJhZnQycjRMUGJzUjBFWWQ3TUlnRVlEN05xNGpWOHNid2pUZ1hQdXhabDdoa0JuOE0yXzUwcXdrSjZ2Vk41OW9keDZkTEdSam1iTDJ4dGlYRk1qNEoxZHZqYnpHQm1GX2Z5Z3BPN0UxTmE5Y3JoSnFqdkozUllnOHN0bVllajQzbmVVOWhjMWVvZm9FV1ZLQWRSREJlQktpQ0VWVFo2R3ZLUHRoV2pic1JPRWpr?oc=5",
+   "summary": "Carnegie Clean Energy Discloses CETO Wave Energy Deployment Timeline and 6 MW Basque Country Array Plans    Kalkine",
+   "publisher": "Kalkine",
+   "published": "2026-11-18T01:07:52Z",
+   "source_id": "gn-wave",
+   "language": "en",
+   "operators": [
+    "Carnegie Clean Energy"
+   ],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Wave & tidal"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-18T02:49:27Z"
+  },
+  {
+   "title": "Carnegie Clean Energy Reveals CETO Wave Energy Deployment Timeline and Plans for 6 MW Basque Country Array",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQW1oM1dQZTZWemNtaGU1c0h6QlQ0am1mUnVGVzZrbnNMRmZ5SUNTQ0tBRGRYaDZuUnRRVUZLd2c0SDFkWHljZzRyTnBHOE9rS0hCeXZ1ZVhMVFI2Vkt5dy0xNjZBckNlZmVnZi1KNEkwc2VFLXg1ZEVqQk00bktyQTYzTV8ycnZSTGRlcXFFZ1I1bXByWHNWYXFvRGJsTC00UHRCTWkzYnFFMExKRVJFTmt6YjdkRnRTdGNJaXVKcGJrbnJyRk1JWGxVVHpOZkd5bnlVTEZwS3FKUk5wT1VuRW92SEdWbVdQ?oc=5",
+   "summary": "Carnegie Clean Energy Reveals CETO Wave Energy Deployment Timeline and Plans for 6 MW Basque Country Array    Kalkine Media",
+   "publisher": "Kalkine Media",
+   "published": "2026-11-18T01:07:52Z",
+   "source_id": "gn-wave",
+   "language": "en",
+   "operators": [
+    "Carnegie Clean Energy"
+   ],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Wave & tidal"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-18T02:49:27Z"
+  },
+  {
+   "title": "WA secures exemption from Labor’s national gas reservation scheme",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVVZBYUhtUVdXUGVYdFVCdnVDZDVkQTFBUEZ4X3hpTWN3UmI4T2h2T29qeXJwZ3ZBdkhvZ1ZRWmpUT2cwREtCMmVoUUQ2bFJzY0RiNnprQzJFdlZicWVNRW9oUWxGcFJoMHZMbVl2MFdSckZLM21VQ3dGTlRkbzdnWnNIQlIzYmprVFVZb1dNbk5KUmkxU3dTTjlpeVU5aWRQdGVrVDV0UHhfODJIeF9TR2FYQmk2eHJPLVJqemdtaXBTMjdGVHZFenpjOFREWXY2QkE?oc=5",
+   "summary": "WA secures exemption from Labor’s national gas reservation scheme    Proactive financial news",
+   "publisher": "Proactive financial news",
+   "published": "2026-11-18T01:04:00Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-18T02:49:27Z"
+  },
+  {
+   "title": "Fertiliser maker calls for gas reservation bill backing",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcUNTX3Q0VzRxbFRNeTc1YTZ6VFRibXZnQVVUVFg1bGs2VlhWdDF4ZDUtLUY5NDV3eUc0MjJlUjZuN1hMcjlNdHIwQi1reXQ4UVZjUnNVNWMwekdNWFdORUU0NmZlWTV0akZha25ReEZNX25WYm85RE5SWk5TRGlXeHpvR0x0bFRESDd3?oc=5",
+   "summary": "Fertiliser maker calls for gas reservation bill backing    Industry Queensland",
+   "publisher": "Industry Queensland",
+   "published": "2026-11-18T01:00:00Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "QLD"
+   ],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-18T02:49:27Z"
+  },
+  {
+   "title": "Wind energy makes cheap renewables “cheaply reliable,” new study shows, pushes out gas",
+   "link": "https://reneweconomy.com.au/wind-energy-makes-cheap-renewables-cheaply-reliable-new-study-shows-pushes-out-gas/?utm_source=rss&utm_medium=rss&utm_campaign=wind-energy-makes-cheap-renewables-cheaply-reliable-new-study-shows-pushes-out-gas",
+   "summary": "New analysis shows how adding onshore and offshore wind to solar and battery storage mix can slash the cost of firm renewables supply by nearly 20 pct. \n The post Wind energy makes cheap renewables “cheaply reliable,” new study shows, pushes out gas appeared first on Renew Economy.",
+   "publisher": "",
+   "published": "2026-11-18T00:23:39Z",
+   "source_id": "reneweconomy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-18T02:49:27Z"
+  },
+  {
+   "title": "Norway: sets out rules for first offshore salmon farming licences",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR2VlRXRndGtnLXdsSU01UXFfM1NveVF6ZGthVUxNZS1Kc0tRMnJ1T2VJZV9CSlBpbHNiR2g2OWRmTmVIVjlqeU5TZ1UzRGJDNHcyb2dwQ0JkeFp4bXlZSVdmN0IyNnNFU3RhalBLMEdSMnJLcy1pOWNWaWZ4VVgtLWdPaG9uc1IxMkFfNzVoVTZjdTE0S0lhZ2hJN3I?oc=5",
+   "summary": "Norway: sets out rules for first offshore salmon farming licences    Salmon Business",
+   "publisher": "Salmon Business",
+   "published": "2026-11-18T00:02:34Z",
+   "source_id": "gn-aqua",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Finfish aquaculture"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-18T02:49:27Z"
+  },
+  {
+   "title": "WA secures permanent carveout from gas reservation",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdHZBYVRWZzlLOHc2blhsb2RVbG5BQ3VNRXNvNzRtdnVVRnZEemFqbE5sd2h1M2Y5YlVNcEp3LUFTRl9WYldfX1E5bW12NmtqWXlLcmVMUl8yLV9DV0h4ajBhRXVBa3I2eWpfcHp2Tk9xMUhBRXhoZXN6ZVJvT2lYaGpYeVBlVUtJYW1XLXdDbWdkUm9pR20wRTVRdkl4YXhZQnlta3V5a2I0UVRRUUQxdEZ3?oc=5",
+   "summary": "WA secures permanent carveout from gas reservation    AFR",
+   "publisher": "AFR",
+   "published": "2026-11-17T23:09:00Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-18T02:49:27Z"
+  },
+  {
+   "title": "Get gas reservation done on the West Australian model",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOU9mVDI0NGlKenVhTUxlMjBMNVpsQWpKTFVQVGpQVjNoaUVBODh1NV9xT2dXQV93ekY5ODRBUjZhUjB3UXRtUnRMZWFlR2VXdTFON1dqNkV2VlQxSzhVbzMzUkJGVmZNTDZMUmYxSDdmc3RtWHQ5RW9aSnptZzlVYVZvcDFkYzFkTHB3bExmMTJXYTNKUFA2cUJOVG9IWmhJcVliaDAzWmRVZllZNlFLQ3dMWHV4dw?oc=5",
+   "summary": "Get gas reservation done on the West Australian model    AFR",
+   "publisher": "AFR",
+   "published": "2026-11-17T21:56:00Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-18T02:49:27Z"
+  },
+  {
+   "title": "Hai Long offshore wind farm completes construction with all 73 turbines grid-connected",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcTBGYVNlNUUxTFRlWlVFbzhCTGJBNmhJaExvMXZQWEVLS19VZTRUZWMyVWhhdVRPaDJPYkc4RDJnQzkxZnFndVYzZWF5SkRuNlRCQkdNYUtsM2VuY3RlZ3RxZlEzNXM4d0NzS29rbS1mTG1PdUktM1huU1NLU0lWX09CZ3Zqb3FRMkhIOEZDeG1YbGxhM19nbDFwVkdqQ3lDYlVLR0V0RU5UREozVkF4RHh3?oc=5",
+   "summary": "Hai Long offshore wind farm completes construction with all 73 turbines grid-connected    energynews.pro",
+   "publisher": "energynews.pro",
+   "published": "2026-11-17T20:03:40Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-18T02:49:27Z"
+  },
+  {
+   "title": "Oysters breeding in firth for first time in more than 100 years",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mRktKQ2hWV1dqNk1nZ1lFRzR2Wnl0RWh6SEM2bG1BZ3ZUc1Yxd2NFR29odEcxbkhFS0hYaFE5MGw1c2RUZFNKZmlHTUR5MTVmSFBhR2ktc1ZqNzQ?oc=5",
+   "summary": "Oysters breeding in firth for first time in more than 100 years    BBC",
+   "publisher": "BBC",
+   "published": "2026-11-17T15:08:38Z",
+   "source_id": "gn-aqua",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Shellfish & pearl aquaculture"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-18T02:49:27Z"
+  },
+  {
+   "title": "浙南首座LNG液体公用型保税仓库正式进入实质运营阶段",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZWjlDb0xnTHRkVGZGSGlfWi1uZlREYTNlZURnSVJQekVKazhMeTk5VWtYQTFscDFxbFg1ZXRzdWFrUXYwYVV6eHNLZ3dqVHJFSGhWQ1AweHh1TGk2bmJ2OTkzYkIzakVr?oc=5",
+   "summary": "浙南首座LNG液体公用型保税仓库正式进入实质运营阶段    中国新闻网",
+   "publisher": "中国新闻网",
+   "published": "2026-11-17T12:07:46Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-18T02:49:27Z"
+  },
+  {
+   "title": "White & Case advises lenders to ACCIONA on development financing for Gippsland offshore wind 2 GW transmission project",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPczZPOE1xU05EaE5GT1ZuWHUzS0NYcVFjaTMtY2ozUU1qUkNILWdTN2g0aG5rM3NfQWI4bnYyUkhybnBzNEVtaFJQNzA2YjI0TFNFZmYxLU4waWxwYUN3cnpjaC1PN3p0TzhoYl9rdFdjdVd4cWNXRmhUcG5HNUlTY0VnM0hvZzE4REYzcFg0NUZBck5EY0NwcVNlbGRkMzREZVA4Z1NIVHFJSGl5QXo3cDJQY3FGOGdnUHFOc3NvSkI5eXM?oc=5",
+   "summary": "White & Case advises lenders to ACCIONA on development financing for Gippsland offshore wind 2 GW transmission project    White & Case LLP",
+   "publisher": "White & Case LLP",
+   "published": "2026-11-17T12:00:00Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "VIC"
+   ],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-18T02:49:27Z"
+  },
+  {
+   "title": "Fisheries Harbour Case Against Rajitha Adjourned",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcEFYTmtqX01xNmVldl83eVJUY3AyRXg3blB4RVNzWXVXX0p0WkdfV1J5emM2b2oxVDNjMm1ncXdieEhHaVFadnVFVy1LYkNUNGdkZjlSM1FFNmlXQ1A4Ylp0RTh4WHdBU0cxSWllZ25XenQtNDZrZzBOTnk0QUhKTEtCS1BvcnlScElXa3FDMVdvQQ?oc=5",
+   "summary": "Fisheries Harbour Case Against Rajitha Adjourned    Newsfirst",
+   "publisher": "Newsfirst",
+   "published": "2026-11-17T11:48:42Z",
+   "source_id": "gn-fish",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-18T02:49:27Z"
+  },
+  {
+   "title": "Investment Opportunities in Agriculture, Fisheries, and Food Processing; Initiatives for Agreements on Skilled Workforce Recruitment",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZEFnR0tSelI2TmVDSkZUSzVOTXljeXgzTnBsRDUySHhxMGF2OTFZY0NwaG1vZkw2UjVlc2w3NmFweWd5RXMxeFBaRWFvTkFuZHB2T29DZjVKelN0eVFVTnlNdERjVmNjcEsxWTRVM2pkSW4tUVdZSGJ0dmtSak83UkV0bjlXenVaeXFMUHFXOEpocnBVTHl6cVpXSjFidVdXWm1INTlNS0JDMEMyWWRlaTViODFQcWQzbHE2NlpERFBSN0hsUDZJV3FIUFppNURJbWtsZWRpampSSHIzQWE0OGUtZENkUHduZ1ZNQUowX1NDM0w2VWZkdWt3?oc=5",
+   "summary": "Investment Opportunities in Agriculture, Fisheries, and Food Processing; Initiatives for Agreements on Skilled Workforce Recruitment    https://businessinbangladesh.com.bd/",
+   "publisher": "https://businessinbangladesh.com.bd/",
+   "published": "2026-11-17T11:23:28Z",
+   "source_id": "gn-fish",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-18T02:49:27Z"
+  },
+  {
+   "title": "沙田万怡酒店自助餐优惠｜买1送1！任食生蚝+龙虾+金牌澳牛$224起",
+   "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxONHdoVUdJdmlTU19UUm1nSm5UODZlUjBPMVY4bnRmQWg3SVNEc2hPdGpSWnBJVXBWMWlzLXVhd1pLeUpLTHEwLThRcFdUdWc0UlI1MXBmMmVpLW9XQTNDUlpnSW95cFhxdmNTQ0FLRTBZcEhnM09scE9XZm9SUzhsZEs4Y1UyR0tKT1lPWVJ5T0thUDdzUDZOZzhFcGliOEFKRTBuSHpXYklhZjBJY01QbHZONUhuZUVBejJmVnZLLS1FZ1ppYzc3d3NXS01HR0hVRkI0azdNSFVqVUs2X3JDRHR6SXMyRzRRZU1lazByTmJ2eWpSdjlFMFE1Vmd2bzBlbEpPNVJtMzBGVFZJWjd3akYxcVJEX19xZ18zYjBOX1d5cDFtc2kyVVVaMmJFSjNBS3VrdjhCdDhXVHoyWFROR2ZZcWxUZ0VEdlA0d2pqNUhBMEprcEFCTVVJWURsbFJYcUlmZEtsc0hoYmlyUVUySW1JMURvdEdrY1loUXdtZGdQVHlyZmhzRzZqZmE0TGowSGVaU09XNUZ5UXM?oc=5",
+   "summary": "沙田万怡酒店自助餐优惠｜买1送1！任食生蚝+龙虾+金牌澳牛$224起    香港01",
+   "publisher": "香港01",
+   "published": "2026-11-17T11:05:00Z",
+   "source_id": "gn-zh-fish",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Shellfish & pearl aquaculture",
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-18T02:49:27Z"
+  },
+  {
+   "title": "Inpex shuffles leadership with new CEO, president and chairman",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYS1IWXJ2WVNVWGNCOU94clB5Sjl4a3diX0ViMC1ESFJlWWpsZUprX1B6azY5aGVUQ2JORU4xS3BXLUFxaXFrY0pfa0dGb3hUWURDYWpiSUdsTWRFbHRMZjhlaWNaWGtuWk41QzNyWU95OXRXeTFaX1VPWkU5QWV0UnJrOS1YUVFObVhvQVRBVzBhaGxxUXhxXzJZVU5ZblVJZEZLRnRWZG1LdGV3RmROYw?oc=5",
+   "summary": "Inpex shuffles leadership with new CEO, president and chairman    Upstream Online",
+   "publisher": "Upstream Online",
+   "published": "2026-11-17T09:56:56Z",
+   "source_id": "gn-ccs",
+   "language": "en",
+   "operators": [
+    "INPEX"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-11-18T02:49:27Z"
+  },
+  {
+   "title": "Maine considers new welfare rules for aquaculture",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbVlZLUxqQnpoSk9wMW84Rl85U1B1aDA1bXQzcjdITFFvU1NjQlVyRWdCNDUzY0VKY1VrTnQwckxTYzZRVWs0RUI4VmtZZnA2ZC1JYmxIczRiUTlXMXYyZHpaR2p6TFhmYmtMM2ZYOGg2c2VQdVI5Y1U3ZldGWlhfUHlwSXJXWWhB?oc=5",
+   "summary": "Maine considers new welfare rules for aquaculture    Salmon Business",
+   "publisher": "Salmon Business",
+   "published": "2026-11-17T09:01:28Z",
+   "source_id": "gn-aqua",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-11-18T02:49:27Z"
+  },
+  {
+   "title": "《大行》摩通：中国电力市场改革料撑2027年储能装机 看好海上风电及核电",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXb2ltRFN3eWdLWVJjNEt1cjVXWklCeHlMT2hsQjF3LUNBSHFCdEd3Q2lzYXlVcmdHM0wwNE93eC1NeWZzenBrZTBrX0VZQ3loRmJaVmhIVkdLeVFL?oc=5",
+   "summary": "《大行》摩通：中国电力市场改革料撑2027年储能装机 看好海上风电及核电    Moomoo",
+   "publisher": "Moomoo",
+   "published": "2026-11-17T08:55:13Z",
+   "source_id": "gn-zh-wind",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-18T02:49:27Z"
+  },
+  {
+   "title": "澳大利亚Carnegie在西班牙完成波浪能装置首阶段海上部署",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjWmpNdFN2XzJDMm51OUNZNGlHdzdQT1pfR0I4NF85OWstUDRyZ3dnd3pYQ1p5enVIVGQ5MXN4NnFuR2xVV0FYV3gzelduaVAwV24yajdUSlg?oc=5",
+   "summary": "澳大利亚Carnegie在西班牙完成波浪能装置首阶段海上部署    维度网",
+   "publisher": "维度网",
+   "published": "2026-11-17T05:40:00Z",
+   "source_id": "gn-zh-wind",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Wave & tidal"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-18T02:49:27Z"
+  },
+  {
+   "title": "Hai Long Offshore Wind's 73 Turbines All Grid-Connected: 1GW Capacity Leads Asia, Full Commercial Operation Set for 2027",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5rWXBMVnh0TVZmY1BlMEl6dng5S2d2V01OOG00ZVRBY1JjOGgyNGZWbGZPUkZyR29kcVFMVFNXVUpCRG5wQmRVdjU4a2tUSUhGUEJPRFpUMlNseHZMMXVseHJmVjNybE9OSEZ2V2VoQnREanZsN1E?oc=5",
+   "summary": "Hai Long Offshore Wind's 73 Turbines All Grid-Connected: 1GW Capacity Leads Asia, Full Commercial Operation Set for 2027    BigGo Finance",
+   "publisher": "BigGo Finance",
+   "published": "2026-11-17T05:05:00Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-18T02:49:27Z"
+  },
+  {
+   "title": "E-Gas系统：11月9日-11月15日当周中国LNG进口量约127万吨",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RRWdsTmF4ZlA0MktVVjF0WmJ1VFdUZ1RsdVNZUVRraThEc0JQcncxUkNZa3d4a2VoeEp3VGZ4elVoazNaVkdmX3c3UHI3XzExYVMyVUNWQTc3cGRNLV9BMC13MXNtMTNxcU9lenA4d3NGZw?oc=5",
+   "summary": "E-Gas系统：11月9日-11月15日当周中国LNG进口量约127万吨    中国金融信息网",
+   "publisher": "中国金融信息网",
+   "published": "2026-11-17T03:22:00Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-18T02:49:27Z"
+  },
   {
    "title": "Trial shows success in reducing trawl impacts while maintaining prawn catches",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT2hEbDAybWJBaEpSbkliTDRkQ0NJaGFFX3V5N0lDZUxVOXlMTklLVE5Ic2NuRUdZbEtWM2RxZVhNR0FidVdUOHVkT2xlZzBIVkI1eGE0NGlWUloxd2ZGclVUTjhzT0FLY2ZObXlEdVltTHgtRDlDQnpDUE96dF9vaWlIZ2lfbmp6Zy16RzQ2NF9YUzJUbDFId05rUDFBeTdZTVhDX0wxZ0lVY0p5bGFCdE12dw?oc=5",
@@ -102,6 +572,48 @@
    ],
    "projects": [],
    "first_seen": "2026-11-17T03:39:09Z"
+  },
+  {
+   "title": "山海入馔 文脉作席 记者走进今年新晋黑珍珠餐厅",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMnZTcDF0Z29MQjdLRTdsUzYwSkRGWDRXZkVPNTRsZFJhdmJHdThtSkg3MjNZMW1PWlY3TXFVUFZtNHBBWTRqczNhRVhCckViR2dQRVBQUy13aUZXeHJMWW1BRklxeGp0WWV2RzBBYUtmMmNMZDgyYlUwUnMxc29Sb2VPcXFEUm9fdGtNX3BVWmJ6Q0p1NlRDay1ZTmZkTUZGT05BOXdaRnhGWHpDbDlTZ0dqZjAzVERSNjhDTmkycEVsUmpRaEtB?oc=5",
+   "summary": "山海入馔 文脉作席 记者走进今年新晋黑珍珠餐厅    欧洲头条",
+   "publisher": "欧洲头条",
+   "published": "2026-11-17T01:45:12Z",
+   "source_id": "gn-zh-fish",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Shellfish & pearl aquaculture"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-18T02:49:27Z"
+  },
+  {
+   "title": "Sea Change Australia: How do rock lobsters respond to a changing environment?",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQWN1Nzd5SWpyN0taRDJzWUFxaldOcEFPSzQ4X2U3UlJDNDFoM1dzVm1yaC1uZmdRVGlCME42ZkZQVzdRWWE0Wmlkb1luTHk4dmJvYzdyR2ZHZlZ6eExUNE5BTjBuUXJpOUhhUmJLUmNRaExEOHBaUzFkMkxrMVViRHdMS21UQWNueEcxRzcwb3N0VXFRSlpDZVBDMzQwWkpidjJrVy0xdlB4VG9uZzZ2THlkT2hkLVdoMU41QVFpNU5HMGZxdUU4LTkxZGQ0RzBlMHc?oc=5",
+   "summary": "Sea Change Australia: How do rock lobsters respond to a changing environment?    University of Tasmania",
+   "publisher": "University of Tasmania",
+   "published": "2026-11-17T00:51:09Z",
+   "source_id": "gn-aqua",
+   "language": "en",
+   "operators": [
+    "University of Tasmania"
+   ],
+   "states": [
+    "TAS"
+   ],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-18T02:49:27Z"
   },
   {
    "title": "加中关系变好 龙虾出口中国为何难回复荣景？",
@@ -296,6 +808,63 @@
    "first_seen": "2026-11-17T03:39:09Z"
   },
   {
+   "title": "Port of Blyth Unveils $265M Offshore Wind Expansion Plan",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5SOXA1T0hYVFk1YlAwbHI1WldoaFF2RjNnQjk0dHAyTThOa1N6Yl9OemhsY0x5X3laX3VZNllTMk5ZYUpZYm55TFlOVEVfRHFCYzM4WWhYSU5FbDVjLXBmaHY4TWc1aFZsLVZYWEUyVWF5ajVDbDFfWWViek5NQQ?oc=5",
+   "summary": "Port of Blyth Unveils $265M Offshore Wind Expansion Plan    Marine News Magazine",
+   "publisher": "Marine News Magazine",
+   "published": "2026-11-16T13:34:05Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-18T02:49:27Z"
+  },
+  {
+   "title": "LNG现货运价走势分化：东部溢价延续，西部走软 - 新闻和统计",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcnMzd0NweFR6QS1Fc2tCaGY2ZE13eVpwcjM1YmFVYzltdGVkaGc0UWhSR2FSX1dCZFRZdDFKenVJbldyZ0dDM0hGcHJwcmN1dkk4Nkd4SzFGOGxzRXhMMWQ2SjJ6RWowY0locVFBNlVSTUYzVEplVWlmMzhhNlRhZlcyTVRWUTcyZ1c3Mmc2TFprLTQ3RnFVR25R?oc=5",
+   "summary": "LNG现货运价走势分化：东部溢价延续，西部走软 - 新闻和统计    IndexBox",
+   "publisher": "IndexBox",
+   "published": "2026-11-16T13:23:37Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-18T02:49:27Z"
+  },
+  {
+   "title": "LNG价格飙升，欧洲迎来严峻冬季考验",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uQkplQURjeERtUzZBYkVtX2xtb2VHWFgxby1ZSWhydzBId2xsUm9YWUxkdzE2STZlUVlhdFllaEpaaG81WFlxeDRJTWhyQmpBbjRwSUREdDFOTEU2dWNz?oc=5",
+   "summary": "LNG价格飙升，欧洲迎来严峻冬季考验    Fx678",
+   "publisher": "Fx678",
+   "published": "2026-11-16T13:23:29Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-18T02:49:27Z"
+  },
+  {
    "title": "Domestic Gas Reservation Bill: unions and manufacturers urge senate to pass new laws in bid to lower gas bills",
    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQdXFqd1hINW5CRHdaZE56UzZfQ2hsakdUNi1GcmFWRDZvMThiZU1oR1VCVUhIX0RRWHBybzR0Znk0RWlqSjFBS2NYZXk3QVY4MGxwUEFQZGZaODE2d3d1Y3VSbmVFMXlFOUFHUkRrU2p0Tm5zQXEyWWxGR3ItQTl4d3BWOTg2X2hXcUM4SlJ2dUJtVWwxeXNXQ2RVZE4ybnZ0LTliNVRJc1RIQ1V4NFpua3duaXV1RHN6TGtfRXdXdzhPSTVBNHNhQXpwVTNNT18wdjBsRGxlYVJrbnEycFhUaFBnS1NsWjZ2YWxUM0RSUTk2MVdHWm5tdlQza9IBgAJBVV95cUxPcmVOV1pvMmhFTGoxc1d6Wk5OdE9nUkRpQnNrQy1PY0RlNThvOVFLVGdncEtJcDYtQllYVHNoSjExSHlYUnpHcWd6TnhyYURYTnU4cjRCaVVpV240RURIVS11OE5SLTJ4cWI3b3RsVm1KTFA1a3FsQzk4SHJVZGd1cHo1WU8zdFdqWjJTeUxMR1RSdTUtRVJ5WHhmNVVaY3pzWmV5Xzg0TlhLZXprNUlGb0ZBcXphSnIyN3NmZWp0Z0VibUVvU0doRmtCN0xHQ3E3S1h5aDZmNkszV2xKY0FZSlNYZnJ6ekVWTEg4eFo5UGp3V3l2aEdhX2s2dVJ0bkoy?oc=5",
    "summary": "Domestic Gas Reservation Bill: unions and manufacturers urge senate to pass new laws in bid to lower gas bills    7NEWS",
@@ -391,6 +960,25 @@
    "subcategories": [],
    "projects": [],
    "first_seen": "2026-11-17T03:39:09Z"
+  },
+  {
+   "title": "三星重工业赢得3,424亿韩元LNG运输船订单",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUVFBaVQ5d2dSb05rMmNVTF9nbFUtMWdEYndmQnVSUjRQcXVQSkNkckxDeXNqZ21VZDVGV2FURFBzQVdjbDc2UGI0eWtwNjFKTTBJZVJRbl9JY2RTc2FKYnhCYXZNTC1Rck5VQi1EN2sxcGRobVYyclU5VTRUeGxTZk9handSbWRiQWpHZ3JBRHZzdGduN2tvQkZZbE1zYWsxWGgtS1pTaDhyWG9tSTdWbTdqaGdIVHhLS1lsVDIwS2tZVUkxX0g2aWl6NHpuWF93ZDBZQXdDNHJvcDkw?oc=5",
+   "summary": "三星重工业赢得3,424亿韩元LNG运输船订单    Moomoo",
+   "publisher": "Moomoo",
+   "published": "2026-11-16T10:14:15Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-18T02:49:27Z"
   },
   {
    "title": "Subsea Cable & Critical Infrastructure Protection Services",
@@ -566,6 +1154,25 @@
    ],
    "projects": [],
    "first_seen": "2026-11-16T00:54:30Z"
+  },
+  {
+   "title": "IEA Cuts Korea Offshore Wind Forecast 41% on Permit Delays",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWGVVOGxpV1V5anZtV25RQ0xOZHgyQVE1aGplWUJzZDQwT1llVXFZVk9xTF9Xd2ZxRE5rdGs5MTdKYTZ3M1NZZnYycDlza1J1UzR6Rk1WdDJERnlzLVlfMVlIS1RJeDFzUHVpZnQxTHhQNzFlaVJLTHBVQ0ttcEdnSmdpTkNleXNGLVJYS1VUYmlhd3d4T2ZoRS1LaTYyc2dZbnc?oc=5",
+   "summary": "IEA Cuts Korea Offshore Wind Forecast 41% on Permit Delays    Seoul Economic Daily",
+   "publisher": "Seoul Economic Daily",
+   "published": "2026-11-15T21:42:27Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-18T02:49:27Z"
   },
   {
    "title": "Australia industry and unions back gas reservation bill ahead of Senate vote",
@@ -956,6 +1563,25 @@
    "first_seen": "2026-11-15T00:56:34Z"
   },
   {
+   "title": "Belgium allocates 2.04 billion to promote offshore wind energy",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAzZWZFSEVBakJaUXBtNFQ3bzFscDRvYWVJeUg3aC12bDl1TzRsSDMxRk90SjFIemNoeE5jaElaOFU3N0NhTUp5RU1NQWF1b01tQWdZckFNVWpFZjk4eEJNN0pOWnJzaC1tdzVTMXBpSzJRRFhYd0d5Tw?oc=5",
+   "summary": "Belgium allocates 2.04 billion to promote offshore wind energy    Inspenet",
+   "publisher": "Inspenet",
+   "published": "2026-11-13T19:01:24Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-18T02:49:27Z"
+  },
+  {
    "title": "都怪微软！珀斯机场的龙虾，要臭了！",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zTHotcGdVSmxQRWlRa21NdlNaU2pGMlVsYnEtVEN2SGFNbGVEYnpYUGt5OGl0Mi10b2U4cWhaa1RsVDhMcVV5NTY0a1I2MnFLb3JfYnFB?oc=5",
    "summary": "都怪微软！珀斯机场的龙虾，要臭了！    yeeyi",
@@ -1137,6 +1763,25 @@
    ],
    "projects": [],
    "first_seen": "2026-11-14T01:22:50Z"
+  },
+  {
+   "title": "Sonardyne begins monitoring at UK’s first commercial-scale offshore CCS project",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVS1mdXV0NE04Tlc5UE5JOV9wZVdhWkhIVHFRcnB1V3RfN2lyMFZnOFFhTG9Scmw1UHlYNUk0Y1ZWbUVMeHhkMjFUMkhhRldFRXV5VVBfWk9vaTU4YjBUd0Q4TWRhaGVsc2s1UEUyc0NpSWFMYWU1WDRsMnVFMFRhSHNCaTA4V19oQk1yUk9kaDZKOXdPM3gtQ2RtenEzSTl4WkhuekxJQQ?oc=5",
+   "summary": "Sonardyne begins monitoring at UK’s first commercial-scale offshore CCS project    Engineer Live",
+   "publisher": "Engineer Live",
+   "published": "2026-11-13T11:02:42Z",
+   "source_id": "gn-ccs",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "CCS & gas storage"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-18T02:49:27Z"
   },
   {
    "title": "Tasmania closes off rock lobster, dive fisheries due to trade risks associated with salmon-farming antibiotics",
@@ -1558,6 +2203,25 @@
    ],
    "projects": [],
    "first_seen": "2026-11-13T01:45:04Z"
+  },
+  {
+   "title": "Nova Scotia, Massachusetts looking for feedback on offshore wind development",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTkUzWmJyNnpoeXlUcTZKSUZnNzVNcnRlTG4tbUNGZ25SeU9WdTN3aXdySnJVa24tUEhZbjRSX3NuREdvTGRMQUtMQUhCYklNMlVOLVdoWG12dkl0dFVBc0s5eFNqZlJ4c3FEMmdGaDJlQ3pISWJGSmY2enFzUE9uVmc2R2I2UFV2RkhTbDBsdTRLMWdZUEpfc08tcnhrQ2JtdGN5RGdDUHpMa0dfNHAtODAyZUJtM2t4VkcwQmtQUld6aElUamZn?oc=5",
+   "summary": "Nova Scotia, Massachusetts looking for feedback on offshore wind development    CTV News",
+   "publisher": "CTV News",
+   "published": "2026-11-12T18:15:36Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-18T02:49:27Z"
   },
   {
    "title": "Shell Balances a $1.45 Billion Australian Exit and a Greek LNG Pact Against the Crude Price Test - ad-hoc-news.de",
