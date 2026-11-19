@@ -1,53 +1,53 @@
 {
- "fetched_at": "2026-11-18T02:49:27Z",
- "added_this_run": 34,
- "total_items": 1015,
+ "fetched_at": "2026-11-19T02:27:51Z",
+ "added_this_run": 45,
+ "total_items": 1060,
  "earliest": "2026-09-30",
  "errors": [],
  "per_source": {
   "gn-lng": {
-   "in_feed": 18,
-   "new": 1
+   "in_feed": 25,
+   "new": 14
   },
   "gn-gas-policy": {
-   "in_feed": 43,
-   "new": 5
+   "in_feed": 50,
+   "new": 10
   },
   "gn-decom": {
-   "in_feed": 6,
+   "in_feed": 4,
    "new": 0
   },
   "gn-wind": {
-   "in_feed": 32,
-   "new": 7
+   "in_feed": 31,
+   "new": 8
   },
   "gn-wave": {
-   "in_feed": 9,
-   "new": 3
+   "in_feed": 8,
+   "new": 0
   },
   "gn-ccs": {
-   "in_feed": 11,
-   "new": 2
+   "in_feed": 7,
+   "new": 0
   },
   "gn-aqua": {
-   "in_feed": 32,
-   "new": 4
+   "in_feed": 31,
+   "new": 2
   },
   "gn-fish": {
-   "in_feed": 30,
-   "new": 2
+   "in_feed": 31,
+   "new": 3
   },
   "gn-desal": {
    "in_feed": 12,
-   "new": 0
+   "new": 2
   },
   "gn-cable": {
    "in_feed": 8,
    "new": 0
   },
   "gn-ports": {
-   "in_feed": 14,
-   "new": 0
+   "in_feed": 12,
+   "new": 2
   },
   "gn-minerals": {
    "in_feed": 4,
@@ -55,23 +55,23 @@
   },
   "gn-zh-energy": {
    "in_feed": 12,
-   "new": 5
+   "new": 2
   },
   "gn-zh-wind": {
-   "in_feed": 5,
-   "new": 2
+   "in_feed": 3,
+   "new": 0
   },
   "gn-zh-fish": {
-   "in_feed": 16,
-   "new": 2
+   "in_feed": 9,
+   "new": 1
   },
   "gn-zh-other": {
-   "in_feed": 0,
+   "in_feed": 2,
    "new": 0
   },
   "offshore-energy": {
    "in_feed": 50,
-   "new": 0
+   "new": 1
   },
   "offshorewind-biz": {
    "in_feed": 50,
@@ -79,16 +79,755 @@
   },
   "reneweconomy": {
    "in_feed": 10,
-   "new": 1
+   "new": 0
   }
  },
  "by_month": {
-  "2026-11": 417,
+  "2026-11": 462,
   "2026-10": 597,
   "2026-09": 1
  },
  "note": "Append-only archive. meta.news_days_to_keep controls the site's default window, not storage.",
  "items": [
+  {
+   "title": "Journey of discovery at Maxwell",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ1RTNHY5a0x3WUljZV9DZGtIcVkxNlVwRmlZY0xyNV8zQW9YUjdEMkhqVG9sUUE1MkZzcFJrWmZPbHpncmNKdks5MEI0MnR1eHZpN1hiT0xNOG8taXdvSkdJZGdIU21rUXRCUllSVzVvWWpBcXp6SlRaOEtTVEZ6ZXZURXg4RW5kV21iYkRMbzRQVVhCZE53YjBPc0g?oc=5",
+   "summary": "Journey of discovery at Maxwell    InDaily South Australia",
+   "publisher": "InDaily South Australia",
+   "published": "2026-11-19T01:13:28Z",
+   "source_id": "gn-aqua",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "SA"
+   ],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Exploration & appraisal"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-19T02:27:51Z"
+  },
+  {
+   "title": "Chevron's Gorgon LNG methane leak scrutiny highlights gaps in Australia's emissions oversight",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZFRESXEwc0lFOVczc1BNOG4wY1BSRndYSXIwSGk3YnI1d21GUGM3X2puekJid2FMS1NWcWs2endWM3ZBQ21xMF9GME9ZVmo2dmtwVG1kalV4enpXcnlWVW5xenU3LXRISzNZbXl0MWVBbjRxaTBabFBFdFlHXzZoWHFnZkprTFZmc0p0cWpzeTNMdWNDTzdDTmZhRWVxUQ?oc=5",
+   "summary": "Chevron's Gorgon LNG methane leak scrutiny highlights gaps in Australia's emissions oversight    Traders Union",
+   "publisher": "Traders Union",
+   "published": "2026-11-19T00:10:30Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Chevron Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [
+    "FOS-004",
+    "FOS-015"
+   ],
+   "first_seen": "2026-11-19T02:27:51Z"
+  },
+  {
+   "title": "How securing a national gas reservation will protect Illawarra jobs",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc2l6czZYQnJNaHk2aHJnLTNITWh2RzdOcnRYWXFvUVdqM3J3Y21hMHY5dWdqVGszT05rWnFfYW4yUWdMZF9RQzJIY01hakpHQWV2a0ZyaHBqRDVpV0pQUmotdzRVcWt2d1F2SDBtazRrdDRvblhpV2tGSUpzd1ByWnFTeVBOQ0RNcmE5NGdDcG5JN0NueF9GNllRc2FwQjR4Q05MRUE0TzByZERnU2w5Sg?oc=5",
+   "summary": "How securing a national gas reservation will protect Illawarra jobs    Illawarra Mercury",
+   "publisher": "Illawarra Mercury",
+   "published": "2026-11-18T22:30:44Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "NSW"
+   ],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-19T02:27:51Z"
+  },
+  {
+   "title": "Trafigura books term LNG supply deal with Woodside Energy",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVXM3MUk4SWlDdWJ1bjZDd240SlVzYW1yc3dEaEcwSXRIQl8weUh3eE1ra0VlamdXSmlTalREVFFHM1AzUlc4TzMzbWM2QVlwSTRkQjV5RDNmcW9zN1Jxa212MmxCdlNlYnZyLV9RTmFfd0tRbmNSSWhRNWhFdHpwRDFOVzRHMlB1c0txR3BBZ1B6elRXT2FucjRydVM2UTcxTk4zY3BNbw?oc=5",
+   "summary": "Trafigura books term LNG supply deal with Woodside Energy    TradeWinds News",
+   "publisher": "TradeWinds News",
+   "published": "2026-11-18T19:13:51Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-19T02:27:51Z"
+  },
+  {
+   "title": "Western Australia to be exempt from Australia's 20% federal gas reservation scheme",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeXhWbEZZUkliQ1dJeDA0d1NjTDNCNXRBLUU0dDBMNllnTDFJWGprWFhCLTd2SkEzODJIMV9lSi0wQ3BLcUY1LVhBeWRlXzZZVmxORHZyNHdPbTNtM2lzS2tybE9SdzNZQ2dXNF9lWG5JVXJDUlZLaGQ0Y0hnV3BhN2lSWC1ieXhyYm83bmpmcXNZd3NoaU5NY2Jxcy1BY2lnS2JUbUpPWENTNTNabXRiQUZwUzFhT0tvaklGZEVR?oc=5",
+   "summary": "Western Australia to be exempt from Australia's 20% federal gas reservation scheme    Pipeline and Gas Journal",
+   "publisher": "Pipeline and Gas Journal",
+   "published": "2026-11-18T16:11:37Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "WA"
+   ],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-19T02:27:51Z"
+  },
+  {
+   "title": "Western Australia Wins Exemption From Federal Gas Reservation Scheme",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVVh6bmZkdmhfWE9VSTZqR2g1NTdJWm5EQldHWUNCSHBvOVVJZFltNmlMajZ0bllPeE4waEZWSHp1X1g5SFFEX28xOXUtUmhIVEpYUWFDazNYR1U1SFVTSXB4SXY4SC1jcTNqU296UkhYVDdxdEEyOGx6aU1ycHE1MDRIekN6dHlJdWNBbDVfRXNFZFFEWkhxZ093?oc=5",
+   "summary": "Western Australia Wins Exemption From Federal Gas Reservation Scheme    energynews.pro",
+   "publisher": "energynews.pro",
+   "published": "2026-11-18T15:33:29Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "WA"
+   ],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-19T02:27:51Z"
+  },
+  {
+   "title": "WA Child Protection Staffing Shortages Remain Unresolved Four Years After Port Hedland Murders",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLXREWC1ybXYzYzZnZjd2Q28tbzI1dGJRQW9IYmtqbGZjeHphMDRRbjJpMDByWVRTQmMxcVZYZ3k2dGpaLTVDMDBRWVM1Mjc3RF9PYUphdHdJQThEZUhEZXd0Y0xQc3AyTG5PQUpLcS1VeFVhMW9Xc3M2WWxWZHd5dXlKaHVXRnRUZXo3d3pfblNQRGJuSjZnT0tjZldVcjZMOUdHUG10VVpidGV3d0VtR05LTm1aQWRxMUM5RmtR?oc=5",
+   "summary": "WA Child Protection Staffing Shortages Remain Unresolved Four Years After Port Hedland Murders    SSBCrack",
+   "publisher": "SSBCrack",
+   "published": "2026-11-18T13:57:15Z",
+   "source_id": "gn-ports",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "WA"
+   ],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Ports & LNG terminals"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-19T02:27:51Z"
+  },
+  {
+   "title": "Woodside signs a 10-year deal to supply Trafigura with 1 million tonnes of LNG a year from 2030",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbkc2Ti05RnZYSlZxYzg1UkxLNk5uNXNvZFhkMDBRbFFrT0UzdG4tOE9hWHcxVEdVMjFHazF1YnpOVmRoVVpXWW9NMzlFRl96eTNhbVphejBDWnZja3ltd0VQeXhybHVPU011eGNSNEtiNDBWbl9MOHpPQUYyOVg1NUY1M3pPZmYwbTdsaGVWNE1ybFdLSkFES2g0V2czNFlZVUt6c1pUYnhjOU9oVWtJelZWcUZUc1U?oc=5",
+   "summary": "Woodside signs a 10-year deal to supply Trafigura with 1 million tonnes of LNG a year from 2030    MLQ.ai",
+   "publisher": "MLQ.ai",
+   "published": "2026-11-18T13:42:37Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-19T02:27:51Z"
+  },
+  {
+   "title": "Woodside Bags 10-Year Deal to Supply LNG to Trafigura",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOW54dmtBRThGWWZCS2YteEhodUhWTkpYUTRXR2VTbVozZmhEZUZhM1NVYTdxSklFN19oTk1GeVpwYkd5SGFGQmVrVjJLclF3LUd0eUhMWmdCWG1HLVprSWIyZndKd1ExMGNGNW9GWFJBNjcyZXdBVzBSSVdxa2VRUmdpWllEYkJnb1hjR29Xd1NfdUJjRFp4VzdlYkdZTHV2VVo4QWRIcFVnckxVeXc?oc=5",
+   "summary": "Woodside Bags 10-Year Deal to Supply LNG to Trafigura    Rigzone",
+   "publisher": "Rigzone",
+   "published": "2026-11-18T12:55:00Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-19T02:27:51Z"
+  },
+  {
+   "title": "Zeevonk offshore wind farm in Netherlands selects Siemens Gamesa for turbine supply",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNDRIQkhUaVpLbkIyMVFlQWhMMDZZV3B2QTkxa05QY2lDYmxNWHVCOUhTN0NRX3U3eUNoVXhkbW5pclVpbXViR2tNa2gxUEgzd0hiUmRiRUY5Y1lnVUpuWkl2RkNERF80Y2Yzcmc4ZVdmSVZBYV9xTWd4QVFoZzNTNlpaemQzZ0k1UGEySjRKSWhoTTlSTWg5MkRaTE9ua3RmeHFOS091NjFlOEFHQlpYVUZWbEpUZzh5ZUpkSHN5bVI2OVJBcVpWTA?oc=5",
+   "summary": "Zeevonk offshore wind farm in Netherlands selects Siemens Gamesa for turbine supply    Construction Review",
+   "publisher": "Construction Review",
+   "published": "2026-11-18T11:30:05Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-19T02:27:51Z"
+  },
+  {
+   "title": "Woodside与Trafigura敲定十年期液化天然气供应协议，2030年启动 - 新闻和统计",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUFFwOUM4VUNzeUtwY3pid3pYUDd0Mk9RM29GTXZhY0RIbUlIY2o4dnlTWkhqX204dGt1azctZDNzczZuQTFWc1I1SVlCemlhZHk4SXJNbWZiY0p5N3NsdnMzNDZ1SzBDQkpyMXdQeFEtNEI0aU5JX2p5RjRxSGFURTUzekxZMklPR2lNOWdvWUkzUzNyNWg5aXZrUzRON2M?oc=5",
+   "summary": "Woodside与Trafigura敲定十年期液化天然气供应协议，2030年启动 - 新闻和统计    IndexBox",
+   "publisher": "IndexBox",
+   "published": "2026-11-18T10:03:21Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-19T02:27:51Z"
+  },
+  {
+   "title": "Australia's top LNG state wins exemption from gas reserve scheme",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWFAxOW9UenJQX3MtWWhId1JNc3ZBVlhvZm9LWTZtUlRPenZJaU1GMEtFMEg2S1Y5OVd5U2thdGlkRGN1OGQ3NU0yRk1XN01oelJSLVVPQ3kwSDZzRzVEWnl0b2JvbWgweVVZMW0wSVdLWFg0S2tGSmh4ak1aMjB5Mlo4NDg2bU1lUWwzTUlsSFNTZDdCRDEyWm51X3BDbVpnMENqOE1YbWZpZ1VUZ21EQklGLUPSAcIBQVVfeXFMTmJTTXcyUkVXbW41S0dGM1BsUHF2bllfY0NLWUdBRENLeDlJZjlhcEJJS3dUSmhWMDhCd19rMXd4Zms4TnNORUROV013RVZQOHlzY0N4M3pHYy1jQmJBWTBLVFJLejc4MXk1NlR5SnFQM0VoYTRmUkEzdGN6bG14anl0STNvVlM1aU1pUjJoenpiNk4wdmtHM1R6X1E0MFAtTmpjOVVzV3k4TjA1NkVzSnkyOU5OU2NCdm9VQU8tUHY1OFE?oc=5",
+   "summary": "Australia's top LNG state wins exemption from gas reserve scheme    Baird Maritime",
+   "publisher": "Baird Maritime",
+   "published": "2026-11-18T10:00:20Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-19T02:27:51Z"
+  },
+  {
+   "title": "EDITORIAL: Labor’s gas reservation plan is not in the national interest",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZXlyd0UzWlZPLUh0UTFrUjk4VXNQcGhRYkRtUlFWbGhaTVllNVd6VDZ5YXdGLVBCZ2h4NTJpaWU3a2lfRU5LYV8xdWh1N0dFeVhWZklJcWtCT3h2LW9MVTFGNl82cWZ3LWRlUDhrb2VOdnBDX1RDSF9TeEY3VE81TXpqdURWWEpMQ0Y0U216RXBvaXFIR3pjc2RQdFkzQXZBaGV3SGp5WW9xNVp0S0FGNDBCTVNOMWM?oc=5",
+   "summary": "EDITORIAL: Labor’s gas reservation plan is not in the national interest    The Nightly",
+   "publisher": "The Nightly",
+   "published": "2026-11-18T09:56:39Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-19T02:27:51Z"
+  },
+  {
+   "title": "Woodside Energy locks in 10-year LNG supply deal with Trafigura starting in 2030",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNam42WldoQkQxMUhMZG9VTy12RmlfZU9yaTRrSlVPdFJSN2l2eld5cEdHU084QklMR3NJVmJuRVk4SjV2d21JQzJ2bVN3VHZldlptcUdwb3V0SnBGOVlkUGJxX0J0Uk9tNWRMQnZjVlZ6S2lLYUlLWEVfMEo4eVdQbUlpaEFxQ2dzNDJ3cGY5d3dzdm9PMVQ3bXpMRE5CeXhnaEYwQ3FDRU5MMnE1ZU1rZWZkUmtPc3dBZjZVdUdGTkdRNElzSXVPVERvMNIB2AFBVV95cUxQY3BYRnF0djhCd0ZLRk5rWTJMRDg2aWpBWUJRNHZaRVo3RmJ3UHRBOWJqRGlwMFg0Q0VlTzlnNkxVUDFIR0Y3Qnp0cEdnX0d4bEJBZDRvWHpzaHZxSTJXekVPaEJqZW1VTVpuVzJlZWw5Z0dXR3VZc2d5TmFHdlJrU2VucWFZdE5lbWZQeUhPSGdPMjNicHRvOWZ6Rm5EV1dLT3JQaVZPemFGTFNuOGtBSWREc29fcTJUU3BJSjFaTkZjYUEzTkhXUDJPSDYtQ085TkZXRWJjdXU?oc=5",
+   "summary": "Woodside Energy locks in 10-year LNG supply deal with Trafigura starting in 2030    Baird Maritime",
+   "publisher": "Baird Maritime",
+   "published": "2026-11-18T09:54:10Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-19T02:27:51Z"
+  },
+  {
+   "title": "Woodside and Trafigura sign off on decade-long LNG deal",
+   "link": "https://www.offshore-energy.biz/2026/11/18/woodside-and-trafigura-sign-off-on-decade-long-lng-deal",
+   "summary": "This long-term supply agreement is for 1 million tons of liquefied natural gas (LNG) annually, starting in 2030.",
+   "publisher": "",
+   "published": "2026-11-18T09:16:02Z",
+   "source_id": "offshore-energy",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-19T02:27:51Z"
+  },
+  {
+   "title": "Woodside signs LNG SPA with Trafigura",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNX2FLRTU3UzlNRFJPbXZQQ29Ga2NWQlUzdlZfb2Z5QjlLVGFMcTlxNks5YVBMYnAwTXdPZG9WSWV6WnVxLTFHNzJMZ0tJNlhHLVFtaWtsU3FYZnJsbmVoalNNSGVUT0RhVEtDTnhPTHJabVcyRzYtczVSTkVEcnJCV0hRQjB4Tm1KbHJ3Y2JQdm1FYURNYUFNdVRR?oc=5",
+   "summary": "Woodside signs LNG SPA with Trafigura    LNG Industry",
+   "publisher": "LNG Industry",
+   "published": "2026-11-18T09:08:01Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-19T02:27:51Z"
+  },
+  {
+   "title": "Australia frees largest LNG exporting state from reservation scheme",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9XRUFKU285a0dSUTlTUnhqX01Ud1d4dVVZclprYTd4VDhYUW9YUW90VE4zMGt4QjRvbklVV0VYUzJNMUxwdVRaaFp4THVuNkoy?oc=5",
+   "summary": "Australia frees largest LNG exporting state from reservation scheme    The Edge Malaysia",
+   "publisher": "The Edge Malaysia",
+   "published": "2026-11-18T08:49:55Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-19T02:27:51Z"
+  },
+  {
+   "title": "Western Australia Gas Reservation Exemption Confirmed",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMkw4Ykh0bS03MUtwand3eXI5blZ0UEo4WDIxSDNtNzJyNEpTM0daOGJTdEFhQy1vQXg0THUza3o4SXdRMFFUT3JRU181UEFtRHhfdHdMU2VISndUT2JiM0theWtKTnpCel93ZDVodzQyaUJSX2MtcnpQVjE1T0lnN0lZOWxDMmFxMWFvZQ?oc=5",
+   "summary": "Western Australia Gas Reservation Exemption Confirmed    NewzTodays",
+   "publisher": "NewzTodays",
+   "published": "2026-11-18T08:49:03Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "WA"
+   ],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-19T02:27:51Z"
+  },
+  {
+   "title": "Trafigura Signs 10-Year LNG Supply Deal with Woodside Energy Starting 2030",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNmE2M3NORUdWMDl3SmFlSk9mTFh4NGhibVdMcC1RczVSdGZyTkJNSzREX2tpQTg0aThkeXc4MkU5Q2VJUkNNSm9SbENQQy1RS0M1ajNLQnJRaVM5bFY3TWxHc1BoWWFhQWdEV3lNR1lpNkV0N0xkUGthTkpTaGNiaUhMcllMSmc3X1dHY0VxbG1tWkVySVY3RjU0UTlWb2RqMk9OOXNWWlR3a1lUNFBycFhCRF9nRERsMThsYVZiaWxhelQ0T2Foa2MwWFNyVHdtUXBPVHRkbGtIVEtqQU5COTJJUQ?oc=5",
+   "summary": "Trafigura Signs 10-Year LNG Supply Deal with Woodside Energy Starting 2030    Shanghai Metals Market",
+   "publisher": "Shanghai Metals Market",
+   "published": "2026-11-18T08:37:00Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-19T02:27:51Z"
+  },
+  {
+   "title": "Plans for major offshore wind manufacturing facility in Highlands revealed",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTnZHV0Y0N1lCMFhiZmZ1LVFsdXh4cE5WcTMtVGJQUHdHSWJsRExSU3o4QnVYc083azFpdmI4WkM4M2thWFkzOTJRZUJmQ3ViLVJNM2JEUU4wV0g1YTZ1Z090aEVXVVluU3BCWkU1LTdncVJ4WFg3LVhHNFZOOTlDenFHWWRtVTRuOHg4aHY0TW9VbF8wSHpQSGZISjYwNkMxUHpsVUViNUQ?oc=5",
+   "summary": "Plans for major offshore wind manufacturing facility in Highlands revealed    The National Scot",
+   "publisher": "The National Scot",
+   "published": "2026-11-18T08:36:11Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-19T02:27:51Z"
+  },
+  {
+   "title": "EVs help shield Australian households from rising fuel costs - Australasian Fleet Management Association - AfMA",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUjVuZjBWUHM4QnJua2V2R0JxQTdWWGxhakI2VkM3XzF1NHg1UDhoREltNG9nc1gwUWs0MTFEenAyQWwyMUpWdm8wNlFOOGM5blVtOFBCRUVUUnZySFYzT2V1NFVRNWRNcE1uTXZ5X19BYndlU0JYZzFkMm1MTUw5UFQxMTVZVmVs?oc=5",
+   "summary": "EVs help shield Australian households from rising fuel costs    Australasian Fleet Management Association - AfMA",
+   "publisher": "Australasian Fleet Management Association - AfMA",
+   "published": "2026-11-18T08:26:12Z",
+   "source_id": "gn-fish",
+   "language": "en",
+   "operators": [
+    "AFMA (Commonwealth)"
+   ],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-19T02:27:51Z"
+  },
+  {
+   "title": "Public charging for EV fleets: When to use it and how to pay for it? - Australasian Fleet Management Association - AfMA",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOS3NyRm93QlJsYmQzbHJSMGd6U2xRTWU3Yi1pWGJEcThYZUFONjRCZ2ZBSm5XRFN6bUxxSGV2eVE2eVJhRVJrX1FUcXY0ai1BalJWUlRlZUR3SGw0QVpkVkJDX3QybHIwYVI4dVNZclg2NkFFMmhqdzVUYkxNdVhLT1dST1FwX0kwd2VLWnJLams?oc=5",
+   "summary": "Public charging for EV fleets: When to use it and how to pay for it?    Australasian Fleet Management Association - AfMA",
+   "publisher": "Australasian Fleet Management Association - AfMA",
+   "published": "2026-11-18T08:26:12Z",
+   "source_id": "gn-fish",
+   "language": "en",
+   "operators": [
+    "AFMA (Commonwealth)"
+   ],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-19T02:27:51Z"
+  },
+  {
+   "title": "Western Australia to be excluded from gas reservation scheme — OilPrice",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTkZlM0NsLWdCcnJJa29LMDhLQXZRbnpZQ2EzWTV6cGh5S0thZEg4Ni1EdkVSYzRCUElIU1BwZGs0eFhtM29BQ2Y5c0xPU1dZRm9GMlBzbTN5aDJuMmd6ZjNFTlBlWDdwekVYVVYyTWVqY1ZnQkNickVkd1lKclZfc29SNHl2TFFaYUJjbTlXbWRSQVhKdEZuUnl2QnJiSFN5ZHc?oc=5",
+   "summary": "Western Australia to be excluded from gas reservation scheme — OilPrice    UA.NEWS",
+   "publisher": "UA.NEWS",
+   "published": "2026-11-18T07:48:49Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "WA"
+   ],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-19T02:27:51Z"
+  },
+  {
+   "title": "澳大利亚最大LNG出口州获豁免，不受天然气储备新规约束",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YcmxhOVdESjVCamx5SmtrNmVUcVZuTzhuVzItYVY4aXhnRHZHekMtLWNZcDl5b3FjanhHdU91TERlLUJwYndMYXNOX1Q3Q3oxa2JzenpfUUJWOGRQ?oc=5",
+   "summary": "澳大利亚最大LNG出口州获豁免，不受天然气储备新规约束    Moomoo",
+   "publisher": "Moomoo",
+   "published": "2026-11-18T07:32:35Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-19T02:27:51Z"
+  },
+  {
+   "title": "Western Australia Wins Battle Over Federal Gas Reservation Scheme",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM1g4dXdtMVFvbC03ZWNjdEFxQVQ1VnNzOWFieDYtRE9TbWhwTHRSNnljLVJDOHJGR3lBRThZV1VaUGluZHVZaWplUEZQZFU1ZklCdlBXTlhUdEN2elJyMXh3V3NDc0Zza25PaElrVWV6dnpyRXRYTVhqX29mdTFXMDNDc2xMbzNCZzZTZ241UllUVUpacldrc1VVVFYxUDVxVzA1azRoei1vVmhwaEdfc1FPOVhfU2pfZEY2cVln0gHDAUFVX3lxTE04UnhUbHJNWk5vb3Y3M19RZkpXeU44cGlIZlc0UWZZSUhxakU3UTJ3UUZqSzh5VElxdm0zWlBEWFNnVkplRGJha1p0U1YtVFBFRVg1RkNod1VBQ09BU2NQcmlLU0tmTnlWSVY1YUlSSUV3RFZNQXVFTS1ESTRtYTR5d1A0cGcyMkNLTnItWHN1WkowN1pIOWZYQVlOcjNwb1B1dVQ0MGtQMWk1Z1d0eUoyMnFmOUc5allYWDJvMV9nWktUSQ?oc=5",
+   "summary": "Western Australia Wins Battle Over Federal Gas Reservation Scheme    Crude Oil Prices Today | OilPrice.com",
+   "publisher": "Crude Oil Prices Today | OilPrice.com",
+   "published": "2026-11-18T07:30:00Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "WA"
+   ],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Oil & condensate",
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-19T02:27:51Z"
+  },
+  {
+   "title": "Woodside seals LNG supply deal with Trafigura",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPekxza3NOVlNaTERyanNMTzJMTTBNTXVaQlZ2X2s1NDRSRTd1NVhsYUNTRUFMOVd6NEU5SjYtbWZoa0ZOUG4wQl95cUt5SXhmdjhfc0h0MFZpVGZqc05GcERvRDVyZWZFcmhMRTRlOU9Pb1U5alJOR01DTUd3b3pHT1l0UTVXcTNjUF8xZy1jY2pCV3pqdXdYejhCT0s?oc=5",
+   "summary": "Woodside seals LNG supply deal with Trafigura    LNG Prime",
+   "publisher": "LNG Prime",
+   "published": "2026-11-18T07:18:41Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-19T02:27:51Z"
+  },
+  {
+   "title": "New tool helps drivers assess in-car technology distractions - Australasian Fleet Management Association - AfMA",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQekhlYkVaUU9RdGppVWwzcXpzSnJNRl9oTmMyWHV3bEVib3F6cEt6NmdaSzBYWnVqd3hQVTBBNmt0N29aUGxiQXBvUDNXUUtuYVhvMlcwc3QyMlhpeUhuZ2xmSTZlXzdhLTFsamNBQlNFSFcxeG5ubHh1TnY5YWl6bTNETXVRdF93?oc=5",
+   "summary": "New tool helps drivers assess in-car technology distractions    Australasian Fleet Management Association - AfMA",
+   "publisher": "Australasian Fleet Management Association - AfMA",
+   "published": "2026-11-18T07:01:11Z",
+   "source_id": "gn-fish",
+   "language": "en",
+   "operators": [
+    "AFMA (Commonwealth)"
+   ],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-19T02:27:51Z"
+  },
+  {
+   "title": "Woodside signs long-term gas deal with leading commodities player",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUmRoOEFsUzE2clZMa3dfUGNESkdha1dsZzdKR3FtNnc1SkIwZDBfeWJrZjdMMXUxV1JtQkdHLUZDdlJCUmdyNk9OLWotTkNiRGlpOVdoaWNGSDd5MlYwcDE2aVBDZjI4Y1dYVko1Y25vZ1UzUnNNZ1Q5LUR6TUJRQzg5UTJQRi1XREZsZ0Noa0JsaXJCSjZxZXhKX3NwcXd0MlUwTFZxUDlReElhbVB3RTRB?oc=5",
+   "summary": "Woodside signs long-term gas deal with leading commodities player    Upstream Online",
+   "publisher": "Upstream Online",
+   "published": "2026-11-18T06:34:35Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-11-19T02:27:51Z"
+  },
+  {
+   "title": "Woodside signs LNG supply deal with Trafigura for up to 10 years",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMamhmYVdmb3JBLWtOSzRBREY5WnlRaUV6clhvMFlYRWRidkUwUnFfaEYtRTJCTlBrWVV2SkM5SG5qaWdEdXlTejRLM0RLc1JU?oc=5",
+   "summary": "Woodside signs LNG supply deal with Trafigura for up to 10 years    Trend News Agency",
+   "publisher": "Trend News Agency",
+   "published": "2026-11-18T06:00:17Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-19T02:27:51Z"
+  },
+  {
+   "title": "‘It is unconstitutional’: Pauline Hanson’s major issue with Albanese govt’s gas reservation scheme",
+   "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPVGtLZ1dWUHdsY1JwWTctMTgwU2VuNVRtRHlwZWRRQzh3MjJ3NjFleUR2RG5yck50NHdlV3UwQnMwRzR4UTR5N0hIT3NpaDI5UmVES0lMcmExNnNWMDc4b3llNWU4R0Y4SlFUNGN4aFo4ZkM1TFd4U0FFMktYX1NILWt0Y3dGMTZlSFdfNU9RNWFkWk4waVBFREs0UHQtcHJwbzJZbGhGNHBhSHk1MFNuSFRveFFpQm5ubWdPVzJrbkhZeGJkWU5vRU5vdXhSd3NaWm5rNW84VUg5XzdXNmlHeTZhNVdEc3pqRHRITktrRGNaZEg2bGhUMFNxRGt5aUx3S0E0YVlweFo2cGpfWEQ4REt4d0pvQmVXb2pFeXF6MUVWXzgyMi10OTJMdjN5ajM2eU1KX2ZReV9lcHNTakJBMVpPdnFHNWRWUmtLLUg3c9IB1AJBVV95cUxNbTI0UkVYX2tzVzZzTFN6M2QwUjVZb2YyQ0Vvb1NFS0pDYnFwRlliMXRKcGxrODVwdTFETDdVSWtNU3pKeU8yX2Y3RnVjNWlUTWlqRkRrbU84a2Y4dW9pMkw3RXRpcmtla2RpT2laM3AtTlN6SlFMQnVMQ2hOTnhGVzdtLUtMX0tMM0tBSVp5VFplVjJSdjRFdzFnODdxZFM4a0FNRTE2NEdUT1BSSlZoVjlnMWRsdVpNeHhEZm54VEVYZW4zUWRtY2NUOER4OGNma1pFNFFjSkM2V0dOVExIU3dWZDZfdGREb09KVzVtV0VsMVdrMGdPb2E2NkVyVUltS0lYcndaVld0aHBoMUdHbHBteGJLLVFNVTFadDJpZ0JYNF9PRUNFMXhfYjB1WEJ1RUUxRjVPQ1R6QlRNN0RZbmQweG5GN3NGNk53SU5qSHVRTkl0?oc=5",
+   "summary": "‘It is unconstitutional’: Pauline Hanson’s major issue with Albanese govt’s gas reservation scheme    News24",
+   "publisher": "News24",
+   "published": "2026-11-18T05:39:57Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-19T02:27:51Z"
+  },
+  {
+   "title": "‘Previous governments let us down’ – Minister defends Labor’s gas reservation scheme",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVkpQUHhOR2NJUG1XTk1DNy04a1QyZ0VwSGNSUzFOX3R4bXllbFdBcHd4MmUzUlpvZFNreHZZX0RtZWNsNjN5MktpSUxBVXlSRE1CVjBZLXl6bk1Hd3hfck1rRXNkb3EtWS1iMnZhWGV5WUlLc0g5aHdvOF9XTDFuTWJ6dEFEeVllX2RiU2lRTkdtdFdVcDJJc0J2a2MtUTVDMGc?oc=5",
+   "summary": "‘Previous governments let us down’ – Minister defends Labor’s gas reservation scheme    2GB",
+   "publisher": "2GB",
+   "published": "2026-11-18T05:37:46Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-19T02:27:51Z"
+  },
+  {
+   "title": "Hai Long Offshore Wind Project Connects All 73 Turbines to Taiwan Grid",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRTVNZHRZUHNJZUhQZEdlUkN4VE1fdlhjQ1dGeU1pWHN0aDEwV0c3a0NiRzcwaGtYYVNqM3picm1mZTV2cl9LNVRLU2JpR0ZEZFhtZ0FEWUY3WHZsR0lyMjlRQ050SlNjeFVwNU1YLWJrOWhORnlfUE9faWNlZGZyekpHTUJGZlRyLUlRRmNWVmExbWFuSGZYQTl2YndXeVZtdTNudFJ0bVVCeklxc2Z6VU5veDBpUjBCUlgwTFFiMzM?oc=5",
+   "summary": "Hai Long Offshore Wind Project Connects All 73 Turbines to Taiwan Grid    marketscreener.com",
+   "publisher": "marketscreener.com",
+   "published": "2026-11-18T04:55:30Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-19T02:27:51Z"
+  },
+  {
+   "title": "Australia's largest LNG export state gains exemption from gas reservation scheme, leader says",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNMUJwcnpaWC14aEZaVWhQMzUwa1RQdl9MS1lxbmNxa1YzdkxHNDJjYkVIU2dDdjctQVdTSzVpNjQ4WXRjT2taRUxtV0lCOUk2R1JCelkzeVktOUczRE9DMkVpSVZuZ1ZudlI4OGpCT0ZIbjRWSUYycmFzNW50eDJ3akNyNEZYaGIzVnNHV0RIZDNXMHhOLTgxTE50d29CZHlWWmVCaHRxVkY0WlkybWpqWUZoOE1kM0M0cFBtSWRwdEZvWTYzWDlvWnEzM2dYU0ZxdDJTdHdNN1lZTkV2WEJKUkdOZmw4YXZwTjltazQ5MzN1ejFi?oc=5",
+   "summary": "Australia's largest LNG export state gains exemption from gas reservation scheme, leader says    TradingView",
+   "publisher": "TradingView",
+   "published": "2026-11-18T04:29:39Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG",
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-19T02:27:51Z"
+  },
+  {
+   "title": "Chennai plans desalination plant in Minjur to bridge water supply deficit",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOHVLUFJpcWNQX1c2WG9CMFlCY2NSejdYZFJTZ2NjdkZ4ZFJHbF9idlBLMGwtUlRzOFdMd29TbVVlQk9SU0t4RmNHZFdHeXZ2UHl0bERlanBHVDBNclVOXzJVTVU0RkFUNWhYVi1uS1lKb3VMRXVHeG16NkVKOGJPTnFfLXNGQy00OXhBNmlobjBHZGhzenJXVVViVmlLS19sZEEza0M0Z1F0Vm96UnBLSVE3SXpnd2F2aHdtMnBZRGxEQUF0UHc?oc=5",
+   "summary": "Chennai plans desalination plant in Minjur to bridge water supply deficit    The Hawk",
+   "publisher": "The Hawk",
+   "published": "2026-11-18T03:56:55Z",
+   "source_id": "gn-desal",
+   "language": "en",
+   "operators": [
+    "Water Corporation"
+   ],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Desalination"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-19T02:27:51Z"
+  },
+  {
+   "title": "Port Hedland mother who murdered her children had been repeatedly reported by daughter for FDV",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNOXFrWldrV3NReGpoMUxFMDdPOU9MOGV1T3lhQjdRTWpVQUVqdzBRZU1kRUl3SWJ6SUdGT1p1QmRhbFMtdW9YQ0lpRnk2SlNvR0hVUUZSNTQ2R2NiR1NWVmlGM05VblZ1Slh0RG16UkpIMTNyb3VhZC1XWDlFMHdFbjZYWjlmWWM1NWhMQWg1MXVpa1pTY1pLYTUwbmxGZG05bURFQjAwc01VNlpGNlptQ0VRak1CMDZISVlieUxuVnVwTlN2NXFWVHNLMFdWb2U5WVlicWdZcXZPeWxBNW0xajNQVDZtdGhJMVVyemlqeUYtZHl5dmc?oc=5",
+   "summary": "Port Hedland mother who murdered her children had been repeatedly reported by daughter for FDV    WAtoday",
+   "publisher": "WAtoday",
+   "published": "2026-11-18T03:30:57Z",
+   "source_id": "gn-ports",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "WA"
+   ],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Ports & LNG terminals"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-19T02:27:51Z"
+  },
+  {
+   "title": "Onslow Desalination Plant Secures Water Future",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWGlpYWh5UDZMMGdURnl5MFlQU2NnZVh5RjduQmg2aEg3YTkyb2hobktna0FZUzZNRHdFWkpmV1ZjNmswOEpTT1liZG13MEdrLXBvRG5tVHc0bzg2ZEtUYXprZFAzbUhSS216ZTU1YUlpS2oteDc5X1BCSkR4R1NhZ3Rud1RhWkV2a0E?oc=5",
+   "summary": "Onslow Desalination Plant Secures Water Future    Mirage News",
+   "publisher": "Mirage News",
+   "published": "2026-11-18T02:59:00Z",
+   "source_id": "gn-desal",
+   "language": "en",
+   "operators": [
+    "Water Corporation"
+   ],
+   "states": [
+    "WA"
+   ],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Desalination"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-19T02:27:51Z"
+  },
   {
    "title": "Woodside Energy Group Strikes 10-Year LNG Supply Agreement With Trafigura",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeW1mMXN4M1BwN1paVW0xZDgwTW1BaVUxN0tzX0ExVm9tQkR1QVpZUnJ6ZGFzY0l0RXQwSnhCTUFodEp5bWQtNWpHSUdaNFBDZHhESFlHT3BnRmhRN1FTZkZTTUdDQ25DMUpENkVGdkVXYmI0aGhaTnA4cmVoOXV3enZIaVRRZkVsRFNFcDZWTmtmV3hYeWlXcUlCTTFRcjBmcEdFYnRNNGxmMS1zNHo2cm41dmM1eTZ5QkQ3MERWSndiQkdG?oc=5",
@@ -231,6 +970,27 @@
    "first_seen": "2026-11-18T02:49:27Z"
   },
   {
+   "title": "Australia's Woodside inks 10-year LNG supply deal with Trafigura",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaWpwcVowSkpSa0pzSjJDZ1JyU2xFbGxtVEhUTGdUNm5ZLTVEYUgzeGlDcThwaXN0cWkxQ1N6WWlXS3ZaX3Z3WEZMdkVHNUh4bGxHWTFGa3VSb2lFT0xIR0stN0hlcXFMa2g2TjU3XzcxcU95V3ptNzF3bWZ1SjAtc2J2MWR0MUhtTmJHWmQ0UVJkakNhUlVxUlMxWjdQdEROT1R3Y3FMNmxQRmZkOUY4ZjhmUGlvWXN4?oc=5",
+   "summary": "Australia's Woodside inks 10-year LNG supply deal with Trafigura    marketscreener.com",
+   "publisher": "marketscreener.com",
+   "published": "2026-11-18T00:53:16Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-19T02:27:51Z"
+  },
+  {
    "title": "Wind energy makes cheap renewables “cheaply reliable,” new study shows, pushes out gas",
    "link": "https://reneweconomy.com.au/wind-energy-makes-cheap-renewables-cheaply-reliable-new-study-shows-pushes-out-gas/?utm_source=rss&utm_medium=rss&utm_campaign=wind-energy-makes-cheap-renewables-cheaply-reliable-new-study-shows-pushes-out-gas",
    "summary": "New analysis shows how adding onshore and offshore wind to solar and battery storage mix can slash the cost of firm renewables supply by nearly 20 pct. \n The post Wind energy makes cheap renewables “cheaply reliable,” new study shows, pushes out gas appeared first on Renew Economy.",
@@ -326,6 +1086,44 @@
    "first_seen": "2026-11-18T02:49:27Z"
   },
   {
+   "title": "‘Change is possible’: Danish offshore wind giant wins Earthshot Prize after quitting oil and gas",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUHNjQ3Q1ZDVJeTE4U29MWUVSeGxIdmh1UGs4aU9EZnRDUlUxeThGdG9fTUstemtLcjRLNnRTdTg5ZHRfSjBOS0twc3l0T1h0d0VaeTdvNTJQc0xTUlB4Q2RENS1Xc1dPcHdERERUWlJHVGEyaklsMXh3QjNPMXFkZ2pTaw?oc=5",
+   "summary": "‘Change is possible’: Danish offshore wind giant wins Earthshot Prize after quitting oil and gas    Yahoo News Australia",
+   "publisher": "Yahoo News Australia",
+   "published": "2026-11-17T16:06:29Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-19T02:27:51Z"
+  },
+  {
+   "title": "Native Oysters Return to Scottish Waters After More Than a Century",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWFN1TlBvMFBhNlRrbzJLcjBDUDJqRlNjR2FTb1ZiX2dVNEpBRFBDc0dKVHRDQ1NEOG9nZXZ3X04xaDJibkFiUGFsUHNtWjVMemluY01qUF92TmxDUDVuV05rZFZtYmtfa21PSWNxanFkcU1Rc2pJVVZQaGJFVWNQNmZvQkhvTVQ4cHVfRkZBcm4wTWcx?oc=5",
+   "summary": "Native Oysters Return to Scottish Waters After More Than a Century    Scubaverse",
+   "publisher": "Scubaverse",
+   "published": "2026-11-17T15:57:32Z",
+   "source_id": "gn-aqua",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Shellfish & pearl aquaculture"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-19T02:27:51Z"
+  },
+  {
    "title": "Oysters breeding in firth for first time in more than 100 years",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mRktKQ2hWV1dqNk1nZ1lFRzR2Wnl0RWh6SEM2bG1BZ3ZUc1Yxd2NFR29odEcxbkhFS0hYaFE5MGw1c2RUZFNKZmlHTUR5MTVmSFBhR2ktc1ZqNzQ?oc=5",
    "summary": "Oysters breeding in firth for first time in more than 100 years    BBC",
@@ -362,6 +1160,25 @@
    ],
    "projects": [],
    "first_seen": "2026-11-18T02:49:27Z"
+  },
+  {
+   "title": "EU Greenlights $10B Dutch Offshore Wind Support Scheme",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQamhEckhfTzBjS3ZBb0M0NUNNRWRZNlluaVNYNnFTLVVPT0QzazQwUnFPY0psOWZlSjVkN3R1ZzRhcHppZXVTWTYzbGdrdHc2aEM5ZjZFWFJYRlRnd0w3UzVFY01XMURtRm82SmJmVFhVUGpmUVZKWnJZeEFYUGNFTmxtazdLbkRtbEdOdWdIZkc2OEhsM0E?oc=5",
+   "summary": "EU Greenlights $10B Dutch Offshore Wind Support Scheme    Offshore Engineer Magazine",
+   "publisher": "Offshore Engineer Magazine",
+   "published": "2026-11-17T12:05:03Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-19T02:27:51Z"
   },
   {
    "title": "White & Case advises lenders to ACCIONA on development financing for Gippsland offshore wind 2 GW transmission project",
@@ -770,6 +1587,25 @@
    "first_seen": "2026-11-17T03:39:09Z"
   },
   {
+   "title": "关注！加拿大龙虾在中国市场遭遇强敌",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE91UnhIZllYWkY4UFNtRXZSei1PYTJXdDdmbUtvemZxTmdUQ2dFZDVUVzhvYjU1SlljcWM5UlFvN3FGM2RCczFpa1QxTkZ4WEpC?oc=5",
+   "summary": "关注！加拿大龙虾在中国市场遭遇强敌    VanPeople",
+   "publisher": "VanPeople",
+   "published": "2026-11-16T17:32:04Z",
+   "source_id": "gn-zh-fish",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-19T02:27:51Z"
+  },
+  {
    "title": "Eolus drops offshore wind after Swedish defence concerns",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNndyUjliRzdNVHRTdVliUUpzb2ZDZkRtalRtb195ZTRibndORG9rRGRnVC02RGpiUGx2cmI0VFNBbEpXV3VQaFhuLXQwZ0pFM1QwLVNFeUdELU94Z0ZLVktlRVkwRy1QV0dEOHVuMURsRGdlTXNtNHgtOFRUNkp6TDdKY2VMN0VERVk0cTJQZ0pCLWxrcUp4MV8wVE1mYUlOZ3lrOHZKQkFyZw?oc=5",
    "summary": "Eolus drops offshore wind after Swedish defence concerns    Maritime Journal",
@@ -998,6 +1834,25 @@
    ],
    "projects": [],
    "first_seen": "2026-11-17T03:39:09Z"
+  },
+  {
+   "title": "Shell brings key offshore gas field on stream in Egypt",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMzRIRDVlMlAxYmU4NEg5QWNJTVpqSFBURXZyTE5XaS1WMmxZUDNVOGgyTWg3MW9tQXJCalltX2ZkRGFjalRsdTU0SkdMNHVjc0pGcGJ3ZV92WjJNNGxuc1pjTGNiYWhlSVJISmZtaTFMRXNPQnZoRkUycWtoeW4zR0d3QzY2N0tkVG9aQmlJZVBtTl9NU0NPczFTclpuajhEbWUzX0dCMkVlNlNO?oc=5",
+   "summary": "Shell brings key offshore gas field on stream in Egypt    Upstream Online",
+   "publisher": "Upstream Online",
+   "published": "2026-11-16T09:37:46Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Shell Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-11-19T02:27:51Z"
   },
   {
    "title": "Fengmiao II Offshore Wind Project Signs Offshore Substation Contract Targets Financial Close by End of Q2 2027 - www.energy-omni.com",
@@ -1388,6 +2243,27 @@
    "first_seen": "2026-11-15T00:56:34Z"
   },
   {
+   "title": "America's Offshore Wind Industry Is Growing Despite Trump's Crackdown",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdmg5M29QLUFPZHdxMi03TmFxQV9Jc052NDhVZ09BcFRqbW5uR2pObFdnalM0ZzVZV1FuYmQxemVzU3JuNkhwUVhyX2pWSWc1TklTWTZTNFRZSUhoQmJ6LXJYYjl5c2JCcXBoZEVnMXlEYWVRc2NMckVZRTlYMmNNY3J1LXVkdk9pV0tPVE5JSlU2STV5cXJqdWtXNjhMMXNOSEl1ZW9ZVENOR0ZDS2hMUTZYSXVLY3Z4TDdGUlliZ3bSAcYBQVVfeXFMTXljMDRjeXI0bFcwb0xvNExZYVI5cEtJMy1CclB3VnN6ZGpmYnZsem9sa2tSeEpIWmlQLXFRbzc2STFiSDF2ejNaTjJ4OEhBZ0ZPWmF2TnhsVHhoTW9ZOEhjdGIzQzNsN3N0TFNWUGhUdVE5RkdYQVJDMFl5YllvVkg4MThQQ3BmdzRBZWFKVmEtYVFWSHZyMVpYakc5aGZGemN4dHNmN01oQUtMSGg2ZnE4VF8zUTBSR3o0NTgtVHdDUDgtcXNn?oc=5",
+   "summary": "America's Offshore Wind Industry Is Growing Despite Trump's Crackdown    Crude Oil Prices Today | OilPrice.com",
+   "publisher": "Crude Oil Prices Today | OilPrice.com",
+   "published": "2026-11-14T16:00:00Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil",
+    "renewable"
+   ],
+   "subcategories": [
+    "Oil & condensate",
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-19T02:27:51Z"
+  },
+  {
    "title": "高价龙虾如何辨真伪？澳洲研发AI技术追踪来源",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KLTdLWnpjNVFnQWk1cjYtVG9nelNKRG94WW10d3BnLVlxZmVjZ3RYcVVjbVlneWw3MFJKREZVVjg5Wkd1ZnVPVnBMUUt2b1JuSnFTUjJHdFppYi02TlNfU1J6SzBEVVJraW5NY3N6VnI?oc=5",
    "summary": "高价龙虾如何辨真伪？澳洲研发AI技术追踪来源    8world",
@@ -1624,6 +2500,25 @@
     "FOS-008"
    ],
    "first_seen": "2026-11-15T00:56:34Z"
+  },
+  {
+   "title": "RWE and KKR will develop 2.8 GW of offshore wind energy in the UK",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObFJBRkJMYVNuZUhXTjE0RVM3bGRTSkNaRVM1VnliZWdWR2hUckMxYWRoTmUtWUhiSnc5UExyMFdsYWdTUXY1TnRvSHlheTl6YUpCc1JwZmhucVV1NzlUTnMtNzBUWGZQUUJ4bm5yYUc4QXBCZU9EMnJ3UnJtSlhyVA?oc=5",
+   "summary": "RWE and KKR will develop 2.8 GW of offshore wind energy in the UK    Inspenet",
+   "publisher": "Inspenet",
+   "published": "2026-11-13T14:46:19Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-19T02:27:51Z"
   },
   {
    "title": "Woodside's Scarborough 99% complete, first LNG cargo on track for Q4 2026",
@@ -1924,6 +2819,25 @@
    ],
    "projects": [],
    "first_seen": "2026-11-14T01:22:50Z"
+  },
+  {
+   "title": "China targets more than 100 GW of offshore wind capacity by 2030",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYlRDMnFEdDU5bFRENDFCbXpkZGRZNE1uS0pSaEFBQWpESzRZUFcyRGZYR1BlSG5idExVLWZleUQtWF9wVHRTLUd2RzFQYy1BU2Flb2dqSFlQNWhCOVVlMDJVYmFkQWlSRV9NTzlVbTV6WGtpdGczU2lndkhHTEg4UTNPNS1lX1l2aTlmd2hGTWtVZ0s0bzRUVHRGSUo3WGZETDVnTHBvTQ?oc=5",
+   "summary": "China targets more than 100 GW of offshore wind capacity by 2030    Renewables Now",
+   "publisher": "Renewables Now",
+   "published": "2026-11-13T08:09:04Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-19T02:27:51Z"
   },
   {
    "title": "The proposed gas reservation scheme is flawed, but…",
