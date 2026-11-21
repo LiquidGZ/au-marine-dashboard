@@ -1,68 +1,68 @@
 {
- "fetched_at": "2026-11-20T02:12:13Z",
- "added_this_run": 39,
- "total_items": 1099,
+ "fetched_at": "2026-11-21T02:04:14Z",
+ "added_this_run": 38,
+ "total_items": 1137,
  "earliest": "2026-09-30",
  "errors": [],
  "per_source": {
   "gn-lng": {
-   "in_feed": 34,
-   "new": 12
+   "in_feed": 35,
+   "new": 6
   },
   "gn-gas-policy": {
-   "in_feed": 48,
-   "new": 5
+   "in_feed": 51,
+   "new": 7
   },
   "gn-decom": {
-   "in_feed": 5,
-   "new": 1
+   "in_feed": 10,
+   "new": 4
   },
   "gn-wind": {
    "in_feed": 30,
-   "new": 4
+   "new": 3
   },
   "gn-wave": {
-   "in_feed": 10,
-   "new": 2
+   "in_feed": 12,
+   "new": 1
   },
   "gn-ccs": {
-   "in_feed": 7,
-   "new": 1
-  },
-  "gn-aqua": {
-   "in_feed": 30,
+   "in_feed": 9,
    "new": 2
   },
-  "gn-fish": {
-   "in_feed": 22,
+  "gn-aqua": {
+   "in_feed": 31,
    "new": 1
+  },
+  "gn-fish": {
+   "in_feed": 17,
+   "new": 2
   },
   "gn-desal": {
-   "in_feed": 11,
-   "new": 1
+   "in_feed": 15,
+   "new": 4
   },
   "gn-cable": {
-   "in_feed": 8,
-   "new": 0
+   "in_feed": 17,
+   "new": 3
   },
   "gn-ports": {
-   "in_feed": 12,
+   "in_feed": 10,
    "new": 0
   },
   "gn-minerals": {
-   "in_feed": 6,
+   "in_feed": 10,
    "new": 2
   },
   "gn-zh-energy": {
-   "in_feed": 14,
-   "new": 4
+   "in_feed": 15,
+   "new": 2
   },
   "gn-zh-wind": {
-   "in_feed": 6,
-   "new": 3
+   "in_feed": 5,
+   "new": 0
   },
   "gn-zh-fish": {
-   "in_feed": 9,
+   "in_feed": 10,
    "new": 0
   },
   "gn-zh-other": {
@@ -83,12 +83,587 @@
   }
  },
  "by_month": {
-  "2026-11": 501,
+  "2026-11": 539,
   "2026-10": 597,
   "2026-09": 1
  },
  "note": "Append-only archive. meta.news_days_to_keep controls the site's default window, not storage.",
  "items": [
+  {
+   "title": "Japan sets February start for full-scale rare earth seabed mining test",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQm1hTEhKUnRib2l1MEF4cTdoeWxCRkgydXd2a1NRSWpfaGloektHdDRvcElVcjVCLVozVEJNUzZ6SjJ1M055RktkbnB5VXNUeXlNekNPNkQ0TVVLZ1l4amlRaE9YNVlSNkh3bjY3ejJheVB6b0NBTXFQUDdkX3FiOXhnUTNmWFNBdDFlLXRMc1V0MHBNMjBXel9PYjcyQWM?oc=5",
+   "summary": "Japan sets February start for full-scale rare earth seabed mining test    Mining.com",
+   "publisher": "Mining.com",
+   "published": "2026-11-20T20:01:18Z",
+   "source_id": "gn-minerals",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "mineral"
+   ],
+   "subcategories": [
+    "Seabed minerals"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-21T02:04:14Z"
+  },
+  {
+   "title": "Woodside stock secures 10-year LNG deal with Trafigura - ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOekgtM3ExNGRBZFhfX2hQb1ZOUEZfV01lV0tyNXR1S0Q3Mm1vaFp5SWg5ZVVJY1V4eXhhcEd4THpWWFBRbTNTOFlVbTB3NkVlMjh1M2ZScUxramNwcjBwNVV3VXRwd21ERGp3cm15ZTBJNy1yUHZJMkJqVFBqZUo3aW1zX3dUMV9Ma1Z0b3JOYzlaVjl3X2tWdy1BYTZHNWNnV2xWaEFIQ29neGNEQ3F1QzFIaGFMdDVq?oc=5",
+   "summary": "Woodside stock secures 10-year LNG deal with Trafigura    ad-hoc-news.de",
+   "publisher": "ad-hoc-news.de",
+   "published": "2026-11-20T19:39:36Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-21T02:04:14Z"
+  },
+  {
+   "title": "A Dive Crew Was Getting Gear Ready Off Port Lincoln. Then the Skipper Said He Saw a Kangaroo in the Water - A-Z Animals",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdWt0RXptUS01a0ZXSFJ2Q1RlWlZQTmlUNUxldUhnY1IwVlB6R25qd2pkQXlVS3ZuNGtBbTROa1BGdUdIQkRPWjB1U1Nqa2dyNGZndU9ORUowcm5HSGJIbm84QTNGbVNBYUFFZEswUTJpby1pbGI5aWh3VHFkejhkMXQ1bGUwaGV6cUE?oc=5",
+   "summary": "A Dive Crew Was Getting Gear Ready Off Port Lincoln. Then the Skipper Said He Saw a Kangaroo in the Water    A-Z Animals",
+   "publisher": "A-Z Animals",
+   "published": "2026-11-20T18:33:00Z",
+   "source_id": "gn-aqua",
+   "language": "en",
+   "operators": [
+    "Water Corporation"
+   ],
+   "states": [
+    "SA"
+   ],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-21T02:04:14Z"
+  },
+  {
+   "title": "SUEZ breaks ground on Aqaba-Amman desalination plant in Jordan",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVHVyY2YyTGpoNVpYOHl4VGhQYl9RMENkWjVmcGNfSXMzVlJabzBTSWxySHVhQ1k0V21ubEdvbjZXVHFzU1FQa0p0SXh0MkE2QTBfRVVzd3NvZ1pocjFJb19sREFRNXEyeEMtVG54MV9hd1k4ZVFLM1lXeVRNUTJTV0E1d1hHLVdWb0kxUFloWml0Q0IxdDJUeg?oc=5",
+   "summary": "SUEZ breaks ground on Aqaba-Amman desalination plant in Jordan    ChemEngOnline",
+   "publisher": "ChemEngOnline",
+   "published": "2026-11-20T16:36:49Z",
+   "source_id": "gn-desal",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Desalination"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-21T02:04:14Z"
+  },
+  {
+   "title": "INPEX Awards Baker Hughes-McDermott Contract for Ichthys LNG Expansion",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVy01WWxVM0YzOHJMMU1Xc21WaHlPVldXXy1WV3J0clU5a0g0OG1PYlRRZ3diTXM4MnZwOUlBMFp6dm1XTWxwZDdpeEhHZkk2aDJuT3NBYVRxcm51NjhCa3lVNGQ3dGx2Ti0zRE0xVVBMMFdhUlVBXzZaenBORk92SnlMLTBycTdlb24wQ1gyMWk3UHJYSkZXeEt6ZjJNZERlTXBaWXN3cjNZLUUwWUZZbDhrUzFfZUFGVmhLZVNtcXNsMlJJ?oc=5",
+   "summary": "INPEX Awards Baker Hughes-McDermott Contract for Ichthys LNG Expansion    TradingView",
+   "publisher": "TradingView",
+   "published": "2026-11-20T15:09:00Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "INPEX"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [
+    "FOS-008"
+   ],
+   "first_seen": "2026-11-21T02:04:14Z"
+  },
+  {
+   "title": "德意志银行将Golar LNG的目标价从$65上调至$67，维持买入评级",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTkptdDZ6VV9rSTd2RmlPZFg3QWZlT0JldFlNaU5sajJWMGc5ckE2OEFNVmlGSjh6dzFqcVBfQlJQcW5qTmw5U3YtQlRuQVFWT2x2S1gxZzJNaG84aWttZzc1YmZiZjExNFhoR0hhbmhrc0dkWUw1WmVwTkJFT24ySW4yMFVHVTZjcEFKdDFOeDRGeEVEVWxueG9tS3JPbUVzRGpkckpscE9qb3c2V2VUU1VLZldQSDEwU1VoT05mQmgxZUdHNVBjYU50UjMyaElC?oc=5",
+   "summary": "德意志银行将Golar LNG的目标价从$65上调至$67，维持买入评级    Moomoo",
+   "publisher": "Moomoo",
+   "published": "2026-11-20T14:16:46Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-21T02:04:14Z"
+  },
+  {
+   "title": "Nexans Completes Chevron Jansz-Io Subsea Cable",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObldlN3VxMXFER19Xb01sUnRYeHJCaWcwNl9vV3NkZjZPcEtiZVhMOXd5bVNXTXNpMXZzaU9WR01qMWI2dl84WW1zT2JGSVo3UUF1VzVOdXhlZHhUUkZ6MVctY3BOTGNiS3NVcVpuQmxZdThBeFJDYmpyUzIwQ2ZCMDJSTzloVmk3VVZjSTc5RU50UHdSMEE?oc=5",
+   "summary": "Nexans Completes Chevron Jansz-Io Subsea Cable    Wisevoter",
+   "publisher": "Wisevoter",
+   "published": "2026-11-20T14:14:09Z",
+   "source_id": "gn-cable",
+   "language": "en",
+   "operators": [
+    "Chevron Australia"
+   ],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Subsea cables & interconnectors"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-21T02:04:14Z"
+  },
+  {
+   "title": "Nexans completes deep-water cable laying ops off Australia for Chevron",
+   "link": "https://www.offshore-energy.biz/2026/11/20/nexans-completes-deep-water-cable-laying-ops-off-australia-for-chevron",
+   "summary": "Nexans has completed the laying and trenching of the high-voltage dynamic cable for Chevron's Jansz-Io Compression (J-IC) project offshore...",
+   "publisher": "",
+   "published": "2026-11-20T12:22:36Z",
+   "source_id": "offshore-energy",
+   "language": "en",
+   "operators": [
+    "Chevron Australia",
+    "Water Corporation"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [],
+   "projects": [
+    "FOS-005"
+   ],
+   "first_seen": "2026-11-21T02:04:14Z"
+  },
+  {
+   "title": "Offshore infrastructure decommissioning: An environmental balance",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdmRMMmtDQmNLZmhidWt4SHhNdHB5dmhtd0gzWV9odzN0amJJTWRseWNrTHNmVzcyOGpOQWR1MlZBY2FVTy0wV0xVcl9tRzktajVPQmQ1SENfU1lZUnBDUlZLeU5mUTJYLUQ1RDlKMmg5bms0cTBPQVZPd2VoT3BveEVfSlFsMkpsNXJDVzVFYnY1MGNHdlFta3VMZlFsOUFPaDRKUk5GR0RpV2RWRnFKbGVBSQ?oc=5",
+   "summary": "Offshore infrastructure decommissioning: An environmental balance    Maritime Journal",
+   "publisher": "Maritime Journal",
+   "published": "2026-11-20T11:54:20Z",
+   "source_id": "gn-decom",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-11-21T02:04:14Z"
+  },
+  {
+   "title": "Bhagwan Marine (ASX:BWN): Marine Fleet Expansion and Offshore Decommissioning Work in Focus",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNY3JVYWF3ekVpQnJnQy1MOWl0ekRqSVoyR3hSdGlQNnZuSklwbmR5ajFvazFFUjFWaWdWZFhPMXh2ekVLTjcxY0pEekZHQTdkQVhnUHV6ZGRGR29YWW1XMzAzRkNaYmx1X3ZYYXdVNks3bHFHOFNVbXg4WnBtaEROR3I5T3N0S1hkSkh2OWJQQ2MxaElzZ3NtNGk2OHhkZU5UaXN5MzdoV0F3TUhfRHFlNVhyR0RGVU1FSURpSlA5TWxmMldNVEE?oc=5",
+   "summary": "Bhagwan Marine (ASX:BWN): Marine Fleet Expansion and Offshore Decommissioning Work in Focus    Kalkine",
+   "publisher": "Kalkine",
+   "published": "2026-11-20T11:39:00Z",
+   "source_id": "gn-decom",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-11-21T02:04:14Z"
+  },
+  {
+   "title": "Boskalis Secures Apache North Sea Decommissioning Contract for Forties and Beryl - News and Statistics",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSk5OZUItZGdWc011RC05akMxQ1hXRzlZN3pQajlrX3N4RWUxRktOOHAwa1JPTk43MENIV2l1Q2hjSlBpbG9leVhHbFI0OVJjazM0UGNjWThUZ0x3Smo1OW41b3VOa1p1TEVSVnBJWWlsaU5qRFhwbmdUX2dxczJyeHNBdjNFbWgtZU1DWWFWY3dpZGlhV1RCYkswVXU4Ry1lU0tpS0cyaFZYTTQ?oc=5",
+   "summary": "Boskalis Secures Apache North Sea Decommissioning Contract for Forties and Beryl - News and Statistics    IndexBox",
+   "publisher": "IndexBox",
+   "published": "2026-11-20T11:00:50Z",
+   "source_id": "gn-decom",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-11-21T02:04:14Z"
+  },
+  {
+   "title": "INPEX Awards McDermott-Baker Hughes Consortium Contract for Ichthys LNG Development - euro-petrole.com",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSU5IMkExYk9GMGNFSDFkd0xhcmk1eDlLWGF2Z0cxNFp4cFNfUC1aX1Z3eHdhM0ZEek15WTBtenU1bFJjUkl2QThCWXJIdkliX3BodUJQdk93ZXVtbWpsRGQ4aXpILW1vajN6Y2h4YVVvbHBpV0tOUXVzM0dpZjhGZHFVMVdBTEJURXVib19DVVFqOXdRRnU0ME9JMmY2ak05MFp1QnV0YWZHZklTQTZBN2h0SXBseVJOcWdmRnNSTQ?oc=5",
+   "summary": "INPEX Awards McDermott-Baker Hughes Consortium Contract for Ichthys LNG Development    euro-petrole.com",
+   "publisher": "euro-petrole.com",
+   "published": "2026-11-20T10:58:24Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "INPEX"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [
+    "FOS-008"
+   ],
+   "first_seen": "2026-11-21T02:04:14Z"
+  },
+  {
+   "title": "Ports need to find €2.4 billion to enable offshore wind",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTFo0clU2UmZJN3N1YWdPVUl4dWNVUXpwcFRlQlNsQ0Q1UVN2QjQ4MlJpSlFFWWYxQnhOTWxlZ1JkU0g0bjk4NmFWMldSODQxSlloWWNVekpzWi1NdDdfX2RRbWhfODNwS0xXOHYtWTNzVFZKMFMtekRZa2ljNktCc29uOV85dW1zT2NZanVES3BwR0R6NVE3VUVWM3ZuN0M2OFVsUTZLLVF5UVFYclVZZlZ2UQ?oc=5",
+   "summary": "Ports need to find €2.4 billion to enable offshore wind    Maritime Journal",
+   "publisher": "Maritime Journal",
+   "published": "2026-11-20T10:34:01Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable",
+    "other"
+   ],
+   "subcategories": [
+    "Offshore wind",
+    "Ports & LNG terminals"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-21T02:04:14Z"
+  },
+  {
+   "title": "Western Australia to get new 22-metre fisheries patrol vessel",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLXBKWTVPdzNhNzM5eGZHME1OQmhkUk5mX0hrb0dlem5kMktRN21iQjFxSVBkbWhvN3Iyb1pzWmtIS0s5VlRJY0t0Y3pqa1NlTFN5c3dlR3BBd0JseWxPVmN6UnFad3EtVF9HY3p5VUVpYUFvUkZuQXZjcmZHbHJoV3JYampqYVpvcmZ4ZlR5Wk9JaHNmeWF2WXNaSkJOTXZD0gGuAUFVX3lxTE1oNFphSVFsZUl2eDE3b0N5TmJyWHNCeWEyQ0o5ZjhzZkx1cURpb0JPT09lZXBLREpDV2VvM0FmYmRjTDlCbUhqWVdWTFdNQ292WElzX1N4aEV6c1otVWphUllrUWFEQTlfYmVJb2hFTWotenZyZGY2OHR0UHhBN0JYbnpyWUxnZFNLUmx4VUdQRGFaaVN1bWQ5bDh0X3dTWjE0YzlpQXNDNmpVTEtyQQ?oc=5",
+   "summary": "Western Australia to get new 22-metre fisheries patrol vessel    Baird Maritime",
+   "publisher": "Baird Maritime",
+   "published": "2026-11-20T10:27:56Z",
+   "source_id": "gn-fish",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "WA"
+   ],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-21T02:04:14Z"
+  },
+  {
+   "title": "Fluence Corporation (ASX:FLC): Vietnam Desalination Contracts Face Delivery Milestones",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaDdPeUpkMURWUzdDOG1ka0pUVTB6MDVJVVZEMm9Wek9Ib0tNWEdhQVFkZGhNcFJSZWVtd252TnBXbW9GTmc4TDNNT3ZUTmZGU0xCblBlTUhFYVhIYWlqd1ZvRTAzeEhncnJRZEdUYjBMM2g5dUdaZW9wN1ZMM2pnMmpKTDRwYzllcl9ROVZmVHhCRExKdVoxbnhpbmk1YXJrWkpCa1k0RDNacFNkel9aZllTNEtBVnBQeGZsNg?oc=5",
+   "summary": "Fluence Corporation (ASX:FLC): Vietnam Desalination Contracts Face Delivery Milestones    Kalkine",
+   "publisher": "Kalkine",
+   "published": "2026-11-20T09:52:00Z",
+   "source_id": "gn-desal",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Desalination"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-21T02:04:14Z"
+  },
+  {
+   "title": "Climate talks drop fossil fuel phaseout and pivot to carbon capture",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU3BWdzJYX3pyUm1XeE1sRlZsMm5BZGQ2clNzNjlfWlNXZmctME0yTnV0a3RBSVFoUVlSd0xPSHd3NVVMNXRLdzBISFV6QmNoazhIem01dUk5d0xJb2ZTYTVMa0x1aTdaZks2MHlldHZ6Qm5xTHdGaDk2QVBkRFJHekZpQjI?oc=5",
+   "summary": "Climate talks drop fossil fuel phaseout and pivot to carbon capture    Financial Times",
+   "publisher": "Financial Times",
+   "published": "2026-11-20T08:52:29Z",
+   "source_id": "gn-ccs",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "CCS & gas storage"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-21T02:04:14Z"
+  },
+  {
+   "title": "UK Carbon Capture Technology: 2026 Rules and Cluster Costs",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNazVGN0pVeHhIVVdoYy1IbE5CYmZYVHRjNXd5VWJFWWNfUjlvallPY1dmdjhkS2U1ZF9aSEF4SS1SaFhRMk1UMEQ5VU43ZG0xUEpSNTAxdnIyRmxxcE1nVkMxa08xQTE4WkVpMjJfczFyV3otd0thSTE3dVZCY24zS2xsR0VqSnlYN1gtam1EQzJ5UE0xY2x3a1hB?oc=5",
+   "summary": "UK Carbon Capture Technology: 2026 Rules and Cluster Costs    JournalArta",
+   "publisher": "JournalArta",
+   "published": "2026-11-20T08:28:15Z",
+   "source_id": "gn-ccs",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "CCS & gas storage"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-21T02:04:14Z"
+  },
+  {
+   "title": "\"Zero offshore wind uptake in Australia\" predicts BloombergNEF",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdU1BSUpnb0xTMkFiM1h2ZDRSREFheFh4dkVwUWtzX25iWG1JU0VpMHpfOXl6a3ZacDJHQzl6Y29kWEhpa2E1eHFCa3VRdE9SYnI1c1lBNkZCOUNfSnEyOEc4QnJzU0Vjb0d6OEJseEdmM0pLS2Y4RjBZVzlubUxyRWl0VGY0X24wSU1VbUlPcE5kU0Zwb3c0eTRQaXEzaC1iaS1mX0NFN2RfOHhka3lZ?oc=5",
+   "summary": "\"Zero offshore wind uptake in Australia\" predicts BloombergNEF    Energy News Bulletin",
+   "publisher": "Energy News Bulletin",
+   "published": "2026-11-20T08:13:23Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-21T02:04:14Z"
+  },
+  {
+   "title": "US contractors win subsea package on Australian LNG megaproject",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVFVWMXRoZDZTZFc5bHdfaFhrSkcwWUp4MnZZZUoxRWFXZDZ2cEdQOUFhZExnQnRmbmhwVHFPdWVjWWlraUZoQTVFQWlMWnZCWWRGWS1rRlZDbGxxejBVY2NBQ1Z3YVpMN0NDbUowY0NvQkpOLTd3eWZOM2E5NFBVUFFSa0ViRk41VmwzZGpCRQ?oc=5",
+   "summary": "US contractors win subsea package on Australian LNG megaproject    Splash247",
+   "publisher": "Splash247",
+   "published": "2026-11-20T06:11:35Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-21T02:04:14Z"
+  },
+  {
+   "title": "Woodside Energy (ASX:WDS): How Does Its Oil Portfolio Fit Alongside Major LNG Projects?",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZk5zRUpvZVdlMExPMWNIanA2bWdMUV92eUNISWswa3lrRWNHeDBHZmszSjd3ZHdWeXRYRFoyUlJZcU5MMHpWMUNrc0V6bHBxYXBaQkw1dE5US3ppTTlmcm9OMUNpN3hqTGRLQUZuVzBHQm14Vzc2SXE4bFhTcFh2SFMyVmxUbTN2LXQzOTdwNG1mQ250THZzcHlPYXVmWG9ZbGxOSGo1cWZVUmpicFNNaThXREFONFNt?oc=5",
+   "summary": "Woodside Energy (ASX:WDS): How Does Its Oil Portfolio Fit Alongside Major LNG Projects?    Kalkine",
+   "publisher": "Kalkine",
+   "published": "2026-11-20T05:41:00Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-21T02:04:14Z"
+  },
+  {
+   "title": "ASX 200 Gas Producer Beach (ASX:BPT) Frames Gas Reservation Rules",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdEFtbGc5LUJQZmsxdWN6U0Y4QTYyajFBcVE2MEZrMC1LY1JyUmh2NW51cWZpNjVmUmNJWmJXY3Y0WHVBY05yTTd0TjBuRWxRWC1ZNE1SMXk1em1BT2tCX0ZXMGhmbkR0eFlON09ZWm1ENkJEY2NqS29uUmxpWXM4RmZBeUgxNkdMN3hNSHZnTVhuSDIzRkVDeTVjaU5SMDJjSmJWUGpNb0c?oc=5",
+   "summary": "ASX 200 Gas Producer Beach (ASX:BPT) Frames Gas Reservation Rules    Kalkine Media",
+   "publisher": "Kalkine Media",
+   "published": "2026-11-20T05:25:00Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [
+    "Beach Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-21T02:04:14Z"
+  },
+  {
+   "title": "German yard delivers LNG dual-fuel Ro-Ro to Australia's SeaRoad Shipping",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQODZXOVNGeU1aRmRscVh4SWlQd1QzbTBLc2Y3Z053R3g5VVluQjJrMjlaa3lkbkpPcTNQMWJlY3M2NkVxNTBSc1NKcVNuRnNsbkhVdmVTaWJYTzlzSW9WMjlpcUZwUmU4akdjMXYtY0dlNDA0OW9NY09YUmlkWXlUUkk3WDE3U2o5M1UyU2g5UjhGTElSdlBmcGZ30gGnAUFVX3lxTE9IYkJ1cmJkUm1lbDBFZHJlc3Ewb2taWDNRWVFCaFVyamNENGQ2Q0JidXAwYkdTUzJrZmM1Zk51SGVYYVVFTnhBNmVNVkNvaWdKMUlQY3FQMzFGTkFMVm5DNHEyMkJIZmt5eGlEYmFjWm9hdW85RFo2cWdWbnAzQU1FVzQyWk9lM3JUblN1Q2NKZmlxOXV0VE9LSjg0Mjl6LVp5TXcyeWxN?oc=5",
+   "summary": "German yard delivers LNG dual-fuel Ro-Ro to Australia's SeaRoad Shipping    Baird Maritime",
+   "publisher": "Baird Maritime",
+   "published": "2026-11-20T05:14:32Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-21T02:04:14Z"
+  },
+  {
+   "title": "Marinus Link Sets Up Mardan Compound",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLUM0TmJUeWJTbHVLZUs2aDVqdkszR0dSYjhlWjA3am1JOVRxMGk0Zm1OR3hDRDlCTE5wTGRIdWlvdFZnMHd2MWR2VTdHaWdpaFZOajRkSEVtdktRTG8yV01uamhVTmh2SHlOazhNbVZid3JGdlNnMW5sdmJja3JPN2pMOE9GczkwN3gzd3FOcjNhYXQwOTlN?oc=5",
+   "summary": "Marinus Link Sets Up Mardan Compound    Wisevoter",
+   "publisher": "Wisevoter",
+   "published": "2026-11-20T04:02:47Z",
+   "source_id": "gn-cable",
+   "language": "en",
+   "operators": [
+    "Marinus Link Pty Ltd"
+   ],
+   "states": [
+    "TAS"
+   ],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Subsea cables & interconnectors"
+   ],
+   "projects": [
+    "OTH-029"
+   ],
+   "first_seen": "2026-11-21T02:04:14Z"
+  },
+  {
+   "title": "Marinus Link construction site earmarked for Mardan - Sentinel-Times",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQclVxV1Y2UkFJVWYtYmVVVUtIQWpnck9JYTc5T2pkU3NDS1dnbmhiNnJTVkI3WENuTXZ4MHR3SklqbjlvQ1FzX0IzU19iYnhSeFNRUUkzbDZqVlBaOU1leXNQTVp6cVpkZnNTSWtzWHZGcC1pSDBkVkdldjVtUk9HckZ3?oc=5",
+   "summary": "Marinus Link construction site earmarked for Mardan    Sentinel-Times",
+   "publisher": "Sentinel-Times",
+   "published": "2026-11-20T03:12:04Z",
+   "source_id": "gn-cable",
+   "language": "en",
+   "operators": [
+    "Marinus Link Pty Ltd"
+   ],
+   "states": [
+    "TAS"
+   ],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Subsea cables & interconnectors"
+   ],
+   "projects": [
+    "OTH-029"
+   ],
+   "first_seen": "2026-11-21T02:04:14Z"
+  },
+  {
+   "title": "WA secures gas reservation exemption",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbENJX3o4ZTZTckJwbnlwNzhublRzQzVqUmxvT1o5YzAxZnVEMUgwMWswR0ZMN3dWRm52NHlLMlpIa29kY09aTTV6V0ctV0QwQlJVbTRLUXp1N0pwdFdPRDRIUWhaNjdKdVNaSGFuS0lSMndRVm5rQVZWdGdiQ3pRSDB1V2xxWXlZci1pcg?oc=5",
+   "summary": "WA secures gas reservation exemption    Petroleum Australia",
+   "publisher": "Petroleum Australia",
+   "published": "2026-11-20T03:03:07Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-21T02:04:14Z"
+  },
+  {
+   "title": "Acreage release to boost exploration and greenhouse gas storage",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOU9vSVpIcjdmMloyeU9VMkc4VmowMkYwQXVDc1R5bTlwWkJZQkZ3YzZuT002MV9DblRqRXQtOG1sdWRLeHN5NEdzRUJoZGd3OEEzNU9DaUhmNk5RcERQTVFqa2tULWNhWFFFNGgyVzVQMGpNZlZ2RE01Wm05ZHI3T0NjVkp1TkswSElzckpELXU2X1llbWRMTE5OOEZ3MmJ1?oc=5",
+   "summary": "Acreage release to boost exploration and greenhouse gas storage    The National Tribune",
+   "publisher": "The National Tribune",
+   "published": "2026-11-20T02:40:59Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil",
+    "other"
+   ],
+   "subcategories": [
+    "Exploration & appraisal",
+    "CCS & gas storage"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-21T02:04:14Z"
+  },
+  {
+   "title": "Fisheries Science Showcase For Albany",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vb1VISFhsWURKWERBdFhoR3k4ZWtoOXZ2ODFLbGFYTWNHSzByY1huWVU3RjVhRFFBUlZVb2wxOWR5ZWZyNEdfWWluSFlSQmphMHhMY0NvaFZORFRqYnRTMmd4TmgwSnRuNlp1VzJmMGZtc19laHNOZnE0MVI1UQ?oc=5",
+   "summary": "Fisheries Science Showcase For Albany    Mirage News",
+   "publisher": "Mirage News",
+   "published": "2026-11-20T02:16:00Z",
+   "source_id": "gn-fish",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "WA"
+   ],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-21T02:04:14Z"
+  },
+  {
+   "title": "Greenhouse gas storage acreage release 1 of 2026",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLWpqa2ZJTUd6SmZYRHlnR1VDRUVsdWswLWpDZkhlNXpNNC1XdlJvN3RPcVNfX1Z0RnBfa2cxVkZXcVplckY4YUdyMktucVAzcVdaSHBJck94RlM4Y0ZNSEFVdWZ0RnZuOHJERWxQc0hQZHZHV2RhZFhTeG9KSnA2QWZZVWUzRWJwME4xSHByUWExRUE5a1V6aDZORmJtVl9JX2pLY0xyb1JIazZSNHJ6MFBPdw?oc=5",
+   "summary": "Greenhouse gas storage acreage release 1 of 2026    Western Australian Government",
+   "publisher": "Western Australian Government",
+   "published": "2026-11-20T00:59:25Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [
+    "Australian Government (DISR)"
+   ],
+   "states": [
+    "WA"
+   ],
+   "categories": [
+    "fossil",
+    "other"
+   ],
+   "subcategories": [
+    "Exploration & appraisal",
+    "CCS & gas storage"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-21T02:04:14Z"
+  },
   {
    "title": "BCI Minerals AGM: Mardie Salt Project at $1,265M Expenditure, Chris Salisbury Retires from Board",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOX0ZrR1FpNlhSSmZyU01IMmplODROT0R4VnljckhtWGw2SWpqQTl0dmlMTzd3YVV1UnhzaU5GeG5pdGhXdUx1RDFxTWZhZnNuTG8tTjFvcjdHT1A3UWpSWEtoakE2cVYyQmFKR1dRb2FsczlWZGs3THhYTXhzVV9ONDNiQU11RW90LTBzVThCYjJJaWNXMnRlRTVmSl80UHdKa0x4aEplcHA5NXdNb2RzeDR6ZWVFaWlOZ3BFWG9KclVmMTZReXBSeEwxMUZ0T1E?oc=5",
@@ -109,6 +684,27 @@
    ],
    "projects": [],
    "first_seen": "2026-11-20T02:12:13Z"
+  },
+  {
+   "title": "BCI Minerals Reports 614kt Crystallised Salt at 2026 Annual General Meeting",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdWt5NHNxLXJDWk40cW5sRUxwLVRpdWpndGIzUVBsdmMxaDN1RWdwVUZyUktXVTEyWHRQSjZ2U2stcjc5VUZZdFd1dkctSVBkalpVNDk5RGhTd1dTYm16cVhoSG5Yczd6ZUV2WDhYeUdlUjlGZ0ktMDNoa1A2bDJORWlTRGFKTHZWT0EwM2NFMHdQbl9HQVozY08wUUpRMlJmcW5uNTJSWDBWQTkwdHh0SEZWVmtyNWU4?oc=5",
+   "summary": "BCI Minerals Reports 614kt Crystallised Salt at 2026 Annual General Meeting    Kalkine",
+   "publisher": "Kalkine",
+   "published": "2026-11-19T23:15:02Z",
+   "source_id": "gn-minerals",
+   "language": "en",
+   "operators": [
+    "BCI Minerals"
+   ],
+   "states": [],
+   "categories": [
+    "mineral"
+   ],
+   "subcategories": [
+    "Sea salt & potash"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-21T02:04:14Z"
   },
   {
    "title": "BCI Minerals Details Mardie Salt Operation Progress",
@@ -237,6 +833,23 @@
    "first_seen": "2026-11-20T02:12:13Z"
   },
   {
+   "title": "Boskalis Secures Major UK North Sea Decommissioning Deal with Apache - News and Statistics",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONEZaaW1qNnNTb2tCMkZMYmlmZWw3X1pkemlEN0ZPOTEwS0FIUExaNlg3M3BxbEZibVJTazRyX2tUWjB0SlRnM1ZFUVJ6TmZfVWNCUnAyWUlPclFGbldLVC1tcHNhUHpsR0RfeDdZbFFrZ0M0Z3ByQmxFbUZLclhoc2luVjJ3YXBlZ1Y4U3p2RGVxbVBva09QTEpmTQ?oc=5",
+   "summary": "Boskalis Secures Major UK North Sea Decommissioning Deal with Apache - News and Statistics    IndexBox",
+   "publisher": "IndexBox",
+   "published": "2026-11-19T15:52:44Z",
+   "source_id": "gn-decom",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-11-21T02:04:14Z"
+  },
+  {
    "title": "McDermott and Baker Hughes will expand the Ichthys LNG subsea network",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44QXdXM01RX2hPMndGWi1KdWNab1Z1cndvZ3Q1QWwxcnc2QnpIZnl3RTVXdWVNcUhTTW05c3U1UV9tTUZnMTdpWThyclRKMVFWMkNpLWxUVUU0OGM1OGlnVnk5N0JVTkd6a292ZnlwVnMtWmVBYWFvS1pSaw?oc=5",
    "summary": "McDermott and Baker Hughes will expand the Ichthys LNG subsea network    Inspenet",
@@ -279,6 +892,27 @@
     "FOS-008"
    ],
    "first_seen": "2026-11-20T02:12:13Z"
+  },
+  {
+   "title": "Offshore wind farm that could power one million homes given go-ahead by Scottish Government",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOVpnOFhiOHlyYm5iUXBhZ0t6eXZUSlhyWVNjS0FkdzJ5R1hERmkxNTA1WXNLWUFLUFJmejZMajRzUjFnZmllX0RGSUpSTU5BY2JnM0hPQ1hXTy1CRFRnOW1GUmdsaGwyUEQ4QUhNSGFMLTdYUEM3RjRRY0lGR3dxUkpSazhtXzNvUlh2ODJqZzh0RnlYdlFmQjg4TXZSaHdDbnh5TzRsS0FReGl3LWJmcWk3em9hb0pj?oc=5",
+   "summary": "Offshore wind farm that could power one million homes given go-ahead by Scottish Government    STV News",
+   "publisher": "STV News",
+   "published": "2026-11-19T15:26:25Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [
+    "Australian Government (DISR)"
+   ],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-21T02:04:14Z"
   },
   {
    "title": "INPEX Awards McDermott and Baker Hughes Subsea Contract for Ichthys LNG Expansion",
@@ -717,6 +1351,27 @@
    "first_seen": "2026-11-19T02:27:51Z"
   },
   {
+   "title": "Western Australia Excluded From Federal Gas Reservation Scheme",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc3dhQ09KQVpVY2JwMExSQWJlQ3dfLXh5dGRLbGdkUTlRMzl6WHVKTFJ4Z1pRNHVkZXJpT2hEaGh6d2RDNl9OQ25mNHJhdmJPNEhyYllnWVR5RkJfbkRIUlZEb2xvUmMyaDRFdGk0dVhlVl9QajdwVVlfZkRuc1FjQ1d4QXlsUjh5Tm5xc3FGOFNNblZzTFpn?oc=5",
+   "summary": "Western Australia Excluded From Federal Gas Reservation Scheme    IndexBox",
+   "publisher": "IndexBox",
+   "published": "2026-11-19T00:20:32Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "WA"
+   ],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-21T02:04:14Z"
+  },
+  {
    "title": "Nova Scotia and Massachusetts seek input on offshore wind opportunities",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQVJkem9mbWJWR0pGT2lFOUpuekw3Wm5vb0NMbnZSLWFfcjY3SVVVcGpqdzZWNEJMX2M0Y3pqUF9uY09MU2pWSDNmbDlqd1JFaG5LanR0eUYxX1p1RzdBMXB1bmFfVU1tU09nUDJwOXNVUFl3bUFQRWpGdTJSdFEyQ25RSzY2Tlk1NHR3MGFZTS0tSFZvcWhkX0k4RQ?oc=5",
    "summary": "Nova Scotia and Massachusetts seek input on offshore wind opportunities    DredgeWire",
@@ -777,6 +1432,25 @@
    ],
    "projects": [],
    "first_seen": "2026-11-20T02:12:13Z"
+  },
+  {
+   "title": "Green Climate Fund Chief Says Jordan Desalination Project Attracts $6.7 Billion: 5 outlets compared",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOTE8zakdzdmlBTjRYZFZIal9DMmxmRGlHbTJFRUVhOVRwbmZaNjhoTFVKRUxkeTNSVU9VZ3dzdzNrN3lKU1hIRmJsaENrNDN1b0hVWkxDb0RXdUc1T1YzRFoxeTAtUzJKbUNEanhxLU14OHhDUFlJTGpLTEdURFpaT2QyXzVNWi1DUnFtbUptRG5ScXFrWDRicHRGOGphaUNxMVE1bTZaSlV5N3M4d2pMc1R5cDY2VkpxQkJ1U0c2Qk16aUNHd3Z5bktNQXlhaDM3d0hPNDZXckk4TUdMVEIzRWQySDRPSzBMV2c0eWVnTXg4VHJ2WE1z?oc=5",
+   "summary": "Green Climate Fund Chief Says Jordan Desalination Project Attracts $6.7 Billion: 5 outlets compared    NewsCord",
+   "publisher": "NewsCord",
+   "published": "2026-11-18T23:20:30Z",
+   "source_id": "gn-desal",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Desalination"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-21T02:04:14Z"
   },
   {
    "title": "How securing a national gas reservation will protect Illawarra jobs",
@@ -1225,6 +1899,48 @@
    "first_seen": "2026-11-19T02:27:51Z"
   },
   {
+   "title": "BlueScope among big businesses pushing for the gas reservation policy",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBiMFQtNHRVeHo3a1U2UURfcWU0aEg2RGgyRl9XWUx2Zm1Ua1U0NWNRcUg2VjY0a2xiWWp0MXkxVDZUVDI0cXN5TVlFNnVmekNaYWV4RTJSVHMtWVh1MXA4azVPdkE5bk1MVlJaMlhqbmF6LVd5Ri14NGg1SQ?oc=5",
+   "summary": "BlueScope among big businesses pushing for the gas reservation policy    ABC iview",
+   "publisher": "ABC iview",
+   "published": "2026-11-18T08:00:00Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-21T02:04:14Z"
+  },
+  {
+   "title": "Desalination plant completed to secure Onslow’s water future",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX3hDUnhyeG1IMnRYRy1DNjdoU0RCZWFLRFJheERtUGZ6c2FhMDRfcW1GZkZrdUllOG9FUzRGUTFoaER4dnk4TWlVNWtmV0RvWTl0VzlyLTk3cXVJWTZhbE51Q1NqT25lTXBJaTVDMmZDR3pzQzFqNDkzUVBRdnV5RkRxb3ZuN0haSEtWUzIwaEhuOVhPQmhNY3ZlaGhEcjNLNGxmZEZ2MklTaWwyMEIwQ3Y1TUo?oc=5",
+   "summary": "Desalination plant completed to secure Onslow’s water future    Pilbara News",
+   "publisher": "Pilbara News",
+   "published": "2026-11-18T08:00:00Z",
+   "source_id": "gn-desal",
+   "language": "en",
+   "operators": [
+    "Water Corporation"
+   ],
+   "states": [
+    "WA"
+   ],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Desalination"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-21T02:04:14Z"
+  },
+  {
    "title": "Western Australia to be excluded from gas reservation scheme — OilPrice",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTkZlM0NsLWdCcnJJa29LMDhLQXZRbnpZQ2EzWTV6cGh5S0thZEg4Ni1EdkVSYzRCUElIU1BwZGs0eFhtM29BQ2Y5c0xPU1dZRm9GMlBzbTN5aDJuMmd6ZjNFTlBlWDdwekVYVVYyTWVqY1ZnQkNickVkd1lKclZfc29SNHl2TFFaYUJjbTlXbWRSQVhKdEZuUnl2QnJiSFN5ZHc?oc=5",
    "summary": "Western Australia to be excluded from gas reservation scheme — OilPrice    UA.NEWS",
@@ -1486,6 +2202,25 @@
    ],
    "projects": [],
    "first_seen": "2026-11-19T02:27:51Z"
+  },
+  {
+   "title": "期权大单追踪：一笔价值33万美元的LNG看涨期权空头建仓",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV3JOVVczSzgxSzloTUp4dENCLVVEMWlaVEFWVlU4c1lDLU5PUjltSEtZeVRIVkhSVUVTQkppR2cxVF9PNm43NGFtSWM1SmRFRExkM0M4REp6Zi1zNV9uZUE2aXZJYXBhcHNaLVg2TmZ1NkZnZm5RMk1hQkd0eEFLYklWcjRDc1E1cDhKYTFBVTdpdFFONWQzb3ExSUUzTXJRUERYWW13SUh2Zw?oc=5",
+   "summary": "期权大单追踪：一笔价值33万美元的LNG看涨期权空头建仓    Moomoo",
+   "publisher": "Moomoo",
+   "published": "2026-11-18T03:16:12Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-21T02:04:14Z"
   },
   {
    "title": "Onslow Desalination Plant Secures Water Future",
@@ -2520,6 +3255,25 @@
    "first_seen": "2026-11-17T03:39:09Z"
   },
   {
+   "title": "CETO wave energy unit makes a splash at BiMEP",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb21NUDFPalFUX3ZaQmY0UEpOT0FwVE9CWEQ3Q2JzenpQTlFLcTVIbmtZd2RHZWQzZ1BBTEVUN3VJc1huNUg5WU5vR0dXaGt0d284WUhrS0J4UFhCMEdBdlV4WTRVQWhfZmFlZzdGQmxpdkJVRDZDZENjNmRjWUsyeU1iaDNjWGx3RHVmUk91RTdEQQ?oc=5",
+   "summary": "CETO wave energy unit makes a splash at BiMEP    Offshore Energy",
+   "publisher": "Offshore Energy",
+   "published": "2026-11-16T10:45:42Z",
+   "source_id": "gn-wave",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Wave & tidal"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-21T02:04:14Z"
+  },
+  {
    "title": "Huon Aquaculture breaks ground on expansion project in Australia",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWUNybXIyM2FNU09LdUk1dHptaHVNY1dhZGxGcFktazlUckZ0X21qdjZId3cyaERxZWtUWVcyVndvVERfTEVfVHVQRFF5RzNqLUp2UWFfczVLdVd4cmJXVlNRUnlsMmVyZVBkQjlQY1p2eGZuMVM5YzZnVXB6M2QyWV84Zm9tOGFzUjM4dXJwdXJ4dkJ1bHhTV3hsdnNmem8x?oc=5",
    "summary": "Huon Aquaculture breaks ground on expansion project in Australia    SeafoodSource",
@@ -2942,6 +3696,25 @@
    ],
    "projects": [],
    "first_seen": "2026-11-16T00:54:30Z"
+  },
+  {
+   "title": "Labor Gas Reservation Bill Faces Senate Test",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVy1tdVplQWE2WEM2RTNoTk1mXzZneWlHSm52NHZvSGFlckthdkZlZFJNUThXM1ZrNUVXNE5sZUdNVHMxOGl4NWVsekRadHljN1VRcG15Tnl0U3JjTWNmZ1N0c252MDY4VXVnckZSQXRSQUJZTW5xS01Tdy1zbURuUXhvX1VJZlMwWkc4R08zalB3Uzg?oc=5",
+   "summary": "Labor Gas Reservation Bill Faces Senate Test    Wisevoter",
+   "publisher": "Wisevoter",
+   "published": "2026-11-15T08:18:29Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-21T02:04:14Z"
   },
   {
    "title": "Shell Presses IMO for Regulatory Certainty While Backing Bio-LNG and Offloading a Australian Stake - ad-hoc-news.de",
