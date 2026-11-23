@@ -1,72 +1,72 @@
 {
- "fetched_at": "2026-11-22T01:07:49Z",
- "added_this_run": 20,
- "total_items": 1157,
+ "fetched_at": "2026-11-23T01:30:10Z",
+ "added_this_run": 16,
+ "total_items": 1173,
  "earliest": "2026-09-30",
  "errors": [],
  "per_source": {
   "gn-lng": {
-   "in_feed": 34,
-   "new": 4
+   "in_feed": 29,
+   "new": 3
   },
   "gn-gas-policy": {
-   "in_feed": 52,
-   "new": 4
+   "in_feed": 55,
+   "new": 8
   },
   "gn-decom": {
-   "in_feed": 8,
+   "in_feed": 11,
    "new": 0
   },
   "gn-wind": {
-   "in_feed": 28,
-   "new": 1
+   "in_feed": 27,
+   "new": 2
   },
   "gn-wave": {
    "in_feed": 10,
-   "new": 0
+   "new": 1
   },
   "gn-ccs": {
-   "in_feed": 13,
-   "new": 3
+   "in_feed": 11,
+   "new": 0
   },
   "gn-aqua": {
    "in_feed": 32,
-   "new": 2
+   "new": 0
   },
   "gn-fish": {
-   "in_feed": 21,
+   "in_feed": 27,
    "new": 0
   },
   "gn-desal": {
-   "in_feed": 16,
-   "new": 0
+   "in_feed": 17,
+   "new": 2
   },
   "gn-cable": {
-   "in_feed": 18,
-   "new": 1
+   "in_feed": 15,
+   "new": 0
   },
   "gn-ports": {
-   "in_feed": 20,
-   "new": 1
+   "in_feed": 7,
+   "new": 0
   },
   "gn-minerals": {
-   "in_feed": 11,
-   "new": 1
+   "in_feed": 10,
+   "new": 0
   },
   "gn-zh-energy": {
-   "in_feed": 16,
-   "new": 3
+   "in_feed": 15,
+   "new": 0
   },
   "gn-zh-wind": {
-   "in_feed": 5,
+   "in_feed": 4,
    "new": 0
   },
   "gn-zh-fish": {
-   "in_feed": 11,
+   "in_feed": 12,
    "new": 0
   },
   "gn-zh-other": {
-   "in_feed": 5,
+   "in_feed": 4,
    "new": 0
   },
   "offshore-energy": {
@@ -83,12 +83,147 @@
   }
  },
  "by_month": {
-  "2026-11": 559,
+  "2026-11": 575,
   "2026-10": 597,
   "2026-09": 1
  },
  "note": "Append-only archive. meta.news_days_to_keep controls the site's default window, not storage.",
  "items": [
+  {
+   "title": "Origin Energy (ASX:ORG): Where It Fits in the Gas Reservation Plans",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQWZoZF9KZW5nSXRiN1RKY1libzlIaE8tUWtnY01reG15X1N2X3ZiMDVhUFFjR2taYmpaeV94cXFQalY1Vm1rSVlTcVhaUnY1dGVfNndOQVY0QndxUVcwZXM3ZGJsSUNtbXBvWU8yYlZ1TUdZOW9xQXZzMGdWcnZyTG11MW1XLXdva3JRUERWZUlXdkUybmNsMTN4bktmbEc2TVZfcmJXUmQ?oc=5",
+   "summary": "Origin Energy (ASX:ORG): Where It Fits in the Gas Reservation Plans    Kalkine Media",
+   "publisher": "Kalkine Media",
+   "published": "2026-11-22T23:57:00Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-23T01:30:10Z"
+  },
+  {
+   "title": "Australian state offers blocks for exploration and carbon capture",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNUdNcVpidmZIVGdZT093RVczYTlrSV9aTk9zQ3BPekZWNFpWZnNMdnBIVTA0cTZyaFlVX19IQTU0RDdVT2U3Q2htQUxDTWNzbEZ3RTJCOXJjM1FFXzh3M1BlZGVVU2NfQXZ3ZGxqZW5nbEI2UEdlWllrM1FXNnRhMXRCQ0huSUtXczE3aS1pZW9WMllReDItdndWQ3NUZWpCb1FZSkFUcEU1SGNCbXJ2eVp5U1VReWZ6azFxRA?oc=5",
+   "summary": "Australian state offers blocks for exploration and carbon capture    Upstream Online",
+   "publisher": "Upstream Online",
+   "published": "2026-11-22T21:55:34Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "CCS & gas storage"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-23T01:30:10Z"
+  },
+  {
+   "title": "Giants clash over Australia’s gas reservation policy",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV2xQQlh6TTlUQjJrQXVWT1Y5dkJGaVpxVW5GT2pfQU1NUzlPWjBSSFpqdzFqQl9rQ0pzSU55YS1iZnlVTG4tNDJXTHE5ek9Fc2V4b1JwS1h0MFQ1dDZUMDZzQ2I1U1ZlYmpUQXJCSE03aURIS184Y1pCTFBrZ2FKRTlwMUwxaVJsUko1QlVyMXZrbmxzZV9B?oc=5",
+   "summary": "Giants clash over Australia’s gas reservation policy    cedarnews.net",
+   "publisher": "cedarnews.net",
+   "published": "2026-11-22T18:14:23Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-23T01:30:10Z"
+  },
+  {
+   "title": "India has significant potential to harness seawater desalination: Israeli water attaché",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaHpXbnVyYUxIZHRNLWNxQ2Y5TUZKS1p5WUl2bmZwWWF4WlZQb2JOOTI4SEpmaEhfRlVPcTN3RHExZEFtcGtUM0FCWnFHZ1gxNGdrSU9oYnJXdzFXekJnOTdNQzNUUm9oVjhXMW8tQkdBd3Fqc290bjYwdlFMUThLNi1TckUtRVZvaFN5RUhDcVQ3WFczVmRRUWQwVXNhNmVWUVRDWEFPaWtRQm1RVl9qTnNRZUNHTzVURElob1lRRUl2by1yV3Qw0gHOAUFVX3lxTE9sWE8zWUhNeXVQaFBqN2RWQ3B5czhCajhJMm5YYkwzZUF4bEloZ1FfN1NHN3Fyd01tSDdONVdmaGxxRFhmSU41aC1MdU5FUWxxZTRiTDRyeENFa2tVeC1HOVlTQzBNVnpIVjNxTHpzMmgySi1xZUtvd0k4UEExSGRvMlloQkdEWVlrX2FHSmxYbGQ1YVhnd0NvWXNRaTVsVUtleUtZdWgtZ1ZzS3E1RUpLWElROGJxbmEwSEdkLWtoWjBPWl9SdEV1ZWhmMlFn?oc=5",
+   "summary": "India has significant potential to harness seawater desalination: Israeli water attaché    The Indian Express",
+   "publisher": "The Indian Express",
+   "published": "2026-11-22T07:31:48Z",
+   "source_id": "gn-desal",
+   "language": "en",
+   "operators": [
+    "Water Corporation"
+   ],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Desalination"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-23T01:30:10Z"
+  },
+  {
+   "title": "Coalition Raises Concerns Over Gas Reservation Plan",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM1FHYlhiODltaVZsdmtpREdMSkNuS2IyZjloUmNfTjJ3bEpQbEVPYzNoRmxSZGdtMmxMTXNFLWVVeWNXYk1IQ2FHTVpOS0trNkd0VVk0ZkZZWjJFVl9IQS1kYVl3d0dqQl9kMHJvQ0JTektfYnBwN2twa0NUU3oydVd1RGhXVnNNUExYUXNzNlc3SU9RN0pr?oc=5",
+   "summary": "Coalition Raises Concerns Over Gas Reservation Plan    Wisevoter",
+   "publisher": "Wisevoter",
+   "published": "2026-11-22T04:19:02Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-23T01:30:10Z"
+  },
+  {
+   "title": "Australian Opposition Seeks Changes to Gas Reservation Plan",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONXZwZVBoeENiY195NGdqbUw3YmVnOGlaRWRZLUZZZE90Q29zUENQU0FYdURYVmJzRnIyZlNrZ2NDeGxLOE9XMFdHc2xsdEJPQ2JTemQyMk5rUXRPQ1V2WVlESVJzVk1ZZ2NjQkZQbWZ4M1Jjb2JhdXg0TVVtaWI1ay1lZTlGREF6RENWWV8xanI2dk1EOE10UGRrNUZtWDd0Z2ppTVlPZ1BhdzZJTjJXX1U3dXVrUHNZU0hlSWEyNA?oc=5",
+   "summary": "Australian Opposition Seeks Changes to Gas Reservation Plan    TradingView",
+   "publisher": "TradingView",
+   "published": "2026-11-22T03:46:00Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-23T01:30:10Z"
+  },
+  {
+   "title": "Australian Opposition Calls for Changes to Gas Reservation Plan",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQnBZbmpMdVRZVGo5NTJ3aFV5T3Q3VE44Q0tJMWktbXpyaGxTbTg4X0pJdnNhN1Y3enlJUmgtM1V2NGRFTGR0ZWk5RXdpQnZ0T0RTenZCVXV4Vlh3UHRzVjhXRWFzMHg4bnFjdEsxWTVMMDhKTGpBMkltWjNqcnZ4WWp3bDdLaV8xN2tDOGNNSHJRd1Q1Sm1rRTJsc3VQMWFQLVVYUF9EdTY5VWhCZUpybVEydjc?oc=5",
+   "summary": "Australian Opposition Calls for Changes to Gas Reservation Plan    Bloomberg.com",
+   "publisher": "Bloomberg.com",
+   "published": "2026-11-22T02:08:00Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-23T01:30:10Z"
+  },
   {
    "title": "Tasmanian salmon farmers seek florfenicol permit as AMA urges wider health review",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQelBDenVpUnhXYkV1bDhzNVdBNV9aWmhDXzFqM1VicnRzVmZXeUZ5aXMtaDY1Wkt1eENYUjYtbXhISkdaeWVaX2phZWFUQXRFcTdhSllfQkJUeDF1VUN6aFJZSjhlNkVubDRRa1hiN2Rzb0NkZi1sVy02QWZJR0VOZWlWazFTRVk1aFJTUUtscE1vZkxBSlkyNXVmRVJ0dw?oc=5",
@@ -229,6 +364,25 @@
    "first_seen": "2026-11-22T01:07:49Z"
   },
   {
+   "title": "Australia Says Gas Reservation Talks Continue Ahead of Expected Parliamentary Vote",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQVR0dE9OYVBmbXU5TERSNTBHTVVNOEZkTzBSU214ZnFpMkd1bUlrcmY4WE5lQXd4NVR4bldXYmpYOVBwaGxOM255SVM3NmlpM0F5Mlo2ZzkwRlVybk1vc0Y2bFRoSzYxVnZoOUN6dG9jeWM0MnJ3SDBTcTVsa0pjRDZSaDg4SklXYTBObmxfek1XRjBNTHgyNXJjaUIwb1NFXy1rUXFvNmJyVEFwbTVmRUpyQzhQelp1aE5aMFZMRHJCVm9Ha1JkNVRPaW5Nejd1d0xjSS1EbUVMZkJnclE?oc=5",
+   "summary": "Australia Says Gas Reservation Talks Continue Ahead of Expected Parliamentary Vote    TradingView",
+   "publisher": "TradingView",
+   "published": "2026-11-21T06:46:00Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-23T01:30:10Z"
+  },
+  {
    "title": "Australia Says Negotiations Continue on Gas Reservation Proposal",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQk83SHJaZ3RjX2lQQ0RmbFJ2RmxIV21rRjE5bGstazZJMFUxWkhfTEFTOUl0cGhWUldVYlFjMkRlWWwxbkIwNkVEUnpZMDI1VXhJRnRNRTZVZHA5dmhteTk1ZTdxTl9UQUVyaFFiV3hvTXhwYWMxNGFweG1TVm9Ob2dCLXhRN3gyMHZ1TXRrek5vQkx4M3NreVFZeWd5ejdpdVFtUUxrdG4zUU9nWWpSaUlXWkVTUQ?oc=5",
    "summary": "Australia Says Negotiations Continue on Gas Reservation Proposal    Bloomberg.com",
@@ -343,6 +497,27 @@
    ],
    "projects": [],
    "first_seen": "2026-11-22T01:07:49Z"
+  },
+  {
+   "title": "How Jordan’s Red Sea Desalination Project Is Changing the Future of Water Security",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPazV1Z09pYTF5ZnAyZ2tUWlZ0blJSa1djLVNzRVpCMWRPUlBtRno0MmpaV3pIdE1kajBpSXlOaVNoZ2htTTNRVDMzZU5Jb3NEaEVCQzVSZkpSRF9NNU1OYm5KV0Z5UXhXdjI5YVVrTTFSRUJlZFFDVWVLanNqMVJzd2RQYUhPMUtWSWUxMTBMYnRyZUg5S2ZhX1Q0WXBjZG0wYWVWVFh6eXVKcVlPd25WU1FxMzlJZnMzbzZidkxYNVNOUTA5SE9FQ3h5RlBKMW8?oc=5",
+   "summary": "How Jordan’s Red Sea Desalination Project Is Changing the Future of Water Security    Hidropolitik Akademi",
+   "publisher": "Hidropolitik Akademi",
+   "published": "2026-11-20T18:55:35Z",
+   "source_id": "gn-desal",
+   "language": "en",
+   "operators": [
+    "Water Corporation"
+   ],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Desalination"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-23T01:30:10Z"
   },
   {
    "title": "A Dive Crew Was Getting Gear Ready Off Port Lincoln. Then the Skipper Said He Saw a Kangaroo in the Water - A-Z Animals",
@@ -471,6 +646,25 @@
    ],
    "projects": [],
    "first_seen": "2026-11-21T02:04:14Z"
+  },
+  {
+   "title": "1 MW floating wave energy converter gets green light for test site deployment",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUUV2T2FNQktyZ0VscGZoXzFhYm5fNmpBVW1VeEhxY1BCdGc5aWoyMVQ1ZjJkYjFBXzBucjdLYWlpS1Nrc1dfemRLaU1odU1YU19tMlV4VFNyb3drODFoNDVkSlpqYnFUYXpYOXZIX2tla0d4Q3BYWE1BaGVObGdlMlJ5YnRiNzJzTklxb2NoNGs4cjRyWFRsMjA1bGNSMUUxeURfdVU5NWdrQXNVNkZmZFgtdTFVSGJJZUJiZQ?oc=5",
+   "summary": "1 MW floating wave energy converter gets green light for test site deployment    Offshore Energy",
+   "publisher": "Offshore Energy",
+   "published": "2026-11-20T13:29:06Z",
+   "source_id": "gn-wave",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Wave & tidal"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-23T01:30:10Z"
   },
   {
    "title": "Nexans completes deep-water cable laying ops off Australia for Chevron",
@@ -685,6 +879,29 @@
    ],
    "projects": [],
    "first_seen": "2026-11-21T02:04:14Z"
+  },
+  {
+   "title": "INPEX sanctions next offshore phase of Ichthys LNG",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNmFqS2NnRGcwRnRjSm5tV2NDVXJRUGFhV21tVmV1a0hYX0U4dWFkd1ZxRk1nbUU0S2pwYVZ2RDBjTWJOeURKTk5HN1pvcjZjdmk0SUZlcXl1Yi1oV2lWS0MwZUFxUXVIMFZ6SXlMN1VOdUhWTWxHT20yenRRZ0NMMmRFTDdBZzViS25SNGxlLUFrY2pONElz?oc=5",
+   "summary": "INPEX sanctions next offshore phase of Ichthys LNG    World Oil",
+   "publisher": "World Oil",
+   "published": "2026-11-20T08:00:00Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "INPEX"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [
+    "FOS-008"
+   ],
+   "first_seen": "2026-11-23T01:30:10Z"
   },
   {
    "title": "‘Short life of crumpets’: Woolworths explains Port Hedland shortage after viral social media post",
@@ -937,6 +1154,29 @@
    ],
    "projects": [],
    "first_seen": "2026-11-21T02:04:14Z"
+  },
+  {
+   "title": "Petroleum acreage release 1 of 2026",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNci1UNmY5SjJiZnh0bGFSclEzREhDVGR2NEVjckNnT19vQUV2WVlZWVk3dkFMSXZ4cU5aNng2dF9XUFp6TlF1RzEyZnNuU2RNbWRMbEtMaDZFZ0lCMVpQQ2NSd2JOMFcyd0lOT05mblFWX3ZIaUtuUFpjM1hYVVljWUE5U3EtUEFLcHNKdjdCcTZnQkdkZHpHblBmRXp1YUFXWnc?oc=5",
+   "summary": "Petroleum acreage release 1 of 2026    Western Australian Government",
+   "publisher": "Western Australian Government",
+   "published": "2026-11-20T01:10:52Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [
+    "Australian Government (DISR)"
+   ],
+   "states": [
+    "WA"
+   ],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Exploration & appraisal"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-23T01:30:10Z"
   },
   {
    "title": "Greenhouse gas storage acreage release 1 of 2026",
@@ -1394,6 +1634,25 @@
    "first_seen": "2026-11-20T02:12:13Z"
   },
   {
+   "title": "Major Louisiana LNG Export Facility Advances Construction in Southwest Louisiana",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPREZMTHJDNDJUNUo4TXhidDI2MWpfOEYwNlcza1Nwb1lReXkwWGV5empWS2xsUGk2azlscno2WTNIWXRrdzI5UEl3MnZoczFrYXIzanVwNGpvZWxiRHVwX2dSZWJEU1NPb3hfWUhhQ3VXT1JqM0h5X2R3dmRCVXpYdzV5WXliMThXcXM5QTZ6TndfOTl1MzNyZm9CNzhETWRjYnJZbGVSc2NOdl9OOGI2Y3R6X3BnZzAtTDhmTEs1ZXBNZw?oc=5",
+   "summary": "Major Louisiana LNG Export Facility Advances Construction in Southwest Louisiana    Construction Review",
+   "publisher": "Construction Review",
+   "published": "2026-11-19T08:00:00Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-23T01:30:10Z"
+  },
+  {
    "title": "Transocean rig spuds final well in East Coast gas drilling campaign",
    "link": "https://www.offshore-energy.biz/2026/11/19/transocean-rig-spuds-final-well-in-east-coast-gas-drilling-campaign",
    "summary": "Drilling activities are underway at an exploration well in Australian waters, targeting 64.2 billion cubic feet (bcf) of prospective gas resources.",
@@ -1811,6 +2070,25 @@
    "first_seen": "2026-11-19T02:27:51Z"
   },
   {
+   "title": "US Army Corps Confirms Review of NJ Offshore Wind Farm Approval",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeU9ZaUh0SzUxRml1WTZqZnpYb1ZNa0J3eWVNY1k2MXhlaHRDZlhsMGVTaTNISkU0Ynh1eVV5SVA2M2dpNTZmMzR4WDNXaWhueXoxdXNnXzhmYWFaek1haXBnejRqVHJNMUJYaUNPYy0wZkVVQ29QN1pyejZDdXVCUlhzSjFwX1M1b2w4N1MzeEZOVUJSZGh5M1NHTDdWQjg4RFFTdA?oc=5",
+   "summary": "US Army Corps Confirms Review of NJ Offshore Wind Farm Approval    The Maritime Executive",
+   "publisher": "The Maritime Executive",
+   "published": "2026-11-18T21:48:50Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-23T01:30:10Z"
+  },
+  {
    "title": "Trafigura books term LNG supply deal with Woodside Energy",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVXM3MUk4SWlDdWJ1bjZDd240SlVzYW1yc3dEaEcwSXRIQl8weUh3eE1ra0VlamdXSmlTalREVFFHM1AzUlc4TzMzbWM2QVlwSTRkQjV5RDNmcW9zN1Jxa212MmxCdlNlYnZyLV9RTmFfd0tRbmNSSWhRNWhFdHpwRDFOVzRHMlB1c0txR3BBZ1B6elRXT2FucjRydVM2UTcxTk4zY3BNbw?oc=5",
    "summary": "Trafigura books term LNG supply deal with Woodside Energy    TradeWinds News",
@@ -1952,6 +2230,29 @@
    ],
    "projects": [],
    "first_seen": "2026-11-19T02:27:51Z"
+  },
+  {
+   "title": "Woodside Energy (ASX:WDS) Shares Rise 19% in a Year. What’s Next for Scarborough LNG?",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVU5UNVZQOHJ3WFdMQW1kSDZGamcxak5YRWt5aG5ENElaU0VMSklyWG5QRk9hN1BoT2FEQjFwdEVUYUdhcnZYWE1vel9xTEhzRlJndFMtSHJQMFBLWm5HQUJ6d0N6NTM2MHVjOC1rN1hqRUgxeENJYktEa0xSbXdPRENOVGxzN1BNS1lyRWc0ZUtpb1Q1bFhtbHpQb1V3WkRTM1J4OTBJTTZJRzlTdUZyUU9mZw?oc=5",
+   "summary": "Woodside Energy (ASX:WDS) Shares Rise 19% in a Year. What’s Next for Scarborough LNG?    Kalkine",
+   "publisher": "Kalkine",
+   "published": "2026-11-18T12:14:00Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Woodside Energy"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [
+    "FOS-003"
+   ],
+   "first_seen": "2026-11-23T01:30:10Z"
   },
   {
    "title": "Zeevonk offshore wind farm in Netherlands selects Siemens Gamesa for turbine supply",
@@ -3902,6 +4203,25 @@
    ],
    "projects": [],
    "first_seen": "2026-11-17T03:39:09Z"
+  },
+  {
+   "title": "Greens push for data centre exclusion from gas reservation",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTFZHVGw5QU9WZUt4WUNrVGcwOENVa0tGNDE4bDRJamcyTmhDWC1ON3I1alJCMVM1Z1FJeG9MU2xObENTOTVPLWNfZ21FNGtndV9WdWJfMXFMNVoxcjcxLUExR05ON0UwaG5Ua0pwR3drNzhzaGpZWmlHN0o1U3RDNS1VbzFxZjNKRU9IZGRLUHpJRXVyZWhUSHI1SmNuV0U4clFhdFFJeWNZa1h6bVRfd0tMdHNBWUtMYkdwdkZaS1NQTFk?oc=5",
+   "summary": "Greens push for data centre exclusion from gas reservation    AFR",
+   "publisher": "AFR",
+   "published": "2026-11-16T04:16:00Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-23T01:30:10Z"
   },
   {
    "title": "All eyes on Senate this week over gas reservation scheme",
