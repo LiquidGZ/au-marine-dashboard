@@ -1,74 +1,27 @@
 {
- "fetched_at": "2026-11-24T05:14:07Z",
- "added_this_run": 51,
+ "fetched_at": "2026-11-25T04:04:11Z",
+ "added_this_run": 0,
  "total_items": 1224,
  "earliest": "2026-09-30",
- "errors": [],
+ "errors": [
+  "gn-lng: HTTPError: HTTP Error 503: Service Unavailable",
+  "gn-gas-policy: HTTPError: HTTP Error 503: Service Unavailable",
+  "gn-decom: HTTPError: HTTP Error 503: Service Unavailable",
+  "gn-wind: HTTPError: HTTP Error 503: Service Unavailable",
+  "gn-wave: HTTPError: HTTP Error 503: Service Unavailable",
+  "gn-ccs: HTTPError: HTTP Error 503: Service Unavailable",
+  "gn-aqua: HTTPError: HTTP Error 503: Service Unavailable",
+  "gn-fish: HTTPError: HTTP Error 503: Service Unavailable",
+  "gn-desal: HTTPError: HTTP Error 503: Service Unavailable",
+  "gn-cable: HTTPError: HTTP Error 503: Service Unavailable",
+  "gn-ports: HTTPError: HTTP Error 503: Service Unavailable",
+  "gn-minerals: HTTPError: HTTP Error 503: Service Unavailable",
+  "gn-zh-energy: HTTPError: HTTP Error 503: Service Unavailable",
+  "gn-zh-wind: HTTPError: HTTP Error 503: Service Unavailable",
+  "gn-zh-fish: HTTPError: HTTP Error 429: Too Many Requests",
+  "gn-zh-other: HTTPError: HTTP Error 503: Service Unavailable"
+ ],
  "per_source": {
-  "gn-lng": {
-   "in_feed": 54,
-   "new": 11
-  },
-  "gn-gas-policy": {
-   "in_feed": 48,
-   "new": 1
-  },
-  "gn-decom": {
-   "in_feed": 10,
-   "new": 1
-  },
-  "gn-wind": {
-   "in_feed": 47,
-   "new": 16
-  },
-  "gn-wave": {
-   "in_feed": 9,
-   "new": 1
-  },
-  "gn-ccs": {
-   "in_feed": 13,
-   "new": 3
-  },
-  "gn-aqua": {
-   "in_feed": 31,
-   "new": 2
-  },
-  "gn-fish": {
-   "in_feed": 25,
-   "new": 2
-  },
-  "gn-desal": {
-   "in_feed": 16,
-   "new": 0
-  },
-  "gn-cable": {
-   "in_feed": 13,
-   "new": 0
-  },
-  "gn-ports": {
-   "in_feed": 6,
-   "new": 0
-  },
-  "gn-minerals": {
-   "in_feed": 12,
-   "new": 3
-  },
-  "gn-zh-energy": {
-   "in_feed": 34,
-   "new": 8
-  },
-  "gn-zh-wind": {
-   "in_feed": 6,
-   "new": 2
-  },
-  "gn-zh-fish": {
-   "in_feed": 33,
-   "new": 1
-  },
-  "gn-zh-other": {
-   "in_feed": 5,
-   "new": 0
-  },
   "offshore-energy": {
    "in_feed": 50,
    "new": 0
