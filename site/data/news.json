@@ -1,7 +1,7 @@
 {
- "fetched_at": "2026-11-26T03:28:07Z",
- "added_this_run": 54,
- "total_items": 1278,
+ "fetched_at": "2026-11-27T03:34:48Z",
+ "added_this_run": 64,
+ "total_items": 1342,
  "earliest": "2026-09-30",
  "errors": [
   "offshore-energy: HTTPError: HTTP Error 429: Too Many Requests",
@@ -9,68 +9,68 @@
  ],
  "per_source": {
   "gn-lng": {
-   "in_feed": 25,
-   "new": 4
+   "in_feed": 24,
+   "new": 6
   },
   "gn-gas-policy": {
-   "in_feed": 33,
-   "new": 5
+   "in_feed": 50,
+   "new": 21
   },
   "gn-decom": {
-   "in_feed": 12,
-   "new": 2
+   "in_feed": 11,
+   "new": 0
   },
   "gn-wind": {
-   "in_feed": 52,
+   "in_feed": 57,
    "new": 15
   },
   "gn-wave": {
-   "in_feed": 8,
+   "in_feed": 7,
    "new": 1
   },
   "gn-ccs": {
-   "in_feed": 19,
-   "new": 11
+   "in_feed": 24,
+   "new": 5
   },
   "gn-aqua": {
-   "in_feed": 30,
+   "in_feed": 32,
    "new": 2
   },
   "gn-fish": {
-   "in_feed": 26,
-   "new": 4
-  },
-  "gn-desal": {
-   "in_feed": 13,
+   "in_feed": 54,
    "new": 2
   },
+  "gn-desal": {
+   "in_feed": 11,
+   "new": 0
+  },
   "gn-cable": {
-   "in_feed": 18,
+   "in_feed": 14,
    "new": 1
   },
   "gn-ports": {
    "in_feed": 16,
-   "new": 1
+   "new": 2
   },
   "gn-minerals": {
-   "in_feed": 7,
+   "in_feed": 3,
    "new": 0
   },
   "gn-zh-energy": {
-   "in_feed": 41,
-   "new": 4
+   "in_feed": 42,
+   "new": 5
   },
   "gn-zh-wind": {
-   "in_feed": 2,
+   "in_feed": 3,
    "new": 0
   },
   "gn-zh-fish": {
-   "in_feed": 42,
-   "new": 2
+   "in_feed": 23,
+   "new": 3
   },
   "gn-zh-other": {
    "in_feed": 9,
-   "new": 0
+   "new": 1
   },
   "reneweconomy": {
    "in_feed": 10,
@@ -78,12 +78,1097 @@
   }
  },
  "by_month": {
-  "2026-11": 680,
+  "2026-11": 744,
   "2026-10": 597,
   "2026-09": 1
  },
  "note": "Append-only archive. meta.news_days_to_keep controls the site's default window, not storage.",
  "items": [
+  {
+   "title": "Advocacy win: Domestic Gas Reservation Legislation passes Senate",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUE1FQVdXQncwTUxVdG9Ua3M1QWtsRDVjVzdCYjNlUGZrQXdJWHk2SGNBYVhweXNWTDVHa2pxRk01ZGwxLWRNMFZ4ajEweUUzSmhqRWpvU0NFS1ZzcmNBY24yVXdUczIzTWRGN1B3cGpzbUhXNFNwMU05a1ltUlJucUpxMjltb1pfV1R1TzZuVHNBNWNsUjNyUzNXVXcxME1wNkg0UThIYw?oc=5",
+   "summary": "Advocacy win: Domestic Gas Reservation Legislation passes Senate    Townsville Enterprise Limited",
+   "publisher": "Townsville Enterprise Limited",
+   "published": "2026-11-27T01:59:40Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "QLD"
+   ],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "The data centre black hole that could swallow Labor’s gas reservation policy",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNGxDVy02bTcxT2xFUE1UUnEzMWRUWHJUa3pqWFFhRWlIQlV3Q2Y3Wnp5RXhDM05BYnZoVkJPQ1U5cXc0WG9SNWROUWxJV0I1RkgzU2FnSzY0MnhCWFgwdnVKaERxMDRzOU1VcjBiZVhrM3NMUUZsLWpRMFNIanRvRHQxWVhNVEJGWVhSUzNnajVKWkRHblozNjdaSkpIVGk1RWxFRFNFX0xGQ3ZY0gGsAUFVX3lxTE00bENXLTZtNzFPbEVQTVRScTMxZFRYclRrempYUWFFaUhCVXdDZjdaenlFeEMzTkFidmhWQk9DVTlxdzRYb1I1ZE5RbElXQjVGSDNTYWdLNjQyeEJYWDB2dUpoRHEwNHM5TVVyMGJlWGszc0xRRmwtalEwU0hqdG9EdDFZWE1UQkZZWFJTM2dqNUpaREduWjM2N1pKSkhUaTVFbEVEU0VfTEZDdlg?oc=5",
+   "summary": "The data centre black hole that could swallow Labor’s gas reservation policy    Renew Economy",
+   "publisher": "Renew Economy",
+   "published": "2026-11-27T01:24:58Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "Domestic gas reservation scheme passes parliament - ABC News & Headlines – Australian Broadcasting Corporation",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdlhaSk1HSFVFSUtCNVNXcXVEMXk3aVN0clZjTUM3MU9DQmU4UERzVkxLVDF2cFFqcU1LdDBjX3JNYXEzTVhROThWV3NCQ1JTcVJmUmZjTWdNUjYydHlsOGxOOHBnQllvZnFWbjdDenJ1M1hDVUxFM1RWNkg3SG1aOXRDVmFkajg4a05DNUZLcjJCbWVnaXctVWdIaGZsVTRaX1ZvWTVXeHFJLXNKV3c?oc=5",
+   "summary": "Domestic gas reservation scheme passes parliament    ABC News & Headlines – Australian Broadcasting Corporation",
+   "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "published": "2026-11-27T01:00:00Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "Gas Reservation: Parliament Speaks, Real Work Begins",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeW1sb2NUV3BtN1FDVlZpNnpnY1JZVGxycUNQY1ZSNGJlNDdXdnhILWt1NlVuMXhQZVZIa013aS1hN3lWRDNyWnF2OTI3Wmg2NzNpNi1xREs0TjJtVEYzNEFhaVBFeTlGX2tjRDV2TnpnNTQ4YW5RTG1LSnBSNGtvc0dLU2ZCdw?oc=5",
+   "summary": "Gas Reservation: Parliament Speaks, Real Work Begins    Mirage News",
+   "publisher": "Mirage News",
+   "published": "2026-11-27T00:58:00Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "Hanwha Ocean stock exits 800-megawatt offshore wind project - ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQmZmYTctelBNMTJteFJhdDZPR2dSci1VZ1VGaUpBMkxBdk9vLTM3X0VGRjRXcFJRenhiZnBUdTlaeTZkcEJ5ajRCc1pXbEtjcE0wV1dkbmpsNEZ6b2djVEFhTzlhMVV3aEJvc2Vvb0phdVljeWllZmJNSEpiYnIySWFHSktkWWxCTUVDU3FGM25lMTRzaVZQeUlFRTZuckxMT2swR0hJMkhHRjItbjd1NVREUHgxY3NJOXc?oc=5",
+   "summary": "Hanwha Ocean stock exits 800-megawatt offshore wind project    ad-hoc-news.de",
+   "publisher": "ad-hoc-news.de",
+   "published": "2026-11-27T00:29:50Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "融合远程摄像机网络与传统调查数据的贝叶斯层次方法：船基休闲渔业捕捞努力量连续估计框架",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jaUlwaHRFT1JHRXphbEQ1eXNZUmI1NHhyREZLM1ZwRDVWdm9tblFnbk1iemMtSGU2Q0dCdE5tZXVwYzlLSm04dHpLOGhPM0g2SXF6cmN2YmdFZVltV25PckNtQ0RoUXVpQ1lwNl93?oc=5",
+   "summary": "融合远程摄像机网络与传统调查数据的贝叶斯层次方法：船基休闲渔业捕捞努力量连续估计框架    生物通",
+   "publisher": "生物通",
+   "published": "2026-11-27T00:01:51Z",
+   "source_id": "gn-zh-fish",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "Australian Parliament passes government plan to reserve 20% of LNG for domestic market",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWnMycU5ral93LXZ2VTdyTGZyS21VTkVRcVU1aGF0ejJCUjRveGdtaF9fb0JGMVdRd0VXeGc5eFhXNFhHMXprdWh1OHpReGkzaVdwMU5HQlp1U0Mxd01FX3FqRzdydHR5Sml2N1BSZV8tbldWRjRkaXZuZFFpSWJPem9EM0d0Mm1SZmE3UWMzOXMtbDJsV1FiZGRmT0wybDU4T2c4N3p5SGdaX0tGdTBZYy00Y1Z6M0MyWlU3WThvRG9PYnpiVVNSaWVWYw?oc=5",
+   "summary": "Australian Parliament passes government plan to reserve 20% of LNG for domestic market    The Straits Times",
+   "publisher": "The Straits Times",
+   "published": "2026-11-26T23:35:00Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [
+    "Australian Government (DISR)"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "Australia Passes Gas Reserve Law in Upset to LNG Exporters",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbWtRWFBDaDYtbng2UDlkc2FycHY3QW9QOGZhZ1ZQZkJ4aUhZbHEwMENYRXZMZlkzV0Uzc3R1bFpQQnp4dmZlSlZ6ZDN0YkM1S29BOXB3V3paRDhEUE16MjdCbHZxTEVFbTFWRlVQejVmSEJQTmtMSDU0c3dZbDBNNzh3R01xYUV2aFVPSVBsNUtLazVyaVFDaHdpdjh6QlVBUnd5RjJjOUVPQ2pmV3hLN2l1Snc?oc=5",
+   "summary": "Australia Passes Gas Reserve Law in Upset to LNG Exporters    Bloomberg.com",
+   "publisher": "Bloomberg.com",
+   "published": "2026-11-26T23:20:01Z",
+   "source_id": "gn-ports",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "Controversial gas reservation scheme passes the parliament",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdHJ5QWk3TTUwMGJKT1ZTQWRROUVIbWZTRV8wTmowTVFwdWpzdmRueHV5R1dSRzdwekFNN2FQZDBSMWlVcEVmbWdKT3lCLWMtVHB4YUYzY1FOdnBTNEpRbXZwYnM2NDBPMkVoS2pleHo5QUZVMDIyZzRMVXJtR0pQamtkR3RJcGU0bVlXRlRmcExMS1dvUW9lQ1JTbk1YSUpOZ3VxMENZRWJ2VUlwYm54djUxNGloSUgzR2pUSjlXSnJIVm55Y2JKU3pORGpfdFpvNkJCRGhBeGFQRGpwUkpJ0gHfAUFVX3lxTFB0cnlBaTdNNTAwYkpPVlNBZFE5RUhtZlNFXzBOajBNUXB1anN2ZG54dXlHV1JHN3B6QU03YVBkMFIxaVVwRWZtZ0pPeUItYy1UcHhhRjNjUU52cFM0SlFtdnBiczY0ME8yRWhLamV4ejlBRlUwMjJnNExVcm1HSlBqa2RHdElwZTRtWVdGVGZwTExLV29Rb2VDUlNuTVhJSk5ndXEwQ1lFYnZVSXBibnh2NTE0aWhJSDNHalRKOVdKckhWbnljYkpTek5Eal90Wm82QkJEaEF4YVBEanBSSkk?oc=5",
+   "summary": "Controversial gas reservation scheme passes the parliament    News24",
+   "publisher": "News24",
+   "published": "2026-11-26T23:08:57Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "Labor refuses to say how much bills will fall under new gas reservation scheme",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQY1NQZlRGbU5yLXVIY0FjTFZFblRFVm5qM0k4NDlnalRtSXQ4eTg2ZHE1RmhzUy1VQlFIa2RVal9FN3NiaTlYQ1h6U09lbmVyZEk0bXpmek9VeTdPSjVDMnFwaHlhYjJOamtfMkgyTWR3a19rZXh4QmRPLVltb21EY3lDc0RqVjZHTEpmWVFfSmtaeTdOMFg4SmZjc0c3TVN6NndCcUU1OGRjNlc0NG5iaXYyaUluUkZvaXdBdDI4MjZHWXVYWDhOWXlBOG1ra2l1bi1UdVVB?oc=5",
+   "summary": "Labor refuses to say how much bills will fall under new gas reservation scheme    SMH.com.au",
+   "publisher": "SMH.com.au",
+   "published": "2026-11-26T23:06:09Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "Australia clears law requiring LNG exporters to keep 20% for domestic use",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdDhMYThjNnMyOVpseWdXOW5xMmdHczk5dWRzdkYzVnM0eUJ2cGZMZEdBTGdpeHJUN3lfRHRNM1R2dk5YUkhHQUI0cDdMMEh4Mk9pTmNzMVpaLXBoTFF5b3JVNUVIZlZ4V2xYTkE3dTl6MWtnX2FPNlZRUTk0Z0NKc29TSDJoN1R5VUtXNURZcG9zdlJFd0IzN01HbzBkeHJMLWFGalNBb2JjcUN4Nk13emZ6X0VyYm1SVVJ6ejMtNDhhZXRjUmc?oc=5",
+   "summary": "Australia clears law requiring LNG exporters to keep 20% for domestic use    Reuters",
+   "publisher": "Reuters",
+   "published": "2026-11-26T23:04:00Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "Domestic Gas Reservation Scheme passes parliament",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1SNHBFdkd2cFVoSEVBYktpQWlkMGowc0lTV3haTUZ5QTF3S0t4a3huQV9sbUlaTWd0ZEs0VWhlLUtHcVN1ckhwTmJqamI4eW01dFBreTkwOHBodEJyekQ0Q3huUGxpQ2ZwVXRlSVU2R285bUZsOVFwNkNlMVc2UQ?oc=5",
+   "summary": "Domestic Gas Reservation Scheme passes parliament    Energy Source & Distribution",
+   "publisher": "Energy Source & Distribution",
+   "published": "2026-11-26T22:34:16Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "58岁男子一大早进海鲜店应聘厨师，徒手捞起一只6斤帝王蟹转身就跑，被抓时已吃完；警方：他还偷过价值6万多元的帝王蟹和澳洲龙虾",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3M2JJYmxnbW9ZSWt3TXdIcUNfWGtlYzlwMFdaWU02UEZ4ZkdXTFhuNGNwSnJhT0tOYkJ6cmg3VnlFMFFMQjVJSHlGQmpyZmpqQVlNTXNyX3V4aExiOGhoUQ?oc=5",
+   "summary": "58岁男子一大早进海鲜店应聘厨师，徒手捞起一只6斤帝王蟹转身就跑，被抓时已吃完；警方：他还偷过价值6万多元的帝王蟹和澳洲龙虾    ThePaper.cn",
+   "publisher": "ThePaper.cn",
+   "published": "2026-11-26T22:30:00Z",
+   "source_id": "gn-zh-fish",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "Parliament extended to allow MPs to pass Labor's gas reservation scheme",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS1p1b2toejNlNVFaTW5TRkVYQTNfdVBVbllvOFpGVy10cWNEeXk4bmd0T1BnQ3JyZ3hoWVJYTUZPQ0ZEdzQ0TEtOZUxSY1VKTW9nUVpnTkxWMDJBdWpWTy1keHVBaWdjTWNEUGhaRS1ZVVlsTHp5SU9uRkdVZk02V1Z6REY0NGNKZkFYYXBZajFrdVNEQ010Q0hWOTFxeWJBS1Bj?oc=5",
+   "summary": "Parliament extended to allow MPs to pass Labor's gas reservation scheme    Region Canberra",
+   "publisher": "Region Canberra",
+   "published": "2026-11-26T22:21:24Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "Today’s News Headlines: Government set to pass gas reservation bill",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd21VdTNGT2N4VE1qbXZ4U3V6a3VaVWtWV2hPZVcyMEM5RWpYYjE5YXZmb0ZhRWFMUXVRN3U3ejhyN25GazQ1YktjeTVxYnZyLUtFby0ycDh3OG1HWWttbFdkR0FLOUxvRjFfQVFkczBqbVhuc01ZY1VlZnZaS1dQSG1KT1JoNzNhUGYwX1pBdFp0U2FBZjdPNlNKRFBQMVR6UEZleHJYdG5QaHdVSzRKbEd4VEVPMFpfZUQ3dW5TRmVOcDNqZlBpZjRpQ0hnZE440gHWAUFVX3lxTFBPQWZZbFo1eldMdGY3eElIYzBRaGs4SWVadmpmaWlwb2RWTE1YLWxPZF80V0Fla1BobEZzeExydHhTeGZEOEtFcHY4cF9iWVZTb0NWNE4wZ2J5ck5Wc0FmRmI3dkFITXE0NEx0cW1haWJJY0lnNDRqdDNWT0xZenFBTmptTXlrU2djMWZGOE4yQXc4MTBJaTZBVlNlc1o1YUlwQ1JSMVRpQmZReGNoRkZNcWhOSGNUNFpfVUhBTFNvelBhbklSd1M2TjVHVDdlbTFyMlZJVGc?oc=5",
+   "summary": "Today’s News Headlines: Government set to pass gas reservation bill    News24",
+   "publisher": "News24",
+   "published": "2026-11-26T21:46:42Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [
+    "Australian Government (DISR)"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "澳大利亚议会要求LNG出口商预留最多20%的天然气 — 《日本时报》",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTUxEUExVLURxUGtQNTNBMkswUTFkaVBuOExMS19LQjlobW9YeDRsMG5hMWRfTVVOT3RKY1lEekdQcGlJRFBpT1llN2tsQ2k2Nzh4UG9Ca3NNTDBMNDR2b1FnZkdheWJUeWdEVXNTMzF0RTBJSmdXRnE1WjFaOWhJbkVoVGhyMG9oZGVCWC1aQlc1V3dDTmtkWFZmQzN4cG9ydzFsYy1IU2kxYTQ5X3p5M0JxWFp6dHV3M09n?oc=5",
+   "summary": "澳大利亚议会要求LNG出口商预留最多20%的天然气 — 《日本时报》    UA.NEWS",
+   "publisher": "UA.NEWS",
+   "published": "2026-11-26T20:54:00Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "Parties unite to pass gas reservation bill",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd0w2QjQ0THp0RzcwOUpkS1hIVllIb0IzUk1vUWl0dWNOSURNT1N2ajI4NHM1X25mall2Mk9ab1BWZ2REbG1SRWtnMzNBXzU0LTIxRU8zcWMtUnVITzhJTHpQaXVZdVhhZDdUQ0RSQTdEZGNFbHdLT1ZReGhpSHVGU1FpbEh6Vnc?oc=5",
+   "summary": "Parties unite to pass gas reservation bill    The Saturday Paper",
+   "publisher": "The Saturday Paper",
+   "published": "2026-11-26T20:41:22Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "Methane Plumes Over Chevron's Gorgon Gas Plant Came From Planned Venting, WA Regulator Concludes",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbGFJZUw4SHJsUTlmeFFXczZkZFBnWW82LTZwUUpyTGxJUjYtVGFhUFg1TkUzeEZFTEZKU2ZhVURFaWVXNFVDREV1ekptQXVuUmVVM3ZXZC1abnR0Tjh2V251SGtJc3c0T2tuT3Z6THk0WWo2dlRqN1Z0SjRKNkNuVjJJOTJXaFZyZU81NC00bmZvWTluc1ZUcTl1bjF4dU5FUWRhYzJJVzdnZjA2SFVnN3hUd3BRdEY2YlRUamV5TlJxSG1uczBfdmpxdnhxMzBqbVNLWm1BZkozdWhlcjliYWt6cw?oc=5",
+   "summary": "Methane Plumes Over Chevron's Gorgon Gas Plant Came From Planned Venting, WA Regulator Concludes    Nature World News",
+   "publisher": "Nature World News",
+   "published": "2026-11-26T16:14:36Z",
+   "source_id": "gn-ccs",
+   "language": "en",
+   "operators": [
+    "Chevron Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [
+    "FOS-004",
+    "FOS-015"
+   ],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "FOR SALE: Major UK offshore wind fleet operator",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTXJOcTNWTmU5NmJyeWZFdW85RGR4akpvSWE2cndwakJ6SnBfd3FyRUNMX2hSbVFLN0h3SDlZZU1velJ5NlFQeHFNbGJhMW9nS09mdXE5WF9JbzNXeVgyd2lrQ0VOMzIyNDAzVjRHVXByLXNrMHgwem51NTMwNEw0dlpTQ3BTYjFBNGdlSXlNNV9SM0Rzc2x1X2VVUldaMGhVWlhvTWRwOUhhWEtSSWRPaDJTZWs?oc=5",
+   "summary": "FOR SALE: Major UK offshore wind fleet operator    Maritime Journal",
+   "publisher": "Maritime Journal",
+   "published": "2026-11-26T15:46:57Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "ITRI and ORE Catapult extend offshore wind partnership",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX3RwM1M1VmFiU1puMDJUYlo4RTE2Y1Y1TmItMWF2cDh0UF94YU8ycXVLRjRMTF8tcUxWMTRSZFpKZlNWbHVScUpRRHJYY1JPV1padDRodUl1UDY0RGxoMmFrYkk4S2tPb19fM3dPZi1LWkthSmppQmU4RC1Hdjl5bXZFejA4U3RpUGxuSDlKdFFuS2ZoMExYWkszVQ?oc=5",
+   "summary": "ITRI and ORE Catapult extend offshore wind partnership    TGS 4C Offshore",
+   "publisher": "TGS 4C Offshore",
+   "published": "2026-11-26T14:49:56Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "Tenders for two 1-GW Dutch offshore wind sites start today",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcG5JSmtWVEVHRFpTUVZucFFYdk41eGhucEhDbXg1SlN5X1haUUdzTkdyMDlLNzBmUXVQWjlfR0Y4bDJZODBENzFEU3FJZ1ptUVQ0NU9KNDU0RmJHMnBaTUoxUS1xMUJCVHQtZlNudXFaLTU1TlkxeWg3Qy1CNGlGMm5yU2NnT0EycjY3ZUlIeExGV3o2cUphNF9uQ1dMbXM?oc=5",
+   "summary": "Tenders for two 1-GW Dutch offshore wind sites start today    Renewables Now",
+   "publisher": "Renewables Now",
+   "published": "2026-11-26T14:22:16Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "Tasmania's wild fishers pay the price for salmon farming’s antibiotic use",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONjVtWUVha2h6MVBZMFAzUmZuUG5zaE01SmplcnpIUVIteWpvbEJsU1lEN2o3WXVmdHpzdHV5VzhNWjd0RHUyTDY5Y1hubzBicUJIYThzWExfSDlrTHJLVW9uMHJWdzRsV2M3SkdKVHpJYnVFRHNCOWZvdmItcnRRY0lzbnRQRDNUM1EwR0dGbElUbjhv?oc=5",
+   "summary": "Tasmania's wild fishers pay the price for salmon farming’s antibiotic use    https://thepoint.com.au/",
+   "publisher": "https://thepoint.com.au/",
+   "published": "2026-11-26T14:04:56Z",
+   "source_id": "gn-aqua",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "TAS"
+   ],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Finfish aquaculture"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "China produces offshore wind bearings for over 20 MW turbines",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaVlIb252U0Iwa3ZGWGNkeGN5SEpjLVdNNFFaN05sdzlEYlhBdnNJWXJqYnp4OUstelJ1Q0JPaDNtaDVQaFhZMUxZOTN2R0ZhZTJtWTh1ZC13a1pqV2Z3M2FrMEl4X2lVTFB6SlJlSE9hVEdTMGR5NzNBeDUtVWwyVDhIOGFaY18yWmJyYWpHeHNiNUhrNlNVX0FuOUtxRTZMLVBV?oc=5",
+   "summary": "China produces offshore wind bearings for over 20 MW turbines    Renewables Now",
+   "publisher": "Renewables Now",
+   "published": "2026-11-26T13:57:00Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "DWER confirms Chevron’s deliberate methane venting at Gorgon",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44aWo0bE0xNmVYb1Z6VmtMVEpVWHM0UUZIb1FMdEVIQ01ZRlVUOFhFOElFUTVveHVLUEtJZGpkMldjdS1sekx1dUlUYV9yZkhRZGtjQzAxV09qUWsxbjZ0Xzc1d05mcTVrSE43cDNzZmhGa0pVeEtDMDU2UVU?oc=5",
+   "summary": "DWER confirms Chevron’s deliberate methane venting at Gorgon    Inspenet",
+   "publisher": "Inspenet",
+   "published": "2026-11-26T13:51:29Z",
+   "source_id": "gn-ccs",
+   "language": "en",
+   "operators": [
+    "Chevron Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [
+    "FOS-004",
+    "FOS-015"
+   ],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "Northland Power Inc. (TSX:NPI): Offshore Wind Infrastructure and Diversified Power Generation Offer Long-Term Growth Opportunities",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSDltbTJQRmh5a0NjTGRCQXExWnVEOVlzSHNtSlZvVjhGXzAwOWRoQi1yUTg0NVBIbzdjX3doUDFia3pTMzhMbXJITWxzYlk2NGpSaXlFX3c3Y1FJdVNtSTVJNUhHcDJ2dWJ4MGdwWGlzS1hmbzBGQ0E1VGZ0TV9ySFBvZmxwUXZkaGpkNVZhdExaVEQ2QnhNY3QydjZSSWl4aWhVc3NVZTJ1bzhubG9HY09KUWJtekxYcms3RW1Sb1dVaTBUNW1rWXNDMUpTS2VFMDdxTGZNTXNIT0psNHUyd29aVXpJM0pWZVJpOE1LUzI?oc=5",
+   "summary": "Northland Power Inc. (TSX:NPI): Offshore Wind Infrastructure and Diversified Power Generation Offer Long-Term Growth Opportunities    kalkine.ca",
+   "publisher": "kalkine.ca",
+   "published": "2026-11-26T13:42:00Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "Australia Set to Pass Gas Reserve Law in Upset to LNG Exporters",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZEJrOFhEa2dEcHVteUstM0MxeUZtMXBBVFA4ZUtKWXk1QW8zRzRYT1RXYmZPUUR6aGxPXzdpLW9aSzVBMHYxNWJjN0ZHYzJ6LVhoNXJXRk84VXFFSmVPcjRXZS1yeVRBcUFVcktlb3N3Tlc0MUVnU0h5UGNjQnRWeFV2djJtbG9NcXd3c0V2RVFfdVg1a3VKb3RFOHIxOEVFSmN6d0RsREFibGt6Ym9TemlxT2t6akJfT1IwWWM2OVcwNkpfa2FzWnU2SVJwd0E?oc=5",
+   "summary": "Australia Set to Pass Gas Reserve Law in Upset to LNG Exporters    Bloomberg",
+   "publisher": "Bloomberg",
+   "published": "2026-11-26T13:31:00Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "Australia postpones vote on LNG gas reserve bill",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWeVNpMWJWc0hNVE1hbjlvVWxTVlRGdHBIdDNoMC10Mk5UcHdPbFJoQ3V5SGM0RkdhNGFDVlRHSVNBejFaa0dvZHYyZ2xkZERod1otMTRWOUU1SXp1RENLdjJ0cGpJYzFpVk53?oc=5",
+   "summary": "Australia postpones vote on LNG gas reserve bill    Inspenet",
+   "publisher": "Inspenet",
+   "published": "2026-11-26T13:02:35Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "Doosan Enerbility secures insurance coverage for Yawol offshore wind project",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeUNQSjdORUJrUDd4UnFmMmp2aTBkV2pCVmhWVnFSNXhydEFvYjUzTVpqY3B0ZGtfRTZjck11azVtSzdXcTFMa0RqMHZkREp0V0xiTnZIdVQ3bzc5ZFJtYlcyQW5OYW5IWE50T05KT3d0cDlNY2NDN3ZOYW1weUsycFEyMm5ZSXpCUVlnbl81bU1QS0ZvTGhOaWU3elVQNEVGMW1JTE94ZXE3X1l2OWpJNW9WNUk1WjZBd0w5MENhNTFuSUVPN01Bb3JnRTE5Ri0yVVVoRQ?oc=5",
+   "summary": "Doosan Enerbility secures insurance coverage for Yawol offshore wind project    Windtech International",
+   "publisher": "Windtech International",
+   "published": "2026-11-26T12:44:42Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "Invest in Latvia publishes tender for Elwind offshore wind farm geotechnical investigation",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMG9pZnU0NHRaaXRvd0k5TEtUcHg4UGtjUG5qWnFUd3hySHUyNkJXVzB2eFJPQ09lbUp3ODFaclQ3NXZLMkxpVXVua2x3cDlDZ2lFRlhJMkpTM1VLRUxsYWxDeHlITmx3aURFM0Y2R3h1SVhhZGc1UUtZeUlneWRBZndtRlVpLW12ak9ISjdZcVdsV200R1RhYU1MTE9MT1ZfSngwdjhvd2hIbFVnTXo3MXd3TklEOEtSVWdWVjhMVW94THFkZDB1LUhkOF9zUkhqZEViZF90LVhVd0VCQWpyVzJR?oc=5",
+   "summary": "Invest in Latvia publishes tender for Elwind offshore wind farm geotechnical investigation    Windtech International",
+   "publisher": "Windtech International",
+   "published": "2026-11-26T12:34:04Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "Gas reservation is here (almost)",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Ca29IZno5QVhNak1RaHJsM0hyMVE0d2dVc0QyTE5NaTFVczVkd1lRbEhHWUpYTng5Ql80REZUZlZlZUxoSDdMejk3U0JDYV9qRk55T0Q2ZGstTnd5OFJybFJ6STBKdm1rSGxCeFBQZjVUQ1JhVnlLeTI2TGc?oc=5",
+   "summary": "Gas reservation is here (almost)    MacroBusiness",
+   "publisher": "MacroBusiness",
+   "published": "2026-11-26T11:30:16Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "LS Cable & System将为纽约电网项目供应海底电缆",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQVEyRmt5MENCR2s1ZjZzTjlFNlFGVko2Nm8wVHAtQlp5dEpDVXdGazc4WXA0Tl9PVHFTQkZ4bGR3b1ZZb0gzaUJMZzQ5dGQ5Q09fU3Z1bWxpcy1SdFlFQjhlYjJkSG5pZUwtN3BQWXRqaDRsdkxwVDNmV3JxSXZQcUwtV0xZQlo4SmVOTmtINTd6dVlMMEFiOWdwR3hLc043WlE?oc=5",
+   "summary": "LS Cable & System将为纽约电网项目供应海底电缆    Moomoo",
+   "publisher": "Moomoo",
+   "published": "2026-11-26T11:20:42Z",
+   "source_id": "gn-zh-other",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Subsea cables & interconnectors"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "Chevron Gorgon LNG Methane Plumes Linked to Venting During CCS Constraints - News and Statistics",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNlNKS0ZNNzZIQ3VxTXpNTExTdldGdTk0d1pSb181ZTIxVDU1d2RKSXdySllESFlEVXlDaWhhakcxRzVXOGF2MFc3cnljRUpKMXpzUDlmRFdXSjYyOWFkTFZWd205Q29hRDQ0MWhGV3Vueld0dFdIdDJFUzVDU1ZjUkJ0MWRxcEwzYjU1SjVHcGFnRW0yT2dSc3Vkbm5hNmg0QjFQOGhoN2U1UDdVeXpxMC1xTUtNNlo4NUswWFV1Qjk5V2NWMWVsMnBOVQ?oc=5",
+   "summary": "Chevron Gorgon LNG Methane Plumes Linked to Venting During CCS Constraints - News and Statistics    IndexBox",
+   "publisher": "IndexBox",
+   "published": "2026-11-26T10:30:37Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Chevron Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil",
+    "other"
+   ],
+   "subcategories": [
+    "LNG",
+    "CCS & gas storage"
+   ],
+   "projects": [
+    "FOS-004",
+    "FOS-015"
+   ],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "雪佛龙Gorgon LNG甲烷羽流被指与CCS受限期间的有意排放有关 - 新闻和统计",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbTlZemVseWtxNFNhUFVjeXg1aGNsbzVqVWFJbWRvanlpYVZQNy1BUUczS1NWZGhjaFNwQm1iUmxqbDZkLWxxeFBHMHNXUmhFR1ljUmpvdDJlQXRHZG5zQy1IOVp4WmVIT3N5cTNhVVJfMlA3cG15Q0M3LVBMaXg0UF9rVEp5ZmdHWXR4Uk1Qak83UkYtdkxLMnIxZDcxVGp3RG00M014X3RNbTIwbEQ4RnNKa3ZORzdpU2M3ZzFoRFpTblBGRkhXSmhUODNKWFdQVUw0ZjhR?oc=5",
+   "summary": "雪佛龙Gorgon LNG甲烷羽流被指与CCS受限期间的有意排放有关 - 新闻和统计    IndexBox",
+   "publisher": "IndexBox",
+   "published": "2026-11-26T10:30:37Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil",
+    "other"
+   ],
+   "subcategories": [
+    "LNG",
+    "CCS & gas storage"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "Azerbaijan, Chinese companies discuss offshore wind energy projects [PHOTOS]",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9FOGJiX2hnTWUxclZfZG1yNm12OHFZT3hfZTJCbnVrN251UGplbDVPU3pzUWZGYnJfOVpjYUZYb3k3ZmE1aEluTF9hbFRkcVZZc1Jldw?oc=5",
+   "summary": "Azerbaijan, Chinese companies discuss offshore wind energy projects [PHOTOS]    AzerNews",
+   "publisher": "AzerNews",
+   "published": "2026-11-26T10:27:00Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "Coalition to team up with Labor to pass 20% gas reservation scheme for Australia’s largest exporters",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TVjlWLVdMV2ljYWxhZ0ZldDM4OUdOVnNDbTVRU0I1U0p1Mk1BdlBTMEpVek4xQnVvd0oydlN3SnUycTVzVTVvYXZnRk5xUUl3SEJYU0pQZFE4Y1c2eWJndndIZU1WdGptU3NEZ3YyV0ZfMk5mT18zQ2NiTXNTQlk?oc=5",
+   "summary": "Coalition to team up with Labor to pass 20% gas reservation scheme for Australia’s largest exporters    AOL.co.uk",
+   "publisher": "AOL.co.uk",
+   "published": "2026-11-26T10:23:29Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "Australia LNG Domestic Reservation Bill Set to Pass Senate - News and Statistics",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR0xoZlFfaVh2S0ZndmI3UlJ4V3JxQkVrTjNwM3ZnVlkwOGwzekJidG93d1drVGFfRnFkZ1NvbzUwMUFpWUJuYlJvLUkwQUFidTgwVU9nbnhjcXVfTThUZFF4UW9NSjJ1ZUFXaWZFaUxSS1dIcy16bndGNlVYY1ZqU01IOF9jaGhBZklZZWViSjJjUWR1SGR3Z3VYSlpqTjRNRFRVRllhMzl5c0ltYlNOVTVvTnJxNHM?oc=5",
+   "summary": "Australia LNG Domestic Reservation Bill Set to Pass Senate - News and Statistics    IndexBox",
+   "publisher": "IndexBox",
+   "published": "2026-11-26T10:20:32Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "澳大利亚液化天然气国内保留法案即将通过参议院 - 新闻和统计",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdjAyS3dVd1c2bG9zaVJMaEc5V3AzblYzRXJhcGhTbUhYMmVJX18tUTRYdkdzRlNSVzliellWaW83eUJjdTN2RVQyUTA3UHVIRld3ZmhMR2owbmE3UlRjanhkajZVUnBibFZXYng3SXRKeFhuVTNOMUZFcmEtblhXTVMzbkJYTUh1Rno1bmcyanNad2dRSHFmdlE2dFJhUXlTd3BWeWJBWE5ra3pSYnVmTTRwckRfM0hlQlVpU3dObUMxdw?oc=5",
+   "summary": "澳大利亚液化天然气国内保留法案即将通过参议院 - 新闻和统计    IndexBox",
+   "publisher": "IndexBox",
+   "published": "2026-11-26T10:20:32Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "Azerbaijan, Chinese companies discuss progress of solar and offshore wind projects (PHOTO)",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBXNmtmVnB3emRORFhZcTd6aGd5dHRYaTVmX3llQTdwNGx0WVRiWHFrY0lCdU1KejJ6b3dXOXFreHpuNXNFM1pzTzUzZUhTY2lEZ3lsVHEyZw?oc=5",
+   "summary": "Azerbaijan, Chinese companies discuss progress of solar and offshore wind projects (PHOTO)    Trend News Agency",
+   "publisher": "Trend News Agency",
+   "published": "2026-11-26T10:16:58Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "Taiwan’s ITRI, UK’s ORE Catapult Extend Offshore Wind Partnership",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNalAxNjV3a2dIT2owbHJ1R3ZRSVRscEFwYW5jdU9jdDA2cS1zbG9SbEcyeW1SaDRuX3dvNW5zVTNhb3pjbnAyXzI5blRHMHdKVGZ6ZGQwU2tqZTJHRzFJVDJTNVJuOEYwajZXQ19Ld0wtZGtVZ2JpWFUta3pibmFfQ2FtU2hLbzJWd0tLTkV1TmZvUS1nR1kyb3FPTENNRTJabkxNMg?oc=5",
+   "summary": "Taiwan’s ITRI, UK’s ORE Catapult Extend Offshore Wind Partnership    Offshore Wind",
+   "publisher": "Offshore Wind",
+   "published": "2026-11-26T09:33:50Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "Coalition teams up with Labor to pass 20% gas reservation scheme for Australia’s largest exporters",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMm1udUdfNGJrLUlTT2l4bVFJdWcxRG9fZzJrdTB1dkVpQzMzakxxZDBHSjVBcm9UUzdxeTJOcFdwVHZnTklsYUJ4YlR6T2xPZVA4bktCTXFoUVh2MFFXU29SRkRjcmxGQnZCT0t0TGJGR2ZObXJFNlN3dGhaSVAyNjNqZmNwVlpxWElkcVRVVjM5TDF4LWtySGJ3dk5PRzV6OG9lUXUyd3VaYl82NEdXZ3VXcGMweDkxd1lSRXJ4UlA1azZ0MXViWXFrNS1heWlfNlNTbVN2TjNLMzZUQUlDYnZNRDl3eGc0?oc=5",
+   "summary": "Coalition teams up with Labor to pass 20% gas reservation scheme for Australia’s largest exporters    The Guardian",
+   "publisher": "The Guardian",
+   "published": "2026-11-26T09:33:00Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "Viettel-Singtel Consortium Begins Vietnam-Singapore Subsea Cable",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdDAtejJnSThyemJhSHJoOWkyMHBLbmlGd2pPeEdMSkJJZWxKMExtMDM1NzBMdVp4SG9nRk83TGtMMFA4amxkWVJvaGt2VVZQbUNBMWZKeWxQNTg0TnBXdjVXUnVia2tmSXFLbS1jN0Y1R1ZDVEFCQ0RULThsbkVZRDFlWXJDLTJEQk1rTWgtMGo?oc=5",
+   "summary": "Viettel-Singtel Consortium Begins Vietnam-Singapore Subsea Cable    Wisevoter",
+   "publisher": "Wisevoter",
+   "published": "2026-11-26T09:32:50Z",
+   "source_id": "gn-cable",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Subsea cables & interconnectors"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "Senate Passes Domestic Gas Reservation Law",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSkNYM0VhUl9heklwb1pLdk1wWWJNTGdocVVMWlFDemxvZFpHN0czZHNXOGlFLW5CcUJ2WjRLZngwVGc0cEJtSXZYa0NVNXo3MmY4a0h2UGEyNlZOQ3ZJcUZWMmNTM1JjUHFYcWZ2RFVuRE95WUZuYVRUX1NuMm5qUzk1QnZidzhVVUU4MEE2WlY?oc=5",
+   "summary": "Senate Passes Domestic Gas Reservation Law    Wisevoter",
+   "publisher": "Wisevoter",
+   "published": "2026-11-26T09:13:37Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "Australia delays final vote on gas reservation law for LNG exporters to February",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRmhsNHBEM21hVHB5S1QyRFRqRm4xVVVxOUhOTmFiU0NFeWxpUzdWcnRzYTFUOF81b2w0VVd5SGlQMUItbVRmbTdmNmVpVHN1QUZMUzZkYTBEc3B0cFhUdzRGYXVETXZpUG5oMThVU2RuRG5NWEh5T3VqdzRvVnNUbkpLUWplSVF5QUNjazNueTI?oc=5",
+   "summary": "Australia delays final vote on gas reservation law for LNG exporters to February    The Japan Times",
+   "publisher": "The Japan Times",
+   "published": "2026-11-26T08:49:00Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG",
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "Dom gas reservation scheme finally has its day in the upper house",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVzU3cWJwc3pMV2FIYzZ2SHlyRE9oQXZBZFFPWk5BXzRQX29fVGh6UktVcU80MjNHNkRLUkh2cnJNdzN1N2JNcld6SVN4QU5ZQlBEenB6b00xLS1QeGUxMzRyUFVfVktVTFpFd2JWaXEwTUFmU2xDZFVZUzhHWVhnbmJZbmZiUTlRWEFadmhKcmE5XzdIY0lSOHdlYkNxTFB4VVdVMW9SR1IyaVlDTnk3TlZVLVA?oc=5",
+   "summary": "Dom gas reservation scheme finally has its day in the upper house    Energy News Bulletin",
+   "publisher": "Energy News Bulletin",
+   "published": "2026-11-26T08:45:27Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "WA Ties Gorgon’s August Emissions Event to CO2 Venting Amid CCS Constraints",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMFo4a1UzTDJwZnhHNXpQdGJrbWRMS3JXVzhSekxLNGZjUkIyWlh2cjBYRTBMbG1mT1VFUmgyMTJVTnRERmR0U3BIdHRXYlM1WVdzMGc2OTJHbVJYQ3l4alF4NE9XWXZoVXF5cm54YnJPcDJna01fMWtGM1ZFejJLenZ1UHA1ZTdFb2xRVE5vQTRwT01mMS12eWtLWmlXaDBlZ1QtVnl3Y0FfdC1QdTVaZ2ZlOUhmVVJhMDlPcTFoQ2txMHgxMnByeUgyRllUZw?oc=5",
+   "summary": "WA Ties Gorgon’s August Emissions Event to CO2 Venting Amid CCS Constraints    https://streamlinefeed.co.ke/",
+   "publisher": "https://streamlinefeed.co.ke/",
+   "published": "2026-11-26T08:07:14Z",
+   "source_id": "gn-ccs",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil",
+    "other"
+   ],
+   "subcategories": [
+    "LNG",
+    "CCS & gas storage"
+   ],
+   "projects": [
+    "FOS-004",
+    "FOS-015"
+   ],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "Chevron under fire as Gorgon methane emissions linked to deliberate venting",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUk45MHhQSmJ6d1Vudmo3WFFKWVlDRE1fUnZPbDc5ZEliZS1rWTMyQVVhOWM1aVpIM25wcFU1RE81QzhMRjFUdEZVV3RQYUpMeTlNS3d4cmdfWjJqTlVQRFB0ZUZUQXY3SjhJY3RfTXFDdmNHT3JqTzJsZF9JQkZVajB3eWNFVEhCUkhzdGRFTFdlR2VKYXVBMkRIZGs0ZE0?oc=5",
+   "summary": "Chevron under fire as Gorgon methane emissions linked to deliberate venting    Splash247",
+   "publisher": "Splash247",
+   "published": "2026-11-26T07:41:31Z",
+   "source_id": "gn-ccs",
+   "language": "en",
+   "operators": [
+    "Chevron Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [
+    "FOS-004",
+    "FOS-015"
+   ],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "Eco Wave Power explores up to 100 MW of wave energy in Africa",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONndvU0VpZkVJbTRNVG54VXhkRHZ1dElYRVh1dzZzUjRDa3BvSV92cnJWWW9PTnRwU0xhLXBkc05TbjVKVTljZEJkWTA2azV6c1dpT3hkVFZlR0dPQ0dxMmt4NU0xYUJ2dm8xc0xCYWpJS0hJZy1qTWdhelFKM1N5ZjVuV01yYWJLREFHd0lLRi0?oc=5",
+   "summary": "Eco Wave Power explores up to 100 MW of wave energy in Africa    energynews.pro",
+   "publisher": "energynews.pro",
+   "published": "2026-11-26T07:33:36Z",
+   "source_id": "gn-wave",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Wave & tidal"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "Industrial Technology Research Institute Renews OREC Pact Through 2031, Aims to Lead Asia-Pacific Push into Floating Offshore Wind and AI-Powered O&M",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jMnkzVTI1SFdFUG9XRlNpeUdEMHItNnJzLWFMR0NoZFgxLTdKWjlFWTlPVXctOUpCR1E4cUNpNkdUY1RpWHVmVGc0WFJXdl9JdDFnUy1JVnlGY1gyWEd0a2NlSUYwcnZBb1M5eXNmdWhNcmJoVnc?oc=5",
+   "summary": "Industrial Technology Research Institute Renews OREC Pact Through 2031, Aims to Lead Asia-Pacific Push into Floating Offshore Wind and AI-Powered O&M    BigGo Finance",
+   "publisher": "BigGo Finance",
+   "published": "2026-11-26T07:15:00Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "Australia gas reservation bill set to pass with Coalition support",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb2kzQkJTZHUzNEdMN0gyVi1BbVVoUDNxYS14SDFqTVdVRjJtWEdJNE5iYy1lX3hsdWl4dFRPQWtHQ2FocGxGSjVCbnpPUW05azNvQXZlR3dYdzJMM0VOaHhrVnFMM2VjNjZOUndqZEdiRUpGVlNQbTJEWEhrLUlwellQYms0bEhUYkZDcjI1OG1BQ095eDNJZGk4VQ?oc=5",
+   "summary": "Australia gas reservation bill set to pass with Coalition support    Traders Union",
+   "publisher": "Traders Union",
+   "published": "2026-11-26T06:54:23Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "Gas reservation scheme set to pass parliament in bid to rein in energy costs",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVFJOYkxDVm1OU1h0T3NIYW9PU25GaWF4ajRfZkMyMGFoWUxVVUdBQlNDTjZ3cjZycmtVTW1zdVJJS2E2WUdhZ3RxNGhUWXFxZm1LeXhNb1RZNURtejRlR3ExZFBWQVJhaGlueHp3elNpY2tHWml6QVpBRUNqNW5ndHJvYzZkUXdqOU5NeENtbWw?oc=5",
+   "summary": "Gas reservation scheme set to pass parliament in bid to rein in energy costs    cedarnews.net",
+   "publisher": "cedarnews.net",
+   "published": "2026-11-26T06:42:37Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "Gas reservation scheme passes parliament in bid to rein in energy costs - ABC News & Headlines – Australian Broadcasting Corporation",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONF91c2lsMDhlaXNlVzFJTHpnOXpTemxNTkNoUVpCdWN0Y2NXeDJla1ZGb1YwS3h3Uy1SVlN1QmNhUi1RdnNHZi13QS1fOTdwdjNIc19JRzJ2a2JvM0R4Mm5iQTRoaHd3TmhwVk85Q2VlWFhUVjkxaW5JNnpYbG05RTJFZnF0MTVlSGpYRzFaTTdUbU5PMVd6V0pn?oc=5",
+   "summary": "Gas reservation scheme passes parliament in bid to rein in energy costs    ABC News & Headlines – Australian Broadcasting Corporation",
+   "publisher": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "published": "2026-11-26T06:38:50Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "Coalition Backs Labor Gas Reservation Scheme",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRFpfMU50aFhYaDZMTktQRnJ1Y0tXYU9wcGFNWlloX0J2bThOWkxYNW5MdDBwcG9JNWZXOGpWWDEyU2Ezc0xuMndTbVBjSk44MHFPbjh0TlhzQ2pXaXZzX3QyclNSSWNLWlpaTTNmTzk4Tmk1VjBEMVRkT0VLbDMtZHlVTkloVE9adngya1ZGTQ?oc=5",
+   "summary": "Coalition Backs Labor Gas Reservation Scheme    Wisevoter",
+   "publisher": "Wisevoter",
+   "published": "2026-11-26T06:16:50Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "Labor’s gas reservation scheme gives government too much power, warns expert",
+   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQemxudEFGU29rV2tPQmNWTHFnZVlscW8teDgyU1RQUXpoMTQ0d081cGZOV3ZVNDZFOHExLWVsYzQtT1lJeEdWa2JsZXR4Xy1udElJcXpIY2JmMGNFdlBqcDg2TlFkY2JYV2kwSXhBaWRNejBwMGIxdDNwREluQ0pkeDJXY2lvd25LU2I0a01aWjhiY1Y4LTA3YVpHQzgtc1VhSm4yaEVpREZkaVdkaVhYbUR2bGpZM0UxazlQUWxKYUQzRnVIMVN6X1lGZVdRYVpyYzFPTUpEd1RTdnpYS1N6UktQemY5VTlGR1ZfbEJmYkJOME1FSVQya0xqSHhqVXp0VWJnM3ZsUGJRZ1JO0gGSAkFVX3lxTE5JWWhmR21tTlVwSkc3MDkwa3J5RUk3R0l0RnZFeGpKbHpkZUpJVzVsQXgwem0yWXU5OXc3QVJIc2RTZ2ZJanpfU010SWpEcndkVTVwYWVoQ3c3UTNTR3dWNnA4Mk1mSjR5VzM1U3B5ODdhV0FpYUZBY3hhVVJXOWI3QXVPTGgwYU1oVGRvaWdLcnUwM3F4TmxUOVV6dUNUOW9aOGdWbkxGcEZENW5WVU02bnEyR3dyRlhUdk1zWFZZWC14WXpvUzB0M1Rxd3V6S0F5bWJGa1pha0F4SmxxSHpTbmJicHhsdEw2X3pBZW4zUFZqZDJMU1YxMHp3UW9vTVF0Und2dlhVVUlCV00xR1I5TEE?oc=5",
+   "summary": "Labor’s gas reservation scheme gives government too much power, warns expert    News24",
+   "publisher": "News24",
+   "published": "2026-11-26T06:09:04Z",
+   "source_id": "gn-gas-policy",
+   "language": "en",
+   "operators": [
+    "Australian Government (DISR)"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Domestic gas"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "Inquiry ordered into WA child protection after claims of ignored warnings before Port Hedland child murders",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNY1lVOUdqei1ZcTEtV2g4cEU0NmdLMkg4LXAzTnhfcWFTdk40U0VFSC1QXzBjakRfVXpLVHRLS3hnWjN5Njk1VXRxWFk2VGlrNVVjY0F6cElzUm5tUFRhTlU2bHJiWFd2RTBEWHJ5TnUyQzNuWnR3dVFhRU9GZGFTMG0wZjVyaDBoenpWU2J3enU4bzUtYUY5LTR4SGlNY2Y4TEZZckpRMEZJU1hDTlhoelFLaV9YY2pUelc3VXI3M3JXd0hEMzBQRjRRSzVpNU5qaXhjajRtZS12WVR3YXpyUFRTOA?oc=5",
+   "summary": "Inquiry ordered into WA child protection after claims of ignored warnings before Port Hedland child murders    The West Australian",
+   "publisher": "The West Australian",
+   "published": "2026-11-26T04:01:00Z",
+   "source_id": "gn-ports",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "WA"
+   ],
+   "categories": [
+    "other"
+   ],
+   "subcategories": [
+    "Ports & LNG terminals"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "58岁男子进海鲜店应聘厨师，徒手捞起一只6斤帝王蟹转身就跑，被抓时已吃完",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CYkV5c0FnLTV3WWhfak53OTlpblFSanl0dUZzNVk5ZnVlTDdZM3JaT0ZlY3hxbV9pOUpyM2pkSVBfY2pNNDY5d2RsVEUyeXp4NS03X1U3T1E0Zw?oc=5",
+   "summary": "58岁男子进海鲜店应聘厨师，徒手捞起一只6斤帝王蟹转身就跑，被抓时已吃完    上观新闻",
+   "publisher": "上观新闻",
+   "published": "2026-11-26T03:36:00Z",
+   "source_id": "gn-zh-fish",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
   {
    "title": "Australia-Singapore pact positions nation as regional carbon storage hub",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOWZoREVlekxsd3VmVGJ6V0V5aE5DbHhxX0NTSWNGOEVFVUptQkN2U3BjbHlNU0VNb1ZwSXctbXBaa3NmOTJMeUtKbHRSVmVlWTBiSlUzR01qUGxQU1Z6bjBGbWxreVNPVUlYRmZvenNMcVM3WWxqaG50SUdjanhMYk9Sc1Rnd1JLRU1xX1NWUVV4OUJhcmwzTTFSaDdZdTA0MWZVZWI0RU9TWFdTdmZJT19KaGhTcU5yZ3pvOQ?oc=5",
@@ -104,6 +1189,25 @@
     "OTH-036"
    ],
    "first_seen": "2026-11-26T03:28:07Z"
+  },
+  {
+   "title": "澳大利亚拟要求液化天然气生产商将最多五分之一的产量留作国内使用",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYlJNNG5vLUNYeWRKTTA5cHMxZl82c2djd0tCS3ZVQTZXM1d1TXRSTm9ZdzhVTjJ6SjBmRExJUjQ0aU9sT3dUaGk4RGJPdms4VFdNeVhaSE5fV2prcmdxODlqSHJZZzd3Q29KMjdqVDFUMDJxWjNwekdrY0hHNGFFUkJyMllJeFVlNVZ4eng1el9pZ2pnaVhlbG5aSXA?oc=5",
+   "summary": "澳大利亚拟要求液化天然气生产商将最多五分之一的产量留作国内使用    Mezha.net",
+   "publisher": "Mezha.net",
+   "published": "2026-11-26T02:58:00Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
   },
   {
    "title": "Floating offshore wind builds momentum as the industry eyes commercial growth",
@@ -182,6 +1286,51 @@
    ],
    "projects": [],
    "first_seen": "2026-11-26T03:28:07Z"
+  },
+  {
+   "title": "Grim discovery after search for missing man in coastal town",
+   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPbGhOeXRab3hoc0V2SXVCc1VmNWl2aWtmOHAyQUpLbThkbGRmZG9WOG9UeXFDaURGRWhyWmhxN19TbS1hTlpTNlRKd0lBWUlwMnZFZXEydGhqNjlBaWlZdVFjbExiNGp4Q3EzMUNwVEJsQmJXT3dBbnFiYi1NY2RTc2tmU1dXU2hwQUg1WkI0Rko2SUJvWXpwZmVkU1ExRXBVM0VtV0FUdFVLZlJVbkVQMXRyUXFLMEYzRUdJQWE4dDJCRmFNbFBJQ09XazVhcjBtUEJqbWNubVdkellvZ3JBZjd4YmN5XzFnME55enZocFJxT0JpcXJSdHNFclBXNEk4Z3ozUG1xaWI2Znp1?oc=5",
+   "summary": "Grim discovery after search for missing man in coastal town    Adelaide Now",
+   "publisher": "Adelaide Now",
+   "published": "2026-11-26T00:34:12Z",
+   "source_id": "gn-fish",
+   "language": "en",
+   "operators": [],
+   "states": [
+    "SA"
+   ],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Exploration & appraisal"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
+   "title": "Chevron slammed by UN over Gorgon emissions",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOE43MGFXX05GaEpsSDhHa25ZZmxueWVtTlcwaW9XbVU1eVpBZWNQTTV5WkpRc1BtQi1RRHJlVV9Ld25fRGMtWVpSaEJMQTgtNEFUZUlJeEgtcmctUDhnYTJCTHpZbjBjX1dhbldIZjN6NzJ0c2o1NTFGb3N5dnlTLXFkR1NyLVVSUU5jU0xSQVprbm90TmluOURmcmo2MjA?oc=5",
+   "summary": "Chevron slammed by UN over Gorgon emissions    Upstream Online",
+   "publisher": "Upstream Online",
+   "published": "2026-11-26T00:14:06Z",
+   "source_id": "gn-lng",
+   "language": "en",
+   "operators": [
+    "Chevron Australia"
+   ],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [
+    "FOS-004",
+    "FOS-015"
+   ],
+   "first_seen": "2026-11-27T03:34:48Z"
   },
   {
    "title": "Membrane Coagulants Market To 2035: Water Reuse Mandates and Desalination Pretreatment Support Forward Growth - News and Statistics",
@@ -429,6 +1578,25 @@
    "first_seen": "2026-11-26T03:28:07Z"
   },
   {
+   "title": "SmartestEnergy signs long-term power agreements for Norfolk offshore wind projects",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOLW1CanZGSUZZTkJuQzBtMFdPcExxR3RwamdLTG5fWVA0Ri1YZmNJNlR0bmtvN2tEYUo2Szk1b0lZTS16SVFPRVBMVjlUUEx3NjJPbHFaOFlmbzVIREhUUm1EaHlFdVQ2TWlJc185NTZmcm8xQWpwMVZBNzVDMmtmMExIa082bVpzbTloMmxSbDBVel9tXzROS3FuSFMwUU9kOTgwMWY5U0Y2djlVSUxLUVk3WHNBTlZ1YnJ1ZnBZZ18xV3RhTVNPR0E1MXlpOW5hWTNQLVdMcEl0djNQ?oc=5",
+   "summary": "SmartestEnergy signs long-term power agreements for Norfolk offshore wind projects    Windtech International",
+   "publisher": "Windtech International",
+   "published": "2026-11-25T09:54:53Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
    "title": "Giant Australian oil and gas project released massive methane cloud due to faulty CCS system",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPR1RMTnRfZkpCUmYzdVlJLXhHRWhFTndHdkRVT1dmbG5jc2lyamR0R043THpUOFoxdjB4dEE5TGRCdndxZlhESHdPQ3JIZEM2RlFMM0RrN1hCMkUzQ0E0a0xIcW1LNTBLWmZnd1R4cDNjZXlQdHl2TXFVd0M4bjcxb0hobDlHVDhySkhKeXlzRjhHeFkzSDBKZ2NLMWF1TDB0SVlPcm1XaXBmRGNpY0JhekhQRHp1bWRSaEF5c1F4eWx5LW11NGNWTnhR0gHPAUFVX3lxTE04RWlNb0JpM3NyOFExSjJncGI0LWR6anN5bDkzeFJVamQybWNQOVVoMlNKdG8yQUtsNE16ZnBlOE1zaVFQaFZWU3Z3dzZfNVM5ckEzUWo0T0VwcG14U18tM3hRc1FIdW1FSWtCR1ZSTVI3RjEyVG4tcl9DemUtLXAyVEo0VHZoaVNyZ2JZb3RXb1dzdHpHSjYxaWMwZzR6cnBFemZjM18wZEdxa2ZBQWRPRmotN1pnUFBtb1ZLTW5FNzBkME9LLXNnQ2Rub1VxTQ?oc=5",
    "summary": "Giant Australian oil and gas project released massive methane cloud due to faulty CCS system    Renew Economy",
@@ -446,6 +1614,25 @@
    ],
    "projects": [],
    "first_seen": "2026-11-26T03:28:07Z"
+  },
+  {
+   "title": "WA Opens 11 Exploration Areas, Adding Hydrogen and Helium Rights",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMy1IMlA4Ml9fTm5CdHloSHJGaGpBUUhzczFFcmFBT2lrQ0piY184cHZKZGZ6Q3dpbTU2VWRDVzNKRDgxdzI3ekVZMUxvMFdTeVVhWU5yWV9ROVVQaVRNZU1URWRYcFFQRGJqaGZhb0hEa3FwVXZmRi1FSkpDYzE4VkQyLVl2LVBHSVJDU1pJUmJNWEc4NXdCWnI5RjE?oc=5",
+   "summary": "WA Opens 11 Exploration Areas, Adding Hydrogen and Helium Rights    Discovery Alert",
+   "publisher": "Discovery Alert",
+   "published": "2026-11-25T08:57:42Z",
+   "source_id": "gn-ccs",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "Exploration & appraisal"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
   },
   {
    "title": "香港万怡酒店自助餐优惠｜圣诞低至6折！任食生蚝+牛扒人均$169起",
@@ -505,6 +1692,25 @@
    ],
    "projects": [],
    "first_seen": "2026-11-26T03:28:07Z"
+  },
+  {
+   "title": "Who Funds the Fight Against Salmon Farms?",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMWd3dU0zbk43LVlld0ZVQk8taG1na1cwSDFVS2FRS1E1amxFbDZNSUdKSnN1N2tmX25IODdwa1BNUENxeVd0a0VpUjhWMTl1OG9uNGE0WTBvSTNITmQwMGd4ZHBQdnZiaHVKRlBUVVFoMFgtRWRzNDVMekdUMjhCeW1hZW9NTVNpWEgwZA?oc=5",
+   "summary": "Who Funds the Fight Against Salmon Farms?    Asian Pacific Post",
+   "publisher": "Asian Pacific Post",
+   "published": "2026-11-25T06:51:30Z",
+   "source_id": "gn-aqua",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Finfish aquaculture"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
   },
   {
    "title": "Coalition to back Labor’s 20pc gas reservation",
@@ -1142,6 +2348,26 @@
    "first_seen": "2026-11-24T05:14:07Z"
   },
   {
+   "title": "MP Govt To Allot Land For Fisheries For First Time, Plans To Turn Fish Farming Into Industry",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSDNNNlNXLTZFYWVBbHJRMFRzakdtMllkZXdwREFZM2NFRXBQWXdWS1NOS2FSRmpFb2tBa3RGbEN3bWV6al9aQW9pb0U4X2dYT3pxV3NMcFBsYWhLY1hhMlFmd3pRZFRvM0RVb240WVJYUXlJQlE3R200cW5EdVh5QUl1QzVjbzRIWEJhaTB2QmxET3FBelBXVGdKQ3ZaQUxJNlRlN3BfTElVMWswLTFXM2lyQWVUN1NwQkZfRk4tX1cwNGtwc19ScEJR0gHPAUFVX3lxTE5RZlZXZFVRaFpXOFJFYWZ1aWxrMmxDWV94dFFBTElLM1VTSDFaOHlHdm9LTC1IdllvQkNsc1BOVl95Q0tLNFVTNmU2REZVcXRkTnltTFpIcS1OSW9pYTBKUGRKSFlaY3QyRTk2ZFJCV0p4dmhER2FiMkdvclR2V19oQ29lem80U3JDVXZUOVhfREk4elhOWjJWRXFnaEY3SUIwVEpMamN6VEstUzlRclNIM2VOVDZaUmdjcFJOazJGRlFtQkJ4M1JOdUlQdTl6RQ?oc=5",
+   "summary": "MP Govt To Allot Land For Fisheries For First Time, Plans To Turn Fish Farming Into Industry    Free Press Journal",
+   "publisher": "Free Press Journal",
+   "published": "2026-11-23T20:30:00Z",
+   "source_id": "gn-fish",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "agri"
+   ],
+   "subcategories": [
+    "Finfish aquaculture",
+    "Wild-catch fishery"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
+  },
+  {
    "title": "Japan backs Kawasaki Heavy's sea drone trial for offshore wind inspections",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS2pQdlBvUDlPOHQyc2ZCZUtFS1VydktfeHh1OG5jdDJmU0FJWTlZN1BGZEpIbzNkb3JvQXlXSTVOQkJjeDl4Q2Q2eldIUDcxcWpmbjdGck5qWElzXzZxdjNCV3BjQ3RXbzNoRTFwd3prODlxVF93UzFuVVZJVGRvQjczR0liMFVhZjJhUE9jZlRDZTdfYUszSXYwQUF3aXVmSURsSlRXdkdpaHNaYjFkeU9iOEs0dG9zQ1E?oc=5",
    "summary": "Japan backs Kawasaki Heavy's sea drone trial for offshore wind inspections    Nikkei Asia",
@@ -1239,6 +2465,25 @@
    ],
    "projects": [],
    "first_seen": "2026-11-24T05:14:07Z"
+  },
+  {
+   "title": "New York invests in port infrastructure and offshore wind supply chain",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOelRLWDBjdVZsVDFoYWVUQUpfQ1N4WEZxZklCR1hiTGRKejJwZTl1cWZDQjBaVFBteGU5Tm1xZ19GMTdxQXY5OXlwX2V3UnBuY0lvaEJUal9hM015NFlWTWFwczJSWlZfaUptbnZaRnNDVVZhNkpDc29wSlBxNUs3eUN0bXc3dF9lUnF5TzcxTndVMUZaOFBudEtlaXFUVTNFVXZyRGtwMWllMEVIdTAtcmtwb2xJcEJSOVpjdThFSXk?oc=5",
+   "summary": "New York invests in port infrastructure and offshore wind supply chain    Windtech International",
+   "publisher": "Windtech International",
+   "published": "2026-11-23T13:09:22Z",
+   "source_id": "gn-wind",
+   "language": "en",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "renewable"
+   ],
+   "subcategories": [
+    "Offshore wind"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
   },
   {
    "title": "Japan bets on offshore wind for energy security as costs bite - Eco-Business",
@@ -1906,6 +3151,25 @@
    "subcategories": [],
    "projects": [],
    "first_seen": "2026-11-24T05:14:07Z"
+  },
+  {
+   "title": "Dynagas LNG Partners 3Q Rev $44M >DLNG",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRE0xcUxpa0ZPNXZBMTdCa2Rhb1NjZGVzWHFDRFBVY2UteU9wTGtKRV9iQ0FFSzY0czh6OUozOXh2QWFxd3RaWEpLbUczZlY4WklMd2h6ZmxXR1ZfUjZxYlNtem9fcmsxbktOSFpTbHFuVUhmU0J4clhjMkNsNG4xSmZ5YWdyN3l6TzRYYm1HYXFTclg5amNncHlmd292dWlTSE5HSk9IdzZiVUw1c2h1TEZfRjdxZTBiVFNOOA?oc=5",
+   "summary": "Dynagas LNG Partners 3Q Rev $44M >DLNG    Moomoo",
+   "publisher": "Moomoo",
+   "published": "2026-11-20T23:53:42Z",
+   "source_id": "gn-zh-energy",
+   "language": "zh",
+   "operators": [],
+   "states": [],
+   "categories": [
+    "fossil"
+   ],
+   "subcategories": [
+    "LNG"
+   ],
+   "projects": [],
+   "first_seen": "2026-11-27T03:34:48Z"
   },
   {
    "title": "Dynagas LNG Partners 3Q EPS 46c >DLNG",
